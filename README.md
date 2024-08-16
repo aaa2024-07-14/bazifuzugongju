@@ -1,8 +1,6 @@
 # bazifuzugongju
 天干地支 排盘 八字 十神 神煞 五行 命理 算命
-本软件为一个完整的C# .NET 8工程。当前版本v96
 
-杜净隆_作品。
 三个小时学会看八字https://www.youtube.com/watch?v=Y1SfZ22-jPE&pp=ygUk5LiJ5Liq5bCP5pe25a2m5Lya55yL5YWr5a2X56ys5LiA6ZuG
 使用Lunar库实现了万年历级别的天干地支查询https://github.com/6tail/lunar-csharp
 
