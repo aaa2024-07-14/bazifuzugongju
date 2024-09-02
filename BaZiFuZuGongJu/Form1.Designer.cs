@@ -253,6 +253,7 @@
             buttoncsdz4 = new Button();
             buttoncsdz3 = new Button();
             buttoncsdz1 = new Button();
+            button1 = new Button();
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDownmonth).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDownday).BeginInit();
@@ -441,6 +442,7 @@
             radioButtonvv.TabStop = true;
             radioButtonvv.Text = "女";
             radioButtonvv.UseVisualStyleBackColor = false;
+            radioButtonvv.Click += button59_Click;
             // 
             // radioButtonll
             // 
@@ -454,6 +456,7 @@
             radioButtonll.TabIndex = 21;
             radioButtonll.Text = "男";
             radioButtonll.UseVisualStyleBackColor = false;
+            radioButtonll.Click += button59_Click;
             // 
             // dateTimePicker1
             // 
@@ -813,10 +816,10 @@
             linkLabel6.LinkColor = Color.Black;
             linkLabel6.Location = new Point(-2, 307);
             linkLabel6.Name = "linkLabel6";
-            linkLabel6.Size = new Size(78, 31);
+            linkLabel6.Size = new Size(198, 31);
             linkLabel6.TabIndex = 55;
             linkLabel6.TabStop = true;
-            linkLabel6.Text = "1-9岁";
+            linkLabel6.Text = "婴幼儿期约1-9岁";
             // 
             // linkLabencs
             // 
@@ -906,10 +909,10 @@
             linkLabel13.LinkColor = Color.Black;
             linkLabel13.Location = new Point(480, 307);
             linkLabel13.Name = "linkLabel13";
-            linkLabel13.Size = new Size(108, 31);
+            linkLabel13.Size = new Size(204, 31);
             linkLabel13.TabIndex = 62;
             linkLabel13.TabStop = true;
-            linkLabel13.Text = "19-27岁";
+            linkLabel13.Text = "青年期约19-27岁";
             // 
             // linkLabelycs
             // 
@@ -1071,10 +1074,10 @@
             linkLabel27.LinkColor = Color.Black;
             linkLabel27.Location = new Point(1444, 307);
             linkLabel27.Name = "linkLabel27";
-            linkLabel27.Size = new Size(108, 31);
+            linkLabel27.Size = new Size(228, 31);
             linkLabel27.TabIndex = 76;
             linkLabel27.TabStop = true;
-            linkLabel27.Text = "46-54岁";
+            linkLabel27.Text = "中晚年期约46-54岁";
             linkLabel27.LinkClicked += linkLabel27_LinkClicked;
             // 
             // linkLabelscs
@@ -1191,10 +1194,10 @@
             linkLabel36.LinkColor = Color.Black;
             linkLabel36.Location = new Point(-6, 982);
             linkLabel36.Name = "linkLabel36";
-            linkLabel36.Size = new Size(108, 31);
+            linkLabel36.Size = new Size(228, 31);
             linkLabel36.TabIndex = 85;
             linkLabel36.TabStop = true;
-            linkLabel36.Text = "10-18岁";
+            linkLabel36.Text = "青少年期约10-18岁";
             // 
             // linkLabel37
             // 
@@ -1204,10 +1207,10 @@
             linkLabel37.LinkColor = Color.Black;
             linkLabel37.Location = new Point(477, 982);
             linkLabel37.Name = "linkLabel37";
-            linkLabel37.Size = new Size(108, 31);
+            linkLabel37.Size = new Size(228, 31);
             linkLabel37.TabIndex = 86;
             linkLabel37.TabStop = true;
-            linkLabel37.Text = "28-36岁";
+            linkLabel37.Text = "中青年期约28-36岁";
             // 
             // linkLabel38
             // 
@@ -1308,10 +1311,10 @@
             linkLabel45.LinkColor = Color.Black;
             linkLabel45.Location = new Point(956, 982);
             linkLabel45.Name = "linkLabel45";
-            linkLabel45.Size = new Size(108, 31);
+            linkLabel45.Size = new Size(204, 31);
             linkLabel45.TabIndex = 94;
             linkLabel45.TabStop = true;
-            linkLabel45.Text = "37-45岁";
+            linkLabel45.Text = "壮年期约37-45岁";
             // 
             // linkLabel46
             // 
@@ -1503,10 +1506,10 @@
             linkLabel60.LinkColor = Color.Black;
             linkLabel60.Location = new Point(1439, 982);
             linkLabel60.Name = "linkLabel60";
-            linkLabel60.Size = new Size(116, 31);
+            linkLabel60.Size = new Size(212, 31);
             linkLabel60.TabIndex = 109;
             linkLabel60.TabStop = true;
-            linkLabel60.Text = "55岁以后";
+            linkLabel60.Text = "晚年期约55岁以后";
             // 
             // richTextBox1
             // 
@@ -2909,11 +2912,25 @@
             buttoncsdz1.Text = "支";
             buttoncsdz1.UseVisualStyleBackColor = true;
             // 
+            // button1
+            // 
+            button1.BackColor = Color.White;
+            button1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            button1.ForeColor = Color.Red;
+            button1.Location = new Point(896, -2);
+            button1.Name = "button1";
+            button1.Size = new Size(122, 39);
+            button1.TabIndex = 288;
+            button1.Text = "周易起名";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
+            // 
             // Form1
             // 
             AutoScaleMode = AutoScaleMode.None;
             BackColor = Color.DimGray;
             ClientSize = new Size(1904, 1011);
+            Controls.Add(button1);
             Controls.Add(buttoncsdz10);
             Controls.Add(buttoncsdz12);
             Controls.Add(buttoncsdz11);
@@ -3140,7 +3157,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-07-13";
+            Text = "八字排盘工具v2024-09-02";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).EndInit();
@@ -3376,5 +3393,6 @@
         private Button buttoncsdz4;
         private Button buttoncsdz3;
         private Button buttoncsdz1;
+        private Button button1;
     }
 }

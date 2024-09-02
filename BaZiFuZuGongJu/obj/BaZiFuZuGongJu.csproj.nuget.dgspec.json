@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj": {}
+    "F:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj": {}
   },
   "projects": {
-    "H:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj": {
+    "F:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj": {
       "version": "9.0.0",
       "restore": {
-        "projectUniqueName": "H:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj",
+        "projectUniqueName": "F:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj",
         "projectName": "BaZiFuZuGongJu",
-        "projectPath": "H:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj",
+        "projectPath": "F:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "H:\\File\\BaZiFuZuGongJu\\obj\\",
+        "outputPath": "F:\\File\\BaZiFuZuGongJu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.22621.31, 10.0.22621.31]"
+              "version": "[10.0.22621.34, 10.0.22621.34]"
             }
           ],
           "frameworkReferences": {
@@ -72,7 +72,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
