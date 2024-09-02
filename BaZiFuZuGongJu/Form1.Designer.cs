@@ -806,7 +806,7 @@
             linkLabel5.Size = new Size(182, 31);
             linkLabel5.TabIndex = 54;
             linkLabel5.TabStop = true;
-            linkLabel5.Text = "父亲和父系家族";
+            linkLabel5.Text = "祖先宫父系家族";
             // 
             // linkLabel6
             // 
@@ -896,10 +896,10 @@
             linkLabel12.LinkColor = Color.Green;
             linkLabel12.Location = new Point(480, 338);
             linkLabel12.Name = "linkLabel12";
-            linkLabel12.Size = new Size(326, 31);
+            linkLabel12.Size = new Size(408, 31);
             linkLabel12.TabIndex = 61;
             linkLabel12.TabStop = true;
-            linkLabel12.Text = "父亲；哥；姐；包括社会上的";
+            linkLabel12.Text = "社会宫-父亲；哥；姐；包括社会上的";
             // 
             // linkLabel13
             // 
@@ -1060,10 +1060,10 @@
             linkLabel26.LinkColor = Color.Green;
             linkLabel26.Location = new Point(1444, 338);
             linkLabel26.Name = "linkLabel26";
-            linkLabel26.Size = new Size(62, 31);
+            linkLabel26.Size = new Size(264, 31);
             linkLabel26.TabIndex = 75;
             linkLabel26.TabStop = true;
-            linkLabel26.Text = "长子";
+            linkLabel26.Text = "晚年子女宫-长子或长女";
             linkLabel26.LinkClicked += linkLabel26_LinkClicked;
             // 
             // linkLabel27
@@ -1184,7 +1184,7 @@
             linkLabel35.Size = new Size(182, 31);
             linkLabel35.TabIndex = 84;
             linkLabel35.TabStop = true;
-            linkLabel35.Text = "母亲和母系家族";
+            linkLabel35.Text = "祖先宫母系家族";
             // 
             // linkLabel36
             // 
@@ -1220,10 +1220,10 @@
             linkLabel38.LinkColor = Color.Green;
             linkLabel38.Location = new Point(477, 951);
             linkLabel38.Name = "linkLabel38";
-            linkLabel38.Size = new Size(326, 31);
+            linkLabel38.Size = new Size(408, 31);
             linkLabel38.TabIndex = 87;
             linkLabel38.TabStop = true;
-            linkLabel38.Text = "母亲；弟；妹；包括社会上的";
+            linkLabel38.Text = "社会宫-母亲；弟；妹；包括社会上的";
             // 
             // linkLabelydzss1
             // 
@@ -1324,10 +1324,10 @@
             linkLabel46.LinkColor = Color.Green;
             linkLabel46.Location = new Point(956, 951);
             linkLabel46.Name = "linkLabel46";
-            linkLabel46.Size = new Size(206, 31);
+            linkLabel46.Size = new Size(240, 31);
             linkLabel46.TabIndex = 95;
             linkLabel46.TabStop = true;
-            linkLabel46.Text = "配偶和配偶的家族";
+            linkLabel46.Text = "配偶宫-和配偶的家族";
             // 
             // linkLabelrdzss1
             // 
@@ -1480,10 +1480,10 @@
             linkLabel58.LinkColor = Color.Green;
             linkLabel58.Location = new Point(1439, 951);
             linkLabel58.Name = "linkLabel58";
-            linkLabel58.Size = new Size(62, 31);
+            linkLabel58.Size = new Size(192, 31);
             linkLabel58.TabIndex = 107;
             linkLabel58.TabStop = true;
-            linkLabel58.Text = "次子";
+            linkLabel58.Text = "终点-次子或次女";
             // 
             // linkLabel59
             // 
@@ -1506,10 +1506,10 @@
             linkLabel60.LinkColor = Color.Black;
             linkLabel60.Location = new Point(1439, 982);
             linkLabel60.Name = "linkLabel60";
-            linkLabel60.Size = new Size(212, 31);
+            linkLabel60.Size = new Size(284, 31);
             linkLabel60.TabIndex = 109;
             linkLabel60.TabStop = true;
-            linkLabel60.Text = "晚年期约55岁以后";
+            linkLabel60.Text = "晚年期约55岁以后或更晚";
             // 
             // richTextBox1
             // 
@@ -3157,7 +3157,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-09-02";
+            Text = "八字排盘工具v2024-09-02v2";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).EndInit();

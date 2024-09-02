@@ -49598,6 +49598,29 @@ namespace BaZiFuZuGongJu
                         }
                     }
 
+                    string qiangro5 = linkLabel7hff.Text;
+                    linkLabel7hff.Text = buttonrg.Text + qiangro5;
+                    if (rtg == jia || rtg == yii)
+                    {
+                        linkLabel7hff.LinkColor = Color.Green; linkLabel7hff.BackColor = Color.White;
+                    }
+                    if (rtg == bing || rtg == ding)
+                    {
+                        linkLabel7hff.LinkColor = Color.Red; linkLabel7hff.BackColor = Color.White;
+                    }
+                    if (rtg == wuu || rtg == jii)
+                    {
+                        linkLabel7hff.LinkColor = Color.Sienna; linkLabel7hff.BackColor = Color.White;
+                    }
+                    if (rtg == geng || rtg == xin)
+                    {
+                        linkLabel7hff.LinkColor = Color.Gold; linkLabel7hff.BackColor = Color.Black;
+                    }
+                    if (rtg == ren || rtg == gui)
+                    {
+                        linkLabel7hff.LinkColor = Color.DodgerBlue; linkLabel7hff.BackColor = Color.White;
+                    }
+
                 }
                 //穷通宝鉴
                 if (jia == jia)
