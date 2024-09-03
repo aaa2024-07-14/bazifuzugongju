@@ -1,6 +1,6 @@
 # bazifuzugongju
 天干地支 排盘 八字 十神 神煞 五行 命理 算命
-
+我之前的两个GITHUB号都不能登录了所以用分支更新。
 三个小时学会看八字https://www.youtube.com/watch?v=Y1SfZ22-jPE&pp=ygUk5LiJ5Liq5bCP5pe25a2m5Lya55yL5YWr5a2X56ys5LiA6ZuG
 使用Lunar库实现了万年历级别的天干地支查询https://github.com/6tail/lunar-csharp
 
