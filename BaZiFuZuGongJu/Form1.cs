@@ -14947,7 +14947,6 @@ namespace BaZiFuZuGongJu
                     buttoncsdz12.ForeColor = buttoncs12.ForeColor;
 
                 }
-
                 //十神判断
                 if (jia == jia)
                 {
@@ -50343,37 +50342,37 @@ namespace BaZiFuZuGongJu
                         {
                             if (wxhuo == 0)
                             {
-                                richTextBox1.Text += "五行缺火减-700，\r\n"; bazipingfen -= 700;
+                                richTextBox1.Text += "五行缺火减-900，\r\n"; bazipingfen -= 900;
                             }
                             else
-                                richTextBox1.Text += "五行火少减-350，\r\n"; bazipingfen -= 350;
+                                richTextBox1.Text += "五行火少减-450，\r\n"; bazipingfen -= 450;
                         }
                         if (wxtu < 1)
                         {
                             if (wxtu == 0)
                             {
-                                richTextBox1.Text += "五行缺土减-100，\r\n"; bazipingfen -= 100;
+                                richTextBox1.Text += "五行缺土减-600，\r\n"; bazipingfen -= 600;
                             }
                             else
-                                richTextBox1.Text += "五行土少减-50，\r\n"; bazipingfen -= 50;
+                                richTextBox1.Text += "五行土少减-150，\r\n"; bazipingfen -= 150;
                         }
                         if (wxjin < 1)
                         {
                             if (wxjin == 0)
                             {
-                                richTextBox1.Text += "五行缺金减-600，\r\n"; bazipingfen -= 600;
+                                richTextBox1.Text += "五行缺金减-900，\r\n"; bazipingfen -= 900;
                             }
                             else
-                                richTextBox1.Text += "五行金少减-300，\r\n"; bazipingfen -= 300;
+                                richTextBox1.Text += "五行金少减-450，\r\n"; bazipingfen -= 450;
                         }
                         if (wxshui < 1)
                         {
                             if (wxshui == 0)
                             {
-                                richTextBox1.Text += "五行缺水减-500，\r\n"; bazipingfen -= 500;
+                                richTextBox1.Text += "五行缺水减-900，\r\n"; bazipingfen -= 900;
                             }
                             else
-                                richTextBox1.Text += "五行水少减-250，\r\n"; bazipingfen -= 250;
+                                richTextBox1.Text += "五行水少减-450，\r\n"; bazipingfen -= 450;
                         }
 
                     }
@@ -53573,6 +53572,68 @@ namespace BaZiFuZuGongJu
                         if (buttoncs6.Text == jue)
                         {
                             bazipingfen -= 300; richTextBox1.Text += jue + "减-300，\r\n";
+                        }
+
+                    }
+                    //刑冲克害合合
+                    if(jia == jia)
+                    {
+                        if (nyzhechongxing == 1)
+                        {
+                            if (button13.ForeColor == Color.Red || button17.ForeColor == Color.Red)
+                            {
+                                richTextBox1.Text += "年月支吉神被刑冲合减-1200，\r\n"; bazipingfen -= 1200;
+                            }
+                            if (button13.ForeColor == Color.Red || button17.ForeColor == Color.Black)
+                            {
+                                richTextBox1.Text += "月支吉神被刑冲合减-900，\r\n"; bazipingfen -= 900;
+                            }
+                            if (button13.ForeColor == Color.Black || button17.ForeColor == Color.Red)
+                            {
+                                richTextBox1.Text += "年支吉神被刑冲合减-900，\r\n"; bazipingfen -= 900;
+                            }
+                            if (button13.ForeColor == Color.Black || button17.ForeColor == Color.Black)
+                            {
+                                richTextBox1.Text += "年月支凶神被刑冲合加+1200，\r\n"; bazipingfen += 1200;
+                            }
+                        }
+                        if (yrzhechongxing == 1)
+                        {
+                            if (button17.ForeColor == Color.Red || button19.ForeColor == Color.Red)
+                            {
+                                richTextBox1.Text += "月日支吉神被刑冲合减-1200，\r\n"; bazipingfen -= 1200;
+                            }
+                            if (button17.ForeColor == Color.Red || button19.ForeColor == Color.Black)
+                            {
+                                richTextBox1.Text += "日支吉神被刑冲合减-900，\r\n"; bazipingfen -= 900;
+                            }
+                            if (button17.ForeColor == Color.Black || button19.ForeColor == Color.Red)
+                            {
+                                richTextBox1.Text += "月支吉神被刑冲合减-900，\r\n"; bazipingfen -= 900;
+                            }
+                            if (button17.ForeColor == Color.Black || button19.ForeColor == Color.Black)
+                            {
+                                richTextBox1.Text += "月日支凶神被刑冲合加+1200，\r\n"; bazipingfen += 1200;
+                            }
+                        }
+                        if (rszhechongxing == 1)
+                        {
+                            if (button19.ForeColor == Color.Red || button22.ForeColor == Color.Red)
+                            {
+                                richTextBox1.Text += "日时支吉神被刑冲合减-1200，\r\n"; bazipingfen -= 1200;
+                            }
+                            if (button19.ForeColor == Color.Red || button22.ForeColor == Color.Black)
+                            {
+                                richTextBox1.Text += "时支吉神被刑冲合减-900，\r\n"; bazipingfen -= 900;
+                            }
+                            if (button19.ForeColor == Color.Black || button22.ForeColor == Color.Red)
+                            {
+                                richTextBox1.Text += "日支吉神被刑冲合减-900，\r\n"; bazipingfen -= 900;
+                            }
+                            if (button19.ForeColor == Color.Black || button22.ForeColor == Color.Black)
+                            {
+                                richTextBox1.Text += "日时支凶神被刑冲合加+1200，\r\n"; bazipingfen += 1200;
+                            }
                         }
 
                     }
@@ -66980,7 +67041,7 @@ namespace BaZiFuZuGongJu
         private void buttongj_Click(object sender, EventArgs e)
         {
             //自述文本
-            string 自述文本 = "学习八字预测不用死记硬背。不用担心没时间。只要懂五行生克就可以学会。\r\n\r\n新增加命局大运显示。\r\n\r\n以子时为次日的处理。天干冲的喜忌变化。同柱干支暗合.地支暗合。\r\n显示墓库运。自动识别方位和对应内脏。天干地支分阴阳五行五种颜色。\r\n自动判断,半三合.地支六冲,地支六害,地支六合,地支六破,地支三合,\r\n地支三会,地支相刑,拱合,天干冲,天干五合，拱合。流年和主命盘阴阳。\r\n半三合，地支六合,地支三合,地支三会,天干五合，拱合：五行色彩。\r\n十神：吉为红字：忌为黑字。自动判断日元强弱。十神等按钮中附注解。\r\n显示十神六亲。54个神煞显示。显示十二长生。排流年和主命盘显示强弱。\r\n天干冲的喜忌变化。十神六亲喜忌色彩与十神喜忌关联。\r\n集成了穷通宝鉴:可以显示四季五行命性。八字评分。\r\n增加四柱的五行纳音。流年副盘。四柱干支流转。 \r\n";
+            string 自述文本 = "学习八字预测不用死记硬背。不用担心没时间。只要懂五行生克就可以学会。\r\n\r\n我之前的两个GITHUB号都不能登录了所以用分支更新。\r\nhttps://github.com/aaa2024-07-14/BaZiPaiPanGongJu\r\n三个小时学会看八字https://www.youtube.com/watch?v=Y1SfZ22-jPE&pp=ygUk5LiJ5Liq5bCP5pe25a2m5Lya55yL5YWr5a2X56ys5LiA6ZuG\r\n\r\n使用Lunar库实现了万年历级别的天干地支查询https://github.com/6tail/lunar-csharp\r\n\r\n新增加命局大运显示。\r\n\r\n以子时为次日的处理。天干冲的喜忌变化。同柱干支暗合.地支暗合。\r\n显示墓库运。自动识别方位和对应内脏。天干地支分阴阳五行五种颜色。\r\n自动判断,半三合.地支六冲,地支六害,地支六合,地支六破,地支三合,\r\n地支三会,地支相刑,拱合,天干冲,天干五合，拱合。流年和主命盘阴阳。\r\n半三合，地支六合,地支三合,地支三会,天干五合，拱合：五行色彩。\r\n十神：吉为红字：忌为黑字。自动判断日元强弱。十神等按钮中附注解。\r\n显示十神六亲。54个神煞显示。显示十二长生。排流年和主命盘显示强弱。\r\n天干冲的喜忌变化。十神六亲喜忌色彩与十神喜忌关联。\r\n集成了穷通宝鉴:可以显示四季五行命性。八字评分。\r\n增加四柱的五行纳音。流年副盘。四柱干支流转。 \r\n";
             if (wenben == 1)
             {
                 button56.Focus(); button56_Click(this, new EventArgs());

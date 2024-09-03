@@ -2930,6 +2930,7 @@
             AutoScaleMode = AutoScaleMode.None;
             BackColor = Color.DimGray;
             ClientSize = new Size(1904, 1011);
+            Controls.Add(richTextBox1);
             Controls.Add(button1);
             Controls.Add(buttoncsdz10);
             Controls.Add(buttoncsdz12);
@@ -3051,7 +3052,6 @@
             Controls.Add(button10);
             Controls.Add(label1);
             Controls.Add(linkLabel7hff);
-            Controls.Add(richTextBox1);
             Controls.Add(linkLabel60);
             Controls.Add(linkLabel59);
             Controls.Add(linkLabel58);
@@ -3157,7 +3157,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-09-02v2";
+            Text = "八字排盘工具v2024-09-03";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).EndInit();
