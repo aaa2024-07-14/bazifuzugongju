@@ -3,9 +3,10 @@
 我之前的两个GITHUB号都不能登录了所以用分支更新。
 三个小时学会看八字https://www.youtube.com/watch?v=Y1SfZ22-jPE&pp=ygUk5LiJ5Liq5bCP5pe25a2m5Lya55yL5YWr5a2X56ys5LiA6ZuG
 使用Lunar库实现了万年历级别的天干地支查询https://github.com/6tail/lunar-csharp
+![Snipaste_2024-09-03_19-01-07](https://github.com/user-attachments/assets/f4b4841b-6d4c-4b6d-8480-aa424e09f0ec)
 
-![Uploading Snipaste_2024-09-03_11-19-47.png…]()
 
+此版本解决了高分辨率下的显示问题。
 学习八字预测不用死记硬背。不用担心没时间。只要懂五行生克就可以学会。
 
 新增加八字评分功能。
