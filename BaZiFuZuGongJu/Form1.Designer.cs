@@ -844,10 +844,10 @@
             // linkLabencs
             // 
             linkLabencs.AutoSize = true;
-            linkLabencs.BackColor = Color.White;
+            linkLabencs.BackColor = Color.Green;
             linkLabencs.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             linkLabencs.ForeColor = Color.Black;
-            linkLabencs.LinkColor = Color.Black;
+            linkLabencs.LinkColor = Color.White;
             linkLabencs.Location = new Point(0, 1081);
             linkLabencs.Name = "linkLabencs";
             linkLabencs.Size = new Size(92, 47);
@@ -937,10 +937,10 @@
             // linkLabelycs
             // 
             linkLabelycs.AutoSize = true;
-            linkLabelycs.BackColor = Color.White;
+            linkLabelycs.BackColor = Color.Green;
             linkLabelycs.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             linkLabelycs.ForeColor = Color.Black;
-            linkLabelycs.LinkColor = Color.Black;
+            linkLabelycs.LinkColor = Color.White;
             linkLabelycs.Location = new Point(960, 1075);
             linkLabelycs.Name = "linkLabelycs";
             linkLabelycs.Size = new Size(92, 47);
@@ -1004,10 +1004,10 @@
             // linkLabelrcs
             // 
             linkLabelrcs.AutoSize = true;
-            linkLabelrcs.BackColor = Color.White;
+            linkLabelrcs.BackColor = Color.Green;
             linkLabelrcs.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             linkLabelrcs.ForeColor = Color.Black;
-            linkLabelrcs.LinkColor = Color.Black;
+            linkLabelrcs.LinkColor = Color.White;
             linkLabelrcs.Location = new Point(1920, 1080);
             linkLabelrcs.Name = "linkLabelrcs";
             linkLabelrcs.Size = new Size(92, 47);
@@ -1103,10 +1103,10 @@
             // linkLabelscs
             // 
             linkLabelscs.AutoSize = true;
-            linkLabelscs.BackColor = Color.White;
+            linkLabelscs.BackColor = Color.Green;
             linkLabelscs.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             linkLabelscs.ForeColor = Color.Black;
-            linkLabelscs.LinkColor = Color.Black;
+            linkLabelscs.LinkColor = Color.White;
             linkLabelscs.Location = new Point(2880, 1070);
             linkLabelscs.Name = "linkLabelscs";
             linkLabelscs.Size = new Size(92, 47);
