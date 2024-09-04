@@ -5,6 +5,10 @@
 使用Lunar库实现了万年历级别的天干地支查询https://github.com/6tail/lunar-csharp
 ![Snipaste_2024-09-03_19-01-07](https://github.com/user-attachments/assets/f4b4841b-6d4c-4b6d-8480-aa424e09f0ec)
 
+八字排盘工具4K版-2024-09-04。（万年历版本1.5.11）
+
+<img width="1920" alt="Snipaste_2024-09-04_20-41-15" src="https://github.com/user-attachments/assets/769a32fe-8c27-48c6-b5bd-b518194412ff">
+
 
 此版本解决了高分辨率下的显示问题。
 学习八字预测不用死记硬背。不用担心没时间。只要懂五行生克就可以学会。
