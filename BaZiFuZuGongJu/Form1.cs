@@ -14064,579 +14064,579 @@ namespace BaZiFuZuGongJu
                     {
                         if (buttoncs1.Text == diwang)
                         {
-                            buttoncs1.ForeColor = Color.Red;
+                            buttoncs1.ForeColor = Color.Red; buttoncs1.BackColor = Color.White;
                         }
                         if (buttoncs1.Text == linguan)
                         {
-                            buttoncs1.ForeColor = Color.Red;
+                            buttoncs1.ForeColor = Color.Red; buttoncs1.BackColor = Color.White;
                         }
                         if (buttoncs1.Text == guandai)
                         {
-                            buttoncs1.ForeColor = Color.Red;
+                            buttoncs1.ForeColor = Color.Red; buttoncs1.BackColor = Color.White;
                         }
                         if (buttoncs1.Text == changsheng)
                         {
-                            buttoncs1.ForeColor = Color.Red;
+                            buttoncs1.ForeColor = Color.Green; buttoncs1.BackColor = Color.White;
                         }
                         if (buttoncs1.Text == tai)
                         {
-                            buttoncs1.ForeColor = Color.Green;
+                            buttoncs1.ForeColor = Color.DimGray; buttoncs1.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs1.Text == yang)
                         {
-                            buttoncs1.ForeColor = Color.Green;
+                            buttoncs1.ForeColor = Color.DimGray; buttoncs1.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs1.Text == muyu)
                         {
-                            buttoncs1.ForeColor = Color.Green;
+                            buttoncs1.ForeColor = Color.Green; buttoncs1.BackColor = Color.White;
                         }
                         if (buttoncs1.Text == shuai)
                         {
-                            buttoncs1.ForeColor = Color.Gray;
+                            buttoncs1.ForeColor = Color.DimGray; buttoncs1.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs1.Text == bingg)
                         {
-                            buttoncs1.ForeColor = Color.Gray;
+                            buttoncs1.ForeColor = Color.DimGray; buttoncs1.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs1.Text == ssii)
                         {
-                            buttoncs1.ForeColor = Color.Black;
+                            buttoncs1.ForeColor = Color.Black; buttoncs1.BackColor = Color.White;
                         }
                         if (buttoncs1.Text == mmuu)
                         {
-                            buttoncs1.ForeColor = Color.Black;
+                            buttoncs1.ForeColor = Color.Black; buttoncs1.BackColor = Color.White;
                         }
                         if (buttoncs1.Text == jue)
                         {
-                            buttoncs1.ForeColor = Color.Black;
+                            buttoncs1.ForeColor = Color.Black; buttoncs1.BackColor = Color.White;
                         }
                         if (buttoncs2.Text == diwang)
                         {
-                            buttoncs2.ForeColor = Color.Red;
+                            buttoncs2.ForeColor = Color.Red; buttoncs2.BackColor = Color.White;
                         }
                         if (buttoncs2.Text == linguan)
                         {
-                            buttoncs2.ForeColor = Color.Red;
+                            buttoncs2.ForeColor = Color.Red; buttoncs2.BackColor = Color.White;
                         }
                         if (buttoncs2.Text == guandai)
                         {
-                            buttoncs2.ForeColor = Color.Red;
+                            buttoncs2.ForeColor = Color.Red; buttoncs2.BackColor = Color.White;
                         }
                         if (buttoncs2.Text == changsheng)
                         {
-                            buttoncs2.ForeColor = Color.Red;
+                            buttoncs2.ForeColor = Color.Green; buttoncs2.BackColor = Color.White;
                         }
                         if (buttoncs2.Text == tai)
                         {
-                            buttoncs2.ForeColor = Color.Green;
+                            buttoncs2.ForeColor = Color.DimGray; buttoncs2.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs2.Text == yang)
                         {
-                            buttoncs2.ForeColor = Color.Green;
+                            buttoncs2.ForeColor = Color.DimGray; buttoncs2.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs2.Text == muyu)
                         {
-                            buttoncs2.ForeColor = Color.Green;
+                            buttoncs2.ForeColor = Color.Green; buttoncs2.BackColor = Color.White;
                         }
                         if (buttoncs2.Text == shuai)
                         {
-                            buttoncs2.ForeColor = Color.Gray;
+                            buttoncs2.ForeColor = Color.DimGray; buttoncs2.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs2.Text == bingg)
                         {
-                            buttoncs2.ForeColor = Color.Gray;
+                            buttoncs2.ForeColor = Color.DimGray; buttoncs2.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs2.Text == ssii)
                         {
-                            buttoncs2.ForeColor = Color.Black;
+                            buttoncs2.ForeColor = Color.Black; buttoncs2.BackColor = Color.White;
                         }
                         if (buttoncs2.Text == mmuu)
                         {
-                            buttoncs2.ForeColor = Color.Black;
+                            buttoncs2.ForeColor = Color.Black; buttoncs2.BackColor = Color.White;
                         }
                         if (buttoncs2.Text == jue)
                         {
-                            buttoncs2.ForeColor = Color.Black;
+                            buttoncs2.ForeColor = Color.Black; buttoncs2.BackColor = Color.White;
                         }
                         if (buttoncs3.Text == diwang)
                         {
-                            buttoncs3.ForeColor = Color.Red;
+                            buttoncs3.ForeColor = Color.Red; buttoncs3.BackColor = Color.White;
                         }
                         if (buttoncs3.Text == linguan)
                         {
-                            buttoncs3.ForeColor = Color.Red;
+                            buttoncs3.ForeColor = Color.Red; buttoncs3.BackColor = Color.White;
                         }
                         if (buttoncs3.Text == guandai)
                         {
-                            buttoncs3.ForeColor = Color.Red;
+                            buttoncs3.ForeColor = Color.Red; buttoncs3.BackColor = Color.White;
                         }
                         if (buttoncs3.Text == changsheng)
                         {
-                            buttoncs3.ForeColor = Color.Red;
+                            buttoncs3.ForeColor = Color.Green; buttoncs3.BackColor = Color.White;
                         }
                         if (buttoncs3.Text == tai)
                         {
-                            buttoncs3.ForeColor = Color.Green;
+                            buttoncs3.ForeColor = Color.DimGray; buttoncs3.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs3.Text == yang)
                         {
-                            buttoncs3.ForeColor = Color.Green;
+                            buttoncs3.ForeColor = Color.DimGray; buttoncs3.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs3.Text == muyu)
                         {
-                            buttoncs3.ForeColor = Color.Green;
+                            buttoncs3.ForeColor = Color.Green; buttoncs3.BackColor = Color.White;
                         }
                         if (buttoncs3.Text == shuai)
                         {
-                            buttoncs3.ForeColor = Color.Gray;
+                            buttoncs3.ForeColor = Color.DimGray; buttoncs3.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs3.Text == bingg)
                         {
-                            buttoncs3.ForeColor = Color.Gray;
+                            buttoncs3.ForeColor = Color.DimGray; buttoncs3.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs3.Text == ssii)
                         {
-                            buttoncs3.ForeColor = Color.Black;
+                            buttoncs3.ForeColor = Color.Black; buttoncs3.BackColor = Color.White;
                         }
                         if (buttoncs3.Text == mmuu)
                         {
-                            buttoncs3.ForeColor = Color.Black;
+                            buttoncs3.ForeColor = Color.Black; buttoncs3.BackColor = Color.White;
                         }
                         if (buttoncs3.Text == jue)
                         {
-                            buttoncs3.ForeColor = Color.Black;
+                            buttoncs3.ForeColor = Color.Black; buttoncs3.BackColor = Color.White;
                         }
                         if (buttoncs4.Text == diwang)
                         {
-                            buttoncs4.ForeColor = Color.Red;
+                            buttoncs4.ForeColor = Color.Red; buttoncs4.BackColor = Color.White;
                         }
                         if (buttoncs4.Text == linguan)
                         {
-                            buttoncs4.ForeColor = Color.Red;
+                            buttoncs4.ForeColor = Color.Red; buttoncs4.BackColor = Color.White;
                         }
                         if (buttoncs4.Text == guandai)
                         {
-                            buttoncs4.ForeColor = Color.Red;
+                            buttoncs4.ForeColor = Color.Red; buttoncs4.BackColor = Color.White;
                         }
                         if (buttoncs4.Text == changsheng)
                         {
-                            buttoncs4.ForeColor = Color.Red;
+                            buttoncs4.ForeColor = Color.Green; buttoncs4.BackColor = Color.White;
                         }
                         if (buttoncs4.Text == tai)
                         {
-                            buttoncs4.ForeColor = Color.Green;
+                            buttoncs4.ForeColor = Color.DimGray; buttoncs4.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs4.Text == yang)
                         {
-                            buttoncs4.ForeColor = Color.Green;
+                            buttoncs4.ForeColor = Color.DimGray; buttoncs4.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs4.Text == muyu)
                         {
-                            buttoncs4.ForeColor = Color.Green;
+                            buttoncs4.ForeColor = Color.Green; buttoncs4.BackColor = Color.White;
                         }
                         if (buttoncs4.Text == shuai)
                         {
-                            buttoncs4.ForeColor = Color.Gray;
+                            buttoncs4.ForeColor = Color.DimGray; buttoncs4.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs4.Text == bingg)
                         {
-                            buttoncs4.ForeColor = Color.Gray;
+                            buttoncs4.ForeColor = Color.DimGray; buttoncs4.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs4.Text == ssii)
                         {
-                            buttoncs4.ForeColor = Color.Black;
+                            buttoncs4.ForeColor = Color.Black; buttoncs4.BackColor = Color.White;
                         }
                         if (buttoncs4.Text == mmuu)
                         {
-                            buttoncs4.ForeColor = Color.Black;
+                            buttoncs4.ForeColor = Color.Black; buttoncs4.BackColor = Color.White;
                         }
                         if (buttoncs4.Text == jue)
                         {
-                            buttoncs4.ForeColor = Color.Black;
+                            buttoncs4.ForeColor = Color.Black; buttoncs4.BackColor = Color.White;
                         }
                         if (buttoncs5.Text == diwang)
                         {
-                            buttoncs5.ForeColor = Color.Red;
+                            buttoncs5.ForeColor = Color.Red; buttoncs5.BackColor = Color.White;
                         }
                         if (buttoncs5.Text == linguan)
                         {
-                            buttoncs5.ForeColor = Color.Red;
+                            buttoncs5.ForeColor = Color.Red; buttoncs5.BackColor = Color.White;
                         }
                         if (buttoncs5.Text == guandai)
                         {
-                            buttoncs5.ForeColor = Color.Red;
+                            buttoncs5.ForeColor = Color.Red; buttoncs5.BackColor = Color.White;
                         }
                         if (buttoncs5.Text == changsheng)
                         {
-                            buttoncs5.ForeColor = Color.Red;
+                            buttoncs5.ForeColor = Color.Green; buttoncs5.BackColor = Color.White;
                         }
                         if (buttoncs5.Text == tai)
                         {
-                            buttoncs5.ForeColor = Color.Green;
+                            buttoncs5.ForeColor = Color.DimGray; buttoncs5.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs5.Text == yang)
                         {
-                            buttoncs5.ForeColor = Color.Green;
+                            buttoncs5.ForeColor = Color.DimGray; buttoncs5.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs5.Text == muyu)
                         {
-                            buttoncs5.ForeColor = Color.Green;
+                            buttoncs5.ForeColor = Color.Green; buttoncs5.BackColor = Color.White;
                         }
                         if (buttoncs5.Text == shuai)
                         {
-                            buttoncs5.ForeColor = Color.Gray;
+                            buttoncs5.ForeColor = Color.DimGray; buttoncs5.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs5.Text == bingg)
                         {
-                            buttoncs5.ForeColor = Color.Gray;
+                            buttoncs5.ForeColor = Color.DimGray; buttoncs5.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs5.Text == ssii)
                         {
-                            buttoncs5.ForeColor = Color.Black;
+                            buttoncs5.ForeColor = Color.Black; buttoncs5.BackColor = Color.White;
                         }
                         if (buttoncs5.Text == mmuu)
                         {
-                            buttoncs5.ForeColor = Color.Black;
+                            buttoncs5.ForeColor = Color.Black; buttoncs5.BackColor = Color.White;
                         }
                         if (buttoncs5.Text == jue)
                         {
-                            buttoncs5.ForeColor = Color.Black;
+                            buttoncs5.ForeColor = Color.Black; buttoncs5.BackColor = Color.White;
                         }
                         if (buttoncs6.Text == diwang)
                         {
-                            buttoncs6.ForeColor = Color.Red;
+                            buttoncs6.ForeColor = Color.Red; buttoncs6.BackColor = Color.White;
                         }
                         if (buttoncs6.Text == linguan)
                         {
-                            buttoncs6.ForeColor = Color.Red;
+                            buttoncs6.ForeColor = Color.Red; buttoncs6.BackColor = Color.White;
                         }
                         if (buttoncs6.Text == guandai)
                         {
-                            buttoncs6.ForeColor = Color.Red;
+                            buttoncs6.ForeColor = Color.Red; buttoncs6.BackColor = Color.White;
                         }
                         if (buttoncs6.Text == changsheng)
                         {
-                            buttoncs6.ForeColor = Color.Red;
+                            buttoncs6.ForeColor = Color.Green; buttoncs6.BackColor = Color.White;
                         }
                         if (buttoncs6.Text == tai)
                         {
-                            buttoncs6.ForeColor = Color.Green;
+                            buttoncs6.ForeColor = Color.DimGray; buttoncs6.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs6.Text == yang)
                         {
-                            buttoncs6.ForeColor = Color.Green;
+                            buttoncs6.ForeColor = Color.DimGray; buttoncs6.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs6.Text == muyu)
                         {
-                            buttoncs6.ForeColor = Color.Green;
+                            buttoncs6.ForeColor = Color.Green; buttoncs6.BackColor = Color.White;
                         }
                         if (buttoncs6.Text == shuai)
                         {
-                            buttoncs6.ForeColor = Color.Gray;
+                            buttoncs6.ForeColor = Color.DimGray; buttoncs6.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs6.Text == bingg)
                         {
-                            buttoncs6.ForeColor = Color.Gray;
+                            buttoncs6.ForeColor = Color.DimGray; buttoncs6.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs6.Text == ssii)
                         {
-                            buttoncs6.ForeColor = Color.Black;
+                            buttoncs6.ForeColor = Color.Black; buttoncs6.BackColor = Color.White;
                         }
                         if (buttoncs6.Text == mmuu)
                         {
-                            buttoncs6.ForeColor = Color.Black;
+                            buttoncs6.ForeColor = Color.Black; buttoncs6.BackColor = Color.White;
                         }
                         if (buttoncs6.Text == jue)
                         {
-                            buttoncs6.ForeColor = Color.Black;
+                            buttoncs6.ForeColor = Color.Black; buttoncs6.BackColor = Color.White;
                         }
                         if (buttoncs7.Text == diwang)
                         {
-                            buttoncs7.ForeColor = Color.Red;
+                            buttoncs7.ForeColor = Color.Red; buttoncs7.BackColor = Color.White;
                         }
                         if (buttoncs7.Text == linguan)
                         {
-                            buttoncs7.ForeColor = Color.Red;
+                            buttoncs7.ForeColor = Color.Red; buttoncs7.BackColor = Color.White;
                         }
                         if (buttoncs7.Text == guandai)
                         {
-                            buttoncs7.ForeColor = Color.Red;
+                            buttoncs7.ForeColor = Color.Red; buttoncs7.BackColor = Color.White;
                         }
                         if (buttoncs7.Text == changsheng)
                         {
-                            buttoncs7.ForeColor = Color.Red;
+                            buttoncs7.ForeColor = Color.Green; buttoncs7.BackColor = Color.White;
                         }
                         if (buttoncs7.Text == tai)
                         {
-                            buttoncs7.ForeColor = Color.Green;
+                            buttoncs7.ForeColor = Color.DimGray; buttoncs7.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs7.Text == yang)
                         {
-                            buttoncs7.ForeColor = Color.Green;
+                            buttoncs7.ForeColor = Color.DimGray; buttoncs7.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs7.Text == muyu)
                         {
-                            buttoncs7.ForeColor = Color.Green;
+                            buttoncs7.ForeColor = Color.Green; buttoncs7.BackColor = Color.White;
                         }
                         if (buttoncs7.Text == shuai)
                         {
-                            buttoncs7.ForeColor = Color.Gray;
+                            buttoncs7.ForeColor = Color.DimGray; buttoncs7.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs7.Text == bingg)
                         {
-                            buttoncs7.ForeColor = Color.Gray;
+                            buttoncs7.ForeColor = Color.DimGray; buttoncs7.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs7.Text == ssii)
                         {
-                            buttoncs7.ForeColor = Color.Black;
+                            buttoncs7.ForeColor = Color.Black; buttoncs7.BackColor = Color.White;
                         }
                         if (buttoncs7.Text == mmuu)
                         {
-                            buttoncs7.ForeColor = Color.Black;
+                            buttoncs7.ForeColor = Color.Black; buttoncs7.BackColor = Color.White;
                         }
                         if (buttoncs7.Text == jue)
                         {
-                            buttoncs7.ForeColor = Color.Black;
+                            buttoncs7.ForeColor = Color.Black; buttoncs7.BackColor = Color.White;
                         }
                         if (buttoncs8.Text == diwang)
                         {
-                            buttoncs8.ForeColor = Color.Red;
+                            buttoncs8.ForeColor = Color.Red; buttoncs8.BackColor = Color.White;
                         }
                         if (buttoncs8.Text == linguan)
                         {
-                            buttoncs8.ForeColor = Color.Red;
+                            buttoncs8.ForeColor = Color.Red; buttoncs8.BackColor = Color.White;
                         }
                         if (buttoncs8.Text == guandai)
                         {
-                            buttoncs8.ForeColor = Color.Red;
+                            buttoncs8.ForeColor = Color.Red; buttoncs8.BackColor = Color.White;
                         }
                         if (buttoncs8.Text == changsheng)
                         {
-                            buttoncs8.ForeColor = Color.Red;
+                            buttoncs8.ForeColor = Color.Green; buttoncs8.BackColor = Color.White;
                         }
                         if (buttoncs8.Text == tai)
                         {
-                            buttoncs8.ForeColor = Color.Green;
+                            buttoncs8.ForeColor = Color.DimGray; buttoncs8.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs8.Text == yang)
                         {
-                            buttoncs8.ForeColor = Color.Green;
+                            buttoncs8.ForeColor = Color.DimGray; buttoncs8.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs8.Text == muyu)
                         {
-                            buttoncs8.ForeColor = Color.Green;
+                            buttoncs8.ForeColor = Color.Green; buttoncs8.BackColor = Color.White;
                         }
                         if (buttoncs8.Text == shuai)
                         {
-                            buttoncs8.ForeColor = Color.Gray;
+                            buttoncs8.ForeColor = Color.DimGray; buttoncs8.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs8.Text == bingg)
                         {
-                            buttoncs8.ForeColor = Color.Gray;
+                            buttoncs8.ForeColor = Color.DimGray; buttoncs8.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs8.Text == ssii)
                         {
-                            buttoncs8.ForeColor = Color.Black;
+                            buttoncs8.ForeColor = Color.Black; buttoncs8.BackColor = Color.White;
                         }
                         if (buttoncs8.Text == mmuu)
                         {
-                            buttoncs8.ForeColor = Color.Black;
+                            buttoncs8.ForeColor = Color.Black; buttoncs8.BackColor = Color.White;
                         }
                         if (buttoncs8.Text == jue)
                         {
-                            buttoncs8.ForeColor = Color.Black;
+                            buttoncs8.ForeColor = Color.Black; buttoncs8.BackColor = Color.White;
                         }
                         if (buttoncs9.Text == diwang)
                         {
-                            buttoncs9.ForeColor = Color.Red;
+                            buttoncs9.ForeColor = Color.Red; buttoncs9.BackColor = Color.White;
                         }
                         if (buttoncs9.Text == linguan)
                         {
-                            buttoncs9.ForeColor = Color.Red;
+                            buttoncs9.ForeColor = Color.Red; buttoncs9.BackColor = Color.White;
                         }
                         if (buttoncs9.Text == guandai)
                         {
-                            buttoncs9.ForeColor = Color.Red;
+                            buttoncs9.ForeColor = Color.Red; buttoncs9.BackColor = Color.White;
                         }
                         if (buttoncs9.Text == changsheng)
                         {
-                            buttoncs9.ForeColor = Color.Red;
+                            buttoncs9.ForeColor = Color.Green; buttoncs9.BackColor = Color.White;
                         }
                         if (buttoncs9.Text == tai)
                         {
-                            buttoncs9.ForeColor = Color.Green;
+                            buttoncs9.ForeColor = Color.DimGray; buttoncs9.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs9.Text == yang)
                         {
-                            buttoncs9.ForeColor = Color.Green;
+                            buttoncs9.ForeColor = Color.DimGray; buttoncs9.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs9.Text == muyu)
                         {
-                            buttoncs9.ForeColor = Color.Green;
+                            buttoncs9.ForeColor = Color.Green; buttoncs9.BackColor = Color.White;
                         }
                         if (buttoncs9.Text == shuai)
                         {
-                            buttoncs9.ForeColor = Color.Gray;
+                            buttoncs9.ForeColor = Color.DimGray; buttoncs9.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs9.Text == bingg)
                         {
-                            buttoncs9.ForeColor = Color.Gray;
+                            buttoncs9.ForeColor = Color.DimGray; buttoncs9.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs9.Text == ssii)
                         {
-                            buttoncs9.ForeColor = Color.Black;
+                            buttoncs9.ForeColor = Color.Black; buttoncs9.BackColor = Color.White;
                         }
                         if (buttoncs9.Text == mmuu)
                         {
-                            buttoncs9.ForeColor = Color.Black;
+                            buttoncs9.ForeColor = Color.Black; buttoncs9.BackColor = Color.White;
                         }
                         if (buttoncs9.Text == jue)
                         {
-                            buttoncs9.ForeColor = Color.Black;
+                            buttoncs9.ForeColor = Color.Black; buttoncs9.BackColor = Color.White;
                         }
                         if (buttoncs10.Text == diwang)
                         {
-                            buttoncs10.ForeColor = Color.Red;
+                            buttoncs10.ForeColor = Color.Red; buttoncs10.BackColor = Color.White;
                         }
                         if (buttoncs10.Text == linguan)
                         {
-                            buttoncs10.ForeColor = Color.Red;
+                            buttoncs10.ForeColor = Color.Red; buttoncs10.BackColor = Color.White;
                         }
                         if (buttoncs10.Text == guandai)
                         {
-                            buttoncs10.ForeColor = Color.Red;
+                            buttoncs10.ForeColor = Color.Red; buttoncs10.BackColor = Color.White;
                         }
                         if (buttoncs10.Text == changsheng)
                         {
-                            buttoncs10.ForeColor = Color.Red;
+                            buttoncs10.ForeColor = Color.Green; buttoncs10.BackColor = Color.White;
                         }
                         if (buttoncs10.Text == tai)
                         {
-                            buttoncs10.ForeColor = Color.Green;
+                            buttoncs10.ForeColor = Color.DimGray; buttoncs10.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs10.Text == yang)
                         {
-                            buttoncs10.ForeColor = Color.Green;
+                            buttoncs10.ForeColor = Color.DimGray; buttoncs10.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs10.Text == muyu)
                         {
-                            buttoncs10.ForeColor = Color.Green;
+                            buttoncs10.ForeColor = Color.Green; buttoncs10.BackColor = Color.White;
                         }
                         if (buttoncs10.Text == shuai)
                         {
-                            buttoncs10.ForeColor = Color.Gray;
+                            buttoncs10.ForeColor = Color.DimGray; buttoncs10.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs10.Text == bingg)
                         {
-                            buttoncs10.ForeColor = Color.Gray;
+                            buttoncs10.ForeColor = Color.DimGray; buttoncs10.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs10.Text == ssii)
                         {
-                            buttoncs10.ForeColor = Color.Black;
+                            buttoncs10.ForeColor = Color.Black; buttoncs10.BackColor = Color.White;
                         }
                         if (buttoncs10.Text == mmuu)
                         {
-                            buttoncs10.ForeColor = Color.Black;
+                            buttoncs10.ForeColor = Color.Black; buttoncs10.BackColor = Color.White;
                         }
                         if (buttoncs10.Text == jue)
                         {
-                            buttoncs10.ForeColor = Color.Black;
+                            buttoncs10.ForeColor = Color.Black; buttoncs10.BackColor = Color.White;
                         }
                         if (buttoncs11.Text == diwang)
                         {
-                            buttoncs11.ForeColor = Color.Red;
+                            buttoncs11.ForeColor = Color.Red; buttoncs11.BackColor = Color.White;
                         }
                         if (buttoncs11.Text == linguan)
                         {
-                            buttoncs11.ForeColor = Color.Red;
+                            buttoncs11.ForeColor = Color.Red; buttoncs11.BackColor = Color.White;
                         }
                         if (buttoncs11.Text == guandai)
                         {
-                            buttoncs11.ForeColor = Color.Red;
+                            buttoncs11.ForeColor = Color.Red; buttoncs11.BackColor = Color.White;
                         }
                         if (buttoncs11.Text == changsheng)
                         {
-                            buttoncs11.ForeColor = Color.Red;
+                            buttoncs11.ForeColor = Color.Green; buttoncs11.BackColor = Color.White;
                         }
                         if (buttoncs11.Text == tai)
                         {
-                            buttoncs11.ForeColor = Color.Green;
+                            buttoncs11.ForeColor = Color.DimGray; buttoncs11.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs11.Text == yang)
                         {
-                            buttoncs11.ForeColor = Color.Green;
+                            buttoncs11.ForeColor = Color.DimGray; buttoncs11.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs11.Text == muyu)
                         {
-                            buttoncs11.ForeColor = Color.Green;
+                            buttoncs11.ForeColor = Color.Green; buttoncs11.BackColor = Color.White;
                         }
                         if (buttoncs11.Text == shuai)
                         {
-                            buttoncs11.ForeColor = Color.Gray;
+                            buttoncs11.ForeColor = Color.DimGray; buttoncs11.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs11.Text == bingg)
                         {
-                            buttoncs11.ForeColor = Color.Gray;
+                            buttoncs11.ForeColor = Color.DimGray; buttoncs11.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs11.Text == ssii)
                         {
-                            buttoncs11.ForeColor = Color.Black;
+                            buttoncs11.ForeColor = Color.Black; buttoncs11.BackColor = Color.White;
                         }
                         if (buttoncs11.Text == mmuu)
                         {
-                            buttoncs11.ForeColor = Color.Black;
+                            buttoncs11.ForeColor = Color.Black; buttoncs11.BackColor = Color.White;
                         }
                         if (buttoncs11.Text == jue)
                         {
-                            buttoncs11.ForeColor = Color.Black;
+                            buttoncs11.ForeColor = Color.Black; buttoncs11.BackColor = Color.White;
                         }
                         if (buttoncs12.Text == diwang)
                         {
-                            buttoncs12.ForeColor = Color.Red;
+                            buttoncs12.ForeColor = Color.Red; buttoncs12.BackColor = Color.White;
                         }
                         if (buttoncs12.Text == linguan)
                         {
-                            buttoncs12.ForeColor = Color.Red;
+                            buttoncs12.ForeColor = Color.Red; buttoncs12.BackColor = Color.White;
                         }
                         if (buttoncs12.Text == guandai)
                         {
-                            buttoncs12.ForeColor = Color.Red;
+                            buttoncs12.ForeColor = Color.Red; buttoncs12.BackColor = Color.White;
                         }
                         if (buttoncs12.Text == changsheng)
                         {
-                            buttoncs12.ForeColor = Color.Red;
+                            buttoncs12.ForeColor = Color.Green; buttoncs12.BackColor = Color.White;
                         }
                         if (buttoncs12.Text == tai)
                         {
-                            buttoncs12.ForeColor = Color.Green;
+                            buttoncs12.ForeColor = Color.DimGray; buttoncs12.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs12.Text == yang)
                         {
-                            buttoncs12.ForeColor = Color.Green;
+                            buttoncs12.ForeColor = Color.DimGray; buttoncs12.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs12.Text == muyu)
                         {
-                            buttoncs12.ForeColor = Color.Green;
+                            buttoncs12.ForeColor = Color.Green; buttoncs12.BackColor = Color.White;
                         }
                         if (buttoncs12.Text == shuai)
                         {
-                            buttoncs12.ForeColor = Color.Gray;
+                            buttoncs12.ForeColor = Color.DimGray; buttoncs12.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs12.Text == bingg)
                         {
-                            buttoncs12.ForeColor = Color.Gray;
+                            buttoncs12.ForeColor = Color.DimGray; buttoncs12.BackColor = Color.RosyBrown;
                         }
                         if (buttoncs12.Text == ssii)
                         {
-                            buttoncs12.ForeColor = Color.Black;
+                            buttoncs12.ForeColor = Color.Black; buttoncs12.BackColor = Color.White;
                         }
                         if (buttoncs12.Text == mmuu)
                         {
-                            buttoncs12.ForeColor = Color.Black;
+                            buttoncs12.ForeColor = Color.Black; buttoncs12.BackColor = Color.White;
                         }
                         if (buttoncs12.Text == jue)
                         {
-                            buttoncs12.ForeColor = Color.Black;
+                            buttoncs12.ForeColor = Color.Black; buttoncs12.BackColor = Color.White;
                         }
 
                     }
@@ -53287,35 +53287,35 @@ namespace BaZiFuZuGongJu
                     {
                         if (buttoncs1.Text == diwang)
                         {
-                            bazipingfen += 900; richTextBox1.Text += diwang + "加+900，\r\n";
+                            bazipingfen += 1500; richTextBox1.Text += diwang + "加+1500，\r\n";
                         }
                         if (buttoncs1.Text == linguan)
                         {
-                            bazipingfen += 700; richTextBox1.Text += linguan + "加+700，\r\n";
+                            bazipingfen += 1200; richTextBox1.Text += linguan + "加+1200，\r\n";
                         }
                         if (buttoncs1.Text == guandai)
                         {
-                            bazipingfen += 600; richTextBox1.Text += guandai + "加+600，\r\n";
-                        }
-                        if (buttoncs1.Text == changsheng)
-                        {
-                            bazipingfen += 360; richTextBox1.Text += changsheng + "加+360，\r\n";
-                        }
-                        if (buttoncs1.Text == tai)
-                        {
-                            bazipingfen += 200; richTextBox1.Text += tai + "加+200，\r\n";
-                        }
-                        if (buttoncs1.Text == yang)
-                        {
-                            bazipingfen += 200; richTextBox1.Text += yang + "加+200，\r\n";
+                            bazipingfen += 900; richTextBox1.Text += guandai + "加+900，\r\n";
                         }
                         if (buttoncs1.Text == muyu)
                         {
-                            bazipingfen += 200; richTextBox1.Text += muyu + "加+200，\r\n";
+                            bazipingfen += 300; richTextBox1.Text += muyu + "加+300，\r\n";
+                        }
+                        if (buttoncs1.Text == changsheng)
+                        {
+                            bazipingfen += 200; richTextBox1.Text += changsheng + "加+200，\r\n";
+                        }
+                        if (buttoncs1.Text == yang)
+                        {
+                            bazipingfen += 100; richTextBox1.Text += yang + "加+100，\r\n";
+                        }
+                        if (buttoncs1.Text == tai)
+                        {
+                            bazipingfen += 60; richTextBox1.Text += tai + "加+60，\r\n";
                         }
                         if (buttoncs1.Text == shuai)
                         {
-                            bazipingfen -= 200; richTextBox1.Text += shuai + "减-200，\r\n";
+                            bazipingfen -= 50; richTextBox1.Text += shuai + "减-50，\r\n";
                         }
                         if (buttoncs1.Text == bingg)
                         {
@@ -53323,47 +53323,47 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs1.Text == ssii)
                         {
-                            bazipingfen -= 600; richTextBox1.Text += ssii + "减-600，\r\n";
+                            bazipingfen -= 900; richTextBox1.Text += ssii + "减-900，\r\n";
                         }
                         if (buttoncs1.Text == mmuu)
                         {
-                            bazipingfen -= 700; richTextBox1.Text += mmuu + "减-700，\r\n";
+                            bazipingfen -= 1200; richTextBox1.Text += mmuu + "减-1200，\r\n";
                         }
                         if (buttoncs1.Text == jue)
                         {
-                            bazipingfen -= 900; richTextBox1.Text += jue + "减-900，\r\n";
+                            bazipingfen -= 1500; richTextBox1.Text += jue + "减-1500，\r\n";
                         }
                         if (buttoncs2.Text == diwang)
                         {
-                            bazipingfen += 900; richTextBox1.Text += diwang + "加+900，\r\n";
+                            bazipingfen += 1500; richTextBox1.Text += diwang + "加+1500，\r\n";
                         }
                         if (buttoncs2.Text == linguan)
                         {
-                            bazipingfen += 700; richTextBox1.Text += linguan + "加+700，\r\n";
+                            bazipingfen += 1200; richTextBox1.Text += linguan + "加+1200，\r\n";
                         }
                         if (buttoncs2.Text == guandai)
                         {
-                            bazipingfen += 600; richTextBox1.Text += guandai + "加+600，\r\n";
-                        }
-                        if (buttoncs2.Text == changsheng)
-                        {
-                            bazipingfen += 360; richTextBox1.Text += changsheng + "加+360，\r\n";
-                        }
-                        if (buttoncs2.Text == tai)
-                        {
-                            bazipingfen += 200; richTextBox1.Text += tai + "加+200，\r\n";
-                        }
-                        if (buttoncs2.Text == yang)
-                        {
-                            bazipingfen += 200; richTextBox1.Text += yang + "加+200，\r\n";
+                            bazipingfen += 900; richTextBox1.Text += guandai + "加+900，\r\n";
                         }
                         if (buttoncs2.Text == muyu)
                         {
-                            bazipingfen += 200; richTextBox1.Text += muyu + "加+200，\r\n";
+                            bazipingfen += 300; richTextBox1.Text += muyu + "加+300，\r\n";
+                        }
+                        if (buttoncs2.Text == changsheng)
+                        {
+                            bazipingfen += 200; richTextBox1.Text += changsheng + "加+200，\r\n";
+                        }
+                        if (buttoncs2.Text == yang)
+                        {
+                            bazipingfen += 100; richTextBox1.Text += yang + "加+100，\r\n";
+                        }
+                        if (buttoncs2.Text == tai)
+                        {
+                            bazipingfen += 60; richTextBox1.Text += tai + "加+60，\r\n";
                         }
                         if (buttoncs2.Text == shuai)
                         {
-                            bazipingfen -= 200; richTextBox1.Text += shuai + "减-200，\r\n";
+                            bazipingfen -= 50; richTextBox1.Text += shuai + "减-50，\r\n";
                         }
                         if (buttoncs2.Text == bingg)
                         {
@@ -53371,212 +53371,236 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs2.Text == ssii)
                         {
-                            bazipingfen -= 600; richTextBox1.Text += ssii + "减-600，\r\n";
+                            bazipingfen -= 900; richTextBox1.Text += ssii + "减-900，\r\n";
                         }
                         if (buttoncs2.Text == mmuu)
                         {
-                            bazipingfen -= 700; richTextBox1.Text += mmuu + "减-700，\r\n";
+                            bazipingfen -= 1200; richTextBox1.Text += mmuu + "减-1200，\r\n";
                         }
                         if (buttoncs2.Text == jue)
                         {
-                            bazipingfen -= 900; richTextBox1.Text += jue + "减-900，\r\n";
+                            bazipingfen -= 1500; richTextBox1.Text += jue + "减-1500，\r\n";
                         }
                         if (buttoncs3.Text == diwang)
                         {
-                            bazipingfen += 600; richTextBox1.Text += diwang + "加+600，\r\n";
+                            bazipingfen += 1200; richTextBox1.Text += diwang + "加+1200，\r\n";
                         }
                         if (buttoncs3.Text == linguan)
                         {
-                            bazipingfen += 400; richTextBox1.Text += linguan + "加+400，\r\n";
+                            bazipingfen += 900; richTextBox1.Text += linguan + "加+900，\r\n";
                         }
                         if (buttoncs3.Text == guandai)
                         {
-                            bazipingfen += 300; richTextBox1.Text += guandai + "加+300，\r\n";
-                        }
-                        if (buttoncs3.Text == changsheng)
-                        {
-                            bazipingfen += 180; richTextBox1.Text += changsheng + "加+180，\r\n";
-                        }
-                        if (buttoncs3.Text == tai)
-                        {
-                            bazipingfen += 100; richTextBox1.Text += tai + "加+100，\r\n";
-                        }
-                        if (buttoncs3.Text == yang)
-                        {
-                            bazipingfen += 100; richTextBox1.Text += yang + "加+100，\r\n";
+                            bazipingfen += 600; richTextBox1.Text += guandai + "加+600，\r\n";
                         }
                         if (buttoncs3.Text == muyu)
                         {
-                            bazipingfen += 100; richTextBox1.Text += muyu + "加+100，\r\n";
+                            bazipingfen += 200; richTextBox1.Text += muyu + "加+200，\r\n";
+                        }
+                        if (buttoncs3.Text == changsheng)
+                        {
+                            bazipingfen += 120; richTextBox1.Text += changsheng + "加+120，\r\n";
+                        }
+                        if (buttoncs3.Text == yang)
+                        {
+                            bazipingfen += 70; richTextBox1.Text += yang + "加+70，\r\n";
+                        }
+                        if (buttoncs3.Text == tai)
+                        {
+                            bazipingfen += 40; richTextBox1.Text += tai + "加+40，\r\n";
                         }
                         if (buttoncs3.Text == shuai)
                         {
-                            bazipingfen -= 100; richTextBox1.Text += shuai + "减-100，\r\n";
+                            bazipingfen -= 30; richTextBox1.Text += shuai + "减-30，\r\n";
                         }
                         if (buttoncs3.Text == bingg)
                         {
-                            bazipingfen -= 120; richTextBox1.Text += bingg + "减-120，\r\n";
+                            bazipingfen -= 180; richTextBox1.Text += bingg + "减-180，\r\n";
                         }
                         if (buttoncs3.Text == ssii)
                         {
-                            bazipingfen -= 300; richTextBox1.Text += ssii + "减-300，\r\n";
+                            bazipingfen -= 600; richTextBox1.Text += ssii + "减-600，\r\n";
                         }
                         if (buttoncs3.Text == mmuu)
                         {
-                            bazipingfen -= 400; richTextBox1.Text += mmuu + "减-400，\r\n";
+                            bazipingfen -= 900; richTextBox1.Text += mmuu + "减-900，\r\n";
                         }
                         if (buttoncs3.Text == jue)
                         {
-                            bazipingfen -= 600; richTextBox1.Text += jue + "减-600，\r\n";
+                            bazipingfen -= 1200; richTextBox1.Text += jue + "减-1200，\r\n";
                         }
                         if (buttoncs4.Text == diwang)
                         {
-                            bazipingfen += 500; richTextBox1.Text += diwang + "加+500，\r\n";
+                            bazipingfen += 1200; richTextBox1.Text += diwang + "加+1200，\r\n";
                         }
                         if (buttoncs4.Text == linguan)
                         {
-                            bazipingfen += 300; richTextBox1.Text += linguan + "加+300，\r\n";
+                            bazipingfen += 900; richTextBox1.Text += linguan + "加+900，\r\n";
                         }
                         if (buttoncs4.Text == guandai)
                         {
-                            bazipingfen += 200; richTextBox1.Text += guandai + "加+200，\r\n";
-                        }
-                        if (buttoncs4.Text == changsheng)
-                        {
-                            bazipingfen += 180; richTextBox1.Text += changsheng + "加+180，\r\n";
-                        }
-                        if (buttoncs4.Text == tai)
-                        {
-                            bazipingfen += 100; richTextBox1.Text += tai + "加+100，\r\n";
-                        }
-                        if (buttoncs4.Text == yang)
-                        {
-                            bazipingfen += 100; richTextBox1.Text += yang + "加+100，\r\n";
+                            bazipingfen += 600; richTextBox1.Text += guandai + "加+600，\r\n";
                         }
                         if (buttoncs4.Text == muyu)
                         {
-                            bazipingfen += 100; richTextBox1.Text += muyu + "加+100，\r\n";
+                            bazipingfen += 200; richTextBox1.Text += muyu + "加+200，\r\n";
+                        }
+                        if (buttoncs4.Text == changsheng)
+                        {
+                            bazipingfen += 120; richTextBox1.Text += changsheng + "加+120，\r\n";
+                        }
+                        if (buttoncs4.Text == yang)
+                        {
+                            bazipingfen += 70; richTextBox1.Text += yang + "加+70，\r\n";
+                        }
+                        if (buttoncs4.Text == tai)
+                        {
+                            bazipingfen += 40; richTextBox1.Text += tai + "加+40，\r\n";
                         }
                         if (buttoncs4.Text == shuai)
                         {
-                            bazipingfen -= 100; richTextBox1.Text += shuai + "减-100，\r\n";
+                            bazipingfen -= 30; richTextBox1.Text += shuai + "减-30，\r\n";
                         }
                         if (buttoncs4.Text == bingg)
                         {
-                            bazipingfen -= 120; richTextBox1.Text += bingg + "减-120，\r\n";
+                            bazipingfen -= 180; richTextBox1.Text += bingg + "减-180，\r\n";
                         }
                         if (buttoncs4.Text == ssii)
                         {
-                            bazipingfen -= 200; richTextBox1.Text += ssii + "减-200，\r\n";
+                            bazipingfen -= 600; richTextBox1.Text += ssii + "减-600，\r\n";
                         }
                         if (buttoncs4.Text == mmuu)
                         {
-                            bazipingfen -= 300; richTextBox1.Text += mmuu + "减-300，\r\n";
+                            bazipingfen -= 900; richTextBox1.Text += mmuu + "减-900，\r\n";
                         }
                         if (buttoncs4.Text == jue)
                         {
-                            bazipingfen -= 500; richTextBox1.Text += jue + "减-500，\r\n";
+                            bazipingfen -= 1200; richTextBox1.Text += jue + "减-1200，\r\n";
                         }
                         if (buttoncs5.Text == diwang)
                         {
-                            bazipingfen += 300; richTextBox1.Text += diwang + "加+300，\r\n";
+                            bazipingfen += 600; richTextBox1.Text += diwang + "加+600，\r\n";
                         }
                         if (buttoncs5.Text == linguan)
                         {
-                            bazipingfen += 200; richTextBox1.Text += linguan + "加+200，\r\n";
+                            bazipingfen += 300; richTextBox1.Text += linguan + "加+300，\r\n";
                         }
                         if (buttoncs5.Text == guandai)
                         {
-                            bazipingfen += 150; richTextBox1.Text += guandai + "加+150，\r\n";
-                        }
-                        if (buttoncs5.Text == changsheng)
-                        {
-                            bazipingfen += 100; richTextBox1.Text += changsheng + "加+100，\r\n";
-                        }
-                        if (buttoncs5.Text == tai)
-                        {
-                            bazipingfen += 90; richTextBox1.Text += tai + "加+90，\r\n";
-                        }
-                        if (buttoncs5.Text == yang)
-                        {
-                            bazipingfen += 90; richTextBox1.Text += yang + "加+90，\r\n";
+                            bazipingfen += 200; richTextBox1.Text += guandai + "加+200，\r\n";
                         }
                         if (buttoncs5.Text == muyu)
                         {
-                            bazipingfen += 90; richTextBox1.Text += muyu + "加+90，\r\n";
+                            bazipingfen += 100; richTextBox1.Text += muyu + "加+100，\r\n";
+                        }
+                        if (buttoncs5.Text == changsheng)
+                        {
+                            bazipingfen += 80; richTextBox1.Text += changsheng + "加+80，\r\n";
+                        }
+                        if (buttoncs5.Text == yang)
+                        {
+                            bazipingfen += 30; richTextBox1.Text += yang + "加+30，\r\n";
+                        }
+                        if (buttoncs5.Text == tai)
+                        {
+                            bazipingfen += 20; richTextBox1.Text += tai + "加+20，\r\n";
                         }
                         if (buttoncs5.Text == shuai)
                         {
-                            bazipingfen -= 80; richTextBox1.Text += shuai + "减-80，\r\n";
+                            bazipingfen -= 30; richTextBox1.Text += shuai + "减-30，\r\n";
                         }
                         if (buttoncs5.Text == bingg)
                         {
-                            bazipingfen -= 100; richTextBox1.Text += bingg + "减-100，\r\n";
+                            bazipingfen -= 150; richTextBox1.Text += bingg + "减-150，\r\n";
                         }
                         if (buttoncs5.Text == ssii)
                         {
-                            bazipingfen -= 150; richTextBox1.Text += ssii + "减-150，\r\n";
+                            bazipingfen -= 200; richTextBox1.Text += ssii + "减-200，\r\n";
                         }
                         if (buttoncs5.Text == mmuu)
                         {
-                            bazipingfen -= 200; richTextBox1.Text += mmuu + "减-200，\r\n";
+                            bazipingfen -= 300; richTextBox1.Text += mmuu + "减-300，\r\n";
                         }
                         if (buttoncs5.Text == jue)
                         {
-                            bazipingfen -= 300; richTextBox1.Text += jue + "减-300，\r\n";
+                            bazipingfen -= 600; richTextBox1.Text += jue + "减-600，\r\n";
                         }
                         if (buttoncs6.Text == diwang)
                         {
-                            bazipingfen += 300; richTextBox1.Text += diwang + "加+300，\r\n";
+                            bazipingfen += 600; richTextBox1.Text += diwang + "加+600，\r\n";
                         }
                         if (buttoncs6.Text == linguan)
                         {
-                            bazipingfen += 200; richTextBox1.Text += linguan + "加+200，\r\n";
+                            bazipingfen += 300; richTextBox1.Text += linguan + "加+300，\r\n";
                         }
                         if (buttoncs6.Text == guandai)
                         {
-                            bazipingfen += 150; richTextBox1.Text += guandai + "加+150，\r\n";
-                        }
-                        if (buttoncs6.Text == changsheng)
-                        {
-                            bazipingfen += 100; richTextBox1.Text += changsheng + "加+100，\r\n";
-                        }
-                        if (buttoncs6.Text == tai)
-                        {
-                            bazipingfen += 90; richTextBox1.Text += tai + "加+90，\r\n";
-                        }
-                        if (buttoncs6.Text == yang)
-                        {
-                            bazipingfen += 90; richTextBox1.Text += yang + "加+90，\r\n";
+                            bazipingfen += 200; richTextBox1.Text += guandai + "加+200，\r\n";
                         }
                         if (buttoncs6.Text == muyu)
                         {
-                            bazipingfen += 90; richTextBox1.Text += muyu + "加+90，\r\n";
+                            bazipingfen += 100; richTextBox1.Text += muyu + "加+100，\r\n";
+                        }
+                        if (buttoncs6.Text == changsheng)
+                        {
+                            bazipingfen += 80; richTextBox1.Text += changsheng + "加+80，\r\n";
+                        }
+                        if (buttoncs6.Text == yang)
+                        {
+                            bazipingfen += 30; richTextBox1.Text += yang + "加+30，\r\n";
+                        }
+                        if (buttoncs6.Text == tai)
+                        {
+                            bazipingfen += 20; richTextBox1.Text += tai + "加+20，\r\n";
                         }
                         if (buttoncs6.Text == shuai)
                         {
-                            bazipingfen -= 80; richTextBox1.Text += shuai + "减-80，\r\n";
+                            bazipingfen -= 30; richTextBox1.Text += shuai + "减-30，\r\n";
                         }
                         if (buttoncs6.Text == bingg)
                         {
-                            bazipingfen -= 100; richTextBox1.Text += bingg + "减-100，\r\n";
+                            bazipingfen -= 150; richTextBox1.Text += bingg + "减-150，\r\n";
                         }
                         if (buttoncs6.Text == ssii)
                         {
-                            bazipingfen -= 150; richTextBox1.Text += ssii + "减-150，\r\n";
+                            bazipingfen -= 200; richTextBox1.Text += ssii + "减-200，\r\n";
                         }
                         if (buttoncs6.Text == mmuu)
                         {
-                            bazipingfen -= 200; richTextBox1.Text += mmuu + "减-200，\r\n";
+                            bazipingfen -= 300; richTextBox1.Text += mmuu + "减-300，\r\n";
                         }
                         if (buttoncs6.Text == jue)
                         {
-                            bazipingfen -= 300; richTextBox1.Text += jue + "减-300，\r\n";
+                            bazipingfen -= 600; richTextBox1.Text += jue + "减-600，\r\n";
+                        }
+                        if (buttoncs7.Text == diwang)
+                        {
+                            bazipingfen += 200; richTextBox1.Text += diwang + "加+200，\r\n";
+                        }
+                        if (buttoncs7.Text == linguan)
+                        {
+                            bazipingfen += 100; richTextBox1.Text += linguan + "加+100，\r\n";
+                        }
+                        if (buttoncs7.Text == guandai)
+                        {
+                            bazipingfen += 60; richTextBox1.Text += guandai + "加+60，\r\n";
+                        }
+                        if (buttoncs7.Text == ssii)
+                        {
+                            bazipingfen -= 60; richTextBox1.Text += ssii + "减-60，\r\n";
+                        }
+                        if (buttoncs7.Text == mmuu)
+                        {
+                            bazipingfen -= 100; richTextBox1.Text += mmuu + "减-100，\r\n";
+                        }
+                        if (buttoncs7.Text == jue)
+                        {
+                            bazipingfen -= 200; richTextBox1.Text += jue + "减-200，\r\n";
                         }
 
                     }
                     //刑冲克害合合
-                    if(jia == jia)
+                    if (jia == jia)
                     {
                         if (nyzhechongxing == 1)
                         {
