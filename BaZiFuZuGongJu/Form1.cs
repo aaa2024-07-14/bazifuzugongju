@@ -53604,76 +53604,76 @@ namespace BaZiFuZuGongJu
                     {
                         if (nyzhechongxing == 1)
                         {
-                            if (button13.ForeColor == Color.Red || button17.ForeColor == Color.Red)
+                            if (button13.ForeColor == Color.Red && button17.ForeColor == Color.Red)
                             {
                                 richTextBox1.Text += "年月支吉神被刑冲合减-1200，\r\n"; bazipingfen -= 1200;
                             }
-                            if (button13.ForeColor == Color.Red || button17.ForeColor == Color.Black)
+                            if (button13.ForeColor == Color.Red && button17.ForeColor == Color.Black)
                             {
                                 richTextBox1.Text += "月支吉神被刑冲合减-900，\r\n"; bazipingfen -= 900;
                             }
-                            if (button13.ForeColor == Color.Black || button17.ForeColor == Color.Red)
+                            if (button13.ForeColor == Color.Black && button17.ForeColor == Color.Red)
                             {
                                 richTextBox1.Text += "年支吉神被刑冲合减-900，\r\n"; bazipingfen -= 900;
                             }
-                            if (button13.ForeColor == Color.Black || button17.ForeColor == Color.Black)
+                            if (button13.ForeColor == Color.Black && button17.ForeColor == Color.Black)
                             {
                                 richTextBox1.Text += "年月支凶神被刑冲合加+1200，\r\n"; bazipingfen += 1200;
                             }
                         }
                         if (yrzhechongxing == 1)
                         {
-                            if (button17.ForeColor == Color.Red || button19.ForeColor == Color.Red)
+                            if (button17.ForeColor == Color.Red && button19.ForeColor == Color.Red)
                             {
                                 richTextBox1.Text += "月日支吉神被刑冲合减-1200，\r\n"; bazipingfen -= 1200;
                             }
-                            if (button17.ForeColor == Color.Red || button19.ForeColor == Color.Black)
+                            if (button17.ForeColor == Color.Red && button19.ForeColor == Color.Black)
                             {
                                 richTextBox1.Text += "日支吉神被刑冲合减-900，\r\n"; bazipingfen -= 900;
                             }
-                            if (button17.ForeColor == Color.Black || button19.ForeColor == Color.Red)
+                            if (button17.ForeColor == Color.Black && button19.ForeColor == Color.Red)
                             {
                                 richTextBox1.Text += "月支吉神被刑冲合减-900，\r\n"; bazipingfen -= 900;
                             }
-                            if (button17.ForeColor == Color.Black || button19.ForeColor == Color.Black)
+                            if (button17.ForeColor == Color.Black && button19.ForeColor == Color.Black)
                             {
                                 richTextBox1.Text += "月日支凶神被刑冲合加+1200，\r\n"; bazipingfen += 1200;
                             }
                         }
                         if (rszhechongxing == 1)
                         {
-                            if (button19.ForeColor == Color.Red || button22.ForeColor == Color.Red)
+                            if (button19.ForeColor == Color.Red && button22.ForeColor == Color.Red)
                             {
                                 richTextBox1.Text += "日时支吉神被刑冲合减-1200，\r\n"; bazipingfen -= 1200;
                             }
-                            if (button19.ForeColor == Color.Red || button22.ForeColor == Color.Black)
+                            if (button19.ForeColor == Color.Red && button22.ForeColor == Color.Black)
                             {
                                 richTextBox1.Text += "时支吉神被刑冲合减-900，\r\n"; bazipingfen -= 900;
                             }
-                            if (button19.ForeColor == Color.Black || button22.ForeColor == Color.Red)
+                            if (button19.ForeColor == Color.Black && button22.ForeColor == Color.Red)
                             {
                                 richTextBox1.Text += "日支吉神被刑冲合减-900，\r\n"; bazipingfen -= 900;
                             }
-                            if (button19.ForeColor == Color.Black || button22.ForeColor == Color.Black)
+                            if (button19.ForeColor == Color.Black && button22.ForeColor == Color.Black)
                             {
                                 richTextBox1.Text += "日时支凶神被刑冲合加+1200，\r\n"; bazipingfen += 1200;
                             }
                         }
                         if (nyghechong == 1)
                         {
-                            if (button4.ForeColor == Color.Red || button16.ForeColor == Color.Red)
+                            if (button4.ForeColor == Color.Red && button16.ForeColor == Color.Red)
                             {
                                 richTextBox1.Text += "年月干吉神被冲合减-1200，\r\n"; bazipingfen -= 1200;
                             }
-                            if (button4.ForeColor == Color.Red || button16.ForeColor == Color.Black)
+                            if (button4.ForeColor == Color.Red && button16.ForeColor == Color.Black)
                             {
                                 richTextBox1.Text += "月干吉神被冲合减-900，\r\n"; bazipingfen -= 900;
                             }
-                            if (button4.ForeColor == Color.Black || button16.ForeColor == Color.Red)
+                            if (button4.ForeColor == Color.Black && button16.ForeColor == Color.Red)
                             {
                                 richTextBox1.Text += "年干吉神被冲合减-900，\r\n"; bazipingfen -= 900;
                             }
-                            if (button4.ForeColor == Color.Black || button16.ForeColor == Color.Black)
+                            if (button4.ForeColor == Color.Black && button16.ForeColor == Color.Black)
                             {
                                 richTextBox1.Text += "年月干凶神被冲合加+1200，\r\n"; bazipingfen += 1200;
                             }
