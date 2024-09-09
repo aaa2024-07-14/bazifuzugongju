@@ -1889,7 +1889,6 @@
             numericUpDownyear.TabIndex = 198;
             numericUpDownyear.Value = new decimal(new int[] { 1, 0, 0, 0 });
             numericUpDownyear.ValueChanged += numericUpDownyear_ValueChanged;
-            numericUpDownyear.Click += button59_Click;
             // 
             // numericUpDownmonth
             // 
@@ -1902,7 +1901,6 @@
             numericUpDownmonth.TabIndex = 199;
             numericUpDownmonth.Value = new decimal(new int[] { 1, 0, 0, 0 });
             numericUpDownmonth.ValueChanged += numericUpDownmonth_ValueChanged;
-            numericUpDownmonth.Click += button59_Click;
             // 
             // numericUpDownday
             // 
@@ -1915,7 +1913,6 @@
             numericUpDownday.TabIndex = 200;
             numericUpDownday.Value = new decimal(new int[] { 1, 0, 0, 0 });
             numericUpDownday.ValueChanged += numericUpDownday_ValueChanged;
-            numericUpDownday.Click += button59_Click;
             // 
             // numericUpDownhour
             // 
@@ -1925,7 +1922,7 @@
             numericUpDownhour.Name = "numericUpDownhour";
             numericUpDownhour.Size = new Size(57, 35);
             numericUpDownhour.TabIndex = 201;
-            numericUpDownhour.Click += button59_Click;
+            numericUpDownhour.ValueChanged += numericUpDownhour_ValueChanged;
             // 
             // linkLabel28
             // 
@@ -3186,7 +3183,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-09-05v3";
+            Text = "八字排盘工具v2024-09-09";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).EndInit();
