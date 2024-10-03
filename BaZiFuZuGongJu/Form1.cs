@@ -17939,7 +17939,7 @@ namespace BaZiFuZuGongJu
                             }
                             if (buttonnz.Text == you)
                             {
-                                button13.Text = jiecai; button13.BackColor = Color.White; button13.ForeColor = Color.Red;
+                                button13.Text = jiecai; button13.BackColor = Color.White; button13.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -19339,7 +19339,7 @@ namespace BaZiFuZuGongJu
                             }
                             if (buttonyz.Text == you)
                             {
-                                button17.Text = jiecai; button17.BackColor = Color.White; button17.ForeColor = Color.Red;
+                                button17.Text = jiecai; button17.BackColor = Color.White; button17.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -20739,7 +20739,7 @@ namespace BaZiFuZuGongJu
                             }
                             if (buttonrz.Text == you)
                             {
-                                button19.Text = jiecai; button19.BackColor = Color.White; button19.ForeColor = Color.Red;
+                                button19.Text = jiecai; button19.BackColor = Color.White; button19.ForeColor = Color.Black;
                             }
                         }
                     }
