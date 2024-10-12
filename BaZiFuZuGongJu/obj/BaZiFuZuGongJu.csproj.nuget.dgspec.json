@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj": {}
+    "G:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj": {}
   },
   "projects": {
-    "F:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj": {
+    "G:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj": {
       "version": "9.0.0",
       "restore": {
-        "projectUniqueName": "F:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj",
+        "projectUniqueName": "G:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj",
         "projectName": "BaZiFuZuGongJu",
-        "projectPath": "F:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\File\\BaZiFuZuGongJu\\obj\\",
+        "projectPath": "G:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj",
+        "packagesPath": "C:\\Users\\AAA\\.nuget\\packages\\",
+        "outputPath": "G:\\File\\BaZiFuZuGongJu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AAA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

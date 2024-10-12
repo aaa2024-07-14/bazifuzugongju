@@ -13,6 +13,7 @@
     <UseWPF>True</UseWPF>
     <ApplicationIcon>128X128.ico</ApplicationIcon>
     <OutputType>WinExe</OutputType>
+    <SupportedOSPlatformVersion>7.0</SupportedOSPlatformVersion>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

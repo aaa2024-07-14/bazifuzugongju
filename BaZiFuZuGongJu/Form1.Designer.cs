@@ -2179,11 +2179,11 @@
             // 
             linkLabel47.AutoSize = true;
             linkLabel47.BackColor = Color.Red;
-            linkLabel47.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            linkLabel47.Font = new Font("微软雅黑", 26.25F, FontStyle.Bold, GraphicsUnit.Point, 134);
             linkLabel47.LinkColor = Color.White;
-            linkLabel47.Location = new Point(1509, 594);
+            linkLabel47.Location = new Point(1523, 594);
             linkLabel47.Name = "linkLabel47";
-            linkLabel47.Size = new Size(33, 28);
+            linkLabel47.Size = new Size(55, 46);
             linkLabel47.TabIndex = 223;
             linkLabel47.TabStop = true;
             linkLabel47.Text = "合";
@@ -3184,7 +3184,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-10-03";
+            Text = "八字排盘工具v2024-10-10";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).EndInit();

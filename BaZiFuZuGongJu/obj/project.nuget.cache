@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7HqhMK3rYYQ=",
+  "dgSpecHash": "jVmChWFG2mY=",
   "success": true,
-  "projectFilePath": "F:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj",
+  "projectFilePath": "G:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.26100.34\\microsoft.windows.sdk.net.ref.10.0.26100.34.nupkg.sha512"
+    "C:\\Users\\AAA\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.26100.34\\microsoft.windows.sdk.net.ref.10.0.26100.34.nupkg.sha512"
   ],
   "logs": []
 }

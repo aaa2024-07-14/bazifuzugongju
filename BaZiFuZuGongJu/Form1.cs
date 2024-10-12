@@ -637,6 +637,8 @@ namespace BaZiFuZuGongJu
                 //清除上次排盘数据
                 if (jia == jia)
                 {
+                    //盘面底色
+                    this.BackColor = Color.DimGray;
                     //天干合冲
                     nyghechong = 0; yrghechong = 0; rsghechong = 0;
                     //地支合冲刑
@@ -35651,7 +35653,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (ntg == jia || ytg == jia || rtg == jia || stg == jia || ntg == yii || ytg == yii || rtg == yii || stg == yii || tghmu == 1)
                                             {
-                                                wxmu += 3; bazipingfen -= 50; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.Green; linkLabel47.Text = "寅卯辰三会木局"; 地支三会真假 = 1;
+                                                wxmu += 3; bazipingfen -= 50; this.BackColor = Color.Green; linkLabel47.LinkColor = Color.Green; linkLabel47.BackColor = Color.White; linkLabel47.Text = "寅卯辰三会木局"; 地支三会真假 = 1;
                                             }
                                         }
                                     }
@@ -35667,7 +35669,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (ntg == jia || ytg == jia || rtg == jia || stg == jia || ntg == yii || ytg == yii || rtg == yii || stg == yii || tghmu == 1)
                                             {
-                                                wxmu += 3; bazipingfen -= 50; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.Green; linkLabel47.Text = "寅卯辰三会木局"; 地支三会真假 = 1;
+                                                wxmu += 3; bazipingfen -= 50; this.BackColor = Color.Green; linkLabel47.LinkColor = Color.Green; linkLabel47.BackColor = Color.White; linkLabel47.Text = "寅卯辰三会木局"; 地支三会真假 = 1;
                                             }
                                         }
                                     }
@@ -35683,7 +35685,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (wmu == 1)
                                             {
-                                                wxmu += 3; bazipingfen -= 50; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.Green; linkLabel47.Text = "寅卯辰三会木局"; 地支三会真假 = 1;
+                                                wxmu += 3; bazipingfen -= 50; this.BackColor = Color.Green; linkLabel47.LinkColor = Color.Green; linkLabel47.BackColor = Color.White; linkLabel47.Text = "寅卯辰三会木局"; 地支三会真假 = 1;
                                             }
                                         }
                                     }
@@ -35699,7 +35701,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (wmu == 1)
                                             {
-                                                wxmu += 3; bazipingfen -= 50; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.Green; linkLabel47.Text = "寅卯辰三会木局"; 地支三会真假 = 1;
+                                                wxmu += 3; bazipingfen -= 50; this.BackColor = Color.Green; linkLabel47.LinkColor = Color.Green; linkLabel47.BackColor = Color.White; linkLabel47.Text = "寅卯辰三会木局"; 地支三会真假 = 1;
                                             }
                                         }
                                     }
@@ -35719,7 +35721,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (ntg == bing || ytg == bing || rtg == bing || stg == bing || ntg == ding || ytg == ding || rtg == ding || stg == ding || tghhuo == 1)
                                             {
-                                                wxhuo += 3; bazipingfen -= 50; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.Red; linkLabel47.Text = "巳午未三会火局"; 地支三会真假 = 1;
+                                                wxhuo += 3; bazipingfen -= 50; this.BackColor = Color.Red; linkLabel47.LinkColor = Color.Red; linkLabel47.BackColor = Color.White; linkLabel47.Text = "巳午未三会火局"; 地支三会真假 = 1;
                                             }
                                         }
                                     }
@@ -35735,7 +35737,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (ntg == bing || ytg == bing || rtg == bing || stg == bing || ntg == ding || ytg == ding || rtg == ding || stg == ding || tghhuo == 1)
                                             {
-                                                wxhuo += 3; bazipingfen -= 50; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.Red; linkLabel47.Text = "巳午未三会火局"; 地支三会真假 = 1;
+                                                wxhuo += 3; bazipingfen -= 50; this.BackColor = Color.Red; linkLabel47.LinkColor = Color.Red; linkLabel47.BackColor = Color.White; linkLabel47.Text = "巳午未三会火局"; 地支三会真假 = 1;
                                             }
                                         }
                                     }
@@ -35751,7 +35753,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (whuo == 1)
                                             {
-                                                wxhuo += 3; bazipingfen -= 50; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.Red; linkLabel47.Text = "巳午未三会火局"; 地支三会真假 = 1;
+                                                wxhuo += 3; bazipingfen -= 50; this.BackColor = Color.Red; linkLabel47.LinkColor = Color.Red; linkLabel47.BackColor = Color.White; linkLabel47.Text = "巳午未三会火局"; 地支三会真假 = 1;
                                             }
                                         }
                                     }
@@ -35767,7 +35769,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (whuo == 1)
                                             {
-                                                wxhuo += 3; bazipingfen -= 50; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.Red; linkLabel47.Text = "巳午未三会火局"; 地支三会真假 = 1;
+                                                wxhuo += 3; bazipingfen -= 50; this.BackColor = Color.Red; linkLabel47.LinkColor = Color.Red; linkLabel47.BackColor = Color.White; linkLabel47.Text = "巳午未三会火局"; 地支三会真假 = 1;
                                             }
                                         }
                                     }
@@ -35787,7 +35789,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (ntg == geng || ytg == geng || rtg == geng || stg == geng || ntg == xin || ytg == xin || rtg == xin || stg == xin || tghjin == 1)
                                             {
-                                                wxjin += 3; bazipingfen -= 50; linkLabel47.LinkColor = Color.Gold; linkLabel47.BackColor = Color.Black; linkLabel47.Text = "申酉戌三会金局"; 地支三会真假 = 1;
+                                                wxjin += 3; bazipingfen -= 50; this.BackColor = Color.Gold; linkLabel47.LinkColor = Color.Gold; linkLabel47.BackColor = Color.Black; linkLabel47.Text = "申酉戌三会金局"; 地支三会真假 = 1;
                                             }
                                         }
                                     }
@@ -35803,7 +35805,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (ntg == geng || ytg == geng || rtg == geng || stg == geng || ntg == xin || ytg == xin || rtg == xin || stg == xin || tghjin == 1)
                                             {
-                                                wxjin += 3; bazipingfen -= 50; linkLabel47.LinkColor = Color.Gold; linkLabel47.BackColor = Color.Black; linkLabel47.Text = "申酉戌三会金局"; 地支三会真假 = 1;
+                                                wxjin += 3; bazipingfen -= 50; this.BackColor = Color.Gold; linkLabel47.LinkColor = Color.Gold; linkLabel47.BackColor = Color.Black; linkLabel47.Text = "申酉戌三会金局"; 地支三会真假 = 1;
                                             }
                                         }
                                     }
@@ -35819,7 +35821,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (wjin == 1)
                                             {
-                                                wxjin += 3; bazipingfen -= 50; linkLabel47.LinkColor = Color.Gold; linkLabel47.BackColor = Color.Black; linkLabel47.Text = "申酉戌三会金局"; 地支三会真假 = 1;
+                                                wxjin += 3; bazipingfen -= 50; this.BackColor = Color.Gold; linkLabel47.LinkColor = Color.Gold; linkLabel47.BackColor = Color.Black; linkLabel47.Text = "申酉戌三会金局"; 地支三会真假 = 1;
                                             }
                                         }
                                     }
@@ -35835,7 +35837,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (wjin == 1)
                                             {
-                                                wxjin += 3; bazipingfen -= 50; linkLabel47.LinkColor = Color.Gold; linkLabel47.BackColor = Color.Black; linkLabel47.Text = "申酉戌三会金局"; 地支三会真假 = 1;
+                                                wxjin += 3; bazipingfen -= 50; this.BackColor = Color.Gold; linkLabel47.LinkColor = Color.Gold; linkLabel47.BackColor = Color.Black; linkLabel47.Text = "申酉戌三会金局"; 地支三会真假 = 1;
                                             }
                                         }
                                     }
@@ -35855,7 +35857,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (ntg == ren || ytg == ren || rtg == ren || stg == ren || ntg == gui || ytg == gui || rtg == gui || stg == gui || tghshui == 1)
                                             {
-                                                wxshui += 3; bazipingfen -= 50; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.DodgerBlue; linkLabel47.Text = "亥子丑三会水局"; 地支三会真假 = 1;
+                                                wxshui += 3; bazipingfen -= 50; this.BackColor = Color.DodgerBlue; linkLabel47.LinkColor = Color.DodgerBlue; linkLabel47.BackColor = Color.White; linkLabel47.Text = "亥子丑三会水局"; 地支三会真假 = 1;
                                             }
                                         }
                                     }
@@ -35871,7 +35873,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (ntg == ren || ytg == ren || rtg == ren || stg == ren || ntg == gui || ytg == gui || rtg == gui || stg == gui || tghshui == 1)
                                             {
-                                                wxshui += 3; bazipingfen -= 50; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.DodgerBlue; linkLabel47.Text = "亥子丑三会水局"; 地支三会真假 = 1;
+                                                wxshui += 3; bazipingfen -= 50; this.BackColor = Color.DodgerBlue; linkLabel47.LinkColor = Color.DodgerBlue; linkLabel47.BackColor = Color.White; linkLabel47.Text = "亥子丑三会水局"; 地支三会真假 = 1;
                                             }
                                         }
                                     }
@@ -35887,7 +35889,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (wshui == 1)
                                             {
-                                                wxshui += 3; bazipingfen -= 50; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.DodgerBlue; linkLabel47.Text = "亥子丑三会水局"; 地支三会真假 = 1;
+                                                wxshui += 3; bazipingfen -= 50; this.BackColor = Color.DodgerBlue; linkLabel47.LinkColor = Color.DodgerBlue; linkLabel47.BackColor = Color.White; linkLabel47.Text = "亥子丑三会水局"; 地支三会真假 = 1;
                                             }
                                         }
                                     }
@@ -35903,7 +35905,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (wshui == 1)
                                             {
-                                                wxshui += 3; bazipingfen -= 50; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.DodgerBlue; linkLabel47.Text = "亥子丑三会水局"; 地支三会真假 = 1;
+                                                wxshui += 3; bazipingfen -= 50; this.BackColor = Color.DodgerBlue; linkLabel47.LinkColor = Color.DodgerBlue; linkLabel47.BackColor = Color.White; linkLabel47.Text = "亥子丑三会水局"; 地支三会真假 = 1;
                                             }
                                         }
                                     }
@@ -35935,7 +35937,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (ntg == ren || ytg == ren || rtg == ren || stg == ren || ntg == gui || ytg == gui || rtg == gui || stg == gui || tghshui == 1)
                                             {
-                                                wxshui += 1.6; bazipingfen -= 40; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.DodgerBlue; linkLabel47.Text = "申子辰三合水局"; 地支三合真假 = 1;
+                                                wxshui += 1.6; bazipingfen -= 40; this.BackColor = Color.DodgerBlue; linkLabel47.LinkColor = Color.DodgerBlue; linkLabel47.BackColor = Color.White; linkLabel47.Text = "申子辰三合水局"; 地支三合真假 = 1;
                                             }
                                         }
                                     }
@@ -35951,7 +35953,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (ntg == ren || ytg == ren || rtg == ren || stg == ren || ntg == gui || ytg == gui || rtg == gui || stg == gui || tghshui == 1)
                                             {
-                                                wxshui += 1.6; bazipingfen -= 40; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.DodgerBlue; linkLabel47.Text = "申子辰三合水局"; 地支三合真假 = 1;
+                                                wxshui += 1.6; bazipingfen -= 40; this.BackColor = Color.DodgerBlue; linkLabel47.LinkColor = Color.DodgerBlue; linkLabel47.BackColor = Color.White; linkLabel47.Text = "申子辰三合水局"; 地支三合真假 = 1;
                                             }
                                         }
                                     }
@@ -35967,7 +35969,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (wshui == 1)
                                             {
-                                                wxshui += 1.6; bazipingfen -= 40; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.DodgerBlue; linkLabel47.Text = "申子辰三合水局"; 地支三合真假 = 1;
+                                                wxshui += 1.6; bazipingfen -= 40; this.BackColor = Color.DodgerBlue; linkLabel47.LinkColor = Color.DodgerBlue; linkLabel47.BackColor = Color.White; linkLabel47.Text = "申子辰三合水局"; 地支三合真假 = 1;
                                             }
                                         }
                                     }
@@ -35983,7 +35985,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (wshui == 1)
                                             {
-                                                wxshui += 1.6; bazipingfen -= 40; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.DodgerBlue; linkLabel47.Text = "申子辰三合水局"; 地支三合真假 = 1;
+                                                wxshui += 1.6; bazipingfen -= 40; this.BackColor = Color.DodgerBlue; linkLabel47.LinkColor = Color.DodgerBlue; linkLabel47.BackColor = Color.White; linkLabel47.Text = "申子辰三合水局"; 地支三合真假 = 1;
                                             }
                                         }
                                     }
@@ -36003,7 +36005,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (ntg == bing || ytg == bing || rtg == bing || stg == bing || ntg == ding || ytg == ding || rtg == ding || stg == ding || tghhuo == 1)
                                             {
-                                                wxhuo += 1.6; bazipingfen -= 40; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.Red; linkLabel47.Text = "寅午戌三合火局"; 地支三合真假 = 1;
+                                                wxhuo += 1.6; bazipingfen -= 40; this.BackColor = Color.Red; linkLabel47.LinkColor = Color.Red; linkLabel47.BackColor = Color.White; linkLabel47.Text = "寅午戌三合火局"; 地支三合真假 = 1;
                                             }
                                         }
                                     }
@@ -36019,7 +36021,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (ntg == bing || ytg == bing || rtg == bing || stg == bing || ntg == ding || ytg == ding || rtg == ding || stg == ding || tghhuo == 1)
                                             {
-                                                wxhuo += 1.6; bazipingfen -= 40; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.Red; linkLabel47.Text = "寅午戌三合火局"; 地支三合真假 = 1;
+                                                wxhuo += 1.6; bazipingfen -= 40; this.BackColor = Color.Red; linkLabel47.LinkColor = Color.Red; linkLabel47.BackColor = Color.White; linkLabel47.Text = "寅午戌三合火局"; 地支三合真假 = 1;
                                             }
                                         }
                                     }
@@ -36034,7 +36036,7 @@ namespace BaZiFuZuGongJu
                                             {
                                                 if (whuo == 1)
                                                 {
-                                                    wxhuo += 1.6; bazipingfen -= 40; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.Red; linkLabel47.Text = "寅午戌三合火局"; 地支三合真假 = 1;
+                                                    wxhuo += 1.6; bazipingfen -= 40; this.BackColor = Color.Red; linkLabel47.LinkColor = Color.Red; linkLabel47.BackColor = Color.White; linkLabel47.Text = "寅午戌三合火局"; 地支三合真假 = 1;
                                                 }
                                             }
                                         }
@@ -36050,7 +36052,7 @@ namespace BaZiFuZuGongJu
                                             {
                                                 if (whuo == 1)
                                                 {
-                                                    wxhuo += 1.6; bazipingfen -= 40; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.Red; linkLabel47.Text = "寅午戌三合火局"; 地支三合真假 = 1;
+                                                    wxhuo += 1.6; bazipingfen -= 40; this.BackColor = Color.Red; linkLabel47.LinkColor = Color.Red; linkLabel47.BackColor = Color.White; linkLabel47.Text = "寅午戌三合火局"; 地支三合真假 = 1;
                                                 }
                                             }
                                         }
@@ -36070,7 +36072,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (ntg == geng || ytg == geng || rtg == geng || stg == geng || ntg == xin || ytg == xin || rtg == xin || stg == xin || tghjin == 1)
                                             {
-                                                wxjin += 1.6; bazipingfen -= 40; linkLabel47.LinkColor = Color.Gold; linkLabel47.BackColor = Color.Black; linkLabel47.Text = "巳酉丑三合金局"; 地支三合真假 = 1;
+                                                wxjin += 1.6; bazipingfen -= 40; this.BackColor = Color.Gold; linkLabel47.LinkColor = Color.Gold; linkLabel47.BackColor = Color.Black; linkLabel47.Text = "巳酉丑三合金局"; 地支三合真假 = 1;
                                             }
                                         }
                                     }
@@ -36086,7 +36088,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (ntg == geng || ytg == geng || rtg == geng || stg == geng || ntg == xin || ytg == xin || rtg == xin || stg == xin || tghjin == 1)
                                             {
-                                                wxjin += 1.6; bazipingfen -= 40; linkLabel47.LinkColor = Color.Gold; linkLabel47.BackColor = Color.Black; linkLabel47.Text = "巳酉丑三合金局"; 地支三合真假 = 1;
+                                                wxjin += 1.6; bazipingfen -= 40; this.BackColor = Color.Gold; linkLabel47.LinkColor = Color.Gold; linkLabel47.BackColor = Color.Black; linkLabel47.Text = "巳酉丑三合金局"; 地支三合真假 = 1;
                                             }
                                         }
                                     }
@@ -36102,7 +36104,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (wjin == 1)
                                             {
-                                                wxjin += 1.6; bazipingfen -= 40; linkLabel47.LinkColor = Color.Gold; linkLabel47.BackColor = Color.Black; linkLabel47.Text = "巳酉丑三合金局"; 地支三合真假 = 1;
+                                                wxjin += 1.6; bazipingfen -= 40; this.BackColor = Color.Gold; linkLabel47.LinkColor = Color.Gold; linkLabel47.BackColor = Color.Black; linkLabel47.Text = "巳酉丑三合金局"; 地支三合真假 = 1;
                                             }
                                         }
                                     }
@@ -36118,7 +36120,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (wjin == 1)
                                             {
-                                                wxjin += 1.6; bazipingfen -= 40; linkLabel47.LinkColor = Color.Gold; linkLabel47.BackColor = Color.Black; linkLabel47.Text = "巳酉丑三合金局"; 地支三合真假 = 1;
+                                                wxjin += 1.6; bazipingfen -= 40; this.BackColor = Color.Gold; linkLabel47.LinkColor = Color.Gold; linkLabel47.BackColor = Color.Black; linkLabel47.Text = "巳酉丑三合金局"; 地支三合真假 = 1;
                                             }
                                         }
                                     }
@@ -36138,7 +36140,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (ntg == jia || ytg == jia || rtg == jia || stg == jia || ntg == yii || ytg == yii || rtg == yii || stg == yii || tghmu == 1)
                                             {
-                                                wxmu += 1.6; bazipingfen -= 40; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.Green; linkLabel47.Text = "亥卯未三合木局"; 地支三合真假 = 1;
+                                                wxmu += 1.6; bazipingfen -= 40; this.BackColor = Color.Green; linkLabel47.LinkColor = Color.Green; linkLabel47.BackColor = Color.White; linkLabel47.Text = "亥卯未三合木局"; 地支三合真假 = 1;
                                             }
                                         }
                                     }
@@ -36154,7 +36156,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (ntg == jia || ytg == jia || rtg == jia || stg == jia || ntg == yii || ytg == yii || rtg == yii || stg == yii || tghmu == 1)
                                             {
-                                                wxmu += 1.6; bazipingfen -= 40; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.Green; linkLabel47.Text = "亥卯未三合木局"; 地支三合真假 = 1;
+                                                wxmu += 1.6; bazipingfen -= 40; this.BackColor = Color.Green; linkLabel47.LinkColor = Color.Green; linkLabel47.BackColor = Color.White; linkLabel47.Text = "亥卯未三合木局"; 地支三合真假 = 1;
                                             }
                                         }
                                     }
@@ -36170,7 +36172,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (wmu == 1)
                                             {
-                                                wxmu += 1.6; bazipingfen -= 40; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.Green; linkLabel47.Text = "亥卯未三合木局"; 地支三合真假 = 1;
+                                                wxmu += 1.6; bazipingfen -= 40; this.BackColor = Color.Green; linkLabel47.LinkColor = Color.Green; linkLabel47.BackColor = Color.White; linkLabel47.Text = "亥卯未三合木局"; 地支三合真假 = 1;
                                             }
                                         }
                                     }
@@ -36186,7 +36188,7 @@ namespace BaZiFuZuGongJu
                                         {
                                             if (wmu == 1)
                                             {
-                                                wxmu += 1.6; bazipingfen -= 40; linkLabel47.LinkColor = Color.White; linkLabel47.BackColor = Color.Green; linkLabel47.Text = "亥卯未三合木局"; 地支三合真假 = 1;
+                                                wxmu += 1.6; bazipingfen -= 40; this.BackColor = Color.Green; linkLabel47.LinkColor = Color.Green; linkLabel47.BackColor = Color.White; linkLabel47.Text = "亥卯未三合木局"; 地支三合真假 = 1;
                                             }
                                         }
                                     }
@@ -49488,7 +49490,7 @@ namespace BaZiFuZuGongJu
                     }
 
                     string qiangro5 = linkLabel7hff.Text;
-                    linkLabel7hff.Text = buttonrg.Text + qiangro5;
+                    linkLabel7hff.Text = rtg + qiangro5;
                     if (rtg == jia || rtg == yii)
                     {
                         linkLabel7hff.LinkColor = Color.Green; linkLabel7hff.BackColor = Color.White;
@@ -53567,6 +53569,16 @@ namespace BaZiFuZuGongJu
                             {
                                 richTextBox1.Text += "年月干凶神被冲合加+1200，\r\n"; bazipingfen += 1200;
                             }
+                        }
+                    }
+                    //十神否极
+                    if (jia == jia)
+                    {
+                        if (button13.ForeColor == Color.Black && button17.ForeColor == Color.Black && button19.ForeColor == Color.Black && button22.ForeColor == Color.Black && button8.ForeColor == Color.Black && button16.ForeColor == Color.Black && button4.ForeColor == Color.Black)
+                        {
+                            richTextBox1.Text += "十神否极加+1500，\r\n"; bazipingfen += 1500;
+                            button13.ForeColor = Color.Red; button17.ForeColor = Color.Red; button19.ForeColor = Color.Red; button22.ForeColor = Color.Red; button8.ForeColor = Color.Red; button16.ForeColor = Color.Red; button4.ForeColor = Color.Red;
+                            linkLabel7hff.Text += ";=十神否极";
                         }
                     }
                     //输出
