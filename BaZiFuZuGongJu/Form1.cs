@@ -36738,6 +36738,639 @@ namespace BaZiFuZuGongJu
                     buttonshui.Text = "水" + shuistr;
                     buttonhuo.Text = "火" + huostr;
                 }
+                //命主强弱指数
+                if (jia == jia)
+                {
+                    double qiangro1 = 0;
+                    double qiangro2 = 0;
+
+                    if (rtg == jia || rtg == yii)
+                    {
+                        qiangro1 = wxmu + wxshui;
+                        qiangro2 = wxhuo + wxtu + wxjin;
+                        qiangro3 = qiangro1 - qiangro2;
+
+                        string qiangro4 = "";
+                        qiangro4 += qiangro3.ToString("0.0");
+                        if (qiangro3 > 0)
+                        {
+                            linkLabel7hff.Text = "木命强" + qiangro4;
+                        }
+                        if (qiangro3 <= 0)
+                        {
+                            linkLabel7hff.Text = "木命弱" + qiangro4;
+                        }
+                    }
+                    if (rtg == bing || rtg == ding)
+                    {
+                        qiangro1 = wxmu + wxhuo;
+                        qiangro2 = wxshui + wxtu + wxjin;
+                        qiangro3 = qiangro1 - qiangro2;
+                        string qiangro4 = "";
+                        qiangro4 += qiangro3.ToString("0.0");
+                        if (qiangro3 > 0)
+                        {
+                            linkLabel7hff.Text = "火命强" + qiangro4;
+                        }
+                        if (qiangro3 <= 0)
+                        {
+                            linkLabel7hff.Text = "火命弱" + qiangro4;
+                        }
+                    }
+                    if (rtg == wuu || rtg == jii)
+                    {
+                        qiangro1 = wxtu + wxhuo;
+                        qiangro2 = wxshui + wxmu + wxjin;
+                        qiangro3 = qiangro1 - qiangro2;
+                        string qiangro4 = "";
+                        qiangro4 += qiangro3.ToString("0.0");
+                        if (qiangro3 > 0)
+                        {
+                            linkLabel7hff.Text = "土命强" + qiangro4;
+                        }
+                        if (qiangro3 <= 0)
+                        {
+                            linkLabel7hff.Text = "土命弱" + qiangro4;
+                        }
+                    }
+                    if (rtg == geng || rtg == xin)
+                    {
+                        qiangro1 = wxtu + wxjin;
+                        qiangro2 = wxshui + wxmu + wxhuo;
+                        qiangro3 = qiangro1 - qiangro2;
+                        string qiangro4 = "";
+                        qiangro4 += qiangro3.ToString("0.0");
+                        if (qiangro3 > 0)
+                        {
+                            linkLabel7hff.Text = "金命强" + qiangro4;
+                        }
+                        if (qiangro3 <= 0)
+                        {
+                            linkLabel7hff.Text = "金命弱" + qiangro4;
+                        }
+                    }
+                    if (rtg == ren || rtg == gui)
+                    {
+                        qiangro1 = wxshui + wxjin;
+                        qiangro2 = wxtu + wxmu + wxhuo;
+                        qiangro3 = qiangro1 - qiangro2;
+                        string qiangro4 = "";
+                        qiangro4 += qiangro3.ToString("0.0");
+                        if (qiangro3 > 0)
+                        {
+                            linkLabel7hff.Text = "水命强" + qiangro4;
+                        }
+                        if (qiangro3 <= 0)
+                        {
+                            linkLabel7hff.Text = "水命弱" + qiangro4;
+                        }
+                    }
+
+                    string qiangro5 = linkLabel7hff.Text;
+                    linkLabel7hff.Text = rtg + qiangro5;
+                    if (rtg == jia || rtg == yii)
+                    {
+                        linkLabel7hff.LinkColor = Color.Green; linkLabel7hff.BackColor = Color.White;
+                    }
+                    if (rtg == bing || rtg == ding)
+                    {
+                        linkLabel7hff.LinkColor = Color.Red; linkLabel7hff.BackColor = Color.White;
+                    }
+                    if (rtg == wuu || rtg == jii)
+                    {
+                        linkLabel7hff.LinkColor = Color.Sienna; linkLabel7hff.BackColor = Color.White;
+                    }
+                    if (rtg == geng || rtg == xin)
+                    {
+                        linkLabel7hff.LinkColor = Color.Gold; linkLabel7hff.BackColor = Color.Black;
+                    }
+                    if (rtg == ren || rtg == gui)
+                    {
+                        linkLabel7hff.LinkColor = Color.DodgerBlue; linkLabel7hff.BackColor = Color.White;
+                    }
+
+                }
+                //定吉神
+                if(jia == jia) {
+                    if (rtg == jia || rtg == yii)
+                    {
+                        if (ydz == yin || ydz == mao || ydz == chen)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神春季生人寒气未退最喜火来暧局故冬春季流月吉神为火，金，土；其它季节为木，水，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神春季生人寒气未退最喜火来暧局故冬春吉神为火，金，土，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神木命身弱最喜木，水来助，然如流月在冬春季则吉神为火，金，土，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神木命身弱最喜木，水来助，\r\n";
+                                }
+                            }
+                        }
+                        if (ydz == sii || ydz == wuma || ydz == wei)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神夏季生人需要水来增智故冬春季流月吉神为土，金，火；其它季节为木，水，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神夏季生人需要水来增智故冬春季流月吉神为土，金，火，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神木命身弱最喜木，水来助，然如流月在冬春季则吉神为火，金，土，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神木命身弱最喜木，水来助，\r\n";
+                                }
+                            }
+                        }
+                        if (ydz == shen || ydz == you || ydz == xuu)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神秋季生人需要木气驱动故冬春季流月吉神为土，火，金；其它季节为木，水，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神秋季生人需要木气驱动故冬春季流月吉神为土，火，金，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神木命身弱最喜木，水来助，然如流月在冬春季则吉神为火，金，土，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神木命身弱最喜木，水来助，\r\n";
+                                }
+                            }
+                        }
+                        if (ydz == hai || ydz == zii || ydz == chou)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神冬季生人寒气正浓最喜火来暧局故冬春季流月吉神为火，土，金；其它季节为木，水，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神冬季生人寒气正浓最喜火来暧局故冬春季流月吉神为火，土，金，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神木命身弱最喜木，水来助，然如流月在冬春季则吉神为火，土，金，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神木命身弱最喜木，水来助，\r\n";
+                                }
+                            }
+                        }
+                    }
+                    if (rtg == bing || rtg == ding)
+                    {
+                        if (ydz == yin || ydz == mao || ydz == chen)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神春季生人寒气未退最喜金财故春夏季流月吉神为金，土，水；其它季节为火，木，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神春季生人寒气未退最喜金财故春夏季流月吉神为金，土，水，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神火命身弱最喜火，木来助，然如流月在冬春季则吉神为金，土，水，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神木命身弱最喜火，木来助，\r\n";
+                                }
+                            }
+                        }
+                        if (ydz == sii || ydz == wuma || ydz == wei)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神夏季生人需要水增火势故春夏吉神为水，金，土；其它季节为火，木，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神夏季生人需要水增火势故春夏吉神为水，金，土，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神火命身弱最喜火，木来助，然如流月在冬春季则吉神为金，土，水，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神木命身弱最喜火，木来助，\r\n";
+                                }
+                            }
+                        }
+                        if (ydz == shen || ydz == you || ydz == xuu)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神秋季生人需要木助火势故春夏吉神为水，金，土；其它季节为火，木，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神秋季生人需要木助火势故春夏吉神为水，金，土，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神火命身弱最喜火，木来助，然如流月在冬春季则吉神为金，土，水，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神木命身弱最喜火，木来助，\r\n";
+                                }
+                            }
+                        }
+                        if (ydz == hai || ydz == zii || ydz == chou)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神冬季生人火在水中燃，故火，木为吉神；春夏季节吉神为金，土，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神冬季生人火在水中燃，故火，木为吉神，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神冬季生人火在水中燃，故火，木为吉神；春夏季节吉神为金，土，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神木命身弱最喜火，木来助，\r\n";
+                                }
+                            }
+                        }
+
+                    }
+                    if (rtg == wuu || rtg == jii)
+                    {
+                        if (ydz == yin || ydz == mao || ydz == chen)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神春季生人寒气未退最喜火来暧局故秋冬春季流月吉神为火；流月辰未戌丑等吉神为金，水，木，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神春季生人寒气未退最喜火来暧局故秋冬春季流月吉神为金，水，木，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神春季生人寒气未退最喜火来暧局故秋冬春季流月吉神为火；流月辰未戌丑等吉神为金，水，木，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神土命身弱最喜土，火来助，\r\n";
+                                }
+                            }
+                        }
+                        if (ydz == sii || ydz == wuma || ydz == wei)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神夏季生人最喜吉神为水；流月辰未戌丑等吉神为金，水，木，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神夏季最喜吉神为金，火，木，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神夏季生人最喜吉神为水；流月辰未戌丑等吉神为金，水，木，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神土命身弱最喜土，火来助，\r\n";
+                                }
+                            }
+                        }
+                        if (ydz == shen || ydz == you || ydz == xuu)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神秋季生人最喜吉神为土，火；流月辰未戌丑等吉神为金，水，木，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神秋季生人最喜吉神为木，水，金，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神秋季生人最喜吉神为土，火；流月辰未戌丑等吉神为金，水，木，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神土命身弱最喜土，火来助，\r\n";
+                                }
+                            }
+                        }
+                        if (ydz == hai || ydz == zii || ydz == chou)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神冬季生人最喜吉神为火，土；流月辰未戌丑等吉神为金，水，木，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神冬季生人最喜吉神为木，金，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神冬季生人最喜吉神为火，土；流月辰未戌丑等吉神为金，水，木，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神土命身弱最喜土，火来助，\r\n";
+                                }
+                            }
+                        }
+
+                    }
+                    if (rtg == geng || rtg == xin)
+                    {
+                        if (ydz == yin || ydz == mao || ydz == chen)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神春季生人寒气未退最喜火来暧局故吉神为金，土；秋季流月辰未戌丑等吉神为木，火，水，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神春季生人寒气未退最喜火来暧局故吉神为火，水，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神春季生人寒气未退最喜火来暧局故吉神为金，土；秋季流月辰未戌丑等吉神为木，火，水，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神金命身弱最喜金，土来助，\r\n";
+                                }
+                            }
+                        }
+                        if (ydz == sii || ydz == wuma || ydz == wei)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神夏季生人最喜吉神为金，土；秋季流月辰未戌丑等吉神为木，火，水，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神夏季生人最喜吉神为水，木，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神夏季生人最喜吉神为金，土；秋季流月辰未戌丑等吉神为木，火，水，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神金命身弱最喜金，土来助，\r\n";
+                                }
+                            }
+                        }
+                        if (ydz == shen || ydz == you || ydz == xuu)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神秋季生人最喜吉神为木，火，水；其它流月吉神为金，土，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神秋季生人最喜吉神为木，火，水，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神秋季生人最喜吉神为木，火，水；其它流月吉神为金，土，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神金命身弱最喜金，土来助，\r\n";
+                                }
+                            }
+                        }
+                        if (ydz == hai || ydz == zii || ydz == chou)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神冬季生人寒意正浓最喜吉神为土，火；秋季流月辰未戌丑等吉神为木，火，水，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神冬季生人寒意正浓最喜吉神为土，火，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神冬季生人寒意正浓最喜吉神为土，火；秋季流月辰未戌丑等吉神为木，火，水，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神金命身弱最喜金，土来助，\r\n";
+                                }
+                            }
+                        }
+                    }
+                    if (rtg == ren || rtg == gui)
+                    {
+                        if (ydz == yin || ydz == mao || ydz == chen)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神春季生人寒气未退最喜火来暧局故吉神为火，金；流月辰未戌丑等吉神为水，金，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神春季生人寒气未退最喜火来暧局故吉神为火，土，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神春季生人寒气未退最喜火来暧局故吉神为火，金；流月辰未戌丑等吉神为水，金，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神水命身弱最喜水，金来助，\r\n";
+                                }
+                            }
+                        }
+                        if (ydz == sii || ydz == wuma || ydz == wei)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神夏季生人最喜吉神为水，金；流月辰未戌丑等吉神也为水，金，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神夏季生人最喜吉神为木，土，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神夏季生人最喜吉神为水，金；流月辰未戌丑等吉神也为水，金，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神水命身弱最喜水，金来助，\r\n";
+                                }
+                            }
+                        }
+                        if (ydz == shen || ydz == you || ydz == xuu)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神秋季生人最喜吉神为木，火；流月辰未戌丑等吉神为水，金，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神秋季生人最喜吉神为木，火，土，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神秋季生人最喜吉神为木，火；流月辰未戌丑等吉神为水，金，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神水命身弱最喜水，金来助，\r\n";
+                                }
+                            }
+                        }
+                        if (ydz == hai || ydz == zii || ydz == chou)
+                        {
+                            if (wangshuai >= 50)
+                            {
+                                if (qiangro3 <= 2)
+                                {
+                                    richTextBox1.Text += "定吉神冬季生人寒气逼人最喜吉神为火，土；流月辰未戌丑等吉神为水，金，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神冬季生人寒气逼人最喜吉神为火，土，木，\r\n";
+                                }
+                            }
+                            if (wangshuai < 50)
+                            {
+                                if (qiangro3 >= 0)
+                                {
+                                    richTextBox1.Text += "定吉神冬季生人寒气逼人最喜吉神为火，土；流月辰未戌丑等吉神为水，金，\r\n";
+                                }
+                                else
+                                {
+                                    richTextBox1.Text += "定吉神水命身弱最喜水，金来助，\r\n";
+                                }
+                            }
+                        }
+
+                    }
+                }
                 //显示神煞
                 if (jia == jia)
                 {
@@ -49401,118 +50034,7 @@ namespace BaZiFuZuGongJu
                     linkLabel25.Text = "命盘阴阳=阴" + yinstr + "阳" + yangstr;
 
                 }
-                //命主强弱指数
-                if (jia == jia)
-                {
-                    double qiangro1 = 0;
-                    double qiangro2 = 0;
 
-                    if (buttonrg.Text == jia || buttonrg.Text == yii)
-                    {
-                        qiangro1 = wxmu + wxshui;
-                        qiangro2 = wxhuo + wxtu + wxjin;
-                        qiangro3 = qiangro1 - qiangro2;
-
-                        string qiangro4 = "";
-                        qiangro4 += qiangro3.ToString("0.0");
-                        if (qiangro3 > 0)
-                        {
-                            linkLabel7hff.Text = "木命强" + qiangro4;
-                        }
-                        if (qiangro3 <= 0)
-                        {
-                            linkLabel7hff.Text = "木命弱" + qiangro4;
-                        }
-                    }
-                    if (buttonrg.Text == bing || buttonrg.Text == ding)
-                    {
-                        qiangro1 = wxmu + wxhuo;
-                        qiangro2 = wxshui + wxtu + wxjin;
-                        qiangro3 = qiangro1 - qiangro2;
-                        string qiangro4 = "";
-                        qiangro4 += qiangro3.ToString("0.0");
-                        if (qiangro3 > 0)
-                        {
-                            linkLabel7hff.Text = "火命强" + qiangro4;
-                        }
-                        if (qiangro3 <= 0)
-                        {
-                            linkLabel7hff.Text = "火命弱" + qiangro4;
-                        }
-                    }
-                    if (buttonrg.Text == wuu || buttonrg.Text == jii)
-                    {
-                        qiangro1 = wxtu + wxhuo;
-                        qiangro2 = wxshui + wxmu + wxjin;
-                        qiangro3 = qiangro1 - qiangro2;
-                        string qiangro4 = "";
-                        qiangro4 += qiangro3.ToString("0.0");
-                        if (qiangro3 > 0)
-                        {
-                            linkLabel7hff.Text = "土命强" + qiangro4;
-                        }
-                        if (qiangro3 <= 0)
-                        {
-                            linkLabel7hff.Text = "土命弱" + qiangro4;
-                        }
-                    }
-                    if (buttonrg.Text == geng || buttonrg.Text == xin)
-                    {
-                        qiangro1 = wxtu + wxjin;
-                        qiangro2 = wxshui + wxmu + wxhuo;
-                        qiangro3 = qiangro1 - qiangro2;
-                        string qiangro4 = "";
-                        qiangro4 += qiangro3.ToString("0.0");
-                        if (qiangro3 > 0)
-                        {
-                            linkLabel7hff.Text = "金命强" + qiangro4;
-                        }
-                        if (qiangro3 <= 0)
-                        {
-                            linkLabel7hff.Text = "金命弱" + qiangro4;
-                        }
-                    }
-                    if (buttonrg.Text == ren || buttonrg.Text == gui)
-                    {
-                        qiangro1 = wxshui + wxjin;
-                        qiangro2 = wxtu + wxmu + wxhuo;
-                        qiangro3 = qiangro1 - qiangro2;
-                        string qiangro4 = "";
-                        qiangro4 += qiangro3.ToString("0.0");
-                        if (qiangro3 > 0)
-                        {
-                            linkLabel7hff.Text = "水命强" + qiangro4;
-                        }
-                        if (qiangro3 <= 0)
-                        {
-                            linkLabel7hff.Text = "水命弱" + qiangro4;
-                        }
-                    }
-
-                    string qiangro5 = linkLabel7hff.Text;
-                    linkLabel7hff.Text = rtg + qiangro5;
-                    if (rtg == jia || rtg == yii)
-                    {
-                        linkLabel7hff.LinkColor = Color.Green; linkLabel7hff.BackColor = Color.White;
-                    }
-                    if (rtg == bing || rtg == ding)
-                    {
-                        linkLabel7hff.LinkColor = Color.Red; linkLabel7hff.BackColor = Color.White;
-                    }
-                    if (rtg == wuu || rtg == jii)
-                    {
-                        linkLabel7hff.LinkColor = Color.Sienna; linkLabel7hff.BackColor = Color.White;
-                    }
-                    if (rtg == geng || rtg == xin)
-                    {
-                        linkLabel7hff.LinkColor = Color.Gold; linkLabel7hff.BackColor = Color.Black;
-                    }
-                    if (rtg == ren || rtg == gui)
-                    {
-                        linkLabel7hff.LinkColor = Color.DodgerBlue; linkLabel7hff.BackColor = Color.White;
-                    }
-
-                }
                 //穷通宝鉴
                 if (jia == jia)
                 {
@@ -66985,7 +67507,7 @@ namespace BaZiFuZuGongJu
         private void buttongj_Click(object sender, EventArgs e)
         {
             //自述文本
-            string 自述文本 = "学习八字预测不用死记硬背。不用担心没时间。只要懂五行生克就可以学会。\r\n\r\n我之前的两个GITHUB号都不能登录了所以用分支更新。\r\nhttps://github.com/aaa2024-07-14/BaZiPaiPanGongJu\r\n三个小时学会看八字https://www.youtube.com/watch?v=Y1SfZ22-jPE&pp=ygUk5LiJ5Liq5bCP5pe25a2m5Lya55yL5YWr5a2X56ys5LiA6ZuG\r\n\r\n使用Lunar库实现了万年历级别的天干地支查询https://github.com/6tail/lunar-csharp\r\n\r\n新增加命局大运显示。\r\n\r\n以子时为次日的处理。天干冲的喜忌变化。同柱干支暗合.地支暗合。\r\n显示墓库运。自动识别方位和对应内脏。天干地支分阴阳五行五种颜色。\r\n自动判断,半三合.地支六冲,地支六害,地支六合,地支六破,地支三合,\r\n地支三会,地支相刑,拱合,天干冲,天干五合，拱合。流年和主命盘阴阳。\r\n半三合，地支六合,地支三合,地支三会,天干五合，拱合：五行色彩。\r\n十神：吉为红字：忌为黑字。自动判断日元强弱。十神等按钮中附注解。\r\n显示十神六亲。54个神煞显示。显示十二长生。排流年和主命盘显示强弱。\r\n天干冲的喜忌变化。十神六亲喜忌色彩与十神喜忌关联。\r\n集成了穷通宝鉴:可以显示四季五行命性。八字评分。\r\n增加四柱的五行纳音。流年副盘。四柱干支流转。 \r\n";
+            string 自述文本 = "学习八字预测不用死记硬背。不用担心没时间。只要懂五行生克就可以学会。\r\n\r\n我之前的两个GITHUB号都不能登录了所以用分支更新。\r\n\r\nhttps://github.com/aaa2024-07-14/BaZiPaiPanGongJu\r\n\r\n三个小时学会看八字https://www.youtube.com/watch?v=Y1SfZ22-jPE&pp=ygUk5LiJ5Liq5bCP5pe25a2m5Lya55yL5YWr5a2X56ys5LiA6ZuG\r\n\r\n使用Lunar库实现了万年历级别的天干地支查询https://github.com/6tail/lunar-csharp\r\n\r\n新增加命局大运显示。\r\n\r\n定吉神。天干冲的喜忌变化。同柱干支暗合.地支暗合。十神否极。\r\n显示墓库运。自动识别方位和对应内脏。天干地支分阴阳五行五种颜色。\r\n自动判断,半三合.地支六冲,地支六害,地支六合,地支六破,地支三合,\r\n地支三会,地支相刑,拱合,天干冲,天干五合，拱合。流年和主命盘阴阳。\r\n半三合，地支六合,地支三合,地支三会,天干五合，拱合：五行色彩。\r\n十神：吉为红字：忌为黑字。自动判断日元强弱。十神等按钮中附注解。\r\n显示十神六亲。54个神煞显示。显示十二长生。排流年和主命盘显示强弱。\r\n天干冲的喜忌变化。十神六亲喜忌色彩与十神喜忌关联。\r\n集成了穷通宝鉴:可以显示四季五行命性。八字评分。\r\n增加四柱的五行纳音。流年副盘。四柱干支流转。 \r\n";
             if (wenben == 1)
             {
                 button56.Focus(); button56_Click(this, new EventArgs());
@@ -69084,7 +69606,7 @@ namespace BaZiFuZuGongJu
             wenben = 1; buttongj.Text = "关闭文本";
             richTextBox1.Location = new Point(0, 36);
             richTextBox1.Height = 975; richTextBox1.Width = 1920;
-            richTextBox1.Text = "土，中壮年时期，缺少，多颠沛流离不安定，过多难有出头天或冥顽不灵。\r\n\r\n5、6、15、16、25、26、35、36数/划属土";
+            richTextBox1.Text = "土，中壮年时期，缺少，多颠沛流离不安定，过多难有出头天或冥顽不灵但包容性高。\r\n\r\n5、6、15、16、25、26、35、36数/划属土";
 
         }
 
