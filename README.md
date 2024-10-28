@@ -8,11 +8,6 @@
 ![Snipaste_2024-10-28_16-06-11](https://github.com/user-attachments/assets/fbf0a894-0636-41a0-900f-cd60c707041e)
 
 
-八字排盘工具4K版-2024-09-04。（万年历版本1.5.11）
-
-<img width="1920" alt="Snipaste_2024-09-04_20-41-15" src="https://github.com/user-attachments/assets/769a32fe-8c27-48c6-b5bd-b518194412ff">
-
-
 此版本解决了高分辨率下的显示问题。
 学习八字预测不用死记硬背。不用担心没时间。只要懂五行生克就可以学会。
 
