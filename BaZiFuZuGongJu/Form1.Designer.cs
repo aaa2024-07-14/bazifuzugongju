@@ -255,6 +255,7 @@
             buttoncsdz1 = new Button();
             button1 = new Button();
             panel1 = new Panel();
+            labeljishen = new Label();
             tableLayoutPanel1 = new TableLayoutPanel();
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDownmonth).BeginInit();
@@ -2424,7 +2425,7 @@
             // buttoncs2
             // 
             buttoncs2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs2.Location = new Point(653, 182);
+            buttoncs2.Location = new Point(653, 165);
             buttoncs2.Name = "buttoncs2";
             buttoncs2.Size = new Size(75, 36);
             buttoncs2.TabIndex = 243;
@@ -2435,7 +2436,7 @@
             // buttoncs4
             // 
             buttoncs4.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs4.Location = new Point(815, 182);
+            buttoncs4.Location = new Point(815, 165);
             buttoncs4.Name = "buttoncs4";
             buttoncs4.Size = new Size(75, 36);
             buttoncs4.TabIndex = 242;
@@ -2446,7 +2447,7 @@
             // buttoncs3
             // 
             buttoncs3.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs3.Location = new Point(734, 182);
+            buttoncs3.Location = new Point(734, 165);
             buttoncs3.Name = "buttoncs3";
             buttoncs3.Size = new Size(75, 36);
             buttoncs3.TabIndex = 241;
@@ -2457,7 +2458,7 @@
             // buttoncs1
             // 
             buttoncs1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs1.Location = new Point(572, 182);
+            buttoncs1.Location = new Point(572, 165);
             buttoncs1.Name = "buttoncs1";
             buttoncs1.Size = new Size(75, 36);
             buttoncs1.TabIndex = 240;
@@ -2468,7 +2469,7 @@
             // buttoncs6
             // 
             buttoncs6.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs6.Location = new Point(977, 182);
+            buttoncs6.Location = new Point(977, 165);
             buttoncs6.Name = "buttoncs6";
             buttoncs6.Size = new Size(75, 36);
             buttoncs6.TabIndex = 247;
@@ -2479,7 +2480,7 @@
             // buttoncs8
             // 
             buttoncs8.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs8.Location = new Point(1139, 182);
+            buttoncs8.Location = new Point(1139, 165);
             buttoncs8.Name = "buttoncs8";
             buttoncs8.Size = new Size(75, 36);
             buttoncs8.TabIndex = 246;
@@ -2490,7 +2491,7 @@
             // buttoncs7
             // 
             buttoncs7.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs7.Location = new Point(1058, 182);
+            buttoncs7.Location = new Point(1058, 165);
             buttoncs7.Name = "buttoncs7";
             buttoncs7.Size = new Size(75, 36);
             buttoncs7.TabIndex = 245;
@@ -2501,7 +2502,7 @@
             // buttoncs5
             // 
             buttoncs5.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs5.Location = new Point(896, 182);
+            buttoncs5.Location = new Point(896, 165);
             buttoncs5.Name = "buttoncs5";
             buttoncs5.Size = new Size(75, 36);
             buttoncs5.TabIndex = 244;
@@ -2512,7 +2513,7 @@
             // buttoncs10
             // 
             buttoncs10.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs10.Location = new Point(1301, 182);
+            buttoncs10.Location = new Point(1301, 165);
             buttoncs10.Name = "buttoncs10";
             buttoncs10.Size = new Size(75, 36);
             buttoncs10.TabIndex = 251;
@@ -2523,7 +2524,7 @@
             // buttoncs12
             // 
             buttoncs12.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs12.Location = new Point(1463, 182);
+            buttoncs12.Location = new Point(1463, 165);
             buttoncs12.Name = "buttoncs12";
             buttoncs12.Size = new Size(75, 36);
             buttoncs12.TabIndex = 250;
@@ -2534,7 +2535,7 @@
             // buttoncs11
             // 
             buttoncs11.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs11.Location = new Point(1382, 182);
+            buttoncs11.Location = new Point(1382, 165);
             buttoncs11.Name = "buttoncs11";
             buttoncs11.Size = new Size(75, 36);
             buttoncs11.TabIndex = 249;
@@ -2545,7 +2546,7 @@
             // buttoncs9
             // 
             buttoncs9.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs9.Location = new Point(1220, 182);
+            buttoncs9.Location = new Point(1220, 165);
             buttoncs9.Name = "buttoncs9";
             buttoncs9.Size = new Size(75, 36);
             buttoncs9.TabIndex = 248;
@@ -2556,7 +2557,7 @@
             // buttoncsss10
             // 
             buttoncsss10.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsss10.Location = new Point(1301, 56);
+            buttoncsss10.Location = new Point(1301, 39);
             buttoncsss10.Name = "buttoncsss10";
             buttoncsss10.Size = new Size(75, 36);
             buttoncsss10.TabIndex = 263;
@@ -2566,7 +2567,7 @@
             // buttoncsss12
             // 
             buttoncsss12.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsss12.Location = new Point(1463, 56);
+            buttoncsss12.Location = new Point(1463, 39);
             buttoncsss12.Name = "buttoncsss12";
             buttoncsss12.Size = new Size(75, 36);
             buttoncsss12.TabIndex = 262;
@@ -2576,7 +2577,7 @@
             // buttoncsss11
             // 
             buttoncsss11.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsss11.Location = new Point(1382, 56);
+            buttoncsss11.Location = new Point(1382, 39);
             buttoncsss11.Name = "buttoncsss11";
             buttoncsss11.Size = new Size(75, 36);
             buttoncsss11.TabIndex = 261;
@@ -2586,7 +2587,7 @@
             // buttoncsss9
             // 
             buttoncsss9.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsss9.Location = new Point(1220, 56);
+            buttoncsss9.Location = new Point(1220, 39);
             buttoncsss9.Name = "buttoncsss9";
             buttoncsss9.Size = new Size(75, 36);
             buttoncsss9.TabIndex = 260;
@@ -2596,7 +2597,7 @@
             // buttoncsss6
             // 
             buttoncsss6.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsss6.Location = new Point(977, 56);
+            buttoncsss6.Location = new Point(977, 39);
             buttoncsss6.Name = "buttoncsss6";
             buttoncsss6.Size = new Size(75, 36);
             buttoncsss6.TabIndex = 259;
@@ -2606,7 +2607,7 @@
             // buttoncsss8
             // 
             buttoncsss8.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsss8.Location = new Point(1139, 56);
+            buttoncsss8.Location = new Point(1139, 39);
             buttoncsss8.Name = "buttoncsss8";
             buttoncsss8.Size = new Size(75, 36);
             buttoncsss8.TabIndex = 258;
@@ -2616,7 +2617,7 @@
             // buttoncsss7
             // 
             buttoncsss7.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsss7.Location = new Point(1058, 56);
+            buttoncsss7.Location = new Point(1058, 39);
             buttoncsss7.Name = "buttoncsss7";
             buttoncsss7.Size = new Size(75, 36);
             buttoncsss7.TabIndex = 257;
@@ -2626,7 +2627,7 @@
             // buttoncsss5
             // 
             buttoncsss5.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsss5.Location = new Point(896, 56);
+            buttoncsss5.Location = new Point(896, 39);
             buttoncsss5.Name = "buttoncsss5";
             buttoncsss5.Size = new Size(75, 36);
             buttoncsss5.TabIndex = 256;
@@ -2636,7 +2637,7 @@
             // buttoncsss2
             // 
             buttoncsss2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsss2.Location = new Point(653, 56);
+            buttoncsss2.Location = new Point(653, 39);
             buttoncsss2.Name = "buttoncsss2";
             buttoncsss2.Size = new Size(75, 36);
             buttoncsss2.TabIndex = 255;
@@ -2646,7 +2647,7 @@
             // buttoncsss4
             // 
             buttoncsss4.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsss4.Location = new Point(815, 56);
+            buttoncsss4.Location = new Point(815, 39);
             buttoncsss4.Name = "buttoncsss4";
             buttoncsss4.Size = new Size(75, 36);
             buttoncsss4.TabIndex = 254;
@@ -2656,7 +2657,7 @@
             // buttoncsss3
             // 
             buttoncsss3.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsss3.Location = new Point(734, 56);
+            buttoncsss3.Location = new Point(734, 39);
             buttoncsss3.Name = "buttoncsss3";
             buttoncsss3.Size = new Size(75, 36);
             buttoncsss3.TabIndex = 253;
@@ -2666,7 +2667,7 @@
             // buttoncsss1
             // 
             buttoncsss1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsss1.Location = new Point(572, 56);
+            buttoncsss1.Location = new Point(572, 39);
             buttoncsss1.Name = "buttoncsss1";
             buttoncsss1.Size = new Size(75, 36);
             buttoncsss1.TabIndex = 252;
@@ -2676,7 +2677,7 @@
             // buttoncstg10
             // 
             buttoncstg10.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncstg10.Location = new Point(1317, 98);
+            buttoncstg10.Location = new Point(1317, 81);
             buttoncstg10.Name = "buttoncstg10";
             buttoncstg10.Size = new Size(42, 36);
             buttoncstg10.TabIndex = 275;
@@ -2686,7 +2687,7 @@
             // buttoncstg12
             // 
             buttoncstg12.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncstg12.Location = new Point(1479, 98);
+            buttoncstg12.Location = new Point(1479, 81);
             buttoncstg12.Name = "buttoncstg12";
             buttoncstg12.Size = new Size(42, 36);
             buttoncstg12.TabIndex = 274;
@@ -2696,7 +2697,7 @@
             // buttoncstg11
             // 
             buttoncstg11.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncstg11.Location = new Point(1398, 98);
+            buttoncstg11.Location = new Point(1398, 81);
             buttoncstg11.Name = "buttoncstg11";
             buttoncstg11.Size = new Size(42, 36);
             buttoncstg11.TabIndex = 273;
@@ -2706,7 +2707,7 @@
             // buttoncstg9
             // 
             buttoncstg9.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncstg9.Location = new Point(1236, 98);
+            buttoncstg9.Location = new Point(1236, 81);
             buttoncstg9.Name = "buttoncstg9";
             buttoncstg9.Size = new Size(42, 36);
             buttoncstg9.TabIndex = 272;
@@ -2716,7 +2717,7 @@
             // buttoncstg6
             // 
             buttoncstg6.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncstg6.Location = new Point(993, 98);
+            buttoncstg6.Location = new Point(993, 81);
             buttoncstg6.Name = "buttoncstg6";
             buttoncstg6.Size = new Size(42, 36);
             buttoncstg6.TabIndex = 271;
@@ -2726,7 +2727,7 @@
             // buttoncstg8
             // 
             buttoncstg8.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncstg8.Location = new Point(1155, 98);
+            buttoncstg8.Location = new Point(1155, 81);
             buttoncstg8.Name = "buttoncstg8";
             buttoncstg8.Size = new Size(42, 36);
             buttoncstg8.TabIndex = 270;
@@ -2736,7 +2737,7 @@
             // buttoncstg7
             // 
             buttoncstg7.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncstg7.Location = new Point(1074, 98);
+            buttoncstg7.Location = new Point(1074, 81);
             buttoncstg7.Name = "buttoncstg7";
             buttoncstg7.Size = new Size(42, 36);
             buttoncstg7.TabIndex = 269;
@@ -2746,7 +2747,7 @@
             // buttoncstg5
             // 
             buttoncstg5.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncstg5.Location = new Point(912, 98);
+            buttoncstg5.Location = new Point(912, 81);
             buttoncstg5.Name = "buttoncstg5";
             buttoncstg5.Size = new Size(42, 36);
             buttoncstg5.TabIndex = 268;
@@ -2756,7 +2757,7 @@
             // buttoncstg2
             // 
             buttoncstg2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncstg2.Location = new Point(669, 98);
+            buttoncstg2.Location = new Point(669, 81);
             buttoncstg2.Name = "buttoncstg2";
             buttoncstg2.Size = new Size(42, 36);
             buttoncstg2.TabIndex = 267;
@@ -2766,7 +2767,7 @@
             // buttoncstg4
             // 
             buttoncstg4.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncstg4.Location = new Point(831, 98);
+            buttoncstg4.Location = new Point(831, 81);
             buttoncstg4.Name = "buttoncstg4";
             buttoncstg4.Size = new Size(42, 36);
             buttoncstg4.TabIndex = 266;
@@ -2776,7 +2777,7 @@
             // buttoncstg3
             // 
             buttoncstg3.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncstg3.Location = new Point(750, 98);
+            buttoncstg3.Location = new Point(750, 81);
             buttoncstg3.Name = "buttoncstg3";
             buttoncstg3.Size = new Size(42, 36);
             buttoncstg3.TabIndex = 265;
@@ -2786,7 +2787,7 @@
             // buttoncstg1
             // 
             buttoncstg1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncstg1.Location = new Point(588, 98);
+            buttoncstg1.Location = new Point(588, 81);
             buttoncstg1.Name = "buttoncstg1";
             buttoncstg1.Size = new Size(42, 36);
             buttoncstg1.TabIndex = 264;
@@ -2796,7 +2797,7 @@
             // buttoncsdz10
             // 
             buttoncsdz10.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsdz10.Location = new Point(1317, 140);
+            buttoncsdz10.Location = new Point(1317, 123);
             buttoncsdz10.Name = "buttoncsdz10";
             buttoncsdz10.Size = new Size(42, 36);
             buttoncsdz10.TabIndex = 287;
@@ -2806,7 +2807,7 @@
             // buttoncsdz12
             // 
             buttoncsdz12.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsdz12.Location = new Point(1479, 140);
+            buttoncsdz12.Location = new Point(1479, 123);
             buttoncsdz12.Name = "buttoncsdz12";
             buttoncsdz12.Size = new Size(42, 36);
             buttoncsdz12.TabIndex = 286;
@@ -2816,7 +2817,7 @@
             // buttoncsdz11
             // 
             buttoncsdz11.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsdz11.Location = new Point(1398, 140);
+            buttoncsdz11.Location = new Point(1398, 123);
             buttoncsdz11.Name = "buttoncsdz11";
             buttoncsdz11.Size = new Size(42, 36);
             buttoncsdz11.TabIndex = 285;
@@ -2826,7 +2827,7 @@
             // buttoncsdz9
             // 
             buttoncsdz9.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsdz9.Location = new Point(1236, 140);
+            buttoncsdz9.Location = new Point(1236, 123);
             buttoncsdz9.Name = "buttoncsdz9";
             buttoncsdz9.Size = new Size(42, 36);
             buttoncsdz9.TabIndex = 284;
@@ -2836,7 +2837,7 @@
             // buttoncsdz6
             // 
             buttoncsdz6.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsdz6.Location = new Point(993, 140);
+            buttoncsdz6.Location = new Point(993, 123);
             buttoncsdz6.Name = "buttoncsdz6";
             buttoncsdz6.Size = new Size(42, 36);
             buttoncsdz6.TabIndex = 283;
@@ -2846,7 +2847,7 @@
             // buttoncsdz8
             // 
             buttoncsdz8.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsdz8.Location = new Point(1155, 140);
+            buttoncsdz8.Location = new Point(1155, 123);
             buttoncsdz8.Name = "buttoncsdz8";
             buttoncsdz8.Size = new Size(42, 36);
             buttoncsdz8.TabIndex = 282;
@@ -2856,7 +2857,7 @@
             // buttoncsdz7
             // 
             buttoncsdz7.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsdz7.Location = new Point(1074, 140);
+            buttoncsdz7.Location = new Point(1074, 123);
             buttoncsdz7.Name = "buttoncsdz7";
             buttoncsdz7.Size = new Size(42, 36);
             buttoncsdz7.TabIndex = 281;
@@ -2866,7 +2867,7 @@
             // buttoncsdz5
             // 
             buttoncsdz5.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsdz5.Location = new Point(912, 140);
+            buttoncsdz5.Location = new Point(912, 123);
             buttoncsdz5.Name = "buttoncsdz5";
             buttoncsdz5.Size = new Size(42, 36);
             buttoncsdz5.TabIndex = 280;
@@ -2876,7 +2877,7 @@
             // buttoncsdz2
             // 
             buttoncsdz2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsdz2.Location = new Point(669, 140);
+            buttoncsdz2.Location = new Point(669, 123);
             buttoncsdz2.Name = "buttoncsdz2";
             buttoncsdz2.Size = new Size(42, 36);
             buttoncsdz2.TabIndex = 279;
@@ -2886,7 +2887,7 @@
             // buttoncsdz4
             // 
             buttoncsdz4.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsdz4.Location = new Point(831, 140);
+            buttoncsdz4.Location = new Point(831, 123);
             buttoncsdz4.Name = "buttoncsdz4";
             buttoncsdz4.Size = new Size(42, 36);
             buttoncsdz4.TabIndex = 278;
@@ -2896,7 +2897,7 @@
             // buttoncsdz3
             // 
             buttoncsdz3.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsdz3.Location = new Point(750, 140);
+            buttoncsdz3.Location = new Point(750, 123);
             buttoncsdz3.Name = "buttoncsdz3";
             buttoncsdz3.Size = new Size(42, 36);
             buttoncsdz3.TabIndex = 277;
@@ -2906,7 +2907,7 @@
             // buttoncsdz1
             // 
             buttoncsdz1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncsdz1.Location = new Point(588, 140);
+            buttoncsdz1.Location = new Point(588, 123);
             buttoncsdz1.Name = "buttoncsdz1";
             buttoncsdz1.Size = new Size(42, 36);
             buttoncsdz1.TabIndex = 276;
@@ -2929,6 +2930,7 @@
             // panel1
             // 
             panel1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            panel1.Controls.Add(labeljishen);
             panel1.Controls.Add(buttongj);
             panel1.Controls.Add(richTextBox1);
             panel1.Controls.Add(buttonnz);
@@ -3158,6 +3160,18 @@
             panel1.Size = new Size(1920, 1080);
             panel1.TabIndex = 289;
             // 
+            // labeljishen
+            // 
+            labeljishen.AutoSize = true;
+            labeljishen.BackColor = Color.White;
+            labeljishen.Font = new Font("微软雅黑", 15F, FontStyle.Bold, GraphicsUnit.Point, 134);
+            labeljishen.ForeColor = Color.Red;
+            labeljishen.Location = new Point(575, 202);
+            labeljishen.Name = "labeljishen";
+            labeljishen.Size = new Size(72, 27);
+            labeljishen.TabIndex = 289;
+            labeljishen.Text = "定吉神";
+            // 
             // tableLayoutPanel1
             // 
             tableLayoutPanel1.ColumnCount = 1;
@@ -3184,7 +3198,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-10-25";
+            Text = "八字排盘工具v2024-10-28";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).EndInit();
@@ -3425,5 +3439,6 @@
         private Button button1;
         private Panel panel1;
         private TableLayoutPanel tableLayoutPanel1;
+        private Label labeljishen;
     }
 }
