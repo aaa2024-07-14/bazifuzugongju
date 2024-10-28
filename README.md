@@ -4,7 +4,8 @@
 三个小时学会看八字https://www.youtube.com/watch?v=Y1SfZ22-jPE&pp=ygUk5LiJ5Liq5bCP5pe25a2m5Lya55yL5YWr5a2X56ys5LiA6ZuG
 使用Lunar库实现了万年历级别的天干地支查询https://github.com/6tail/lunar-csharp
 
-![Snipaste_2024-09-05_18-35-11](https://github.com/user-attachments/assets/65d92aac-3c54-436a-8bfd-6d4acdb7889f)
+
+![Snipaste_2024-10-28_12-49-54](https://github.com/user-attachments/assets/5a26e4fb-227c-45fa-8e4f-e8fc92052ae9)
 
 
 八字排盘工具4K版-2024-09-04。（万年历版本1.5.11）
