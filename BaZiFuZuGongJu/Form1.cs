@@ -34339,7 +34339,7 @@ namespace BaZiFuZuGongJu
                     }
                     if (ydz == you)
                     {
-                        wxjin += 7;
+                        wxjin += 5;
                     }
                     if (ydz == sii)
                     {
@@ -34355,11 +34355,11 @@ namespace BaZiFuZuGongJu
                     }
                     if (ydz == zii)
                     {
-                        wxshui += 8;
+                        wxshui += 6;
                     }
                     if (ydz == mao)
                     {
-                        wxmu += 7;
+                        wxmu += 5;
                     }
                     if (rdz == chen)
                     {
@@ -36857,521 +36857,148 @@ namespace BaZiFuZuGongJu
                 {
                     if (rtg == jia || rtg == yii)
                     {
-                        if (ydz == yin || ydz == mao || ydz == chen)
+                        if (wangshuai >= 50)
                         {
-                            if (wangshuai >= 50)
+                            if (wxjin <= wxhuo && wxjin <= wxtu)
                             {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神火，金，土；秋季流月辰未戌丑为水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神为火，金，土";
-                                }
+                                labeljishen.Text += "定吉神=金"; labeljishen.ForeColor = Color.Gold; labeljishen.BackColor = Color.Black;
                             }
-                            if (wangshuai < 50)
+                            else if (wxhuo <= wxjin && wxhuo <= wxtu)
                             {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神火；秋季流月辰未戌丑为木，水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神木，水助";
-                                }
+                                labeljishen.Text += "定吉神=火"; labeljishen.ForeColor = Color.Red; labeljishen.BackColor = Color.White;
+                            }
+                            else
+                            {
+                                labeljishen.Text += "定吉神=土"; labeljishen.ForeColor = Color.Sienna; labeljishen.BackColor = Color.White;
                             }
                         }
-                        if (ydz == sii || ydz == wuma || ydz == wei)
+                        if (wangshuai < 50)
                         {
-                            if (wangshuai >= 50)
+                            if (wxshui <= wxmu)
                             {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神土，金；秋季流月辰未戌丑为木，水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神为土，金";
-                                }
+                                labeljishen.Text += "定吉神=水"; labeljishen.ForeColor = Color.DodgerBlue; labeljishen.BackColor = Color.White;
                             }
-                            if (wangshuai < 50)
+                            else
                             {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神土，金；秋季流月辰未戌丑为木，水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神木，水助";
-                                }
-                            }
-                        }
-                        if (ydz == shen || ydz == you || ydz == xuu)
-                        {
-                            if (wangshuai >= 50)
-                            {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神土，火；秋季流月辰未戌丑为木，水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神为土，火";
-                                }
-                            }
-                            if (wangshuai < 50)
-                            {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神土，火；秋季流月辰未戌丑为木，水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神木，水助";
-                                }
-                            }
-                        }
-                        if (ydz == hai || ydz == zii || ydz == chou)
-                        {
-                            if (wangshuai >= 50)
-                            {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神火，土，金秋季流月辰未戌丑为木，水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神为火，土，金";
-                                }
-                            }
-                            if (wangshuai < 50)
-                            {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神火，土，金秋季流月辰未戌丑为木，水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神木，水助";
-                                }
+                                labeljishen.Text += "定吉神=木"; labeljishen.ForeColor = Color.Green; labeljishen.BackColor = Color.White;
                             }
                         }
                     }
                     if (rtg == bing || rtg == ding)
                     {
-                        if (ydz == yin || ydz == mao || ydz == chen)
+                        if (wangshuai >= 50)
                         {
-                            if (wangshuai >= 50)
+                            if (wxtu <= wxshui && wxtu <= wxjin)
                             {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神金，土，水；冬流月辰未戌丑为火，木";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神为金，土，水";
-                                }
+                                labeljishen.Text += "定吉神=土"; labeljishen.ForeColor = Color.Sienna; labeljishen.BackColor = Color.White;
                             }
-                            if (wangshuai < 50)
+                            else if (wxjin <= wxtu && wxjin <= wxshui)
                             {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神火，冬流月辰未戌丑为火，木";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神火，木助";
-                                }
+                                labeljishen.Text += "定吉神=金"; labeljishen.ForeColor = Color.Gold; labeljishen.BackColor = Color.Black;
+                            }
+                            else
+                            {
+                                labeljishen.Text += "定吉神=水"; labeljishen.ForeColor = Color.DodgerBlue; labeljishen.BackColor = Color.White;
                             }
                         }
-                        if (ydz == sii || ydz == wuma || ydz == wei)
+                        if (wangshuai < 50)
                         {
-                            if (wangshuai >= 50)
+                            if (wxmu <= wxhuo)
                             {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神水，金，土；冬流月辰未戌丑为火，木";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神为水，金，土";
-                                }
+                                labeljishen.Text += "定吉神=木"; labeljishen.ForeColor = Color.Green; labeljishen.BackColor = Color.White;
                             }
-                            if (wangshuai < 50)
+                            else
                             {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神火助，冬流月辰未戌丑为火，木";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神火，木助";
-                                }
+                                labeljishen.Text += "定吉神=火"; labeljishen.ForeColor = Color.Red; labeljishen.BackColor = Color.White;
                             }
                         }
-                        if (ydz == shen || ydz == you || ydz == xuu)
-                        {
-                            if (wangshuai >= 50)
-                            {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神水，土；冬流月辰未戌丑为火，木";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神为水，木，火";
-                                }
-                            }
-                            if (wangshuai < 50)
-                            {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神木助，冬流月辰未戌丑为火，木";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神火，木助";
-                                }
-                            }
-                        }
-                        if (ydz == hai || ydz == zii || ydz == chou)
-                        {
-                            if (wangshuai >= 50)
-                            {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=冬流月辰未戌丑吉神为火，木";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神金，土为吉神";
-                                }
-                            }
-                            if (wangshuai < 50)
-                            {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神冬流月辰未戌丑为火，木";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神火，木助";
-                                }
-                            }
-                        }
-
                     }
                     if (rtg == wuu || rtg == jii)
                     {
-                        if (ydz == yin || ydz == mao || ydz == chen)
+                        if (wangshuai >= 50)
                         {
-                            if (wangshuai >= 50)
+                            if (wxmu <= wxshui && wxmu <= wxjin)
                             {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神为火，土，冬月辰未戌丑等为金，水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神火，金";
-                                }
+                                labeljishen.Text += "定吉神=木"; labeljishen.ForeColor = Color.Green; labeljishen.BackColor = Color.White;
                             }
-                            if (wangshuai < 50)
+                            else if (wxjin <= wxmu && wxjin <= wxshui)
                             {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神火，土；冬月辰未戌丑等为金，水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神土命身土，火助";
-                                }
+                                labeljishen.Text += "定吉神=金"; labeljishen.ForeColor = Color.Gold; labeljishen.BackColor = Color.Black;
+                            }
+                            else
+                            {
+                                labeljishen.Text += "定吉神=水"; labeljishen.ForeColor = Color.DodgerBlue; labeljishen.BackColor = Color.White;
                             }
                         }
-                        if (ydz == sii || ydz == wuma || ydz == wei)
+                        if (wangshuai < 50)
                         {
-                            if (wangshuai >= 50)
+                            if (wxtu <= wxhuo)
                             {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神为水冬月辰未戌丑等为金，木，水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神为水，金，木";
-                                }
+                                labeljishen.Text += "定吉神=土"; labeljishen.ForeColor = Color.Sienna; labeljishen.BackColor = Color.White;
                             }
-                            if (wangshuai < 50)
+                            else
                             {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神为水冬月辰未戌丑等为金，木，水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神土命身土，火助";
-                                }
+                                labeljishen.Text += "定吉神=火"; labeljishen.ForeColor = Color.Red; labeljishen.BackColor = Color.White;
                             }
                         }
-                        if (ydz == shen || ydz == you || ydz == xuu)
-                        {
-                            if (wangshuai >= 50)
-                            {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神为木冬月辰未戌丑等为金，木，水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神为木，水";
-                                }
-                            }
-                            if (wangshuai < 50)
-                            {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神为土冬月辰未戌丑等为金，木，水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神土命身土，火助";
-                                }
-                            }
-                        }
-                        if (ydz == hai || ydz == zii || ydz == chou)
-                        {
-                            if (wangshuai >= 50)
-                            {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神火，冬月辰未戌丑等为金，木，水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神木，金";
-                                }
-                            }
-                            if (wangshuai < 50)
-                            {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神为火冬月辰未戌丑等为金，木，水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神为土，火助";
-                                }
-                            }
-                        }
-
                     }
                     if (rtg == geng || rtg == xin)
                     {
-                        if (ydz == yin || ydz == mao || ydz == chen)
+                        if (wangshuai >= 50)
                         {
-                            if (wangshuai >= 50)
+                            if (wxmu <= wxhuo && wxmu <= wxshui)
                             {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神火；秋季流月辰未戌丑等为火，木。水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神为火，水";
-                                }
+                                labeljishen.Text += "定吉神=木"; labeljishen.ForeColor = Color.Green; labeljishen.BackColor = Color.White;
                             }
-                            if (wangshuai < 50)
+                            else if (wxhuo <= wxmu && wxhuo <= wxshui)
                             {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神火；秋季流月辰未戌丑等为火，木。水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神金命身金，土助";
-                                }
+                                labeljishen.Text += "定吉神=火"; labeljishen.ForeColor = Color.Red; labeljishen.BackColor = Color.White;
+                            }
+                            else
+                            {
+                                labeljishen.Text += "定吉神=水"; labeljishen.ForeColor = Color.DodgerBlue; labeljishen.BackColor = Color.White;
                             }
                         }
-                        if (ydz == sii || ydz == wuma || ydz == wei)
+                        if (wangshuai < 50)
                         {
-                            if (wangshuai >= 50)
+                            if (wxtu <= wxjin)
                             {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神为水，秋季流月辰未戌丑等为火，木。水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神为水，木";
-                                }
+                                labeljishen.Text += "定吉神=土"; labeljishen.ForeColor = Color.Sienna; labeljishen.BackColor = Color.White;
                             }
-                            if (wangshuai < 50)
+                            else
                             {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神为金，秋季流月辰未戌丑等为火，木。水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神金，土助";
-                                }
-                            }
-                        }
-                        if (ydz == shen || ydz == you || ydz == xuu)
-                        {
-                            if (wangshuai >= 50)
-                            {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=秋神木秋季流月辰未戌丑等为火，木。水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神木，火，水";
-                                }
-                            }
-                            if (wangshuai < 50)
-                            {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神木，秋季流月辰未戌丑等为火，木。水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神金，土助";
-                                }
-                            }
-                        }
-                        if (ydz == hai || ydz == zii || ydz == chou)
-                        {
-                            if (wangshuai >= 50)
-                            {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神为火，秋季流月辰未戌丑等为火，木。水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神火，木";
-                                }
-                            }
-                            if (wangshuai < 50)
-                            {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神为火，秋季流月辰未戌丑等为火，木。水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神金，土助";
-                                }
+                                labeljishen.Text += "定吉神=金"; labeljishen.ForeColor = Color.Gold; labeljishen.BackColor = Color.Black;
                             }
                         }
                     }
                     if (rtg == ren || rtg == gui)
                     {
-                        if (ydz == yin || ydz == mao || ydz == chen)
+                        if (wangshuai >= 50)
                         {
-                            if (wangshuai >= 50)
+                            if (wxmu <= wxhuo && wxmu <= wxtu)
                             {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神为火夏季月辰未戌丑等吉神为火，土";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神为火，土";
-                                }
+                                labeljishen.Text += "定吉神=木"; labeljishen.ForeColor = Color.Green; labeljishen.BackColor = Color.White;
                             }
-                            if (wangshuai < 50)
+                            else if (wxhuo <= wxmu && wxhuo <= wxtu)
                             {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神为火夏季辰未戌丑等吉神为火，土";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神水，金助";
-                                }
+                                labeljishen.Text += "定吉神=火"; labeljishen.ForeColor = Color.Red; labeljishen.BackColor = Color.White;
+                            }
+                            else
+                            {
+                                labeljishen.Text += "定吉神=土"; labeljishen.ForeColor = Color.Sienna; labeljishen.BackColor = Color.White;
                             }
                         }
-                        if (ydz == sii || ydz == wuma || ydz == wei)
+                        if (wangshuai < 50)
                         {
-                            if (wangshuai >= 50)
+                            if (wxshui <= wxjin)
                             {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神水，金夏季月辰未戌丑等吉神为木，土";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神为木，土";
-                                }
+                                labeljishen.Text += "定吉神=水"; labeljishen.ForeColor = Color.DodgerBlue; labeljishen.BackColor = Color.White;
                             }
-                            if (wangshuai < 50)
+                            else
                             {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神土，金夏季月辰未戌丑等吉神为木，土";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神水，金助";
-                                }
+                                labeljishen.Text += "定吉神=金"; labeljishen.ForeColor = Color.Gold; labeljishen.BackColor = Color.Black;
                             }
                         }
-                        if (ydz == shen || ydz == you || ydz == xuu)
-                        {
-                            if (wangshuai >= 50)
-                            {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神木，夏季月辰未戌丑等吉神为水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神为木，火，土";
-                                }
-                            }
-                            if (wangshuai < 50)
-                            {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神木，夏季月辰未戌丑等吉神为水";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神水，金助";
-                                }
-                            }
-                        }
-                        if (ydz == hai || ydz == zii || ydz == chou)
-                        {
-                            if (wangshuai >= 50)
-                            {
-                                if (qiangro3 <= 3 || qiangro3 <= 2 || qiangro3 <= 1 || qiangro3 <= 0 || qiangro3 <= -1 || qiangro3 <= -2 || qiangro3 <= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神火，夏季辰未戌丑月等吉神为水，金";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神火，土，木";
-                                }
-                            }
-                            if (wangshuai < 50)
-                            {
-                                if (qiangro3 >= 3 || qiangro3 >= 2 || qiangro3 >= 1 || qiangro3 >= 0 || qiangro3 >= -1 || qiangro3 >= -2 || qiangro3 >= -3)
-                                {
-                                    labeljishen.Text += "定吉神=吉神火，夏季辰未戌丑月等吉神为水，金";
-                                }
-                                else
-                                {
-                                    labeljishen.Text += "定吉神=吉神水，金助";
-                                }
-                            }
-                        }
-
                     }
                 }
                 //显示神煞

@@ -3163,9 +3163,9 @@
             // labeljishen
             // 
             labeljishen.AutoSize = true;
-            labeljishen.BackColor = Color.Red;
+            labeljishen.BackColor = Color.White;
             labeljishen.Font = new Font("微软雅黑", 21.75F, FontStyle.Bold, GraphicsUnit.Point, 134);
-            labeljishen.ForeColor = Color.Gold;
+            labeljishen.ForeColor = Color.Green;
             labeljishen.Location = new Point(572, 177);
             labeljishen.Name = "labeljishen";
             labeljishen.Size = new Size(104, 39);
@@ -3198,7 +3198,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-10-28v2";
+            Text = "八字排盘工具v2024-10-29";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).EndInit();
