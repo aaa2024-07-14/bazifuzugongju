@@ -638,7 +638,7 @@ namespace BaZiFuZuGongJu
                 if (jia == jia)
                 {
                     //定吉神
-                    labeljishen.Text = "";
+                    labeljishen.Text = ""; labelbu.Text = "";
                     //盘面底色
                     this.BackColor = Color.DimGray;
                     //天干合冲
@@ -37000,6 +37000,149 @@ namespace BaZiFuZuGongJu
                             }
                         }
                     }
+                    //特例
+                    if (wangshuai >= 50)
+                    {
+                        if (qiangro3 < 3)
+                        {
+                            if (rtg == jia || rtg == yii)
+                            {
+                                if (wxmu < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=木"; labelbu.ForeColor = Color.Green; labelbu.BackColor = Color.White;
+                                }
+                                if (wxshui < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=水"; labelbu.ForeColor = Color.DodgerBlue; labelbu.BackColor = Color.White;
+                                }
+                            }
+                            if (rtg == bing || rtg == ding)
+                            {
+                                if (wxmu < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=木"; labelbu.ForeColor = Color.Green; labelbu.BackColor = Color.White;
+                                }
+                                if (wxhuo < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=火"; labelbu.ForeColor = Color.Red; labelbu.BackColor = Color.White;
+                                }
+                            }
+                            if (rtg == wuu || rtg == jii)
+                            {
+                                if (wxtu < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=土"; labelbu.ForeColor = Color.Sienna; labelbu.BackColor = Color.White;
+                                }
+                                if (wxhuo < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=火"; labelbu.ForeColor = Color.Red; labelbu.BackColor = Color.White;
+                                }
+                            }
+                            if (rtg == geng || rtg == xin)
+                            {
+                                if (wxtu < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=土"; labelbu.ForeColor = Color.Sienna; labelbu.BackColor = Color.White;
+                                }
+                                if (wxjin < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=金"; labelbu.ForeColor = Color.Gold; labelbu.BackColor = Color.Black;
+                                }
+                            }
+                            if (rtg == ren || rtg == gui)
+                            {
+                                if (wxjin < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=金"; labelbu.ForeColor = Color.Gold; labelbu.BackColor = Color.Black;
+                                }
+                                if (wxshui < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=水"; labelbu.ForeColor = Color.DodgerBlue; labelbu.BackColor = Color.White;
+                                }
+                            }
+                        }
+                    }
+                    if (wangshuai < 50)
+                    {
+                        if (qiangro3 > -3)
+                        {
+                            if (rtg == jia || rtg == yii)
+                            {
+                                if (wxjin < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=金"; labelbu.ForeColor = Color.Gold; labelbu.BackColor = Color.Black;
+                                }
+                                if (wxhuo < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=火"; labelbu.ForeColor = Color.Red; labelbu.BackColor = Color.White;
+                                }
+                                if (wxtu < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=土"; labelbu.ForeColor = Color.Sienna; labelbu.BackColor = Color.White;
+                                }
+                            }
+                            if (rtg == bing || rtg == ding)
+                            {
+                                if (wxjin < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=金"; labelbu.ForeColor = Color.Gold; labelbu.BackColor = Color.Black;
+                                }
+                                if (wxshui < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=水"; labelbu.ForeColor = Color.DodgerBlue; labelbu.BackColor = Color.White;
+                                }
+                                if (wxtu < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=土"; labelbu.ForeColor = Color.Sienna; labelbu.BackColor = Color.White;
+                                }
+                            }
+                            if (rtg == wuu || rtg == jii)
+                            {
+                                if (wxjin < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=金"; labelbu.ForeColor = Color.Gold; labelbu.BackColor = Color.Black;
+                                }
+                                if (wxshui < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=水"; labelbu.ForeColor = Color.DodgerBlue; labelbu.BackColor = Color.White;
+                                }
+                                if (wxmu < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=木"; labelbu.ForeColor = Color.Green; labelbu.BackColor = Color.White;
+                                }
+                            }
+                            if (rtg == geng || rtg == xin)
+                            {
+                                if (wxshui < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=木"; labelbu.ForeColor = Color.Green; labelbu.BackColor = Color.White;
+                                }
+                                if (wxhuo < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=火"; labelbu.ForeColor = Color.Red; labelbu.BackColor = Color.White;
+                                }
+                                if (wxmu < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=木"; labelbu.ForeColor = Color.Green; labelbu.BackColor = Color.White;
+                                }
+                            }
+                            if (rtg == ren || rtg == gui)
+                            {
+                                if (wxtu < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=土"; labelbu.ForeColor = Color.Sienna; labelbu.BackColor = Color.White;
+                                }
+                                if (wxhuo < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=火"; labelbu.ForeColor = Color.Red; labelbu.BackColor = Color.White;
+                                }
+                                if (wxmu < 1)
+                                {
+                                    labelbu.Text += "五行不足的吉神=木"; labelbu.ForeColor = Color.Green; labelbu.BackColor = Color.White;
+                                }
+                            }
+                        }
+                    }
                 }
                 //显示神煞
                 if (jia == jia)
@@ -70191,7 +70334,7 @@ namespace BaZiFuZuGongJu
             linkLabel64.Visible = false; linkLabel63.Visible = false; linkLabel62.Visible = false;
             numericUpDownyear.Visible = false; numericUpDownmonth.Visible = false; numericUpDownday.Visible = false;
             button59.Visible = false; checkBox1.Visible = false; linkLabel28.Visible = false; numericUpDownhour.Visible = false;
-            labeljishen.Visible = false;
+            labeljishen.Visible = false; labelbu.Visible = false;
             buttonp.Visible = false; buttonjin.Visible = false; buttonshui.Visible = false;
             buttonmu.Visible = false; buttonhuo.Visible = false; buttontu.Visible = false;
             dateTimePicker1.Visible = false; linkLabelndzss2.Visible = false; linkLabelydzss2.Visible = false; linkLabelrdzss2.Visible = false; linkLabelsdzss2.Visible = false;
@@ -70233,7 +70376,7 @@ namespace BaZiFuZuGongJu
             linkLabelndzss2.Visible = true; linkLabelydzss2.Visible = true; linkLabelrdzss2.Visible = true; linkLabelsdzss2.Visible = true;
             buttonp.Visible = true; buttonjin.Visible = true; buttonshui.Visible = true;
             buttonmu.Visible = true; buttonhuo.Visible = true; buttontu.Visible = true;
-            dateTimePicker1.Visible = true; labeljishen.Visible = true;
+            dateTimePicker1.Visible = true; labeljishen.Visible = true; labelbu.Visible = true;
             linkLabel25.Visible = true; checkBoxln.Visible = true; radioButtonll.Visible = true; radioButtonvv.Visible = true;
             button10.Visible = true; button11.Visible = true; button12.Visible = true; button25.Visible = true;
             linkLabel7hff.Visible = true;

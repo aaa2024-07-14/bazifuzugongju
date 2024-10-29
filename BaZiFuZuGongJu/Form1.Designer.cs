@@ -255,6 +255,7 @@
             buttoncsdz1 = new Button();
             button1 = new Button();
             panel1 = new Panel();
+            labelbu = new Label();
             labeljishen = new Label();
             tableLayoutPanel1 = new TableLayoutPanel();
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).BeginInit();
@@ -2930,6 +2931,7 @@
             // panel1
             // 
             panel1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            panel1.Controls.Add(labelbu);
             panel1.Controls.Add(labeljishen);
             panel1.Controls.Add(buttongj);
             panel1.Controls.Add(richTextBox1);
@@ -3160,6 +3162,18 @@
             panel1.Size = new Size(1920, 1080);
             panel1.TabIndex = 289;
             // 
+            // labelbu
+            // 
+            labelbu.AutoSize = true;
+            labelbu.BackColor = Color.White;
+            labelbu.Font = new Font("微软雅黑", 21.75F, FontStyle.Bold, GraphicsUnit.Point, 134);
+            labelbu.ForeColor = Color.DarkViolet;
+            labelbu.Location = new Point(736, 177);
+            labelbu.Name = "labelbu";
+            labelbu.Size = new Size(155, 39);
+            labelbu.TabIndex = 290;
+            labelbu.Text = "定吉神=补";
+            // 
             // labeljishen
             // 
             labeljishen.AutoSize = true;
@@ -3168,9 +3182,9 @@
             labeljishen.ForeColor = Color.Green;
             labeljishen.Location = new Point(572, 177);
             labeljishen.Name = "labeljishen";
-            labeljishen.Size = new Size(104, 39);
+            labeljishen.Size = new Size(155, 39);
             labeljishen.TabIndex = 289;
-            labeljishen.Text = "定吉神";
+            labeljishen.Text = "定吉神=正";
             // 
             // tableLayoutPanel1
             // 
@@ -3198,7 +3212,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-10-29";
+            Text = "八字排盘工具v2024-10-29v2";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).EndInit();
@@ -3440,5 +3454,6 @@
         private Panel panel1;
         private TableLayoutPanel tableLayoutPanel1;
         private Label labeljishen;
+        private Label labelbu;
     }
 }
