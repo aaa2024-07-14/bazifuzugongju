@@ -255,8 +255,8 @@
             buttoncsdz1 = new Button();
             button1 = new Button();
             panel1 = new Panel();
-            labelbu = new Label();
-            labeljishen = new Label();
+            buttonbu = new Button();
+            buttonjishen = new Button();
             tableLayoutPanel1 = new TableLayoutPanel();
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDownmonth).BeginInit();
@@ -2931,10 +2931,10 @@
             // panel1
             // 
             panel1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            panel1.Controls.Add(labelbu);
-            panel1.Controls.Add(labeljishen);
-            panel1.Controls.Add(buttongj);
             panel1.Controls.Add(richTextBox1);
+            panel1.Controls.Add(buttonbu);
+            panel1.Controls.Add(buttonjishen);
+            panel1.Controls.Add(buttongj);
             panel1.Controls.Add(buttonnz);
             panel1.Controls.Add(button1);
             panel1.Controls.Add(buttonyz);
@@ -3162,29 +3162,27 @@
             panel1.Size = new Size(1920, 1080);
             panel1.TabIndex = 289;
             // 
-            // labelbu
+            // buttonbu
             // 
-            labelbu.AutoSize = true;
-            labelbu.BackColor = Color.White;
-            labelbu.Font = new Font("微软雅黑", 21.75F, FontStyle.Bold, GraphicsUnit.Point, 134);
-            labelbu.ForeColor = Color.DarkViolet;
-            labelbu.Location = new Point(736, 177);
-            labelbu.Name = "labelbu";
-            labelbu.Size = new Size(155, 39);
-            labelbu.TabIndex = 290;
-            labelbu.Text = "定吉神=补";
+            buttonbu.Font = new Font("微软雅黑", 24F, FontStyle.Bold);
+            buttonbu.Location = new Point(1045, 178);
+            buttonbu.Name = "buttonbu";
+            buttonbu.Size = new Size(580, 48);
+            buttonbu.TabIndex = 292;
+            buttonbu.Text = "五行不足的吉神=木;对应数字：3, 4, 9";
+            buttonbu.UseVisualStyleBackColor = true;
+            buttonbu.Click += buttonbu_Click;
             // 
-            // labeljishen
+            // buttonjishen
             // 
-            labeljishen.AutoSize = true;
-            labeljishen.BackColor = Color.White;
-            labeljishen.Font = new Font("微软雅黑", 21.75F, FontStyle.Bold, GraphicsUnit.Point, 134);
-            labeljishen.ForeColor = Color.Green;
-            labeljishen.Location = new Point(572, 177);
-            labeljishen.Name = "labeljishen";
-            labeljishen.Size = new Size(155, 39);
-            labeljishen.TabIndex = 289;
-            labeljishen.Text = "定吉神=正";
+            buttonjishen.Font = new Font("微软雅黑", 24F, FontStyle.Bold);
+            buttonjishen.Location = new Point(572, 178);
+            buttonjishen.Name = "buttonjishen";
+            buttonjishen.Size = new Size(450, 48);
+            buttonjishen.TabIndex = 291;
+            buttonjishen.Text = "定吉神=金;对应数字：6, 7, 8";
+            buttonjishen.UseVisualStyleBackColor = true;
+            buttonjishen.Click += buttonjishen_Click;
             // 
             // tableLayoutPanel1
             // 
@@ -3212,7 +3210,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-10-29v2";
+            Text = "八字排盘工具v2024-10-31";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).EndInit();
@@ -3453,7 +3451,7 @@
         private Button button1;
         private Panel panel1;
         private TableLayoutPanel tableLayoutPanel1;
-        private Label labeljishen;
-        private Label labelbu;
+        private Button buttonbu;
+        private Button buttonjishen;
     }
 }
