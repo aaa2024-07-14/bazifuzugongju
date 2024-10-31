@@ -49150,6 +49150,371 @@ namespace BaZiFuZuGongJu
                 }
                 //命盘阴阳
                 if (jia == jia)
+                {
+                    double yinint = 0;
+                    double yangint = 0;
+
+                    if (ntg == jia)
+                    {
+                        yangint += 1;
+                    }
+                    if (ntg == bing)
+                    {
+                        yangint += 1;
+                    }
+                    if (ntg == wuu)
+                    {
+                        yangint += 1;
+                    }
+                    if (ntg == geng)
+                    {
+                        yangint += 1;
+                    }
+                    if (ntg == ren)
+                    {
+                        yangint += 1;
+                    }
+                    if (ntg == yii)
+                    {
+                        yinint += 1;
+                    }
+                    if (ntg == ding)
+                    {
+                        yinint += 1;
+                    }
+                    if (ntg == jii)
+                    {
+                        yinint += 1;
+                    }
+                    if (ntg == xin)
+                    {
+                        yinint += 1;
+                    }
+                    if (ntg == gui)
+                    {
+                        yinint += 1;
+                    }
+                    if (ytg == jia)
+                    {
+                        yangint += 1;
+                    }
+                    if (ytg == bing)
+                    {
+                        yangint += 1;
+                    }
+                    if (ytg == wuu)
+                    {
+                        yangint += 1;
+                    }
+                    if (ytg == geng)
+                    {
+                        yangint += 1;
+                    }
+                    if (ytg == ren)
+                    {
+                        yangint += 1;
+                    }
+                    if (ytg == yii)
+                    {
+                        yinint += 1;
+                    }
+                    if (ytg == ding)
+                    {
+                        yinint += 1;
+                    }
+                    if (ytg == jii)
+                    {
+                        yinint += 1;
+                    }
+                    if (ytg == xin)
+                    {
+                        yinint += 1;
+                    }
+                    if (ytg == gui)
+                    {
+                        yinint += 1;
+                    }
+                    if (rtg == jia)
+                    {
+                        yangint += 1;
+                    }
+                    if (rtg == bing)
+                    {
+                        yangint += 1;
+                    }
+                    if (rtg == wuu)
+                    {
+                        yangint += 1;
+                    }
+                    if (rtg == geng)
+                    {
+                        yangint += 1;
+                    }
+                    if (rtg == ren)
+                    {
+                        yangint += 1;
+                    }
+                    if (rtg == yii)
+                    {
+                        yinint += 1;
+                    }
+                    if (rtg == ding)
+                    {
+                        yinint += 1;
+                    }
+                    if (rtg == jii)
+                    {
+                        yinint += 1;
+                    }
+                    if (rtg == xin)
+                    {
+                        yinint += 1;
+                    }
+                    if (rtg == gui)
+                    {
+                        yinint += 1;
+                    }
+                    if (stg == jia)
+                    {
+                        yangint += 1;
+                    }
+                    if (stg == bing)
+                    {
+                        yangint += 1;
+                    }
+                    if (stg == wuu)
+                    {
+                        yangint += 1;
+                    }
+                    if (stg == geng)
+                    {
+                        yangint += 1;
+                    }
+                    if (stg == ren)
+                    {
+                        yangint += 1;
+                    }
+                    if (stg == yii)
+                    {
+                        yinint += 1;
+                    }
+                    if (stg == ding)
+                    {
+                        yinint += 1;
+                    }
+                    if (stg == jii)
+                    {
+                        yinint += 1;
+                    }
+                    if (stg == xin)
+                    {
+                        yinint += 1;
+                    }
+                    if (stg == gui)
+                    {
+                        yinint += 1;
+                    }
+
+                    if (ndz == yin)
+                    {
+                        yangint += 1.9;
+                    }
+                    if (ndz == mao)
+                    {
+                        yinint += 1;
+                    }
+                    if (ndz == chen)
+                    {
+                        yangint += 1; yinint += 0.9;
+                    }
+                    if (ndz == sii)
+                    {
+                        yangint += 1.9;
+                    }
+                    if (ndz == wuma)
+                    {
+                        yinint += 1.6;
+                    }
+                    if (ndz == wei)
+                    {
+                        yinint += 1.9;
+                    }
+                    if (ndz == shen)
+                    {
+                        yangint += 1.9;
+                    }
+                    if (ndz == you)
+                    {
+                        yinint += 1;
+                    }
+                    if (ndz == xuu)
+                    {
+                        yangint += 1; yinint += 0.9;
+                    }
+                    if (ndz == hai)
+                    {
+                        yangint += 1.6;
+                    }
+                    if (ndz == zii)
+                    {
+                        yinint += 1;
+                    }
+                    if (ndz == chou)
+                    {
+                        yinint += 1.9;
+                    }
+                    if (rdz == yin)
+                    {
+                        yangint += 1.9;
+                    }
+                    if (rdz == mao)
+                    {
+                        yinint += 1;
+                    }
+                    if (rdz == chen)
+                    {
+                        yangint += 1; yinint += 0.9;
+                    }
+                    if (rdz == sii)
+                    {
+                        yangint += 1.9;
+                    }
+                    if (rdz == wuma)
+                    {
+                        yinint += 1.6;
+                    }
+                    if (rdz == wei)
+                    {
+                        yinint += 1.9;
+                    }
+                    if (rdz == shen)
+                    {
+                        yangint += 1.9;
+                    }
+                    if (rdz == you)
+                    {
+                        yinint += 1;
+                    }
+                    if (rdz == xuu)
+                    {
+                        yangint += 1; yinint += 0.9;
+                    }
+                    if (rdz == hai)
+                    {
+                        yangint += 1.6;
+                    }
+                    if (rdz == zii)
+                    {
+                        yinint += 1;
+                    }
+                    if (rdz == chou)
+                    {
+                        yinint += 1.9;
+                    }
+                    if (sdz == yin)
+                    {
+                        yangint += 1.9;
+                    }
+                    if (sdz == mao)
+                    {
+                        yinint += 1;
+                    }
+                    if (sdz == chen)
+                    {
+                        yangint += 1; yinint += 0.9;
+                    }
+                    if (sdz == sii)
+                    {
+                        yangint += 1.9;
+                    }
+                    if (sdz == wuma)
+                    {
+                        yinint += 1.6;
+                    }
+                    if (sdz == wei)
+                    {
+                        yinint += 1.9;
+                    }
+                    if (sdz == shen)
+                    {
+                        yangint += 1.9;
+                    }
+                    if (sdz == you)
+                    {
+                        yinint += 1;
+                    }
+                    if (sdz == xuu)
+                    {
+                        yangint += 1; yinint += 0.9;
+                    }
+                    if (sdz == hai)
+                    {
+                        yangint += 1.6;
+                    }
+                    if (sdz == zii)
+                    {
+                        yinint += 1;
+                    }
+                    if (sdz == chou)
+                    {
+                        yinint += 1.9;
+                    }
+                    if (ydz == yin)
+                    {
+                        yangint += 7.6;
+                    }
+                    if (ydz == mao)
+                    {
+                        yinint += 5;
+                    }
+                    if (ydz == chen)
+                    {
+                        yangint += 4; yinint += 3.6;
+                    }
+                    if (ydz == sii)
+                    {
+                        yangint += 7.6;
+                    }
+                    if (ydz == wuma)
+                    {
+                        yinint += 7.2;
+                    }
+                    if (ydz == wei)
+                    {
+                        yinint += 7.6;
+                    }
+                    if (ydz == shen)
+                    {
+                        yangint += 7.6;
+                    }
+                    if (ydz == you)
+                    {
+                        yinint += 5;
+                    }
+                    if (ydz == xuu)
+                    {
+                        yangint += 4; yinint += 3.6;
+                    }
+                    if (ydz == hai)
+                    {
+                        yangint += 7.2;
+                    }
+                    if (ydz == zii)
+                    {
+                        yinint += 5;
+                    }
+                    if (ydz == chou)
+                    {
+                        yinint += 7.6;
+                    }
+
+                    yinyang = yinint - yangint;
+
+                    string yinstr = yinint.ToString("0.0");
+                    string yangstr = yangint.ToString("0.0");
+                    linkLabel25.Text = "命盘阴阳=阴" + yinstr + "阳" + yangstr;
+
+                }
                 //穷通宝鉴
                 if (jia == jia)
                     {
