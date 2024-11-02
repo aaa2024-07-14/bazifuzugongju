@@ -73,68 +73,68 @@
             buttonmu = new Button();
             buttonhuo = new Button();
             buttongz = new Button();
-            linkLabel1 = new LinkLabel();
-            linkLabel2 = new LinkLabel();
-            linkLabelntgss = new LinkLabel();
-            linkLabel4 = new LinkLabel();
-            linkLabel5 = new LinkLabel();
-            linkLabel6 = new LinkLabel();
-            linkLabencs = new LinkLabel();
-            linkLabel8 = new LinkLabel();
-            linkLabel9 = new LinkLabel();
-            linkLabel10 = new LinkLabel();
-            linkLabelytgss = new LinkLabel();
-            linkLabel12 = new LinkLabel();
-            linkLabel13 = new LinkLabel();
-            linkLabelycs = new LinkLabel();
-            linkLabel15 = new LinkLabel();
-            linkLabel17 = new LinkLabel();
-            linkLabelrtgss = new LinkLabel();
-            linkLabel20 = new LinkLabel();
-            linkLabelrcs = new LinkLabel();
-            linkLabel22 = new LinkLabel();
-            linkLabel23 = new LinkLabel();
-            linkLabel24 = new LinkLabel();
-            linkLabelstgss = new LinkLabel();
-            linkLabel26 = new LinkLabel();
-            linkLabel27 = new LinkLabel();
-            linkLabelscs = new LinkLabel();
-            linkLabel29 = new LinkLabel();
-            linkLabel30 = new LinkLabel();
-            linkLabel31 = new LinkLabel();
-            linkLabel32 = new LinkLabel();
-            linkLabel33 = new LinkLabel();
-            linkLabelndzss1 = new LinkLabel();
-            linkLabel35 = new LinkLabel();
-            linkLabel36 = new LinkLabel();
-            linkLabel37 = new LinkLabel();
-            linkLabel38 = new LinkLabel();
-            linkLabelydzss1 = new LinkLabel();
-            linkLabel40 = new LinkLabel();
-            linkLabel41 = new LinkLabel();
-            linkLabel42 = new LinkLabel();
-            linkLabel43 = new LinkLabel();
-            linkLabel44 = new LinkLabel();
-            linkLabel45 = new LinkLabel();
-            linkLabel46 = new LinkLabel();
-            linkLabelrdzss1 = new LinkLabel();
-            linkLabel48 = new LinkLabel();
-            linkLabel49 = new LinkLabel();
-            linkLabel50 = new LinkLabel();
-            linkLabel51 = new LinkLabel();
-            linkLabel52 = new LinkLabel();
-            linkLabel53 = new LinkLabel();
-            linkLabel54 = new LinkLabel();
-            linkLabel55 = new LinkLabel();
-            linkLabel56 = new LinkLabel();
-            linkLabelsdzss1 = new LinkLabel();
-            linkLabel58 = new LinkLabel();
-            linkLabel59 = new LinkLabel();
-            linkLabel60 = new LinkLabel();
+            Label1 = new Label();
+            Label2 = new Label();
+            Labelntgss = new Label();
+            Label4 = new Label();
+            Label5 = new Label();
+            Label6 = new Label();
+            linkLabencs = new Label();
+            Label8 = new Label();
+            Label9 = new Label();
+            Label10 = new Label();
+            Labelytgss = new Label();
+            Label12 = new Label();
+            Label13 = new Label();
+            Labelycs = new Label();
+            Label15 = new Label();
+            Label17 = new Label();
+            Labelrtgss = new Label();
+            Label20 = new Label();
+            Labelrcs = new Label();
+            Label22 = new Label();
+            Label23 = new Label();
+            Label24 = new Label();
+            Labelstgss = new Label();
+            Label26 = new Label();
+            Label27 = new Label();
+            Labelscs = new Label();
+            Label29 = new Label();
+            Label30 = new Label();
+            Label31 = new Label();
+            Label32 = new Label();
+            Label33 = new Label();
+            Labelndzss1 = new Label();
+            Label35 = new Label();
+            Label36 = new Label();
+            Label37 = new Label();
+            Label38 = new Label();
+            Labelydzss1 = new Label();
+            Label40 = new Label();
+            Label41 = new Label();
+            Label42 = new Label();
+            Label43 = new Label();
+            Label44 = new Label();
+            Label45 = new Label();
+            Label46 = new Label();
+            Labelrdzss1 = new Label();
+            Label48 = new Label();
+            Label49 = new Label();
+            Label50 = new Label();
+            Label51 = new Label();
+            Label52 = new Label();
+            Label53 = new Label();
+            Label54 = new Label();
+            Label55 = new Label();
+            Label56 = new Label();
+            Labelsdzss1 = new Label();
+            Label58 = new Label();
+            Label59 = new Label();
+            Label60 = new Label();
             richTextBox1 = new RichTextBox();
-            linkLabel7hff = new LinkLabel();
+            Label7hff = new Label();
             timer1 = new System.Windows.Forms.Timer(components);
-            label1 = new Label();
+            labelTime = new Label();
             button10 = new Button();
             button11 = new Button();
             button12 = new Button();
@@ -161,50 +161,50 @@
             button65 = new Button();
             button54 = new Button();
             button56 = new Button();
-            linkLabel25 = new LinkLabel();
+            Label25 = new Label();
             button59 = new Button();
             checkBox1 = new CheckBox();
             numericUpDownyear = new NumericUpDown();
             numericUpDownmonth = new NumericUpDown();
             numericUpDownday = new NumericUpDown();
             numericUpDownhour = new NumericUpDown();
-            linkLabel28 = new LinkLabel();
+            LabelDayTime = new Label();
             checkBoxln = new CheckBox();
-            linkLabelsdzss2 = new LinkLabel();
-            linkLabelrdzss2 = new LinkLabel();
-            linkLabelydzss2 = new LinkLabel();
-            linkLabelndzss2 = new LinkLabel();
-            linkLabellnsss = new LinkLabel();
-            linkLabellnssr = new LinkLabel();
-            linkLabellnssy = new LinkLabel();
-            linkLabellnssn = new LinkLabel();
-            linkLabel3 = new LinkLabel();
-            linkLabel7 = new LinkLabel();
-            linkLabel11 = new LinkLabel();
-            linkLabel14 = new LinkLabel();
-            linkLabel16 = new LinkLabel();
-            linkLabel18 = new LinkLabel();
-            linkLabel19 = new LinkLabel();
-            linkLabel34 = new LinkLabel();
-            linkLabel39 = new LinkLabel();
-            linkLabel47 = new LinkLabel();
-            linkLabel57 = new LinkLabel();
-            linkLabel61 = new LinkLabel();
-            linkLabel62 = new LinkLabel();
-            linkLabel63 = new LinkLabel();
-            linkLabel64 = new LinkLabel();
-            linkLabel21 = new LinkLabel();
-            linkLabel65 = new LinkLabel();
-            linkLabel66 = new LinkLabel();
-            linkLabel67 = new LinkLabel();
-            linkLabel68 = new LinkLabel();
-            linkLabel69 = new LinkLabel();
-            linkLabel70 = new LinkLabel();
-            linkLabel71 = new LinkLabel();
-            linkLabel72 = new LinkLabel();
-            linkLabel73 = new LinkLabel();
-            linkLabel74 = new LinkLabel();
-            linkLabel75 = new LinkLabel();
+            Labelsdzss2 = new Label();
+            Labelrdzss2 = new Label();
+            Labelydzss2 = new Label();
+            Labelndzss2 = new Label();
+            Labellnsss = new Label();
+            Labellnssr = new Label();
+            Labellnssy = new Label();
+            Labellnssn = new Label();
+            Label3 = new Label();
+            Label7 = new Label();
+            Label11 = new Label();
+            Label14 = new Label();
+            Label16 = new Label();
+            Label18 = new Label();
+            Label19 = new Label();
+            Label34 = new Label();
+            Label39 = new Label();
+            Label47 = new Label();
+            Label57 = new Label();
+            Label61 = new Label();
+            Label62 = new Label();
+            Label63 = new Label();
+            Label64 = new Label();
+            Label21 = new Label();
+            Label65 = new Label();
+            Label66 = new Label();
+            Label67 = new Label();
+            Label68 = new Label();
+            Label69 = new Label();
+            Label70 = new Label();
+            Label71 = new Label();
+            Label72 = new Label();
+            Label73 = new Label();
+            Label74 = new Label();
+            Label75 = new Label();
             buttoncs2 = new Button();
             buttoncs4 = new Button();
             buttoncs3 = new Button();
@@ -749,773 +749,769 @@
             buttongz.UseVisualStyleBackColor = true;
             buttongz.Click += buttongz_Click;
             // 
-            // linkLabel1
+            // Label1
             // 
-            linkLabel1.AutoSize = true;
-            linkLabel1.BackColor = Color.DimGray;
-            linkLabel1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel1.LinkColor = Color.Maroon;
-            linkLabel1.Location = new Point(1, 431);
-            linkLabel1.Name = "linkLabel1";
-            linkLabel1.Size = new Size(62, 31);
-            linkLabel1.TabIndex = 50;
-            linkLabel1.TabStop = true;
-            linkLabel1.Text = "内脏";
+            Label1.AutoSize = true;
+            Label1.BackColor = Color.DimGray;
+            Label1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label1.ForeColor = Color.Maroon;
+            Label1.Location = new Point(1, 431);
+            Label1.Name = "Label1";
+            Label1.Size = new Size(62, 31);
+            Label1.TabIndex = 50;
+            Label1.TabStop = true;
+            Label1.Text = "内脏";
             // 
-            // linkLabel2
+            // Label2
             // 
-            linkLabel2.AutoSize = true;
-            linkLabel2.BackColor = Color.DimGray;
-            linkLabel2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel2.LinkColor = Color.Cyan;
-            linkLabel2.Location = new Point(1, 400);
-            linkLabel2.Name = "linkLabel2";
-            linkLabel2.Size = new Size(62, 31);
-            linkLabel2.TabIndex = 51;
-            linkLabel2.TabStop = true;
-            linkLabel2.Text = "方位";
+            Label2.AutoSize = true;
+            Label2.BackColor = Color.DimGray;
+            Label2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label2.ForeColor = Color.Cyan;
+            Label2.Location = new Point(1, 400);
+            Label2.Name = "Label2";
+            Label2.Size = new Size(62, 31);
+            Label2.TabIndex = 51;
+            Label2.TabStop = true;
+            Label2.Text = "方位";
             // 
-            // linkLabelntgss
+            // Labelntgss
             // 
-            linkLabelntgss.AutoSize = true;
-            linkLabelntgss.BackColor = Color.Green;
-            linkLabelntgss.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabelntgss.LinkColor = Color.Yellow;
-            linkLabelntgss.Location = new Point(1, 369);
-            linkLabelntgss.Name = "linkLabelntgss";
-            linkLabelntgss.Size = new Size(62, 31);
-            linkLabelntgss.TabIndex = 52;
-            linkLabelntgss.TabStop = true;
-            linkLabelntgss.Text = "神煞";
+            Labelntgss.AutoSize = true;
+            Labelntgss.BackColor = Color.Green;
+            Labelntgss.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelntgss.ForeColor = Color.Yellow;
+            Labelntgss.Location = new Point(1, 369);
+            Labelntgss.Name = "Labelntgss";
+            Labelntgss.Size = new Size(62, 31);
+            Labelntgss.TabIndex = 52;
+            Labelntgss.TabStop = true;
+            Labelntgss.Text = "神煞";
             // 
-            // linkLabel4
+            // Label4
             // 
-            linkLabel4.AutoSize = true;
-            linkLabel4.BackColor = Color.White;
-            linkLabel4.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel4.LinkColor = Color.BlueViolet;
-            linkLabel4.Location = new Point(1, 462);
-            linkLabel4.Name = "linkLabel4";
-            linkLabel4.Size = new Size(62, 31);
-            linkLabel4.TabIndex = 53;
-            linkLabel4.TabStop = true;
-            linkLabel4.Text = "六亲";
+            Label4.AutoSize = true;
+            Label4.BackColor = Color.White;
+            Label4.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label4.ForeColor = Color.BlueViolet;
+            Label4.Location = new Point(1, 462);
+            Label4.Name = "Label4";
+            Label4.Size = new Size(62, 31);
+            Label4.TabIndex = 53;
+            Label4.TabStop = true;
+            Label4.Text = "六亲";
             // 
-            // linkLabel5
+            // Label5
             // 
-            linkLabel5.AutoSize = true;
-            linkLabel5.BackColor = Color.Black;
-            linkLabel5.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel5.LinkColor = Color.White;
-            linkLabel5.Location = new Point(1, 338);
-            linkLabel5.Name = "linkLabel5";
-            linkLabel5.Size = new Size(182, 31);
-            linkLabel5.TabIndex = 54;
-            linkLabel5.TabStop = true;
-            linkLabel5.Text = "祖先宫父系家族";
+            Label5.AutoSize = true;
+            Label5.BackColor = Color.Black;
+            Label5.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label5.ForeColor = Color.White;
+            Label5.Location = new Point(1, 338);
+            Label5.Name = "Label5";
+            Label5.Size = new Size(182, 31);
+            Label5.TabIndex = 54;
+            Label5.TabStop = true;
+            Label5.Text = "祖先宫父系家族";
             // 
-            // linkLabel6
+            // Label6
             // 
-            linkLabel6.AutoSize = true;
-            linkLabel6.BackColor = Color.White;
-            linkLabel6.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel6.LinkColor = Color.Black;
-            linkLabel6.Location = new Point(1, 307);
-            linkLabel6.Name = "linkLabel6";
-            linkLabel6.Size = new Size(198, 31);
-            linkLabel6.TabIndex = 55;
-            linkLabel6.TabStop = true;
-            linkLabel6.Text = "婴幼儿期约1-9岁";
+            Label6.AutoSize = true;
+            Label6.BackColor = Color.White;
+            Label6.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label6.ForeColor = Color.Black;
+            Label6.Location = new Point(1, 307);
+            Label6.Name = "Label6";
+            Label6.Size = new Size(198, 31);
+            Label6.TabIndex = 55;
+            Label6.TabStop = true;
+            Label6.Text = "婴幼儿期约1-9岁";
             // 
             // linkLabencs
             // 
             linkLabencs.AutoSize = true;
             linkLabencs.BackColor = Color.SaddleBrown;
             linkLabencs.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabencs.ForeColor = Color.Black;
-            linkLabencs.LinkColor = Color.White;
+            linkLabencs.ForeColor = Color.White;
             linkLabencs.Location = new Point(1, 276);
             linkLabencs.Name = "linkLabencs";
             linkLabencs.Size = new Size(62, 31);
             linkLabencs.TabIndex = 56;
             linkLabencs.TabStop = true;
             linkLabencs.Text = "长生";
-            linkLabencs.LinkClicked += linkLabencs_LinkClicked;
-            // 
-            // linkLabel8
-            // 
-            linkLabel8.AutoSize = true;
-            linkLabel8.BackColor = Color.White;
-            linkLabel8.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel8.LinkColor = Color.BlueViolet;
-            linkLabel8.Location = new Point(483, 462);
-            linkLabel8.Name = "linkLabel8";
-            linkLabel8.Size = new Size(62, 31);
-            linkLabel8.TabIndex = 57;
-            linkLabel8.TabStop = true;
-            linkLabel8.Text = "六亲";
-            // 
-            // linkLabel9
-            // 
-            linkLabel9.AutoSize = true;
-            linkLabel9.BackColor = Color.DimGray;
-            linkLabel9.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel9.LinkColor = Color.Maroon;
-            linkLabel9.Location = new Point(483, 431);
-            linkLabel9.Name = "linkLabel9";
-            linkLabel9.Size = new Size(62, 31);
-            linkLabel9.TabIndex = 58;
-            linkLabel9.TabStop = true;
-            linkLabel9.Text = "内脏";
-            // 
-            // linkLabel10
-            // 
-            linkLabel10.AutoSize = true;
-            linkLabel10.BackColor = Color.DimGray;
-            linkLabel10.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel10.LinkColor = Color.Cyan;
-            linkLabel10.Location = new Point(483, 400);
-            linkLabel10.Name = "linkLabel10";
-            linkLabel10.Size = new Size(62, 31);
-            linkLabel10.TabIndex = 59;
-            linkLabel10.TabStop = true;
-            linkLabel10.Text = "方位";
-            // 
-            // linkLabelytgss
-            // 
-            linkLabelytgss.AutoSize = true;
-            linkLabelytgss.BackColor = Color.Green;
-            linkLabelytgss.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabelytgss.LinkColor = Color.Yellow;
-            linkLabelytgss.Location = new Point(483, 369);
-            linkLabelytgss.Name = "linkLabelytgss";
-            linkLabelytgss.Size = new Size(62, 31);
-            linkLabelytgss.TabIndex = 60;
-            linkLabelytgss.TabStop = true;
-            linkLabelytgss.Text = "神煞";
-            // 
-            // linkLabel12
-            // 
-            linkLabel12.AutoSize = true;
-            linkLabel12.BackColor = Color.Black;
-            linkLabel12.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel12.LinkColor = Color.White;
-            linkLabel12.Location = new Point(483, 338);
-            linkLabel12.Name = "linkLabel12";
-            linkLabel12.Size = new Size(408, 31);
-            linkLabel12.TabIndex = 61;
-            linkLabel12.TabStop = true;
-            linkLabel12.Text = "社会宫-父亲；哥；姐；包括社会上的";
-            // 
-            // linkLabel13
-            // 
-            linkLabel13.AutoSize = true;
-            linkLabel13.BackColor = Color.White;
-            linkLabel13.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel13.LinkColor = Color.Black;
-            linkLabel13.Location = new Point(483, 307);
-            linkLabel13.Name = "linkLabel13";
-            linkLabel13.Size = new Size(204, 31);
-            linkLabel13.TabIndex = 62;
-            linkLabel13.TabStop = true;
-            linkLabel13.Text = "青年期约19-27岁";
-            // 
-            // linkLabelycs
-            // 
-            linkLabelycs.AutoSize = true;
-            linkLabelycs.BackColor = Color.SaddleBrown;
-            linkLabelycs.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabelycs.ForeColor = Color.Black;
-            linkLabelycs.LinkColor = Color.White;
-            linkLabelycs.Location = new Point(483, 276);
-            linkLabelycs.Name = "linkLabelycs";
-            linkLabelycs.Size = new Size(62, 31);
-            linkLabelycs.TabIndex = 63;
-            linkLabelycs.TabStop = true;
-            linkLabelycs.Text = "长生";
-            linkLabelycs.LinkClicked += linkLabelycs_LinkClicked;
-            // 
-            // linkLabel15
-            // 
-            linkLabel15.AutoSize = true;
-            linkLabel15.BackColor = Color.DimGray;
-            linkLabel15.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel15.LinkColor = Color.Maroon;
-            linkLabel15.Location = new Point(964, 431);
-            linkLabel15.Name = "linkLabel15";
-            linkLabel15.Size = new Size(62, 31);
-            linkLabel15.TabIndex = 64;
-            linkLabel15.TabStop = true;
-            linkLabel15.Text = "内脏";
-            // 
-            // linkLabel17
-            // 
-            linkLabel17.AutoSize = true;
-            linkLabel17.BackColor = Color.DimGray;
-            linkLabel17.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel17.LinkColor = Color.Cyan;
-            linkLabel17.Location = new Point(964, 400);
-            linkLabel17.Name = "linkLabel17";
-            linkLabel17.Size = new Size(62, 31);
-            linkLabel17.TabIndex = 66;
-            linkLabel17.TabStop = true;
-            linkLabel17.Text = "方位";
-            // 
-            // linkLabelrtgss
-            // 
-            linkLabelrtgss.AutoSize = true;
-            linkLabelrtgss.BackColor = Color.Green;
-            linkLabelrtgss.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabelrtgss.LinkColor = Color.Yellow;
-            linkLabelrtgss.Location = new Point(964, 369);
-            linkLabelrtgss.Name = "linkLabelrtgss";
-            linkLabelrtgss.Size = new Size(62, 31);
-            linkLabelrtgss.TabIndex = 67;
-            linkLabelrtgss.TabStop = true;
-            linkLabelrtgss.Text = "神煞";
-            // 
-            // linkLabel20
-            // 
-            linkLabel20.AutoSize = true;
-            linkLabel20.BackColor = Color.DarkViolet;
-            linkLabel20.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel20.LinkColor = Color.Yellow;
-            linkLabel20.Location = new Point(964, 307);
-            linkLabel20.Name = "linkLabel20";
-            linkLabel20.Size = new Size(110, 31);
-            linkLabel20.TabIndex = 69;
-            linkLabel20.TabStop = true;
-            linkLabel20.Text = "流年阴阳";
-            // 
-            // linkLabelrcs
-            // 
-            linkLabelrcs.AutoSize = true;
-            linkLabelrcs.BackColor = Color.SaddleBrown;
-            linkLabelrcs.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabelrcs.ForeColor = Color.Black;
-            linkLabelrcs.LinkColor = Color.White;
-            linkLabelrcs.Location = new Point(964, 276);
-            linkLabelrcs.Name = "linkLabelrcs";
-            linkLabelrcs.Size = new Size(62, 31);
-            linkLabelrcs.TabIndex = 70;
-            linkLabelrcs.TabStop = true;
-            linkLabelrcs.Text = "长生";
-            linkLabelrcs.LinkClicked += linkLabelrcs_LinkClicked;
-            // 
-            // linkLabel22
-            // 
-            linkLabel22.AutoSize = true;
-            linkLabel22.BackColor = Color.White;
-            linkLabel22.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel22.LinkColor = Color.BlueViolet;
-            linkLabel22.Location = new Point(1447, 462);
-            linkLabel22.Name = "linkLabel22";
-            linkLabel22.Size = new Size(62, 31);
-            linkLabel22.TabIndex = 71;
-            linkLabel22.TabStop = true;
-            linkLabel22.Text = "六亲";
-            linkLabel22.LinkClicked += linkLabel22_LinkClicked;
-            // 
-            // linkLabel23
-            // 
-            linkLabel23.AutoSize = true;
-            linkLabel23.BackColor = Color.DimGray;
-            linkLabel23.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel23.LinkColor = Color.Maroon;
-            linkLabel23.Location = new Point(1447, 431);
-            linkLabel23.Name = "linkLabel23";
-            linkLabel23.Size = new Size(62, 31);
-            linkLabel23.TabIndex = 72;
-            linkLabel23.TabStop = true;
-            linkLabel23.Text = "内脏";
-            linkLabel23.LinkClicked += linkLabel23_LinkClicked;
-            // 
-            // linkLabel24
-            // 
-            linkLabel24.AutoSize = true;
-            linkLabel24.BackColor = Color.DimGray;
-            linkLabel24.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel24.LinkColor = Color.Cyan;
-            linkLabel24.Location = new Point(1447, 400);
-            linkLabel24.Name = "linkLabel24";
-            linkLabel24.Size = new Size(62, 31);
-            linkLabel24.TabIndex = 73;
-            linkLabel24.TabStop = true;
-            linkLabel24.Text = "方位";
-            linkLabel24.LinkClicked += linkLabel24_LinkClicked;
-            // 
-            // linkLabelstgss
-            // 
-            linkLabelstgss.AutoSize = true;
-            linkLabelstgss.BackColor = Color.Green;
-            linkLabelstgss.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabelstgss.LinkColor = Color.Yellow;
-            linkLabelstgss.Location = new Point(1447, 369);
-            linkLabelstgss.Name = "linkLabelstgss";
-            linkLabelstgss.Size = new Size(62, 31);
-            linkLabelstgss.TabIndex = 74;
-            linkLabelstgss.TabStop = true;
-            linkLabelstgss.Text = "神煞";
-            linkLabelstgss.LinkClicked += linkLabelsgp_LinkClicked;
-            // 
-            // linkLabel26
-            // 
-            linkLabel26.AutoSize = true;
-            linkLabel26.BackColor = Color.Black;
-            linkLabel26.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel26.LinkColor = Color.White;
-            linkLabel26.Location = new Point(1447, 338);
-            linkLabel26.Name = "linkLabel26";
-            linkLabel26.Size = new Size(264, 31);
-            linkLabel26.TabIndex = 75;
-            linkLabel26.TabStop = true;
-            linkLabel26.Text = "晚年子女宫-长子或长女";
-            linkLabel26.LinkClicked += linkLabel26_LinkClicked;
-            // 
-            // linkLabel27
-            // 
-            linkLabel27.AutoSize = true;
-            linkLabel27.BackColor = Color.White;
-            linkLabel27.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel27.LinkColor = Color.Black;
-            linkLabel27.Location = new Point(1447, 307);
-            linkLabel27.Name = "linkLabel27";
-            linkLabel27.Size = new Size(228, 31);
-            linkLabel27.TabIndex = 76;
-            linkLabel27.TabStop = true;
-            linkLabel27.Text = "中晚年期约46-54岁";
-            linkLabel27.LinkClicked += linkLabel27_LinkClicked;
-            // 
-            // linkLabelscs
-            // 
-            linkLabelscs.AutoSize = true;
-            linkLabelscs.BackColor = Color.SaddleBrown;
-            linkLabelscs.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabelscs.ForeColor = Color.Black;
-            linkLabelscs.LinkColor = Color.White;
-            linkLabelscs.Location = new Point(1447, 276);
-            linkLabelscs.Name = "linkLabelscs";
-            linkLabelscs.Size = new Size(62, 31);
-            linkLabelscs.TabIndex = 77;
-            linkLabelscs.TabStop = true;
-            linkLabelscs.Text = "长生";
-            linkLabelscs.LinkClicked += linkLabelscs_LinkClicked;
-            // 
-            // linkLabel29
-            // 
-            linkLabel29.AutoSize = true;
-            linkLabel29.BackColor = Color.White;
-            linkLabel29.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel29.LinkColor = Color.BlueViolet;
-            linkLabel29.Location = new Point(-3, 765);
-            linkLabel29.Name = "linkLabel29";
-            linkLabel29.Size = new Size(62, 31);
-            linkLabel29.TabIndex = 78;
-            linkLabel29.TabStop = true;
-            linkLabel29.Text = "六亲";
-            // 
-            // linkLabel30
-            // 
-            linkLabel30.AutoSize = true;
-            linkLabel30.BackColor = Color.White;
-            linkLabel30.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel30.LinkColor = Color.BlueViolet;
-            linkLabel30.Location = new Point(-3, 796);
-            linkLabel30.Name = "linkLabel30";
-            linkLabel30.Size = new Size(62, 31);
-            linkLabel30.TabIndex = 79;
-            linkLabel30.TabStop = true;
-            linkLabel30.Text = "六亲";
-            // 
-            // linkLabel31
-            // 
-            linkLabel31.AutoSize = true;
-            linkLabel31.BackColor = Color.White;
-            linkLabel31.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel31.LinkColor = Color.BlueViolet;
-            linkLabel31.Location = new Point(-3, 733);
-            linkLabel31.Name = "linkLabel31";
-            linkLabel31.Size = new Size(62, 31);
-            linkLabel31.TabIndex = 80;
-            linkLabel31.TabStop = true;
-            linkLabel31.Text = "六亲";
-            // 
-            // linkLabel32
-            // 
-            linkLabel32.AutoSize = true;
-            linkLabel32.BackColor = Color.DimGray;
-            linkLabel32.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel32.LinkColor = Color.Maroon;
-            linkLabel32.Location = new Point(-3, 827);
-            linkLabel32.Name = "linkLabel32";
-            linkLabel32.Size = new Size(62, 31);
-            linkLabel32.TabIndex = 81;
-            linkLabel32.TabStop = true;
-            linkLabel32.Text = "内脏";
-            // 
-            // linkLabel33
-            // 
-            linkLabel33.AutoSize = true;
-            linkLabel33.BackColor = Color.DimGray;
-            linkLabel33.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel33.LinkColor = Color.Cyan;
-            linkLabel33.Location = new Point(-3, 858);
-            linkLabel33.Name = "linkLabel33";
-            linkLabel33.Size = new Size(62, 31);
-            linkLabel33.TabIndex = 82;
-            linkLabel33.TabStop = true;
-            linkLabel33.Text = "方位";
-            // 
-            // linkLabelndzss1
-            // 
-            linkLabelndzss1.AutoSize = true;
-            linkLabelndzss1.BackColor = Color.Green;
-            linkLabelndzss1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabelndzss1.LinkColor = Color.Yellow;
-            linkLabelndzss1.Location = new Point(-3, 889);
-            linkLabelndzss1.Name = "linkLabelndzss1";
-            linkLabelndzss1.Size = new Size(62, 31);
-            linkLabelndzss1.TabIndex = 83;
-            linkLabelndzss1.TabStop = true;
-            linkLabelndzss1.Text = "神煞";
-            // 
-            // linkLabel35
-            // 
-            linkLabel35.AutoSize = true;
-            linkLabel35.BackColor = Color.Black;
-            linkLabel35.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel35.LinkColor = Color.White;
-            linkLabel35.Location = new Point(-3, 951);
-            linkLabel35.Name = "linkLabel35";
-            linkLabel35.Size = new Size(182, 31);
-            linkLabel35.TabIndex = 84;
-            linkLabel35.TabStop = true;
-            linkLabel35.Text = "祖先宫母系家族";
-            // 
-            // linkLabel36
-            // 
-            linkLabel36.AutoSize = true;
-            linkLabel36.BackColor = Color.White;
-            linkLabel36.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel36.LinkColor = Color.Black;
-            linkLabel36.Location = new Point(0, 982);
-            linkLabel36.Name = "linkLabel36";
-            linkLabel36.Size = new Size(228, 31);
-            linkLabel36.TabIndex = 85;
-            linkLabel36.TabStop = true;
-            linkLabel36.Text = "青少年期约10-18岁";
-            // 
-            // linkLabel37
-            // 
-            linkLabel37.AutoSize = true;
-            linkLabel37.BackColor = Color.White;
-            linkLabel37.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel37.LinkColor = Color.Black;
-            linkLabel37.Location = new Point(480, 982);
-            linkLabel37.Name = "linkLabel37";
-            linkLabel37.Size = new Size(228, 31);
-            linkLabel37.TabIndex = 86;
-            linkLabel37.TabStop = true;
-            linkLabel37.Text = "中青年期约28-36岁";
-            // 
-            // linkLabel38
-            // 
-            linkLabel38.AutoSize = true;
-            linkLabel38.BackColor = Color.Black;
-            linkLabel38.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel38.LinkColor = Color.White;
-            linkLabel38.Location = new Point(480, 951);
-            linkLabel38.Name = "linkLabel38";
-            linkLabel38.Size = new Size(408, 31);
-            linkLabel38.TabIndex = 87;
-            linkLabel38.TabStop = true;
-            linkLabel38.Text = "社会宫-母亲；弟；妹；包括社会上的";
-            // 
-            // linkLabelydzss1
-            // 
-            linkLabelydzss1.AutoSize = true;
-            linkLabelydzss1.BackColor = Color.Green;
-            linkLabelydzss1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabelydzss1.LinkColor = Color.Yellow;
-            linkLabelydzss1.Location = new Point(480, 889);
-            linkLabelydzss1.Name = "linkLabelydzss1";
-            linkLabelydzss1.Size = new Size(62, 31);
-            linkLabelydzss1.TabIndex = 88;
-            linkLabelydzss1.TabStop = true;
-            linkLabelydzss1.Text = "神煞";
-            // 
-            // linkLabel40
-            // 
-            linkLabel40.AutoSize = true;
-            linkLabel40.BackColor = Color.DimGray;
-            linkLabel40.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel40.LinkColor = Color.Cyan;
-            linkLabel40.Location = new Point(480, 858);
-            linkLabel40.Name = "linkLabel40";
-            linkLabel40.Size = new Size(62, 31);
-            linkLabel40.TabIndex = 89;
-            linkLabel40.TabStop = true;
-            linkLabel40.Text = "方位";
-            // 
-            // linkLabel41
-            // 
-            linkLabel41.AutoSize = true;
-            linkLabel41.BackColor = Color.DimGray;
-            linkLabel41.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel41.LinkColor = Color.Maroon;
-            linkLabel41.Location = new Point(480, 827);
-            linkLabel41.Name = "linkLabel41";
-            linkLabel41.Size = new Size(62, 31);
-            linkLabel41.TabIndex = 90;
-            linkLabel41.TabStop = true;
-            linkLabel41.Text = "内脏";
-            // 
-            // linkLabel42
-            // 
-            linkLabel42.AutoSize = true;
-            linkLabel42.BackColor = Color.White;
-            linkLabel42.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel42.LinkColor = Color.BlueViolet;
-            linkLabel42.Location = new Point(480, 796);
-            linkLabel42.Name = "linkLabel42";
-            linkLabel42.Size = new Size(62, 31);
-            linkLabel42.TabIndex = 91;
-            linkLabel42.TabStop = true;
-            linkLabel42.Text = "六亲";
-            // 
-            // linkLabel43
-            // 
-            linkLabel43.AutoSize = true;
-            linkLabel43.BackColor = Color.White;
-            linkLabel43.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel43.LinkColor = Color.BlueViolet;
-            linkLabel43.Location = new Point(480, 765);
-            linkLabel43.Name = "linkLabel43";
-            linkLabel43.Size = new Size(62, 31);
-            linkLabel43.TabIndex = 92;
-            linkLabel43.TabStop = true;
-            linkLabel43.Text = "六亲";
-            // 
-            // linkLabel44
-            // 
-            linkLabel44.AutoSize = true;
-            linkLabel44.BackColor = Color.White;
-            linkLabel44.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel44.LinkColor = Color.BlueViolet;
-            linkLabel44.Location = new Point(480, 733);
-            linkLabel44.Name = "linkLabel44";
-            linkLabel44.Size = new Size(62, 31);
-            linkLabel44.TabIndex = 93;
-            linkLabel44.TabStop = true;
-            linkLabel44.Text = "六亲";
-            // 
-            // linkLabel45
-            // 
-            linkLabel45.AutoSize = true;
-            linkLabel45.BackColor = Color.White;
-            linkLabel45.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel45.LinkColor = Color.Black;
-            linkLabel45.Location = new Point(960, 982);
-            linkLabel45.Name = "linkLabel45";
-            linkLabel45.Size = new Size(204, 31);
-            linkLabel45.TabIndex = 94;
-            linkLabel45.TabStop = true;
-            linkLabel45.Text = "壮年期约37-45岁";
-            // 
-            // linkLabel46
-            // 
-            linkLabel46.AutoSize = true;
-            linkLabel46.BackColor = Color.Black;
-            linkLabel46.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel46.LinkColor = Color.White;
-            linkLabel46.Location = new Point(959, 951);
-            linkLabel46.Name = "linkLabel46";
-            linkLabel46.Size = new Size(240, 31);
-            linkLabel46.TabIndex = 95;
-            linkLabel46.TabStop = true;
-            linkLabel46.Text = "配偶宫-和配偶的家族";
-            // 
-            // linkLabelrdzss1
-            // 
-            linkLabelrdzss1.AutoSize = true;
-            linkLabelrdzss1.BackColor = Color.Green;
-            linkLabelrdzss1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabelrdzss1.LinkColor = Color.Yellow;
-            linkLabelrdzss1.Location = new Point(959, 889);
-            linkLabelrdzss1.Name = "linkLabelrdzss1";
-            linkLabelrdzss1.Size = new Size(62, 31);
-            linkLabelrdzss1.TabIndex = 96;
-            linkLabelrdzss1.TabStop = true;
-            linkLabelrdzss1.Text = "神煞";
-            // 
-            // linkLabel48
-            // 
-            linkLabel48.AutoSize = true;
-            linkLabel48.BackColor = Color.DimGray;
-            linkLabel48.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel48.LinkColor = Color.Cyan;
-            linkLabel48.Location = new Point(959, 858);
-            linkLabel48.Name = "linkLabel48";
-            linkLabel48.Size = new Size(62, 31);
-            linkLabel48.TabIndex = 97;
-            linkLabel48.TabStop = true;
-            linkLabel48.Text = "方位";
-            // 
-            // linkLabel49
-            // 
-            linkLabel49.AutoSize = true;
-            linkLabel49.BackColor = Color.DimGray;
-            linkLabel49.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel49.LinkColor = Color.Maroon;
-            linkLabel49.Location = new Point(959, 827);
-            linkLabel49.Name = "linkLabel49";
-            linkLabel49.Size = new Size(62, 31);
-            linkLabel49.TabIndex = 98;
-            linkLabel49.TabStop = true;
-            linkLabel49.Text = "内脏";
-            // 
-            // linkLabel50
-            // 
-            linkLabel50.AutoSize = true;
-            linkLabel50.BackColor = Color.White;
-            linkLabel50.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel50.LinkColor = Color.BlueViolet;
-            linkLabel50.Location = new Point(959, 796);
-            linkLabel50.Name = "linkLabel50";
-            linkLabel50.Size = new Size(62, 31);
-            linkLabel50.TabIndex = 99;
-            linkLabel50.TabStop = true;
-            linkLabel50.Text = "六亲";
-            // 
-            // linkLabel51
-            // 
-            linkLabel51.AutoSize = true;
-            linkLabel51.BackColor = Color.White;
-            linkLabel51.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel51.LinkColor = Color.BlueViolet;
-            linkLabel51.Location = new Point(959, 765);
-            linkLabel51.Name = "linkLabel51";
-            linkLabel51.Size = new Size(62, 31);
-            linkLabel51.TabIndex = 100;
-            linkLabel51.TabStop = true;
-            linkLabel51.Text = "六亲";
-            // 
-            // linkLabel52
-            // 
-            linkLabel52.AutoSize = true;
-            linkLabel52.BackColor = Color.White;
-            linkLabel52.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel52.LinkColor = Color.BlueViolet;
-            linkLabel52.Location = new Point(959, 733);
-            linkLabel52.Name = "linkLabel52";
-            linkLabel52.Size = new Size(62, 31);
-            linkLabel52.TabIndex = 101;
-            linkLabel52.TabStop = true;
-            linkLabel52.Text = "六亲";
-            // 
-            // linkLabel53
-            // 
-            linkLabel53.AutoSize = true;
-            linkLabel53.BackColor = Color.White;
-            linkLabel53.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel53.LinkColor = Color.BlueViolet;
-            linkLabel53.Location = new Point(1442, 765);
-            linkLabel53.Name = "linkLabel53";
-            linkLabel53.Size = new Size(62, 31);
-            linkLabel53.TabIndex = 102;
-            linkLabel53.TabStop = true;
-            linkLabel53.Text = "六亲";
-            // 
-            // linkLabel54
-            // 
-            linkLabel54.AutoSize = true;
-            linkLabel54.BackColor = Color.White;
-            linkLabel54.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel54.LinkColor = Color.BlueViolet;
-            linkLabel54.Location = new Point(1442, 796);
-            linkLabel54.Name = "linkLabel54";
-            linkLabel54.Size = new Size(62, 31);
-            linkLabel54.TabIndex = 103;
-            linkLabel54.TabStop = true;
-            linkLabel54.Text = "六亲";
-            // 
-            // linkLabel55
-            // 
-            linkLabel55.AutoSize = true;
-            linkLabel55.BackColor = Color.DimGray;
-            linkLabel55.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel55.LinkColor = Color.Maroon;
-            linkLabel55.Location = new Point(1442, 827);
-            linkLabel55.Name = "linkLabel55";
-            linkLabel55.Size = new Size(62, 31);
-            linkLabel55.TabIndex = 104;
-            linkLabel55.TabStop = true;
-            linkLabel55.Text = "内脏";
-            // 
-            // linkLabel56
-            // 
-            linkLabel56.AutoSize = true;
-            linkLabel56.BackColor = Color.DimGray;
-            linkLabel56.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel56.LinkColor = Color.Cyan;
-            linkLabel56.Location = new Point(1442, 858);
-            linkLabel56.Name = "linkLabel56";
-            linkLabel56.Size = new Size(62, 31);
-            linkLabel56.TabIndex = 105;
-            linkLabel56.TabStop = true;
-            linkLabel56.Text = "方位";
-            // 
-            // linkLabelsdzss1
-            // 
-            linkLabelsdzss1.AutoSize = true;
-            linkLabelsdzss1.BackColor = Color.Green;
-            linkLabelsdzss1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabelsdzss1.LinkColor = Color.Yellow;
-            linkLabelsdzss1.Location = new Point(1442, 889);
-            linkLabelsdzss1.Name = "linkLabelsdzss1";
-            linkLabelsdzss1.Size = new Size(62, 31);
-            linkLabelsdzss1.TabIndex = 106;
-            linkLabelsdzss1.TabStop = true;
-            linkLabelsdzss1.Text = "神煞";
-            // 
-            // linkLabel58
-            // 
-            linkLabel58.AutoSize = true;
-            linkLabel58.BackColor = Color.Black;
-            linkLabel58.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel58.LinkColor = Color.White;
-            linkLabel58.Location = new Point(1442, 951);
-            linkLabel58.Name = "linkLabel58";
-            linkLabel58.Size = new Size(192, 31);
-            linkLabel58.TabIndex = 107;
-            linkLabel58.TabStop = true;
-            linkLabel58.Text = "终点-次子或次女";
-            // 
-            // linkLabel59
-            // 
-            linkLabel59.AutoSize = true;
-            linkLabel59.BackColor = Color.White;
-            linkLabel59.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel59.LinkColor = Color.BlueViolet;
-            linkLabel59.Location = new Point(1442, 733);
-            linkLabel59.Name = "linkLabel59";
-            linkLabel59.Size = new Size(62, 31);
-            linkLabel59.TabIndex = 108;
-            linkLabel59.TabStop = true;
-            linkLabel59.Text = "六亲";
-            // 
-            // linkLabel60
-            // 
-            linkLabel60.AutoSize = true;
-            linkLabel60.BackColor = Color.White;
-            linkLabel60.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel60.LinkColor = Color.Black;
-            linkLabel60.Location = new Point(1440, 982);
-            linkLabel60.Name = "linkLabel60";
-            linkLabel60.Size = new Size(284, 31);
-            linkLabel60.TabIndex = 109;
-            linkLabel60.TabStop = true;
-            linkLabel60.Text = "晚年期约55岁以后或更晚";
+            linkLabencs.Click += linkLabencs_Click;
+            // 
+            // Label8
+            // 
+            Label8.AutoSize = true;
+            Label8.BackColor = Color.White;
+            Label8.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label8.ForeColor = Color.BlueViolet;
+            Label8.Location = new Point(483, 462);
+            Label8.Name = "Label8";
+            Label8.Size = new Size(62, 31);
+            Label8.TabIndex = 57;
+            Label8.TabStop = true;
+            Label8.Text = "六亲";
+            // 
+            // Label9
+            // 
+            Label9.AutoSize = true;
+            Label9.BackColor = Color.DimGray;
+            Label9.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label9.ForeColor = Color.Maroon;
+            Label9.Location = new Point(483, 431);
+            Label9.Name = "Label9";
+            Label9.Size = new Size(62, 31);
+            Label9.TabIndex = 58;
+            Label9.TabStop = true;
+            Label9.Text = "内脏";
+            // 
+            // Label10
+            // 
+            Label10.AutoSize = true;
+            Label10.BackColor = Color.DimGray;
+            Label10.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label10.ForeColor = Color.Cyan;
+            Label10.Location = new Point(483, 400);
+            Label10.Name = "Label10";
+            Label10.Size = new Size(62, 31);
+            Label10.TabIndex = 59;
+            Label10.TabStop = true;
+            Label10.Text = "方位";
+            // 
+            // Labelytgss
+            // 
+            Labelytgss.AutoSize = true;
+            Labelytgss.BackColor = Color.Green;
+            Labelytgss.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelytgss.ForeColor = Color.Yellow;
+            Labelytgss.Location = new Point(483, 369);
+            Labelytgss.Name = "Labelytgss";
+            Labelytgss.Size = new Size(62, 31);
+            Labelytgss.TabIndex = 60;
+            Labelytgss.TabStop = true;
+            Labelytgss.Text = "神煞";
+            // 
+            // Label12
+            // 
+            Label12.AutoSize = true;
+            Label12.BackColor = Color.Black;
+            Label12.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label12.ForeColor = Color.White;
+            Label12.Location = new Point(483, 338);
+            Label12.Name = "Label12";
+            Label12.Size = new Size(408, 31);
+            Label12.TabIndex = 61;
+            Label12.TabStop = true;
+            Label12.Text = "社会宫-父亲；哥；姐；包括社会上的";
+            // 
+            // Label13
+            // 
+            Label13.AutoSize = true;
+            Label13.BackColor = Color.White;
+            Label13.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label13.ForeColor = Color.Black;
+            Label13.Location = new Point(483, 307);
+            Label13.Name = "Label13";
+            Label13.Size = new Size(204, 31);
+            Label13.TabIndex = 62;
+            Label13.TabStop = true;
+            Label13.Text = "青年期约19-27岁";
+            // 
+            // Labelycs
+            // 
+            Labelycs.AutoSize = true;
+            Labelycs.BackColor = Color.SaddleBrown;
+            Labelycs.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelycs.ForeColor = Color.White;
+            Labelycs.Location = new Point(483, 276);
+            Labelycs.Name = "Labelycs";
+            Labelycs.Size = new Size(62, 31);
+            Labelycs.TabIndex = 63;
+            Labelycs.TabStop = true;
+            Labelycs.Text = "长生";
+            Labelycs.Click += Labelycs_Click;
+            // 
+            // Label15
+            // 
+            Label15.AutoSize = true;
+            Label15.BackColor = Color.DimGray;
+            Label15.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label15.ForeColor = Color.Maroon;
+            Label15.Location = new Point(964, 431);
+            Label15.Name = "Label15";
+            Label15.Size = new Size(62, 31);
+            Label15.TabIndex = 64;
+            Label15.TabStop = true;
+            Label15.Text = "内脏";
+            // 
+            // Label17
+            // 
+            Label17.AutoSize = true;
+            Label17.BackColor = Color.DimGray;
+            Label17.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label17.ForeColor = Color.Cyan;
+            Label17.Location = new Point(964, 400);
+            Label17.Name = "Label17";
+            Label17.Size = new Size(62, 31);
+            Label17.TabIndex = 66;
+            Label17.TabStop = true;
+            Label17.Text = "方位";
+            // 
+            // Labelrtgss
+            // 
+            Labelrtgss.AutoSize = true;
+            Labelrtgss.BackColor = Color.Green;
+            Labelrtgss.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelrtgss.ForeColor = Color.Yellow;
+            Labelrtgss.Location = new Point(964, 369);
+            Labelrtgss.Name = "Labelrtgss";
+            Labelrtgss.Size = new Size(62, 31);
+            Labelrtgss.TabIndex = 67;
+            Labelrtgss.TabStop = true;
+            Labelrtgss.Text = "神煞";
+            // 
+            // Label20
+            // 
+            Label20.AutoSize = true;
+            Label20.BackColor = Color.DarkViolet;
+            Label20.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label20.ForeColor = Color.Yellow;
+            Label20.Location = new Point(964, 307);
+            Label20.Name = "Label20";
+            Label20.Size = new Size(110, 31);
+            Label20.TabIndex = 69;
+            Label20.TabStop = true;
+            Label20.Text = "流年阴阳";
+            // 
+            // Labelrcs
+            // 
+            Labelrcs.AutoSize = true;
+            Labelrcs.BackColor = Color.SaddleBrown;
+            Labelrcs.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelrcs.ForeColor = Color.White;
+            Labelrcs.Location = new Point(964, 276);
+            Labelrcs.Name = "Labelrcs";
+            Labelrcs.Size = new Size(62, 31);
+            Labelrcs.TabIndex = 70;
+            Labelrcs.TabStop = true;
+            Labelrcs.Text = "长生";
+            Labelrcs.Click += Labelrcs_Click;
+            // 
+            // Label22
+            // 
+            Label22.AutoSize = true;
+            Label22.BackColor = Color.White;
+            Label22.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label22.ForeColor = Color.BlueViolet;
+            Label22.Location = new Point(1447, 462);
+            Label22.Name = "Label22";
+            Label22.Size = new Size(62, 31);
+            Label22.TabIndex = 71;
+            Label22.TabStop = true;
+            Label22.Text = "六亲";
+            Label22.Click += Label22_Click;
+            // 
+            // Label23
+            // 
+            Label23.AutoSize = true;
+            Label23.BackColor = Color.DimGray;
+            Label23.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label23.ForeColor = Color.Maroon;
+            Label23.Location = new Point(1447, 431);
+            Label23.Name = "Label23";
+            Label23.Size = new Size(62, 31);
+            Label23.TabIndex = 72;
+            Label23.TabStop = true;
+            Label23.Text = "内脏";
+            Label23.Click += Label23_Click;
+            // 
+            // Label24
+            // 
+            Label24.AutoSize = true;
+            Label24.BackColor = Color.DimGray;
+            Label24.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label24.ForeColor = Color.Cyan;
+            Label24.Location = new Point(1447, 400);
+            Label24.Name = "Label24";
+            Label24.Size = new Size(62, 31);
+            Label24.TabIndex = 73;
+            Label24.TabStop = true;
+            Label24.Text = "方位";
+            Label24.Click += Label24_Click;
+            // 
+            // Labelstgss
+            // 
+            Labelstgss.AutoSize = true;
+            Labelstgss.BackColor = Color.Green;
+            Labelstgss.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelstgss.ForeColor = Color.Yellow;
+            Labelstgss.Location = new Point(1447, 369);
+            Labelstgss.Name = "Labelstgss";
+            Labelstgss.Size = new Size(62, 31);
+            Labelstgss.TabIndex = 74;
+            Labelstgss.TabStop = true;
+            Labelstgss.Text = "神煞";
+            Labelstgss.Click += Labelsgp_Click;
+            // 
+            // Label26
+            // 
+            Label26.AutoSize = true;
+            Label26.BackColor = Color.Black;
+            Label26.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label26.ForeColor = Color.White;
+            Label26.Location = new Point(1447, 338);
+            Label26.Name = "Label26";
+            Label26.Size = new Size(264, 31);
+            Label26.TabIndex = 75;
+            Label26.TabStop = true;
+            Label26.Text = "晚年子女宫-长子或长女";
+            Label26.Click += Label26_Click;
+            // 
+            // Label27
+            // 
+            Label27.AutoSize = true;
+            Label27.BackColor = Color.White;
+            Label27.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label27.ForeColor = Color.Black;
+            Label27.Location = new Point(1447, 307);
+            Label27.Name = "Label27";
+            Label27.Size = new Size(228, 31);
+            Label27.TabIndex = 76;
+            Label27.TabStop = true;
+            Label27.Text = "中晚年期约46-54岁";
+            Label27.Click += Label27_Click;
+            // 
+            // Labelscs
+            // 
+            Labelscs.AutoSize = true;
+            Labelscs.BackColor = Color.SaddleBrown;
+            Labelscs.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelscs.ForeColor = Color.White;
+            Labelscs.Location = new Point(1447, 276);
+            Labelscs.Name = "Labelscs";
+            Labelscs.Size = new Size(62, 31);
+            Labelscs.TabIndex = 77;
+            Labelscs.TabStop = true;
+            Labelscs.Text = "长生";
+            Labelscs.Click += Labelscs_Click;
+            // 
+            // Label29
+            // 
+            Label29.AutoSize = true;
+            Label29.BackColor = Color.White;
+            Label29.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label29.ForeColor = Color.BlueViolet;
+            Label29.Location = new Point(-3, 765);
+            Label29.Name = "Label29";
+            Label29.Size = new Size(62, 31);
+            Label29.TabIndex = 78;
+            Label29.TabStop = true;
+            Label29.Text = "六亲";
+            // 
+            // Label30
+            // 
+            Label30.AutoSize = true;
+            Label30.BackColor = Color.White;
+            Label30.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label30.ForeColor = Color.BlueViolet;
+            Label30.Location = new Point(-3, 796);
+            Label30.Name = "Label30";
+            Label30.Size = new Size(62, 31);
+            Label30.TabIndex = 79;
+            Label30.TabStop = true;
+            Label30.Text = "六亲";
+            // 
+            // Label31
+            // 
+            Label31.AutoSize = true;
+            Label31.BackColor = Color.White;
+            Label31.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label31.ForeColor = Color.BlueViolet;
+            Label31.Location = new Point(-3, 733);
+            Label31.Name = "Label31";
+            Label31.Size = new Size(62, 31);
+            Label31.TabIndex = 80;
+            Label31.TabStop = true;
+            Label31.Text = "六亲";
+            // 
+            // Label32
+            // 
+            Label32.AutoSize = true;
+            Label32.BackColor = Color.DimGray;
+            Label32.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label32.ForeColor = Color.Maroon;
+            Label32.Location = new Point(-3, 827);
+            Label32.Name = "Label32";
+            Label32.Size = new Size(62, 31);
+            Label32.TabIndex = 81;
+            Label32.TabStop = true;
+            Label32.Text = "内脏";
+            // 
+            // Label33
+            // 
+            Label33.AutoSize = true;
+            Label33.BackColor = Color.DimGray;
+            Label33.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label33.ForeColor = Color.Cyan;
+            Label33.Location = new Point(-3, 858);
+            Label33.Name = "Label33";
+            Label33.Size = new Size(62, 31);
+            Label33.TabIndex = 82;
+            Label33.TabStop = true;
+            Label33.Text = "方位";
+            // 
+            // Labelndzss1
+            // 
+            Labelndzss1.AutoSize = true;
+            Labelndzss1.BackColor = Color.Green;
+            Labelndzss1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelndzss1.ForeColor = Color.Yellow;
+            Labelndzss1.Location = new Point(-3, 889);
+            Labelndzss1.Name = "Labelndzss1";
+            Labelndzss1.Size = new Size(62, 31);
+            Labelndzss1.TabIndex = 83;
+            Labelndzss1.TabStop = true;
+            Labelndzss1.Text = "神煞";
+            // 
+            // Label35
+            // 
+            Label35.AutoSize = true;
+            Label35.BackColor = Color.Black;
+            Label35.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label35.ForeColor = Color.White;
+            Label35.Location = new Point(-3, 951);
+            Label35.Name = "Label35";
+            Label35.Size = new Size(182, 31);
+            Label35.TabIndex = 84;
+            Label35.TabStop = true;
+            Label35.Text = "祖先宫母系家族";
+            // 
+            // Label36
+            // 
+            Label36.AutoSize = true;
+            Label36.BackColor = Color.White;
+            Label36.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label36.ForeColor = Color.Black;
+            Label36.Location = new Point(0, 982);
+            Label36.Name = "Label36";
+            Label36.Size = new Size(228, 31);
+            Label36.TabIndex = 85;
+            Label36.TabStop = true;
+            Label36.Text = "青少年期约10-18岁";
+            // 
+            // Label37
+            // 
+            Label37.AutoSize = true;
+            Label37.BackColor = Color.White;
+            Label37.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label37.ForeColor = Color.Black;
+            Label37.Location = new Point(480, 982);
+            Label37.Name = "Label37";
+            Label37.Size = new Size(228, 31);
+            Label37.TabIndex = 86;
+            Label37.TabStop = true;
+            Label37.Text = "中青年期约28-36岁";
+            // 
+            // Label38
+            // 
+            Label38.AutoSize = true;
+            Label38.BackColor = Color.Black;
+            Label38.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label38.ForeColor = Color.White;
+            Label38.Location = new Point(480, 951);
+            Label38.Name = "Label38";
+            Label38.Size = new Size(408, 31);
+            Label38.TabIndex = 87;
+            Label38.TabStop = true;
+            Label38.Text = "社会宫-母亲；弟；妹；包括社会上的";
+            // 
+            // Labelydzss1
+            // 
+            Labelydzss1.AutoSize = true;
+            Labelydzss1.BackColor = Color.Green;
+            Labelydzss1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelydzss1.ForeColor = Color.Yellow;
+            Labelydzss1.Location = new Point(480, 889);
+            Labelydzss1.Name = "Labelydzss1";
+            Labelydzss1.Size = new Size(62, 31);
+            Labelydzss1.TabIndex = 88;
+            Labelydzss1.TabStop = true;
+            Labelydzss1.Text = "神煞";
+            // 
+            // Label40
+            // 
+            Label40.AutoSize = true;
+            Label40.BackColor = Color.DimGray;
+            Label40.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label40.ForeColor = Color.Cyan;
+            Label40.Location = new Point(480, 858);
+            Label40.Name = "Label40";
+            Label40.Size = new Size(62, 31);
+            Label40.TabIndex = 89;
+            Label40.TabStop = true;
+            Label40.Text = "方位";
+            // 
+            // Label41
+            // 
+            Label41.AutoSize = true;
+            Label41.BackColor = Color.DimGray;
+            Label41.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label41.ForeColor = Color.Maroon;
+            Label41.Location = new Point(480, 827);
+            Label41.Name = "Label41";
+            Label41.Size = new Size(62, 31);
+            Label41.TabIndex = 90;
+            Label41.TabStop = true;
+            Label41.Text = "内脏";
+            // 
+            // Label42
+            // 
+            Label42.AutoSize = true;
+            Label42.BackColor = Color.White;
+            Label42.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label42.ForeColor = Color.BlueViolet;
+            Label42.Location = new Point(480, 796);
+            Label42.Name = "Label42";
+            Label42.Size = new Size(62, 31);
+            Label42.TabIndex = 91;
+            Label42.TabStop = true;
+            Label42.Text = "六亲";
+            // 
+            // Label43
+            // 
+            Label43.AutoSize = true;
+            Label43.BackColor = Color.White;
+            Label43.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label43.ForeColor = Color.BlueViolet;
+            Label43.Location = new Point(480, 765);
+            Label43.Name = "Label43";
+            Label43.Size = new Size(62, 31);
+            Label43.TabIndex = 92;
+            Label43.TabStop = true;
+            Label43.Text = "六亲";
+            // 
+            // Label44
+            // 
+            Label44.AutoSize = true;
+            Label44.BackColor = Color.White;
+            Label44.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label44.ForeColor = Color.BlueViolet;
+            Label44.Location = new Point(480, 733);
+            Label44.Name = "Label44";
+            Label44.Size = new Size(62, 31);
+            Label44.TabIndex = 93;
+            Label44.TabStop = true;
+            Label44.Text = "六亲";
+            // 
+            // Label45
+            // 
+            Label45.AutoSize = true;
+            Label45.BackColor = Color.White;
+            Label45.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label45.ForeColor = Color.Black;
+            Label45.Location = new Point(960, 982);
+            Label45.Name = "Label45";
+            Label45.Size = new Size(204, 31);
+            Label45.TabIndex = 94;
+            Label45.TabStop = true;
+            Label45.Text = "壮年期约37-45岁";
+            // 
+            // Label46
+            // 
+            Label46.AutoSize = true;
+            Label46.BackColor = Color.Black;
+            Label46.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label46.ForeColor = Color.White;
+            Label46.Location = new Point(959, 951);
+            Label46.Name = "Label46";
+            Label46.Size = new Size(240, 31);
+            Label46.TabIndex = 95;
+            Label46.TabStop = true;
+            Label46.Text = "配偶宫-和配偶的家族";
+            // 
+            // Labelrdzss1
+            // 
+            Labelrdzss1.AutoSize = true;
+            Labelrdzss1.BackColor = Color.Green;
+            Labelrdzss1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelrdzss1.ForeColor = Color.Yellow;
+            Labelrdzss1.Location = new Point(959, 889);
+            Labelrdzss1.Name = "Labelrdzss1";
+            Labelrdzss1.Size = new Size(62, 31);
+            Labelrdzss1.TabIndex = 96;
+            Labelrdzss1.TabStop = true;
+            Labelrdzss1.Text = "神煞";
+            // 
+            // Label48
+            // 
+            Label48.AutoSize = true;
+            Label48.BackColor = Color.DimGray;
+            Label48.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label48.ForeColor = Color.Cyan;
+            Label48.Location = new Point(959, 858);
+            Label48.Name = "Label48";
+            Label48.Size = new Size(62, 31);
+            Label48.TabIndex = 97;
+            Label48.TabStop = true;
+            Label48.Text = "方位";
+            // 
+            // Label49
+            // 
+            Label49.AutoSize = true;
+            Label49.BackColor = Color.DimGray;
+            Label49.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label49.ForeColor = Color.Maroon;
+            Label49.Location = new Point(959, 827);
+            Label49.Name = "Label49";
+            Label49.Size = new Size(62, 31);
+            Label49.TabIndex = 98;
+            Label49.TabStop = true;
+            Label49.Text = "内脏";
+            // 
+            // Label50
+            // 
+            Label50.AutoSize = true;
+            Label50.BackColor = Color.White;
+            Label50.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label50.ForeColor = Color.BlueViolet;
+            Label50.Location = new Point(959, 796);
+            Label50.Name = "Label50";
+            Label50.Size = new Size(62, 31);
+            Label50.TabIndex = 99;
+            Label50.TabStop = true;
+            Label50.Text = "六亲";
+            // 
+            // Label51
+            // 
+            Label51.AutoSize = true;
+            Label51.BackColor = Color.White;
+            Label51.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label51.ForeColor = Color.BlueViolet;
+            Label51.Location = new Point(959, 765);
+            Label51.Name = "Label51";
+            Label51.Size = new Size(62, 31);
+            Label51.TabIndex = 100;
+            Label51.TabStop = true;
+            Label51.Text = "六亲";
+            // 
+            // Label52
+            // 
+            Label52.AutoSize = true;
+            Label52.BackColor = Color.White;
+            Label52.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label52.ForeColor = Color.BlueViolet;
+            Label52.Location = new Point(959, 733);
+            Label52.Name = "Label52";
+            Label52.Size = new Size(62, 31);
+            Label52.TabIndex = 101;
+            Label52.TabStop = true;
+            Label52.Text = "六亲";
+            // 
+            // Label53
+            // 
+            Label53.AutoSize = true;
+            Label53.BackColor = Color.White;
+            Label53.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label53.ForeColor = Color.BlueViolet;
+            Label53.Location = new Point(1442, 765);
+            Label53.Name = "Label53";
+            Label53.Size = new Size(62, 31);
+            Label53.TabIndex = 102;
+            Label53.TabStop = true;
+            Label53.Text = "六亲";
+            // 
+            // Label54
+            // 
+            Label54.AutoSize = true;
+            Label54.BackColor = Color.White;
+            Label54.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label54.ForeColor = Color.BlueViolet;
+            Label54.Location = new Point(1442, 796);
+            Label54.Name = "Label54";
+            Label54.Size = new Size(62, 31);
+            Label54.TabIndex = 103;
+            Label54.TabStop = true;
+            Label54.Text = "六亲";
+            // 
+            // Label55
+            // 
+            Label55.AutoSize = true;
+            Label55.BackColor = Color.DimGray;
+            Label55.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label55.ForeColor = Color.Maroon;
+            Label55.Location = new Point(1442, 827);
+            Label55.Name = "Label55";
+            Label55.Size = new Size(62, 31);
+            Label55.TabIndex = 104;
+            Label55.TabStop = true;
+            Label55.Text = "内脏";
+            // 
+            // Label56
+            // 
+            Label56.AutoSize = true;
+            Label56.BackColor = Color.DimGray;
+            Label56.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label56.ForeColor = Color.Cyan;
+            Label56.Location = new Point(1442, 858);
+            Label56.Name = "Label56";
+            Label56.Size = new Size(62, 31);
+            Label56.TabIndex = 105;
+            Label56.TabStop = true;
+            Label56.Text = "方位";
+            // 
+            // Labelsdzss1
+            // 
+            Labelsdzss1.AutoSize = true;
+            Labelsdzss1.BackColor = Color.Green;
+            Labelsdzss1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelsdzss1.ForeColor = Color.Yellow;
+            Labelsdzss1.Location = new Point(1442, 889);
+            Labelsdzss1.Name = "Labelsdzss1";
+            Labelsdzss1.Size = new Size(62, 31);
+            Labelsdzss1.TabIndex = 106;
+            Labelsdzss1.TabStop = true;
+            Labelsdzss1.Text = "神煞";
+            // 
+            // Label58
+            // 
+            Label58.AutoSize = true;
+            Label58.BackColor = Color.Black;
+            Label58.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label58.ForeColor = Color.White;
+            Label58.Location = new Point(1442, 951);
+            Label58.Name = "Label58";
+            Label58.Size = new Size(192, 31);
+            Label58.TabIndex = 107;
+            Label58.TabStop = true;
+            Label58.Text = "终点-次子或次女";
+            // 
+            // Label59
+            // 
+            Label59.AutoSize = true;
+            Label59.BackColor = Color.White;
+            Label59.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label59.ForeColor = Color.BlueViolet;
+            Label59.Location = new Point(1442, 733);
+            Label59.Name = "Label59";
+            Label59.Size = new Size(62, 31);
+            Label59.TabIndex = 108;
+            Label59.TabStop = true;
+            Label59.Text = "六亲";
+            // 
+            // Label60
+            // 
+            Label60.AutoSize = true;
+            Label60.BackColor = Color.White;
+            Label60.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label60.ForeColor = Color.Black;
+            Label60.Location = new Point(1440, 982);
+            Label60.Name = "Label60";
+            Label60.Size = new Size(284, 31);
+            Label60.TabIndex = 109;
+            Label60.TabStop = true;
+            Label60.Text = "晚年期约55岁以后或更晚";
             // 
             // richTextBox1
             // 
@@ -1528,18 +1524,18 @@
             richTextBox1.TabIndex = 122;
             richTextBox1.Text = "";
             // 
-            // linkLabel7hff
+            // Label7hff
             // 
-            linkLabel7hff.AutoSize = true;
-            linkLabel7hff.BackColor = Color.White;
-            linkLabel7hff.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel7hff.LinkColor = Color.Green;
-            linkLabel7hff.Location = new Point(968, 338);
-            linkLabel7hff.Name = "linkLabel7hff";
-            linkLabel7hff.Size = new Size(110, 31);
-            linkLabel7hff.TabIndex = 128;
-            linkLabel7hff.TabStop = true;
-            linkLabel7hff.Text = "主盘强弱";
+            Label7hff.AutoSize = true;
+            Label7hff.BackColor = Color.White;
+            Label7hff.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label7hff.ForeColor = Color.Green;
+            Label7hff.Location = new Point(968, 338);
+            Label7hff.Name = "Label7hff";
+            Label7hff.Size = new Size(110, 31);
+            Label7hff.TabIndex = 128;
+            Label7hff.TabStop = true;
+            Label7hff.Text = "主盘强弱";
             // 
             // timer1
             // 
@@ -1547,18 +1543,18 @@
             timer1.Interval = 1000;
             timer1.Tick += timer1_Tick;
             // 
-            // label1
+            // labelTime
             // 
-            label1.AutoSize = true;
-            label1.BackColor = Color.White;
-            label1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            label1.ForeColor = Color.Black;
-            label1.Location = new Point(1790, 4);
-            label1.Margin = new Padding(0);
-            label1.Name = "label1";
-            label1.Size = new Size(118, 31);
-            label1.TabIndex = 130;
-            label1.Text = "99:99:99";
+            labelTime.AutoSize = true;
+            labelTime.BackColor = Color.White;
+            labelTime.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            labelTime.ForeColor = Color.Black;
+            labelTime.Location = new Point(1790, 4);
+            labelTime.Margin = new Padding(0);
+            labelTime.Name = "labelTime";
+            labelTime.Size = new Size(118, 31);
+            labelTime.TabIndex = 130;
+            labelTime.Text = "99:99:99";
             // 
             // button10
             // 
@@ -1842,18 +1838,18 @@
             button56.Visible = false;
             button56.Click += button56_Click;
             // 
-            // linkLabel25
+            // Label25
             // 
-            linkLabel25.AutoSize = true;
-            linkLabel25.BackColor = Color.DarkViolet;
-            linkLabel25.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel25.LinkColor = Color.Yellow;
-            linkLabel25.Location = new Point(964, 462);
-            linkLabel25.Name = "linkLabel25";
-            linkLabel25.Size = new Size(62, 31);
-            linkLabel25.TabIndex = 195;
-            linkLabel25.TabStop = true;
-            linkLabel25.Text = "阴阳";
+            Label25.AutoSize = true;
+            Label25.BackColor = Color.DarkViolet;
+            Label25.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Label25.ForeColor = Color.Yellow;
+            Label25.Location = new Point(964, 462);
+            Label25.Name = "Label25";
+            Label25.Size = new Size(62, 31);
+            Label25.TabIndex = 195;
+            Label25.TabStop = true;
+            Label25.Text = "阴阳";
             // 
             // button59
             // 
@@ -1926,18 +1922,18 @@
             numericUpDownhour.TabIndex = 201;
             numericUpDownhour.ValueChanged += numericUpDownhour_ValueChanged;
             // 
-            // linkLabel28
+            // LabelDayTime
             // 
-            linkLabel28.AutoSize = true;
-            linkLabel28.BackColor = Color.White;
-            linkLabel28.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabel28.LinkColor = Color.Black;
-            linkLabel28.Location = new Point(1558, 40);
-            linkLabel28.Name = "linkLabel28";
-            linkLabel28.Size = new Size(62, 31);
-            linkLabel28.TabIndex = 202;
-            linkLabel28.TabStop = true;
-            linkLabel28.Text = "日期";
+            LabelDayTime.AutoSize = true;
+            LabelDayTime.BackColor = Color.White;
+            LabelDayTime.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            LabelDayTime.ForeColor = Color.Black;
+            LabelDayTime.Location = new Point(1558, 40);
+            LabelDayTime.Name = "LabelDayTime";
+            LabelDayTime.Size = new Size(62, 31);
+            LabelDayTime.TabIndex = 202;
+            LabelDayTime.TabStop = true;
+            LabelDayTime.Text = "日期";
             // 
             // checkBoxln
             // 
@@ -1952,476 +1948,476 @@
             checkBoxln.Text = "排流年";
             checkBoxln.UseVisualStyleBackColor = false;
             // 
-            // linkLabelsdzss2
-            // 
-            linkLabelsdzss2.AutoSize = true;
-            linkLabelsdzss2.BackColor = Color.Green;
-            linkLabelsdzss2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabelsdzss2.LinkColor = Color.Yellow;
-            linkLabelsdzss2.Location = new Point(1442, 920);
-            linkLabelsdzss2.Name = "linkLabelsdzss2";
-            linkLabelsdzss2.Size = new Size(62, 31);
-            linkLabelsdzss2.TabIndex = 207;
-            linkLabelsdzss2.TabStop = true;
-            linkLabelsdzss2.Text = "神煞";
-            // 
-            // linkLabelrdzss2
-            // 
-            linkLabelrdzss2.AutoSize = true;
-            linkLabelrdzss2.BackColor = Color.Green;
-            linkLabelrdzss2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabelrdzss2.LinkColor = Color.Yellow;
-            linkLabelrdzss2.Location = new Point(959, 920);
-            linkLabelrdzss2.Name = "linkLabelrdzss2";
-            linkLabelrdzss2.Size = new Size(62, 31);
-            linkLabelrdzss2.TabIndex = 206;
-            linkLabelrdzss2.TabStop = true;
-            linkLabelrdzss2.Text = "神煞";
-            // 
-            // linkLabelydzss2
-            // 
-            linkLabelydzss2.AutoSize = true;
-            linkLabelydzss2.BackColor = Color.Green;
-            linkLabelydzss2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabelydzss2.LinkColor = Color.Yellow;
-            linkLabelydzss2.Location = new Point(480, 920);
-            linkLabelydzss2.Name = "linkLabelydzss2";
-            linkLabelydzss2.Size = new Size(62, 31);
-            linkLabelydzss2.TabIndex = 205;
-            linkLabelydzss2.TabStop = true;
-            linkLabelydzss2.Text = "神煞";
-            // 
-            // linkLabelndzss2
-            // 
-            linkLabelndzss2.AutoSize = true;
-            linkLabelndzss2.BackColor = Color.Green;
-            linkLabelndzss2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabelndzss2.LinkColor = Color.Yellow;
-            linkLabelndzss2.Location = new Point(-3, 920);
-            linkLabelndzss2.Name = "linkLabelndzss2";
-            linkLabelndzss2.Size = new Size(62, 31);
-            linkLabelndzss2.TabIndex = 204;
-            linkLabelndzss2.TabStop = true;
-            linkLabelndzss2.Text = "神煞";
-            // 
-            // linkLabellnsss
-            // 
-            linkLabellnsss.AutoSize = true;
-            linkLabellnsss.BackColor = Color.Green;
-            linkLabellnsss.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabellnsss.LinkColor = Color.Yellow;
-            linkLabellnsss.Location = new Point(1565, 696);
-            linkLabellnsss.Name = "linkLabellnsss";
-            linkLabellnsss.Size = new Size(62, 31);
-            linkLabellnsss.TabIndex = 211;
-            linkLabellnsss.TabStop = true;
-            linkLabellnsss.Text = "神煞";
-            linkLabellnsss.Visible = false;
-            // 
-            // linkLabellnssr
-            // 
-            linkLabellnssr.AutoSize = true;
-            linkLabellnssr.BackColor = Color.Green;
-            linkLabellnssr.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabellnssr.LinkColor = Color.Yellow;
-            linkLabellnssr.Location = new Point(1084, 696);
-            linkLabellnssr.Name = "linkLabellnssr";
-            linkLabellnssr.Size = new Size(62, 31);
-            linkLabellnssr.TabIndex = 210;
-            linkLabellnssr.TabStop = true;
-            linkLabellnssr.Text = "神煞";
-            linkLabellnssr.Visible = false;
-            // 
-            // linkLabellnssy
-            // 
-            linkLabellnssy.AutoSize = true;
-            linkLabellnssy.BackColor = Color.Green;
-            linkLabellnssy.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabellnssy.LinkColor = Color.Yellow;
-            linkLabellnssy.Location = new Point(607, 694);
-            linkLabellnssy.Name = "linkLabellnssy";
-            linkLabellnssy.Size = new Size(62, 31);
-            linkLabellnssy.TabIndex = 209;
-            linkLabellnssy.TabStop = true;
-            linkLabellnssy.Text = "神煞";
-            linkLabellnssy.Visible = false;
-            // 
-            // linkLabellnssn
-            // 
-            linkLabellnssn.AutoSize = true;
-            linkLabellnssn.BackColor = Color.Green;
-            linkLabellnssn.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabellnssn.LinkColor = Color.Yellow;
-            linkLabellnssn.Location = new Point(123, 694);
-            linkLabellnssn.Name = "linkLabellnssn";
-            linkLabellnssn.Size = new Size(62, 31);
-            linkLabellnssn.TabIndex = 208;
-            linkLabellnssn.TabStop = true;
-            linkLabellnssn.Text = "神煞";
-            linkLabellnssn.Visible = false;
-            // 
-            // linkLabel3
-            // 
-            linkLabel3.AutoSize = true;
-            linkLabel3.BackColor = Color.DodgerBlue;
-            linkLabel3.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel3.LinkColor = Color.White;
-            linkLabel3.Location = new Point(64, 538);
-            linkLabel3.Name = "linkLabel3";
-            linkLabel3.Size = new Size(33, 28);
-            linkLabel3.TabIndex = 212;
-            linkLabel3.TabStop = true;
-            linkLabel3.Text = "合";
-            // 
-            // linkLabel7
-            // 
-            linkLabel7.AutoSize = true;
-            linkLabel7.BackColor = Color.Green;
-            linkLabel7.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel7.LinkColor = Color.White;
-            linkLabel7.Location = new Point(65, 563);
-            linkLabel7.Name = "linkLabel7";
-            linkLabel7.Size = new Size(33, 28);
-            linkLabel7.TabIndex = 213;
-            linkLabel7.TabStop = true;
-            linkLabel7.Text = "合";
-            // 
-            // linkLabel11
-            // 
-            linkLabel11.AutoSize = true;
-            linkLabel11.BackColor = Color.Sienna;
-            linkLabel11.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel11.LinkColor = Color.White;
-            linkLabel11.Location = new Point(64, 594);
-            linkLabel11.Name = "linkLabel11";
-            linkLabel11.Size = new Size(33, 28);
-            linkLabel11.TabIndex = 214;
-            linkLabel11.TabStop = true;
-            linkLabel11.Text = "合";
-            // 
-            // linkLabel14
-            // 
-            linkLabel14.AutoSize = true;
-            linkLabel14.BackColor = Color.Sienna;
-            linkLabel14.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel14.LinkColor = Color.White;
-            linkLabel14.Location = new Point(545, 594);
-            linkLabel14.Name = "linkLabel14";
-            linkLabel14.Size = new Size(33, 28);
-            linkLabel14.TabIndex = 217;
-            linkLabel14.TabStop = true;
-            linkLabel14.Text = "合";
-            // 
-            // linkLabel16
-            // 
-            linkLabel16.AutoSize = true;
-            linkLabel16.BackColor = Color.Green;
-            linkLabel16.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel16.LinkColor = Color.White;
-            linkLabel16.Location = new Point(546, 563);
-            linkLabel16.Name = "linkLabel16";
-            linkLabel16.Size = new Size(33, 28);
-            linkLabel16.TabIndex = 216;
-            linkLabel16.TabStop = true;
-            linkLabel16.Text = "合";
-            // 
-            // linkLabel18
-            // 
-            linkLabel18.AutoSize = true;
-            linkLabel18.BackColor = Color.DodgerBlue;
-            linkLabel18.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel18.LinkColor = Color.White;
-            linkLabel18.Location = new Point(545, 538);
-            linkLabel18.Name = "linkLabel18";
-            linkLabel18.Size = new Size(33, 28);
-            linkLabel18.TabIndex = 215;
-            linkLabel18.TabStop = true;
-            linkLabel18.Text = "合";
-            // 
-            // linkLabel19
-            // 
-            linkLabel19.AutoSize = true;
-            linkLabel19.BackColor = Color.Sienna;
-            linkLabel19.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel19.LinkColor = Color.White;
-            linkLabel19.Location = new Point(1026, 594);
-            linkLabel19.Name = "linkLabel19";
-            linkLabel19.Size = new Size(33, 28);
-            linkLabel19.TabIndex = 220;
-            linkLabel19.TabStop = true;
-            linkLabel19.Text = "合";
-            // 
-            // linkLabel34
-            // 
-            linkLabel34.AutoSize = true;
-            linkLabel34.BackColor = Color.Green;
-            linkLabel34.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel34.LinkColor = Color.White;
-            linkLabel34.Location = new Point(1027, 563);
-            linkLabel34.Name = "linkLabel34";
-            linkLabel34.Size = new Size(33, 28);
-            linkLabel34.TabIndex = 219;
-            linkLabel34.TabStop = true;
-            linkLabel34.Text = "合";
-            // 
-            // linkLabel39
-            // 
-            linkLabel39.AutoSize = true;
-            linkLabel39.BackColor = Color.DodgerBlue;
-            linkLabel39.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel39.LinkColor = Color.White;
-            linkLabel39.Location = new Point(1026, 538);
-            linkLabel39.Name = "linkLabel39";
-            linkLabel39.Size = new Size(33, 28);
-            linkLabel39.TabIndex = 218;
-            linkLabel39.TabStop = true;
-            linkLabel39.Text = "合";
-            // 
-            // linkLabel47
-            // 
-            linkLabel47.AutoSize = true;
-            linkLabel47.BackColor = Color.Red;
-            linkLabel47.Font = new Font("微软雅黑", 26.25F, FontStyle.Bold, GraphicsUnit.Point, 134);
-            linkLabel47.LinkColor = Color.White;
-            linkLabel47.Location = new Point(1523, 594);
-            linkLabel47.Name = "linkLabel47";
-            linkLabel47.Size = new Size(55, 46);
-            linkLabel47.TabIndex = 223;
-            linkLabel47.TabStop = true;
-            linkLabel47.Text = "合";
-            // 
-            // linkLabel57
-            // 
-            linkLabel57.AutoSize = true;
-            linkLabel57.BackColor = Color.Green;
-            linkLabel57.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel57.LinkColor = Color.White;
-            linkLabel57.Location = new Point(1510, 563);
-            linkLabel57.Name = "linkLabel57";
-            linkLabel57.Size = new Size(33, 28);
-            linkLabel57.TabIndex = 222;
-            linkLabel57.TabStop = true;
-            linkLabel57.Text = "合";
-            // 
-            // linkLabel61
-            // 
-            linkLabel61.AutoSize = true;
-            linkLabel61.BackColor = Color.Gold;
-            linkLabel61.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel61.LinkColor = Color.Black;
-            linkLabel61.Location = new Point(1041, 500);
-            linkLabel61.Name = "linkLabel61";
-            linkLabel61.Size = new Size(33, 28);
-            linkLabel61.TabIndex = 221;
-            linkLabel61.TabStop = true;
-            linkLabel61.Text = "合";
-            // 
-            // linkLabel62
-            // 
-            linkLabel62.AutoSize = true;
-            linkLabel62.BackColor = Color.Sienna;
-            linkLabel62.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel62.LinkColor = Color.White;
-            linkLabel62.Location = new Point(1045, 627);
-            linkLabel62.Name = "linkLabel62";
-            linkLabel62.Size = new Size(33, 28);
-            linkLabel62.TabIndex = 226;
-            linkLabel62.TabStop = true;
-            linkLabel62.Text = "合";
-            // 
-            // linkLabel63
-            // 
-            linkLabel63.AutoSize = true;
-            linkLabel63.BackColor = Color.Sienna;
-            linkLabel63.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel63.LinkColor = Color.White;
-            linkLabel63.Location = new Point(564, 627);
-            linkLabel63.Name = "linkLabel63";
-            linkLabel63.Size = new Size(33, 28);
-            linkLabel63.TabIndex = 225;
-            linkLabel63.TabStop = true;
-            linkLabel63.Text = "合";
-            // 
-            // linkLabel64
-            // 
-            linkLabel64.AutoSize = true;
-            linkLabel64.BackColor = Color.Sienna;
-            linkLabel64.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel64.LinkColor = Color.White;
-            linkLabel64.Location = new Point(83, 627);
-            linkLabel64.Name = "linkLabel64";
-            linkLabel64.Size = new Size(33, 28);
-            linkLabel64.TabIndex = 224;
-            linkLabel64.TabStop = true;
-            linkLabel64.Text = "合";
-            // 
-            // linkLabel21
-            // 
-            linkLabel21.AutoSize = true;
-            linkLabel21.BackColor = Color.Sienna;
-            linkLabel21.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel21.LinkColor = Color.White;
-            linkLabel21.Location = new Point(1169, 599);
-            linkLabel21.Name = "linkLabel21";
-            linkLabel21.Size = new Size(33, 28);
-            linkLabel21.TabIndex = 233;
-            linkLabel21.TabStop = true;
-            linkLabel21.Text = "合";
-            linkLabel21.Visible = false;
-            // 
-            // linkLabel65
-            // 
-            linkLabel65.AutoSize = true;
-            linkLabel65.BackColor = Color.DodgerBlue;
-            linkLabel65.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel65.LinkColor = Color.White;
-            linkLabel65.Location = new Point(1169, 571);
-            linkLabel65.Name = "linkLabel65";
-            linkLabel65.Size = new Size(33, 28);
-            linkLabel65.TabIndex = 232;
-            linkLabel65.TabStop = true;
-            linkLabel65.Text = "合";
-            linkLabel65.Visible = false;
-            // 
-            // linkLabel66
-            // 
-            linkLabel66.AutoSize = true;
-            linkLabel66.BackColor = Color.Sienna;
-            linkLabel66.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel66.LinkColor = Color.White;
-            linkLabel66.Location = new Point(688, 599);
-            linkLabel66.Name = "linkLabel66";
-            linkLabel66.Size = new Size(33, 28);
-            linkLabel66.TabIndex = 231;
-            linkLabel66.TabStop = true;
-            linkLabel66.Text = "合";
-            linkLabel66.Visible = false;
-            // 
-            // linkLabel67
-            // 
-            linkLabel67.AutoSize = true;
-            linkLabel67.BackColor = Color.DodgerBlue;
-            linkLabel67.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel67.LinkColor = Color.White;
-            linkLabel67.Location = new Point(688, 571);
-            linkLabel67.Name = "linkLabel67";
-            linkLabel67.Size = new Size(33, 28);
-            linkLabel67.TabIndex = 230;
-            linkLabel67.TabStop = true;
-            linkLabel67.Text = "合";
-            linkLabel67.Visible = false;
-            // 
-            // linkLabel68
-            // 
-            linkLabel68.AutoSize = true;
-            linkLabel68.BackColor = Color.Sienna;
-            linkLabel68.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel68.LinkColor = Color.White;
-            linkLabel68.Location = new Point(207, 599);
-            linkLabel68.Name = "linkLabel68";
-            linkLabel68.Size = new Size(33, 28);
-            linkLabel68.TabIndex = 229;
-            linkLabel68.TabStop = true;
-            linkLabel68.Text = "合";
-            linkLabel68.Visible = false;
-            // 
-            // linkLabel69
-            // 
-            linkLabel69.AutoSize = true;
-            linkLabel69.BackColor = Color.DodgerBlue;
-            linkLabel69.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel69.LinkColor = Color.White;
-            linkLabel69.Location = new Point(207, 571);
-            linkLabel69.Name = "linkLabel69";
-            linkLabel69.Size = new Size(33, 28);
-            linkLabel69.TabIndex = 228;
-            linkLabel69.TabStop = true;
-            linkLabel69.Text = "合";
-            linkLabel69.Visible = false;
-            // 
-            // linkLabel70
-            // 
-            linkLabel70.AutoSize = true;
-            linkLabel70.BackColor = Color.Sienna;
-            linkLabel70.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel70.LinkColor = Color.White;
-            linkLabel70.Location = new Point(1649, 595);
-            linkLabel70.Name = "linkLabel70";
-            linkLabel70.Size = new Size(33, 28);
-            linkLabel70.TabIndex = 235;
-            linkLabel70.TabStop = true;
-            linkLabel70.Text = "合";
-            linkLabel70.Visible = false;
-            // 
-            // linkLabel71
-            // 
-            linkLabel71.AutoSize = true;
-            linkLabel71.BackColor = Color.DodgerBlue;
-            linkLabel71.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel71.LinkColor = Color.White;
-            linkLabel71.Location = new Point(1649, 567);
-            linkLabel71.Name = "linkLabel71";
-            linkLabel71.Size = new Size(33, 28);
-            linkLabel71.TabIndex = 234;
-            linkLabel71.TabStop = true;
-            linkLabel71.Text = "合";
-            linkLabel71.Visible = false;
-            // 
-            // linkLabel72
-            // 
-            linkLabel72.AutoSize = true;
-            linkLabel72.BackColor = Color.Sienna;
-            linkLabel72.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel72.LinkColor = Color.White;
-            linkLabel72.Location = new Point(1649, 623);
-            linkLabel72.Name = "linkLabel72";
-            linkLabel72.Size = new Size(33, 28);
-            linkLabel72.TabIndex = 239;
-            linkLabel72.TabStop = true;
-            linkLabel72.Text = "合";
-            linkLabel72.Visible = false;
-            // 
-            // linkLabel73
-            // 
-            linkLabel73.AutoSize = true;
-            linkLabel73.BackColor = Color.Sienna;
-            linkLabel73.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel73.LinkColor = Color.White;
-            linkLabel73.Location = new Point(1169, 627);
-            linkLabel73.Name = "linkLabel73";
-            linkLabel73.Size = new Size(33, 28);
-            linkLabel73.TabIndex = 238;
-            linkLabel73.TabStop = true;
-            linkLabel73.Text = "合";
-            linkLabel73.Visible = false;
-            // 
-            // linkLabel74
-            // 
-            linkLabel74.AutoSize = true;
-            linkLabel74.BackColor = Color.Sienna;
-            linkLabel74.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel74.LinkColor = Color.White;
-            linkLabel74.Location = new Point(688, 627);
-            linkLabel74.Name = "linkLabel74";
-            linkLabel74.Size = new Size(33, 28);
-            linkLabel74.TabIndex = 237;
-            linkLabel74.TabStop = true;
-            linkLabel74.Text = "合";
-            linkLabel74.Visible = false;
-            // 
-            // linkLabel75
-            // 
-            linkLabel75.AutoSize = true;
-            linkLabel75.BackColor = Color.Sienna;
-            linkLabel75.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
-            linkLabel75.LinkColor = Color.White;
-            linkLabel75.Location = new Point(207, 627);
-            linkLabel75.Name = "linkLabel75";
-            linkLabel75.Size = new Size(33, 28);
-            linkLabel75.TabIndex = 236;
-            linkLabel75.TabStop = true;
-            linkLabel75.Text = "合";
-            linkLabel75.Visible = false;
+            // Labelsdzss2
+            // 
+            Labelsdzss2.AutoSize = true;
+            Labelsdzss2.BackColor = Color.Green;
+            Labelsdzss2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelsdzss2.ForeColor = Color.Yellow;
+            Labelsdzss2.Location = new Point(1442, 920);
+            Labelsdzss2.Name = "Labelsdzss2";
+            Labelsdzss2.Size = new Size(62, 31);
+            Labelsdzss2.TabIndex = 207;
+            Labelsdzss2.TabStop = true;
+            Labelsdzss2.Text = "神煞";
+            // 
+            // Labelrdzss2
+            // 
+            Labelrdzss2.AutoSize = true;
+            Labelrdzss2.BackColor = Color.Green;
+            Labelrdzss2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelrdzss2.ForeColor = Color.Yellow;
+            Labelrdzss2.Location = new Point(959, 920);
+            Labelrdzss2.Name = "Labelrdzss2";
+            Labelrdzss2.Size = new Size(62, 31);
+            Labelrdzss2.TabIndex = 206;
+            Labelrdzss2.TabStop = true;
+            Labelrdzss2.Text = "神煞";
+            // 
+            // Labelydzss2
+            // 
+            Labelydzss2.AutoSize = true;
+            Labelydzss2.BackColor = Color.Green;
+            Labelydzss2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelydzss2.ForeColor = Color.Yellow;
+            Labelydzss2.Location = new Point(480, 920);
+            Labelydzss2.Name = "Labelydzss2";
+            Labelydzss2.Size = new Size(62, 31);
+            Labelydzss2.TabIndex = 205;
+            Labelydzss2.TabStop = true;
+            Labelydzss2.Text = "神煞";
+            // 
+            // Labelndzss2
+            // 
+            Labelndzss2.AutoSize = true;
+            Labelndzss2.BackColor = Color.Green;
+            Labelndzss2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelndzss2.ForeColor = Color.Yellow;
+            Labelndzss2.Location = new Point(-3, 920);
+            Labelndzss2.Name = "Labelndzss2";
+            Labelndzss2.Size = new Size(62, 31);
+            Labelndzss2.TabIndex = 204;
+            Labelndzss2.TabStop = true;
+            Labelndzss2.Text = "神煞";
+            // 
+            // Labellnsss
+            // 
+            Labellnsss.AutoSize = true;
+            Labellnsss.BackColor = Color.Green;
+            Labellnsss.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labellnsss.ForeColor = Color.Yellow;
+            Labellnsss.Location = new Point(1565, 696);
+            Labellnsss.Name = "Labellnsss";
+            Labellnsss.Size = new Size(62, 31);
+            Labellnsss.TabIndex = 211;
+            Labellnsss.TabStop = true;
+            Labellnsss.Text = "神煞";
+            Labellnsss.Visible = false;
+            // 
+            // Labellnssr
+            // 
+            Labellnssr.AutoSize = true;
+            Labellnssr.BackColor = Color.Green;
+            Labellnssr.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labellnssr.ForeColor = Color.Yellow;
+            Labellnssr.Location = new Point(1084, 696);
+            Labellnssr.Name = "Labellnssr";
+            Labellnssr.Size = new Size(62, 31);
+            Labellnssr.TabIndex = 210;
+            Labellnssr.TabStop = true;
+            Labellnssr.Text = "神煞";
+            Labellnssr.Visible = false;
+            // 
+            // Labellnssy
+            // 
+            Labellnssy.AutoSize = true;
+            Labellnssy.BackColor = Color.Green;
+            Labellnssy.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labellnssy.ForeColor = Color.Yellow;
+            Labellnssy.Location = new Point(607, 694);
+            Labellnssy.Name = "Labellnssy";
+            Labellnssy.Size = new Size(62, 31);
+            Labellnssy.TabIndex = 209;
+            Labellnssy.TabStop = true;
+            Labellnssy.Text = "神煞";
+            Labellnssy.Visible = false;
+            // 
+            // Labellnssn
+            // 
+            Labellnssn.AutoSize = true;
+            Labellnssn.BackColor = Color.Green;
+            Labellnssn.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labellnssn.ForeColor = Color.Yellow;
+            Labellnssn.Location = new Point(123, 694);
+            Labellnssn.Name = "Labellnssn";
+            Labellnssn.Size = new Size(62, 31);
+            Labellnssn.TabIndex = 208;
+            Labellnssn.TabStop = true;
+            Labellnssn.Text = "神煞";
+            Labellnssn.Visible = false;
+            // 
+            // Label3
+            // 
+            Label3.AutoSize = true;
+            Label3.BackColor = Color.DodgerBlue;
+            Label3.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label3.ForeColor = Color.White;
+            Label3.Location = new Point(64, 538);
+            Label3.Name = "Label3";
+            Label3.Size = new Size(33, 28);
+            Label3.TabIndex = 212;
+            Label3.TabStop = true;
+            Label3.Text = "合";
+            // 
+            // Label7
+            // 
+            Label7.AutoSize = true;
+            Label7.BackColor = Color.Green;
+            Label7.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label7.ForeColor = Color.White;
+            Label7.Location = new Point(65, 563);
+            Label7.Name = "Label7";
+            Label7.Size = new Size(33, 28);
+            Label7.TabIndex = 213;
+            Label7.TabStop = true;
+            Label7.Text = "合";
+            // 
+            // Label11
+            // 
+            Label11.AutoSize = true;
+            Label11.BackColor = Color.Sienna;
+            Label11.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label11.ForeColor = Color.White;
+            Label11.Location = new Point(64, 594);
+            Label11.Name = "Label11";
+            Label11.Size = new Size(33, 28);
+            Label11.TabIndex = 214;
+            Label11.TabStop = true;
+            Label11.Text = "合";
+            // 
+            // Label14
+            // 
+            Label14.AutoSize = true;
+            Label14.BackColor = Color.Sienna;
+            Label14.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label14.ForeColor = Color.White;
+            Label14.Location = new Point(545, 594);
+            Label14.Name = "Label14";
+            Label14.Size = new Size(33, 28);
+            Label14.TabIndex = 217;
+            Label14.TabStop = true;
+            Label14.Text = "合";
+            // 
+            // Label16
+            // 
+            Label16.AutoSize = true;
+            Label16.BackColor = Color.Green;
+            Label16.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label16.ForeColor = Color.White;
+            Label16.Location = new Point(546, 563);
+            Label16.Name = "Label16";
+            Label16.Size = new Size(33, 28);
+            Label16.TabIndex = 216;
+            Label16.TabStop = true;
+            Label16.Text = "合";
+            // 
+            // Label18
+            // 
+            Label18.AutoSize = true;
+            Label18.BackColor = Color.DodgerBlue;
+            Label18.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label18.ForeColor = Color.White;
+            Label18.Location = new Point(545, 538);
+            Label18.Name = "Label18";
+            Label18.Size = new Size(33, 28);
+            Label18.TabIndex = 215;
+            Label18.TabStop = true;
+            Label18.Text = "合";
+            // 
+            // Label19
+            // 
+            Label19.AutoSize = true;
+            Label19.BackColor = Color.Sienna;
+            Label19.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label19.ForeColor = Color.White;
+            Label19.Location = new Point(1026, 594);
+            Label19.Name = "Label19";
+            Label19.Size = new Size(33, 28);
+            Label19.TabIndex = 220;
+            Label19.TabStop = true;
+            Label19.Text = "合";
+            // 
+            // Label34
+            // 
+            Label34.AutoSize = true;
+            Label34.BackColor = Color.Green;
+            Label34.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label34.ForeColor = Color.White;
+            Label34.Location = new Point(1027, 563);
+            Label34.Name = "Label34";
+            Label34.Size = new Size(33, 28);
+            Label34.TabIndex = 219;
+            Label34.TabStop = true;
+            Label34.Text = "合";
+            // 
+            // Label39
+            // 
+            Label39.AutoSize = true;
+            Label39.BackColor = Color.DodgerBlue;
+            Label39.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label39.ForeColor = Color.White;
+            Label39.Location = new Point(1026, 538);
+            Label39.Name = "Label39";
+            Label39.Size = new Size(33, 28);
+            Label39.TabIndex = 218;
+            Label39.TabStop = true;
+            Label39.Text = "合";
+            // 
+            // Label47
+            // 
+            Label47.AutoSize = true;
+            Label47.BackColor = Color.Red;
+            Label47.Font = new Font("微软雅黑", 26.25F, FontStyle.Bold, GraphicsUnit.Point, 134);
+            Label47.ForeColor = Color.White;
+            Label47.Location = new Point(1523, 594);
+            Label47.Name = "Label47";
+            Label47.Size = new Size(55, 46);
+            Label47.TabIndex = 223;
+            Label47.TabStop = true;
+            Label47.Text = "合";
+            // 
+            // Label57
+            // 
+            Label57.AutoSize = true;
+            Label57.BackColor = Color.Green;
+            Label57.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label57.ForeColor = Color.White;
+            Label57.Location = new Point(1510, 563);
+            Label57.Name = "Label57";
+            Label57.Size = new Size(33, 28);
+            Label57.TabIndex = 222;
+            Label57.TabStop = true;
+            Label57.Text = "合";
+            // 
+            // Label61
+            // 
+            Label61.AutoSize = true;
+            Label61.BackColor = Color.Gold;
+            Label61.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label61.ForeColor = Color.Black;
+            Label61.Location = new Point(1041, 500);
+            Label61.Name = "Label61";
+            Label61.Size = new Size(33, 28);
+            Label61.TabIndex = 221;
+            Label61.TabStop = true;
+            Label61.Text = "合";
+            // 
+            // Label62
+            // 
+            Label62.AutoSize = true;
+            Label62.BackColor = Color.Sienna;
+            Label62.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label62.ForeColor = Color.White;
+            Label62.Location = new Point(1045, 627);
+            Label62.Name = "Label62";
+            Label62.Size = new Size(33, 28);
+            Label62.TabIndex = 226;
+            Label62.TabStop = true;
+            Label62.Text = "合";
+            // 
+            // Label63
+            // 
+            Label63.AutoSize = true;
+            Label63.BackColor = Color.Sienna;
+            Label63.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label63.ForeColor = Color.White;
+            Label63.Location = new Point(564, 627);
+            Label63.Name = "Label63";
+            Label63.Size = new Size(33, 28);
+            Label63.TabIndex = 225;
+            Label63.TabStop = true;
+            Label63.Text = "合";
+            // 
+            // Label64
+            // 
+            Label64.AutoSize = true;
+            Label64.BackColor = Color.Sienna;
+            Label64.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label64.ForeColor = Color.White;
+            Label64.Location = new Point(83, 627);
+            Label64.Name = "Label64";
+            Label64.Size = new Size(33, 28);
+            Label64.TabIndex = 224;
+            Label64.TabStop = true;
+            Label64.Text = "合";
+            // 
+            // Label21
+            // 
+            Label21.AutoSize = true;
+            Label21.BackColor = Color.Sienna;
+            Label21.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label21.ForeColor = Color.White;
+            Label21.Location = new Point(1169, 599);
+            Label21.Name = "Label21";
+            Label21.Size = new Size(33, 28);
+            Label21.TabIndex = 233;
+            Label21.TabStop = true;
+            Label21.Text = "合";
+            Label21.Visible = false;
+            // 
+            // Label65
+            // 
+            Label65.AutoSize = true;
+            Label65.BackColor = Color.DodgerBlue;
+            Label65.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label65.ForeColor = Color.White;
+            Label65.Location = new Point(1169, 571);
+            Label65.Name = "Label65";
+            Label65.Size = new Size(33, 28);
+            Label65.TabIndex = 232;
+            Label65.TabStop = true;
+            Label65.Text = "合";
+            Label65.Visible = false;
+            // 
+            // Label66
+            // 
+            Label66.AutoSize = true;
+            Label66.BackColor = Color.Sienna;
+            Label66.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label66.ForeColor = Color.White;
+            Label66.Location = new Point(688, 599);
+            Label66.Name = "Label66";
+            Label66.Size = new Size(33, 28);
+            Label66.TabIndex = 231;
+            Label66.TabStop = true;
+            Label66.Text = "合";
+            Label66.Visible = false;
+            // 
+            // Label67
+            // 
+            Label67.AutoSize = true;
+            Label67.BackColor = Color.DodgerBlue;
+            Label67.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label67.ForeColor = Color.White;
+            Label67.Location = new Point(688, 571);
+            Label67.Name = "Label67";
+            Label67.Size = new Size(33, 28);
+            Label67.TabIndex = 230;
+            Label67.TabStop = true;
+            Label67.Text = "合";
+            Label67.Visible = false;
+            // 
+            // Label68
+            // 
+            Label68.AutoSize = true;
+            Label68.BackColor = Color.Sienna;
+            Label68.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label68.ForeColor = Color.White;
+            Label68.Location = new Point(207, 599);
+            Label68.Name = "Label68";
+            Label68.Size = new Size(33, 28);
+            Label68.TabIndex = 229;
+            Label68.TabStop = true;
+            Label68.Text = "合";
+            Label68.Visible = false;
+            // 
+            // Label69
+            // 
+            Label69.AutoSize = true;
+            Label69.BackColor = Color.DodgerBlue;
+            Label69.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label69.ForeColor = Color.White;
+            Label69.Location = new Point(207, 571);
+            Label69.Name = "Label69";
+            Label69.Size = new Size(33, 28);
+            Label69.TabIndex = 228;
+            Label69.TabStop = true;
+            Label69.Text = "合";
+            Label69.Visible = false;
+            // 
+            // Label70
+            // 
+            Label70.AutoSize = true;
+            Label70.BackColor = Color.Sienna;
+            Label70.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label70.ForeColor = Color.White;
+            Label70.Location = new Point(1649, 595);
+            Label70.Name = "Label70";
+            Label70.Size = new Size(33, 28);
+            Label70.TabIndex = 235;
+            Label70.TabStop = true;
+            Label70.Text = "合";
+            Label70.Visible = false;
+            // 
+            // Label71
+            // 
+            Label71.AutoSize = true;
+            Label71.BackColor = Color.DodgerBlue;
+            Label71.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label71.ForeColor = Color.White;
+            Label71.Location = new Point(1649, 567);
+            Label71.Name = "Label71";
+            Label71.Size = new Size(33, 28);
+            Label71.TabIndex = 234;
+            Label71.TabStop = true;
+            Label71.Text = "合";
+            Label71.Visible = false;
+            // 
+            // Label72
+            // 
+            Label72.AutoSize = true;
+            Label72.BackColor = Color.Sienna;
+            Label72.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label72.ForeColor = Color.White;
+            Label72.Location = new Point(1649, 623);
+            Label72.Name = "Label72";
+            Label72.Size = new Size(33, 28);
+            Label72.TabIndex = 239;
+            Label72.TabStop = true;
+            Label72.Text = "合";
+            Label72.Visible = false;
+            // 
+            // Label73
+            // 
+            Label73.AutoSize = true;
+            Label73.BackColor = Color.Sienna;
+            Label73.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label73.ForeColor = Color.White;
+            Label73.Location = new Point(1169, 627);
+            Label73.Name = "Label73";
+            Label73.Size = new Size(33, 28);
+            Label73.TabIndex = 238;
+            Label73.TabStop = true;
+            Label73.Text = "合";
+            Label73.Visible = false;
+            // 
+            // Label74
+            // 
+            Label74.AutoSize = true;
+            Label74.BackColor = Color.Sienna;
+            Label74.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label74.ForeColor = Color.White;
+            Label74.Location = new Point(688, 627);
+            Label74.Name = "Label74";
+            Label74.Size = new Size(33, 28);
+            Label74.TabIndex = 237;
+            Label74.TabStop = true;
+            Label74.Text = "合";
+            Label74.Visible = false;
+            // 
+            // Label75
+            // 
+            Label75.AutoSize = true;
+            Label75.BackColor = Color.Sienna;
+            Label75.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label75.ForeColor = Color.White;
+            Label75.Location = new Point(207, 627);
+            Label75.Name = "Label75";
+            Label75.Size = new Size(33, 28);
+            Label75.TabIndex = 236;
+            Label75.TabStop = true;
+            Label75.Text = "合";
+            Label75.Visible = false;
             // 
             // buttoncs2
             // 
@@ -3019,125 +3015,125 @@
             panel1.Controls.Add(buttoncs9);
             panel1.Controls.Add(buttongz);
             panel1.Controls.Add(buttoncs6);
-            panel1.Controls.Add(linkLabel1);
+            panel1.Controls.Add(Label1);
             panel1.Controls.Add(buttoncs8);
-            panel1.Controls.Add(linkLabel2);
+            panel1.Controls.Add(Label2);
             panel1.Controls.Add(buttoncs7);
-            panel1.Controls.Add(linkLabelntgss);
+            panel1.Controls.Add(Labelntgss);
             panel1.Controls.Add(buttoncs5);
-            panel1.Controls.Add(linkLabel4);
+            panel1.Controls.Add(Label4);
             panel1.Controls.Add(buttoncs2);
-            panel1.Controls.Add(linkLabel5);
+            panel1.Controls.Add(Label5);
             panel1.Controls.Add(buttoncs4);
-            panel1.Controls.Add(linkLabel6);
+            panel1.Controls.Add(Label6);
             panel1.Controls.Add(buttoncs3);
             panel1.Controls.Add(linkLabencs);
             panel1.Controls.Add(buttoncs1);
-            panel1.Controls.Add(linkLabel8);
-            panel1.Controls.Add(linkLabel72);
-            panel1.Controls.Add(linkLabel9);
-            panel1.Controls.Add(linkLabel73);
-            panel1.Controls.Add(linkLabel10);
-            panel1.Controls.Add(linkLabel74);
-            panel1.Controls.Add(linkLabelytgss);
-            panel1.Controls.Add(linkLabel75);
-            panel1.Controls.Add(linkLabel12);
-            panel1.Controls.Add(linkLabel70);
-            panel1.Controls.Add(linkLabel13);
-            panel1.Controls.Add(linkLabel71);
-            panel1.Controls.Add(linkLabelycs);
-            panel1.Controls.Add(linkLabel21);
-            panel1.Controls.Add(linkLabel15);
-            panel1.Controls.Add(linkLabel65);
-            panel1.Controls.Add(linkLabel17);
-            panel1.Controls.Add(linkLabel66);
-            panel1.Controls.Add(linkLabelrtgss);
-            panel1.Controls.Add(linkLabel67);
-            panel1.Controls.Add(linkLabel20);
-            panel1.Controls.Add(linkLabel68);
-            panel1.Controls.Add(linkLabelrcs);
-            panel1.Controls.Add(linkLabel69);
-            panel1.Controls.Add(linkLabel22);
-            panel1.Controls.Add(linkLabel62);
-            panel1.Controls.Add(linkLabel23);
-            panel1.Controls.Add(linkLabel63);
-            panel1.Controls.Add(linkLabel24);
-            panel1.Controls.Add(linkLabel64);
-            panel1.Controls.Add(linkLabelstgss);
-            panel1.Controls.Add(linkLabel47);
-            panel1.Controls.Add(linkLabel26);
-            panel1.Controls.Add(linkLabel57);
-            panel1.Controls.Add(linkLabel27);
-            panel1.Controls.Add(linkLabel61);
-            panel1.Controls.Add(linkLabelscs);
-            panel1.Controls.Add(linkLabel19);
-            panel1.Controls.Add(linkLabel29);
-            panel1.Controls.Add(linkLabel34);
-            panel1.Controls.Add(linkLabel30);
-            panel1.Controls.Add(linkLabel39);
-            panel1.Controls.Add(linkLabel31);
-            panel1.Controls.Add(linkLabel14);
-            panel1.Controls.Add(linkLabel32);
-            panel1.Controls.Add(linkLabel16);
-            panel1.Controls.Add(linkLabel33);
-            panel1.Controls.Add(linkLabel18);
-            panel1.Controls.Add(linkLabelndzss1);
-            panel1.Controls.Add(linkLabel11);
-            panel1.Controls.Add(linkLabel35);
-            panel1.Controls.Add(linkLabel7);
-            panel1.Controls.Add(linkLabel36);
-            panel1.Controls.Add(linkLabel3);
-            panel1.Controls.Add(linkLabel37);
-            panel1.Controls.Add(linkLabellnsss);
-            panel1.Controls.Add(linkLabel38);
-            panel1.Controls.Add(linkLabellnssr);
-            panel1.Controls.Add(linkLabelydzss1);
-            panel1.Controls.Add(linkLabellnssy);
-            panel1.Controls.Add(linkLabel40);
-            panel1.Controls.Add(linkLabellnssn);
-            panel1.Controls.Add(linkLabel41);
-            panel1.Controls.Add(linkLabelsdzss2);
-            panel1.Controls.Add(linkLabel42);
-            panel1.Controls.Add(linkLabelrdzss2);
-            panel1.Controls.Add(linkLabel43);
-            panel1.Controls.Add(linkLabelydzss2);
-            panel1.Controls.Add(linkLabel44);
-            panel1.Controls.Add(linkLabelndzss2);
-            panel1.Controls.Add(linkLabel45);
+            panel1.Controls.Add(Label8);
+            panel1.Controls.Add(Label72);
+            panel1.Controls.Add(Label9);
+            panel1.Controls.Add(Label73);
+            panel1.Controls.Add(Label10);
+            panel1.Controls.Add(Label74);
+            panel1.Controls.Add(Labelytgss);
+            panel1.Controls.Add(Label75);
+            panel1.Controls.Add(Label12);
+            panel1.Controls.Add(Label70);
+            panel1.Controls.Add(Label13);
+            panel1.Controls.Add(Label71);
+            panel1.Controls.Add(Labelycs);
+            panel1.Controls.Add(Label21);
+            panel1.Controls.Add(Label15);
+            panel1.Controls.Add(Label65);
+            panel1.Controls.Add(Label17);
+            panel1.Controls.Add(Label66);
+            panel1.Controls.Add(Labelrtgss);
+            panel1.Controls.Add(Label67);
+            panel1.Controls.Add(Label20);
+            panel1.Controls.Add(Label68);
+            panel1.Controls.Add(Labelrcs);
+            panel1.Controls.Add(Label69);
+            panel1.Controls.Add(Label22);
+            panel1.Controls.Add(Label62);
+            panel1.Controls.Add(Label23);
+            panel1.Controls.Add(Label63);
+            panel1.Controls.Add(Label24);
+            panel1.Controls.Add(Label64);
+            panel1.Controls.Add(Labelstgss);
+            panel1.Controls.Add(Label47);
+            panel1.Controls.Add(Label26);
+            panel1.Controls.Add(Label57);
+            panel1.Controls.Add(Label27);
+            panel1.Controls.Add(Label61);
+            panel1.Controls.Add(Labelscs);
+            panel1.Controls.Add(Label19);
+            panel1.Controls.Add(Label29);
+            panel1.Controls.Add(Label34);
+            panel1.Controls.Add(Label30);
+            panel1.Controls.Add(Label39);
+            panel1.Controls.Add(Label31);
+            panel1.Controls.Add(Label14);
+            panel1.Controls.Add(Label32);
+            panel1.Controls.Add(Label16);
+            panel1.Controls.Add(Label33);
+            panel1.Controls.Add(Label18);
+            panel1.Controls.Add(Labelndzss1);
+            panel1.Controls.Add(Label11);
+            panel1.Controls.Add(Label35);
+            panel1.Controls.Add(Label7);
+            panel1.Controls.Add(Label36);
+            panel1.Controls.Add(Label3);
+            panel1.Controls.Add(Label37);
+            panel1.Controls.Add(Labellnsss);
+            panel1.Controls.Add(Label38);
+            panel1.Controls.Add(Labellnssr);
+            panel1.Controls.Add(Labelydzss1);
+            panel1.Controls.Add(Labellnssy);
+            panel1.Controls.Add(Label40);
+            panel1.Controls.Add(Labellnssn);
+            panel1.Controls.Add(Label41);
+            panel1.Controls.Add(Labelsdzss2);
+            panel1.Controls.Add(Label42);
+            panel1.Controls.Add(Labelrdzss2);
+            panel1.Controls.Add(Label43);
+            panel1.Controls.Add(Labelydzss2);
+            panel1.Controls.Add(Label44);
+            panel1.Controls.Add(Labelndzss2);
+            panel1.Controls.Add(Label45);
             panel1.Controls.Add(checkBoxln);
-            panel1.Controls.Add(linkLabel46);
-            panel1.Controls.Add(linkLabel28);
-            panel1.Controls.Add(linkLabelrdzss1);
+            panel1.Controls.Add(Label46);
+            panel1.Controls.Add(LabelDayTime);
+            panel1.Controls.Add(Labelrdzss1);
             panel1.Controls.Add(numericUpDownhour);
-            panel1.Controls.Add(linkLabel48);
+            panel1.Controls.Add(Label48);
             panel1.Controls.Add(numericUpDownday);
-            panel1.Controls.Add(linkLabel49);
+            panel1.Controls.Add(Label49);
             panel1.Controls.Add(numericUpDownmonth);
-            panel1.Controls.Add(linkLabel50);
+            panel1.Controls.Add(Label50);
             panel1.Controls.Add(numericUpDownyear);
-            panel1.Controls.Add(linkLabel51);
+            panel1.Controls.Add(Label51);
             panel1.Controls.Add(checkBox1);
-            panel1.Controls.Add(linkLabel52);
+            panel1.Controls.Add(Label52);
             panel1.Controls.Add(button59);
-            panel1.Controls.Add(linkLabel53);
-            panel1.Controls.Add(linkLabel25);
-            panel1.Controls.Add(linkLabel54);
+            panel1.Controls.Add(Label53);
+            panel1.Controls.Add(Label25);
+            panel1.Controls.Add(Label54);
             panel1.Controls.Add(button56);
-            panel1.Controls.Add(linkLabel55);
+            panel1.Controls.Add(Label55);
             panel1.Controls.Add(button54);
-            panel1.Controls.Add(linkLabel56);
+            panel1.Controls.Add(Label56);
             panel1.Controls.Add(button52);
-            panel1.Controls.Add(linkLabelsdzss1);
+            panel1.Controls.Add(Labelsdzss1);
             panel1.Controls.Add(button55);
-            panel1.Controls.Add(linkLabel58);
+            panel1.Controls.Add(Label58);
             panel1.Controls.Add(button57);
-            panel1.Controls.Add(linkLabel59);
+            panel1.Controls.Add(Label59);
             panel1.Controls.Add(button58);
-            panel1.Controls.Add(linkLabel60);
+            panel1.Controls.Add(Label60);
             panel1.Controls.Add(button61);
-            panel1.Controls.Add(linkLabel7hff);
+            panel1.Controls.Add(Label7hff);
             panel1.Controls.Add(button62);
-            panel1.Controls.Add(label1);
+            panel1.Controls.Add(labelTime);
             panel1.Controls.Add(button63);
             panel1.Controls.Add(button10);
             panel1.Controls.Add(button65);
@@ -3210,7 +3206,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-10-31";
+            Text = "八字排盘工具v2024-11-02";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).EndInit();
@@ -3268,68 +3264,68 @@
         private Button buttonmu;
         private Button buttonhuo;
         private Button buttongz;
-        private LinkLabel linkLabel1;
-        private LinkLabel linkLabel2;
-        private LinkLabel linkLabelntgss;
-        private LinkLabel linkLabel4;
-        private LinkLabel linkLabel5;
-        private LinkLabel linkLabel6;
-        private LinkLabel linkLabencs;
-        private LinkLabel linkLabel8;
-        private LinkLabel linkLabel9;
-        private LinkLabel linkLabel10;
-        private LinkLabel linkLabelytgss;
-        private LinkLabel linkLabel12;
-        private LinkLabel linkLabel13;
-        private LinkLabel linkLabelycs;
-        private LinkLabel linkLabel15;
-        private LinkLabel linkLabel17;
-        private LinkLabel linkLabelrtgss;
-        private LinkLabel linkLabel20;
-        private LinkLabel linkLabelrcs;
-        private LinkLabel linkLabel22;
-        private LinkLabel linkLabel23;
-        private LinkLabel linkLabel24;
-        private LinkLabel linkLabelstgss;
-        private LinkLabel linkLabel26;
-        private LinkLabel linkLabel27;
-        private LinkLabel linkLabelscs;
-        private LinkLabel linkLabel29;
-        private LinkLabel linkLabel30;
-        private LinkLabel linkLabel31;
-        private LinkLabel linkLabel32;
-        private LinkLabel linkLabel33;
-        private LinkLabel linkLabelndzss1;
-        private LinkLabel linkLabel35;
-        private LinkLabel linkLabel36;
-        private LinkLabel linkLabel37;
-        private LinkLabel linkLabel38;
-        private LinkLabel linkLabelydzss1;
-        private LinkLabel linkLabel40;
-        private LinkLabel linkLabel41;
-        private LinkLabel linkLabel42;
-        private LinkLabel linkLabel43;
-        private LinkLabel linkLabel44;
-        private LinkLabel linkLabel45;
-        private LinkLabel linkLabel46;
-        private LinkLabel linkLabelrdzss1;
-        private LinkLabel linkLabel48;
-        private LinkLabel linkLabel49;
-        private LinkLabel linkLabel50;
-        private LinkLabel linkLabel51;
-        private LinkLabel linkLabel52;
-        private LinkLabel linkLabel53;
-        private LinkLabel linkLabel54;
-        private LinkLabel linkLabel55;
-        private LinkLabel linkLabel56;
-        private LinkLabel linkLabelsdzss1;
-        private LinkLabel linkLabel58;
-        private LinkLabel linkLabel59;
-        private LinkLabel linkLabel60;
+        private Label Label1;
+        private Label Label2;
+        private Label Labelntgss;
+        private Label Label4;
+        private Label Label5;
+        private Label Label6;
+        private Label linkLabencs;
+        private Label Label8;
+        private Label Label9;
+        private Label Label10;
+        private Label Labelytgss;
+        private Label Label12;
+        private Label Label13;
+        private Label Labelycs;
+        private Label Label15;
+        private Label Label17;
+        private Label Labelrtgss;
+        private Label Label20;
+        private Label Labelrcs;
+        private Label Label22;
+        private Label Label23;
+        private Label Label24;
+        private Label Labelstgss;
+        private Label Label26;
+        private Label Label27;
+        private Label Labelscs;
+        private Label Label29;
+        private Label Label30;
+        private Label Label31;
+        private Label Label32;
+        private Label Label33;
+        private Label Labelndzss1;
+        private Label Label35;
+        private Label Label36;
+        private Label Label37;
+        private Label Label38;
+        private Label Labelydzss1;
+        private Label Label40;
+        private Label Label41;
+        private Label Label42;
+        private Label Label43;
+        private Label Label44;
+        private Label Label45;
+        private Label Label46;
+        private Label Labelrdzss1;
+        private Label Label48;
+        private Label Label49;
+        private Label Label50;
+        private Label Label51;
+        private Label Label52;
+        private Label Label53;
+        private Label Label54;
+        private Label Label55;
+        private Label Label56;
+        private Label Labelsdzss1;
+        private Label Label58;
+        private Label Label59;
+        private Label Label60;
         private RichTextBox richTextBox1;
-        private LinkLabel linkLabel7hff;
+        private Label Label7hff;
         private System.Windows.Forms.Timer timer1;
-        private Label label1;
+        private Label labelTime;
         private Button button10;
         private Button button11;
         private Button button12;
@@ -3356,50 +3352,50 @@
         private Button button65;
         private Button button54;
         private Button button56;
-        private LinkLabel linkLabel25;
+        private Label Label25;
         private Button button59;
         private CheckBox checkBox1;
         private NumericUpDown numericUpDownyear;
         private NumericUpDown numericUpDownmonth;
         private NumericUpDown numericUpDownday;
         private NumericUpDown numericUpDownhour;
-        private LinkLabel linkLabel28;
+        private Label LabelDayTime;
         private CheckBox checkBoxln;
-        private LinkLabel linkLabelsdzss2;
-        private LinkLabel linkLabelrdzss2;
-        private LinkLabel linkLabelydzss2;
-        private LinkLabel linkLabelndzss2;
-        private LinkLabel linkLabellnsss;
-        private LinkLabel linkLabellnssr;
-        private LinkLabel linkLabellnssy;
-        private LinkLabel linkLabellnssn;
-        private LinkLabel linkLabel3;
-        private LinkLabel linkLabel7;
-        private LinkLabel linkLabel11;
-        private LinkLabel linkLabel14;
-        private LinkLabel linkLabel16;
-        private LinkLabel linkLabel18;
-        private LinkLabel linkLabel19;
-        private LinkLabel linkLabel34;
-        private LinkLabel linkLabel39;
-        private LinkLabel linkLabel47;
-        private LinkLabel linkLabel57;
-        private LinkLabel linkLabel61;
-        private LinkLabel linkLabel62;
-        private LinkLabel linkLabel63;
-        private LinkLabel linkLabel64;
-        private LinkLabel linkLabel21;
-        private LinkLabel linkLabel65;
-        private LinkLabel linkLabel66;
-        private LinkLabel linkLabel67;
-        private LinkLabel linkLabel68;
-        private LinkLabel linkLabel69;
-        private LinkLabel linkLabel70;
-        private LinkLabel linkLabel71;
-        private LinkLabel linkLabel72;
-        private LinkLabel linkLabel73;
-        private LinkLabel linkLabel74;
-        private LinkLabel linkLabel75;
+        private Label Labelsdzss2;
+        private Label Labelrdzss2;
+        private Label Labelydzss2;
+        private Label Labelndzss2;
+        private Label Labellnsss;
+        private Label Labellnssr;
+        private Label Labellnssy;
+        private Label Labellnssn;
+        private Label Label3;
+        private Label Label7;
+        private Label Label11;
+        private Label Label14;
+        private Label Label16;
+        private Label Label18;
+        private Label Label19;
+        private Label Label34;
+        private Label Label39;
+        private Label Label47;
+        private Label Label57;
+        private Label Label61;
+        private Label Label62;
+        private Label Label63;
+        private Label Label64;
+        private Label Label21;
+        private Label Label65;
+        private Label Label66;
+        private Label Label67;
+        private Label Label68;
+        private Label Label69;
+        private Label Label70;
+        private Label Label71;
+        private Label Label72;
+        private Label Label73;
+        private Label Label74;
+        private Label Label75;
         private Button buttoncs2;
         private Button buttoncs4;
         private Button buttoncs3;
