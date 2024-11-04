@@ -2177,11 +2177,11 @@
             // 
             Label47.AutoSize = true;
             Label47.BackColor = Color.Red;
-            Label47.Font = new Font("微软雅黑", 26.25F, FontStyle.Bold, GraphicsUnit.Point, 134);
+            Label47.Font = new Font("楷体", 26.25F, FontStyle.Bold, GraphicsUnit.Point, 134);
             Label47.ForeColor = Color.White;
-            Label47.Location = new Point(1523, 594);
+            Label47.Location = new Point(1528, 594);
             Label47.Name = "Label47";
-            Label47.Size = new Size(55, 46);
+            Label47.Size = new Size(52, 35);
             Label47.TabIndex = 223;
             Label47.TabStop = true;
             Label47.Text = "合";
@@ -3206,7 +3206,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-11-02";
+            Text = "八字排盘工具v2024-11-04";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).EndInit();
