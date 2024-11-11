@@ -35929,7 +35929,7 @@ namespace BaZiFuZuGongJu
                         int 地支三合真假 = 0;
                         if (ndz != sii || ndz != wuma || ndz != xuu || rdz != sii || rdz != wuma || rdz != xuu || sdz != sii || sdz != wuma || sdz != xuu || ndz != yin || rdz != yin || sdz != yin || ndz != mao || rdz != mao || sdz != mao)
                         {
-                            if (ydz == shen || ydz == zii)
+                            if (ydz == zii)
                             {
                                 if (ndz == shen || ydz == shen || rdz == shen)
                                 {
@@ -35945,7 +35945,7 @@ namespace BaZiFuZuGongJu
                                     }
                                 }
                             }
-                            if (ydz == shen || ydz == zii)
+                            if (ydz == zii)
                             {
                                 if (sdz == shen || ydz == shen || rdz == shen)
                                 {
@@ -35961,7 +35961,7 @@ namespace BaZiFuZuGongJu
                                     }
                                 }
                             }
-                            if (ydz == shen || ydz == zii)
+                            if (ydz == zii)
                             {
                                 if (ndz == shen || ydz == shen || rdz == shen)
                                 {
@@ -35977,7 +35977,7 @@ namespace BaZiFuZuGongJu
                                     }
                                 }
                             }
-                            if (ydz == shen || ydz == zii)
+                            if (ydz == zii)
                             {
                                 if (sdz == shen || ydz == shen || rdz == shen)
                                 {
@@ -35997,7 +35997,7 @@ namespace BaZiFuZuGongJu
                         }
                         if (ndz != shen || ndz != zii || ndz != chou || rdz != shen || rdz != zii || rdz != chou || sdz != shen || sdz != zii || sdz != chou || ndz != chen || rdz != chen || sdz != chen)
                         {
-                            if (ydz == yin || ydz == wuma)
+                            if (ydz == wuma)
                             {
                                 if (ndz == yin || ydz == yin || rdz == yin)
                                 {
@@ -36013,7 +36013,7 @@ namespace BaZiFuZuGongJu
                                     }
                                 }
                             }
-                            if (ydz == yin || ydz == wuma)
+                            if (ydz == wuma)
                             {
                                 if (sdz == yin || ydz == yin || rdz == yin)
                                 {
@@ -36064,38 +36064,7 @@ namespace BaZiFuZuGongJu
                         }
                         if (ndz != yin || ndz != mao || ndz != wei || rdz != yin || rdz != mao || rdz != wei || sdz != yin || sdz != mao || sdz != wei || ndz != hai || rdz != hai || sdz != hai)
                         {
-                            if (ydz == sii || ydz == you)
-                            {
-                                if (ndz == sii || ydz == sii || rdz == sii)
-                                {
-                                    if (ndz == you || ydz == you || rdz == you)
-                                    {
-                                        if (ndz == chou || ydz == chou || rdz == chou)
-                                        {
-                                            if (ntg == geng || ytg == geng || rtg == geng || stg == geng || ntg == xin || ytg == xin || rtg == xin || stg == xin || tghjin == 1)
-                                            {
-                                                wxjin += 1.6; bazipingfen -= 40; this.BackColor = Color.Gold; Label47.ForeColor = Color.Gold; Label47.BackColor = Color.Black; Label47.Text = "巳酉丑三合金局"; 地支三合真假 = 1;
-                                            }
-                                        }
-                                    }
-                                }
-                            }
-                            if (ydz == sii || ydz == you)
-                            {
-                                if (sdz == sii || ydz == sii || rdz == sii)
-                                {
-                                    if (sdz == you || ydz == you || rdz == you)
-                                    {
-                                        if (sdz == chou || ydz == chou || rdz == chou)
-                                        {
-                                            if (ntg == geng || ytg == geng || rtg == geng || stg == geng || ntg == xin || ytg == xin || rtg == xin || stg == xin || tghjin == 1)
-                                            {
-                                                wxjin += 1.6; bazipingfen -= 40; this.BackColor = Color.Gold; Label47.ForeColor = Color.Gold; Label47.BackColor = Color.Black; Label47.Text = "巳酉丑三合金局"; 地支三合真假 = 1;
-                                            }
-                                        }
-                                    }
-                                }
-                            }
+
                             if (ydz == you)
                             {
                                 if (ndz == sii || ydz == sii || rdz == sii)
@@ -36132,7 +36101,7 @@ namespace BaZiFuZuGongJu
                         }
                         if (ndz != sii || ndz != you || ndz != xuu || rdz != sii || rdz != you || rdz != xuu || sdz != sii || sdz != you || sdz != xuu || ndz != zii || rdz != zii || sdz != zii || ndz != chou || rdz != chou || sdz != chou)
                         {
-                            if (ydz == hai || ydz == mao)
+                            if (ydz == mao)
                             {
                                 if (ndz == hai || ydz == hai || rdz == hai)
                                 {
@@ -36148,7 +36117,7 @@ namespace BaZiFuZuGongJu
                                     }
                                 }
                             }
-                            if (ydz == hai || ydz == mao)
+                            if (ydz == mao)
                             {
                                 if (sdz == hai || ydz == hai || rdz == hai)
                                 {
@@ -36164,7 +36133,7 @@ namespace BaZiFuZuGongJu
                                     }
                                 }
                             }
-                            if (ydz == hai || ydz == mao)
+                            if (ydz == mao)
                             {
                                 if (ndz == hai || ydz == hai || rdz == hai)
                                 {
@@ -36180,7 +36149,7 @@ namespace BaZiFuZuGongJu
                                     }
                                 }
                             }
-                            if (ydz == hai || ydz == mao)
+                            if (ydz == mao)
                             {
                                 if (sdz == hai || ydz == hai || rdz == hai)
                                 {
