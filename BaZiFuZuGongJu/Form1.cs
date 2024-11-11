@@ -35643,7 +35643,7 @@ namespace BaZiFuZuGongJu
                     {
 
                         int 地支三会真假 = 0;
-                        if (ndz != shen || ndz != you || ndz != xuu || rdz != shen || rdz != you || rdz != xuu || sdz != shen || sdz != you || sdz != xuu)
+                        if (ndz != shen && ndz != you && ndz != xuu && rdz != shen && rdz != you && rdz != xuu && sdz != shen && sdz != you && sdz != xuu)
                         {
                             if (ydz == yin || ydz == mao)
                             {
@@ -35711,7 +35711,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ndz != hai || ndz != zii || ndz != xuu || rdz != hai || rdz != zii || rdz != xuu || sdz != hai || sdz != zii || sdz != xuu || ndz != chou || rdz != chou || sdz != chou)
+                        if (ndz != hai && ndz != zii && ndz != xuu && rdz != hai && rdz != zii && rdz != xuu && sdz != hai && sdz != zii && sdz != xuu && ndz != chou && rdz != chou && sdz != chou)
                         {
                             if (ydz == sii || ydz == wuma)
                             {
@@ -35779,7 +35779,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ndz != yin || ndz != mao || ndz != chen || rdz != yin || rdz != mao || rdz != chen || sdz != yin || sdz != mao || sdz != chen || ndz != chou || rdz != chou || sdz != chou || ndz != sii || rdz != sii || sdz != sii)
+                        if (ndz != yin && ndz != mao && ndz != chen && rdz != yin && rdz != mao && rdz != chen && sdz != yin && sdz != mao && sdz != chen && ndz != chou && rdz != chou && sdz != chou && ndz != sii && rdz != sii && sdz != sii)
                         {
                             if (ydz == shen || ydz == you)
                             {
@@ -35847,7 +35847,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ndz != sii || ndz != wuma || ndz != wei || rdz != sii || rdz != wuma || rdz != wei || sdz != sii || sdz != wuma || sdz != wei || ndz != mao || rdz != mao || sdz != mao)
+                        if (ndz != sii && ndz != wuma && ndz != wei && rdz != sii && rdz != wuma && rdz != wei && sdz != sii && sdz != wuma && sdz != wei && ndz != mao && rdz != mao && sdz != mao)
                         {
                             if (ydz == hai || ydz == zii)
                             {
@@ -35927,7 +35927,7 @@ namespace BaZiFuZuGongJu
                     {
 
                         int 地支三合真假 = 0;
-                        if (ndz != sii || ndz != wuma || ndz != xuu || rdz != sii || rdz != wuma || rdz != xuu || sdz != sii || sdz != wuma || sdz != xuu || ndz != yin || rdz != yin || sdz != yin || ndz != mao || rdz != mao || sdz != mao)
+                        if (ndz != sii && ndz != wuma && ndz != xuu && rdz != sii && rdz != wuma && rdz != xuu && sdz != sii && sdz != wuma && sdz != xuu && ndz != yin && rdz != yin && sdz != yin && ndz != mao && rdz != mao && sdz != mao)
                         {
                             if (ydz == zii)
                             {
@@ -35995,7 +35995,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ndz != shen || ndz != zii || ndz != chou || rdz != shen || rdz != zii || rdz != chou || sdz != shen || sdz != zii || sdz != chou || ndz != chen || rdz != chen || sdz != chen)
+                        if (ndz != shen && ndz != zii && ndz != chou && rdz != shen && rdz != zii && rdz != chou && sdz != shen && sdz != zii && sdz != chou && ndz != chen && rdz != chen && sdz != chen)
                         {
                             if (ydz == wuma)
                             {
@@ -36062,7 +36062,7 @@ namespace BaZiFuZuGongJu
                                 }
                             }
                         }
-                        if (ndz != yin || ndz != mao || ndz != wei || rdz != yin || rdz != mao || rdz != wei || sdz != yin || sdz != mao || sdz != wei || ndz != hai || rdz != hai || sdz != hai)
+                        if (ndz != yin && ndz != mao && ndz != wei && rdz != yin && rdz != mao && rdz != wei && sdz != yin && sdz != mao && sdz != wei && ndz != hai && rdz != hai && sdz != hai)
                         {
 
                             if (ydz == you)
@@ -36099,7 +36099,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ndz != sii || ndz != you || ndz != xuu || rdz != sii || rdz != you || rdz != xuu || sdz != sii || sdz != you || sdz != xuu || ndz != zii || rdz != zii || sdz != zii || ndz != chou || rdz != chou || sdz != chou)
+                        if (ndz != sii && ndz != you && ndz != xuu && rdz != sii && rdz != you && rdz != xuu && sdz != sii && sdz != you && sdz != xuu && ndz != zii && rdz != zii && sdz != zii && ndz != chou && rdz != chou && sdz != chou)
                         {
                             if (ydz == mao)
                             {
@@ -36179,11 +36179,11 @@ namespace BaZiFuZuGongJu
                     {
 
                         int 半三合真假 = 0;
-                        if (ydz == sii || ydz == you)
+                        if (ydz == you)
                         {
                             if (ntg == geng || ytg == geng || rtg == geng || stg == geng || ntg == xin || ytg == xin || rtg == xin || stg == xin || tghjin == 1)
                             {
-                                if (ndz != hai || rdz != hai || sdz != hai || ndz != yin || rdz != yin || sdz != yin || ndz != mao || rdz != mao || sdz != mao)
+                                if (ndz != hai && rdz != hai && sdz != hai && ndz != yin && rdz != yin && sdz != yin && ndz != mao && rdz != mao && sdz != mao)
                                 {
                                     if (ndz == sii && ydz == you || ndz == you && ydz == sii)
                                     {
@@ -36201,11 +36201,11 @@ namespace BaZiFuZuGongJu
                                 }
                             }
                         }
-                        if (ydz == sii || ydz == you)
+                        if (ydz == you)
                         {
                             if (wjin == 1)
                             {
-                                if (ndz != hai || rdz != hai || sdz != hai || ndz != yin || rdz != yin || sdz != yin || ndz != mao || rdz != mao || sdz != mao)
+                                if (ndz != hai && rdz != hai && sdz != hai && ndz != yin && rdz != yin && sdz != yin && ndz != mao && rdz != mao && sdz != mao)
                                 {
                                     if (ndz == sii && ydz == you || ndz == you && ydz == sii)
                                     {
@@ -36223,11 +36223,11 @@ namespace BaZiFuZuGongJu
                                 }
                             }
                         }
-                        if (ydz == hai || ydz == mao)
+                        if (ydz == mao)
                         {
                             if (ntg == jia || ytg == jia || rtg == jia || stg == jia || ntg == yii || ytg == yii || rtg == yii || stg == yii || tghmu == 1)
                             {
-                                if (ndz != sii || ndz != zii || ndz != you || rdz != sii || rdz != zii || rdz != you)
+                                if (ndz != sii && ndz != zii && ndz != you && rdz != sii && rdz != zii && rdz != you)
                                 {
 
                                     if (ndz == hai && ydz == mao || ndz == mao && ydz == hai)
@@ -36246,11 +36246,11 @@ namespace BaZiFuZuGongJu
                                 }
                             }
                         }
-                        if (ydz == hai || ydz == mao)
+                        if (ydz == mao)
                         {
                             if (wmu == 1)
                             {
-                                if (ndz != sii || ndz != zii || ndz != you || rdz != sii || rdz != zii || rdz != you)
+                                if (ndz != sii && ndz != zii && ndz != you && rdz != sii && rdz != zii && rdz != you)
                                 {
 
                                     if (ndz == hai && ydz == mao || ndz == mao && ydz == hai)
@@ -36269,11 +36269,11 @@ namespace BaZiFuZuGongJu
                                 }
                             }
                         }
-                        if (ydz == yin || ydz == wuma)
+                        if (ydz == wuma)
                         {
                             if (ntg == bing || ytg == bing || rtg == bing || stg == bing || ntg == ding || ytg == ding || rtg == ding || stg == ding || tghhuo == 1)
                             {
-                                if (ndz != shen || ndz != zii || rdz != shen || rdz != zii || sdz != shen || sdz != zii)
+                                if (ndz != shen && ndz != zii && rdz != shen && rdz != zii && sdz != shen && sdz != zii)
                                 {
                                     if (ndz == yin && ydz == wuma || ndz == wuma && ydz == yin)
                                     {
@@ -36291,11 +36291,11 @@ namespace BaZiFuZuGongJu
                                 }
                             }
                         }
-                        if (ydz == yin || ydz == wuma)
+                        if (ydz == wuma)
                         {
                             if (whuo == 1)
                             {
-                                if (ndz != shen || ndz != zii || rdz != shen || rdz != zii || sdz != shen || sdz != zii)
+                                if (ndz != shen && ndz != zii && rdz != shen && rdz != zii && sdz != shen && sdz != zii)
                                 {
                                     if (ndz == yin && ydz == wuma || ndz == wuma && ydz == yin)
                                     {
@@ -36313,11 +36313,11 @@ namespace BaZiFuZuGongJu
                                 }
                             }
                         }
-                        if (ydz == shen || ydz == zii)
+                        if (ydz == zii)
                         {
                             if (ntg == ren || ytg == ren || rtg == ren || stg == ren || ntg == gui || ytg == gui || rtg == gui || stg == gui || tghshui == 1)
                             {
-                                if (ndz != sii || ndz != wuma || ndz != yin || rdz != sii || rdz != wuma || rdz != yin || sdz != sii || sdz != wuma || sdz != yin || ndz != you || rdz != you || sdz != you || ndz != mao || rdz != mao || sdz != mao)
+                                if (ndz != sii && ndz != wuma && ndz != yin && rdz != sii && rdz != wuma && rdz != yin && sdz != sii && sdz != wuma && sdz != yin && ndz != you && rdz != you && sdz != you && ndz != mao && rdz != mao && sdz != mao)
                                 {
                                     if (ndz == shen && ydz == zii || ndz == zii && ydz == shen)
                                     {
@@ -36335,11 +36335,11 @@ namespace BaZiFuZuGongJu
                                 }
                             }
                         }
-                        if (ydz == shen || ydz == zii)
+                        if (ydz == zii)
                         {
                             if (wshui == 1)
                             {
-                                if (ndz != sii || ndz != wuma || ndz != yin || rdz != sii || rdz != wuma || rdz != yin || sdz != sii || sdz != wuma || sdz != yin || ndz != you || rdz != you || sdz != you || ndz != mao || rdz != mao || sdz != mao)
+                                if (ndz != sii && ndz != wuma && ndz != yin && rdz != sii && rdz != wuma && rdz != yin && sdz != sii && sdz != wuma && sdz != yin && ndz != you && rdz != you && sdz != you && ndz != mao && rdz != mao && sdz != mao)
                                 {
                                     if (ndz == shen && ydz == zii || ndz == zii && ydz == shen)
                                     {
@@ -36373,7 +36373,7 @@ namespace BaZiFuZuGongJu
                         {
                             if (ydz == hai || ydz == wei)
                             {
-                                if (ndz != sii || ndz != chou || ndz != xuu || rdz != sii || rdz != chou || rdz != xuu || sdz != sii || sdz != chou || sdz != xuu)
+                                if (ndz != sii && ndz != chou && ndz != xuu && rdz != sii && rdz != chou && rdz != xuu && sdz != sii && sdz != chou && sdz != xuu)
                                 {
                                     if (ndz == hai && ydz == wei || ndz == wei && ydz == hai)
                                     {
@@ -36395,7 +36395,7 @@ namespace BaZiFuZuGongJu
                         {
                             if (ydz == hai || ydz == wei)
                             {
-                                if (ndz != sii || ndz != chou || ndz != xuu || rdz != sii || rdz != chou || rdz != xuu || sdz != sii || sdz != chou || sdz != xuu)
+                                if (ndz != sii && ndz != chou && ndz != xuu && rdz != sii && rdz != chou && rdz != xuu && sdz != sii && sdz != chou && sdz != xuu)
                                 {
                                     if (ndz == hai && ydz == wei || ndz == wei && ydz == hai)
                                     {
@@ -36417,7 +36417,7 @@ namespace BaZiFuZuGongJu
                         {
                             if (ydz == yin || ydz == xuu)
                             {
-                                if (ndz != shen || ndz != chou || ndz != chen || rdz != shen || rdz != chou || rdz != chen || sdz != shen || sdz != chou || sdz != chen)
+                                if (ndz != shen && ndz != chou && ndz != chen && rdz != shen && rdz != chou && rdz != chen && sdz != shen && sdz != chou && sdz != chen)
                                 {
                                     if (ndz == yin && ydz == xuu || ndz == xuu && ydz == yin)
                                     {
@@ -36439,7 +36439,7 @@ namespace BaZiFuZuGongJu
                         {
                             if (ydz == yin || ydz == xuu)
                             {
-                                if (ndz != shen || ndz != chou || ndz != chen || rdz != shen || rdz != chou || rdz != chen || sdz != shen || sdz != chou || sdz != chen)
+                                if (ndz != shen && ndz != chou && ndz != chen && rdz != shen && rdz != chou && rdz != chen && sdz != shen && sdz != chou && sdz != chen)
                                 {
                                     if (ndz == yin && ydz == xuu || ndz == xuu && ydz == yin)
                                     {
@@ -36461,7 +36461,7 @@ namespace BaZiFuZuGongJu
                         {
                             if (ydz == sii || ydz == chou)
                             {
-                                if (ndz != hai || ndz != yin || ndz != wei || rdz != hai || rdz != yin || rdz != wei || sdz != hai || sdz != yin || sdz != wei)
+                                if (ndz != hai && ndz != yin && ndz != wei && rdz != hai && rdz != yin && rdz != wei && sdz != hai && sdz != yin && sdz != wei)
                                 {
                                     if (ndz == sii && ydz == chou || ndz == chou && ydz == sii)
                                     {
@@ -36483,7 +36483,7 @@ namespace BaZiFuZuGongJu
                         {
                             if (ydz == sii || ydz == chou)
                             {
-                                if (ndz != hai || ndz != yin || ndz != wei || rdz != hai || rdz != yin || rdz != wei || sdz != hai || sdz != yin || sdz != wei)
+                                if (ndz != hai && ndz != yin && ndz != wei && rdz != hai && rdz != yin && rdz != wei && sdz != hai && sdz != yin && sdz != wei)
                                 {
                                     if (ndz == sii && ydz == chou || ndz == chou && ydz == sii)
                                     {
@@ -36505,7 +36505,7 @@ namespace BaZiFuZuGongJu
                         {
                             if (ydz == shen || ydz == chen)
                             {
-                                if (ndz != sii || ndz != yin || ndz != xuu || rdz != sii || rdz != yin || rdz != xuu || sdz != sii || sdz != yin || sdz != xuu)
+                                if (ndz != sii && ndz != yin && ndz != xuu && rdz != sii && rdz != yin && rdz != xuu && sdz != sii && sdz != yin && sdz != xuu)
                                 {
                                     if (ndz == shen && ydz == chen || ndz == chen && ydz == shen)
                                     {
@@ -36527,7 +36527,7 @@ namespace BaZiFuZuGongJu
                         {
                             if (ydz == shen || ydz == chen)
                             {
-                                if (ndz != sii || ndz != yin || ndz != xuu || rdz != sii || rdz != yin || rdz != xuu || sdz != sii || sdz != yin || sdz != xuu)
+                                if (ndz != sii && ndz != yin && ndz != xuu && rdz != sii && rdz != yin && rdz != xuu && sdz != sii && sdz != yin && sdz != xuu)
                                 {
                                     if (ndz == shen && ydz == chen || ndz == chen && ydz == shen)
                                     {
