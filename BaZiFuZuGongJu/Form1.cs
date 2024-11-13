@@ -35185,7 +35185,7 @@ namespace BaZiFuZuGongJu
                                     {
                                         wxtu -= 1;
                                     }
-                                    tghtu = 1; nyghechong = 1; Label3.ForeColor = Color.White; Label3.BackColor = Color.Sienna; Label3.Text += "甲己合土，中正之合-"; 天干五合真假 = 1; wxtu += 1; wtu = 1;
+                                    tghtu = 1; nyghechong = 1; Label3.ForeColor = Color.White; Label3.BackColor = Color.Sienna; Label3.Text += "甲己合出己土，中正之合"; 天干五合真假 = 1; wxtu += 1; wtu = 1;
                                 }
                                 if (ytg == jia && rtg == jii || rtg == jia && ytg == jii)
                                 {
@@ -35197,7 +35197,7 @@ namespace BaZiFuZuGongJu
                                     {
                                         wxtu -= 1;
                                     }
-                                    tghtu = 1; yrghechong = 1; Label18.ForeColor = Color.White; Label18.BackColor = Color.Sienna; Label18.Text += "甲己合土，中正之合-"; 天干五合真假 = 1; wxtu += 1; wtu = 1;
+                                    tghtu = 1; yrghechong = 1; Label18.ForeColor = Color.White; Label18.BackColor = Color.Sienna; Label18.Text += "甲己合出己土，中正之合"; 天干五合真假 = 1; wxtu += 1; wtu = 1;
                                 }
                                 if (rtg == jia && stg == jii || stg == jia && rtg == jii)
                                 {
@@ -35209,7 +35209,7 @@ namespace BaZiFuZuGongJu
                                     {
                                         wxtu -= 1;
                                     }
-                                    tghtu = 1; rsghechong = 1; Label39.ForeColor = Color.White; Label39.BackColor = Color.Sienna; Label39.Text += "甲己合土，中正之合-"; 天干五合真假 = 1; wxtu += 1; wtu = 1;
+                                    tghtu = 1; rsghechong = 1; Label39.ForeColor = Color.White; Label39.BackColor = Color.Sienna; Label39.Text += "甲己合出己土，中正之合"; 天干五合真假 = 1; wxtu += 1; wtu = 1;
                                 }
 
                             }
@@ -35228,7 +35228,7 @@ namespace BaZiFuZuGongJu
                                     {
                                         wxmu -= 1;
                                     }
-                                    tghjin = 1; nyghechong = 1; Label3.ForeColor = Color.Gold; Label3.BackColor = Color.Black; Label3.Text += "乙庚合金，仁义之合-"; 天干五合真假 = 1; wxjin += 1; wjin = 1;
+                                    tghjin = 1; nyghechong = 1; Label3.ForeColor = Color.Gold; Label3.BackColor = Color.Black; Label3.Text += "乙庚合出庚金，仁义之合"; 天干五合真假 = 1; wxjin += 1; wjin = 1;
                                 }
                                 if (ytg == yii && rtg == geng || rtg == yii && ytg == geng)
                                 {
@@ -35240,7 +35240,7 @@ namespace BaZiFuZuGongJu
                                     {
                                         wxmu -= 1;
                                     }
-                                    tghjin = 1; yrghechong = 1; Label18.ForeColor = Color.Gold; Label18.BackColor = Color.Black; Label18.Text += "乙庚合金，仁义之合-"; 天干五合真假 = 1; wxjin += 1; wjin = 1;
+                                    tghjin = 1; yrghechong = 1; Label18.ForeColor = Color.Gold; Label18.BackColor = Color.Black; Label18.Text += "乙庚合出庚金，仁义之合"; 天干五合真假 = 1; wxjin += 1; wjin = 1;
                                 }
                                 if (rtg == yii && stg == geng || stg == yii && rtg == geng)
                                 {
@@ -35252,7 +35252,7 @@ namespace BaZiFuZuGongJu
                                     {
                                         wxmu -= 1;
                                     }
-                                    tghjin = 1; rsghechong = 1; Label39.ForeColor = Color.Gold; Label39.BackColor = Color.Black; Label39.Text += "乙庚合金，仁义之合-"; 天干五合真假 = 1; wxjin += 1; wjin = 1;
+                                    tghjin = 1; rsghechong = 1; Label39.ForeColor = Color.Gold; Label39.BackColor = Color.Black; Label39.Text += "乙庚合出庚金，仁义之合"; 天干五合真假 = 1; wxjin += 1; wjin = 1;
                                 }
 
                             }
@@ -35271,7 +35271,7 @@ namespace BaZiFuZuGongJu
                                     {
                                         wxjin -= 1;
                                     }
-                                    tghshui = 1; nyghechong = 1; Label3.ForeColor = Color.White; Label3.BackColor = Color.DodgerBlue; Label3.Text += "丙辛合水，威严之合-"; 天干五合真假 = 1; wxshui += 1; wshui = 1;
+                                    tghshui = 1; nyghechong = 1; Label3.ForeColor = Color.White; Label3.BackColor = Color.DodgerBlue; Label3.Text += "丙辛合出癸水，威严之合"; 天干五合真假 = 1; wxshui += 1; wshui = 1;
                                 }
                                 if (ytg == bing && rtg == xin || rtg == bing && ytg == xin)
                                 {
@@ -35283,7 +35283,7 @@ namespace BaZiFuZuGongJu
                                     {
                                         wxjin -= 1;
                                     }
-                                    tghshui = 1; yrghechong = 1; Label18.ForeColor = Color.White; Label18.BackColor = Color.DodgerBlue; Label18.Text += "丙辛合水，威严之合-"; 天干五合真假 = 1; wxshui += 1; wshui = 1;
+                                    tghshui = 1; yrghechong = 1; Label18.ForeColor = Color.White; Label18.BackColor = Color.DodgerBlue; Label18.Text += "丙辛合出癸水，威严之合"; 天干五合真假 = 1; wxshui += 1; wshui = 1;
                                 }
                                 if (rtg == bing && stg == xin || stg == bing && rtg == xin)
                                 {
@@ -35295,7 +35295,7 @@ namespace BaZiFuZuGongJu
                                     {
                                         wxjin -= 1;
                                     }
-                                    tghshui = 1; rsghechong = 1; Label39.ForeColor = Color.White; Label39.BackColor = Color.DodgerBlue; Label39.Text += "丙辛合水，威严之合-"; 天干五合真假 = 1; wxshui += 1; wshui = 1;
+                                    tghshui = 1; rsghechong = 1; Label39.ForeColor = Color.White; Label39.BackColor = Color.DodgerBlue; Label39.Text += "丙辛合出癸水，威严之合"; 天干五合真假 = 1; wxshui += 1; wshui = 1;
                                 }
 
                             }
@@ -35314,7 +35314,7 @@ namespace BaZiFuZuGongJu
                                     {
                                         wxshui -= 1;
                                     }
-                                    tghmu = 1; nyghechong = 1; Label3.ForeColor = Color.White; Label3.BackColor = Color.Green; Label3.Text += "丁壬合木，仁寿之合-"; 天干五合真假 = 1; wxmu += 1; wmu = 1;
+                                    tghmu = 1; nyghechong = 1; Label3.ForeColor = Color.White; Label3.BackColor = Color.Green; Label3.Text += "丁壬合出甲木，仁寿之合"; 天干五合真假 = 1; wxmu += 1; wmu = 1;
                                 }
                                 if (ytg == ding && rtg == ren || rtg == ding && ytg == ren)
                                 {
@@ -35326,7 +35326,7 @@ namespace BaZiFuZuGongJu
                                     {
                                         wxshui -= 1;
                                     }
-                                    tghmu = 1; yrghechong = 1; Label18.ForeColor = Color.White; Label18.BackColor = Color.Green; Label18.Text += "丁壬合木，仁寿之合-"; 天干五合真假 = 1; wxmu += 1; wmu = 1;
+                                    tghmu = 1; yrghechong = 1; Label18.ForeColor = Color.White; Label18.BackColor = Color.Green; Label18.Text += "丁壬合出甲木，仁寿之合"; 天干五合真假 = 1; wxmu += 1; wmu = 1;
                                 }
                                 if (rtg == ding && stg == ren || stg == ding && rtg == ren)
                                 {
@@ -35338,7 +35338,7 @@ namespace BaZiFuZuGongJu
                                     {
                                         wxshui -= 1;
                                     }
-                                    tghmu = 1; rsghechong = 1; Label39.ForeColor = Color.White; Label39.BackColor = Color.Green; Label39.Text += "丁壬合木，仁寿之合-"; 天干五合真假 = 1; wxmu += 1; wmu = 1;
+                                    tghmu = 1; rsghechong = 1; Label39.ForeColor = Color.White; Label39.BackColor = Color.Green; Label39.Text += "丁壬合出甲木，仁寿之合"; 天干五合真假 = 1; wxmu += 1; wmu = 1;
                                 }
 
                             }
@@ -35357,7 +35357,7 @@ namespace BaZiFuZuGongJu
                                     {
                                         wxshui -= 1;
                                     }
-                                    tghhuo = 1; nyghechong = 1; Label3.ForeColor = Color.White; Label3.BackColor = Color.Red; Label3.Text += "戊癸合火，无情之合-"; 天干五合真假 = 1; wxhuo += 1; whuo = 1;
+                                    tghhuo = 1; nyghechong = 1; Label3.ForeColor = Color.White; Label3.BackColor = Color.Red; Label3.Text += "戊癸合出丙火，无情之合"; 天干五合真假 = 1; wxhuo += 1; whuo = 1;
                                 }
                                 if (ytg == wuu && rtg == gui || rtg == wuu && ytg == gui)
                                 {
@@ -35369,7 +35369,7 @@ namespace BaZiFuZuGongJu
                                     {
                                         wxshui -= 1;
                                     }
-                                    tghhuo = 1; yrghechong = 1; Label18.ForeColor = Color.White; Label18.BackColor = Color.Red; Label18.Text += "戊癸合火，无情之合-"; 天干五合真假 = 1; wxhuo += 1; whuo = 1;
+                                    tghhuo = 1; yrghechong = 1; Label18.ForeColor = Color.White; Label18.BackColor = Color.Red; Label18.Text += "戊癸合出丙火，无情之合"; 天干五合真假 = 1; wxhuo += 1; whuo = 1;
                                 }
                                 if (rtg == wuu && stg == gui || stg == wuu && rtg == gui)
                                 {
@@ -35381,15 +35381,15 @@ namespace BaZiFuZuGongJu
                                     {
                                         wxshui -= 1;
                                     }
-                                    tghhuo = 1; rsghechong = 1; Label39.ForeColor = Color.White; Label39.BackColor = Color.Red; Label39.Text += "戊癸合火，无情之合-"; 天干五合真假 = 1; wxhuo += 1; whuo = 1;
+                                    tghhuo = 1; rsghechong = 1; Label39.ForeColor = Color.White; Label39.BackColor = Color.Red; Label39.Text += "戊癸合出丙火，无情之合"; 天干五合真假 = 1; wxhuo += 1; whuo = 1;
                                 }
 
                             }
                         }
                         if (天干五合真假 == 1)
                         {
-                            string 天干五合 = "天干五合的组合和含义\r\n天干五合共有五种组合，每一组合的含义如下：\r\n\r\n甲己合（木土合）\r\n\r\n含义：甲木与己土相合，代表木克土，但二者相合中带有制约和平衡。甲己合通常象征稳定、责任和包容，代表一种长久、平稳的合作关系，或者责任的承担。常用于表示一种有责任感的关系，比如父子、上下级关系等。\r\n乙庚合（金木合）\r\n\r\n含义：乙木与庚金相合，木金相克，乙庚合带有变革、创新的意思，通常代表在对立中相互吸引和协调的关系。乙庚合也意味着冲突中找到平衡，代表事业上的开拓精神和协调力。\r\n丙辛合（火金合）\r\n\r\n含义：丙火与辛金相合，火克金，丙辛合常带有感情和吸引力的意思，象征浪漫的关系、感情或激情。丙辛合在感情方面多用于男女吸引，也可以代表美感、艺术或带有魅力的合作关系。\r\n丁壬合（水火合）\r\n\r\n含义：丁火与壬水相合，水火相克，丁壬合象征柔和与强势的结合，通常代表创造力和柔中带刚的关系，表现出包容与协作。丁壬合也代表智力上的启发或灵感的碰撞。\r\n戊癸合（土水合）\r\n\r\n含义：戊土与癸水相合，土克水，戊癸合象征包容与覆盖，通常代表一种滋润的关系，比如保护、支持或包容。戊癸合多指温暖的支持关系，比如朋友、师生关系，或在事业中有互助互惠的作用。\r\n天干五合在不同宫位的含义\r\n在八字中，天干五合出现在不同宫位，会对命主的不同生活领域产生影响，具体如下：\r\n\r\n年柱（祖辈、家庭背景）\r\n\r\n甲己合：家庭中可能有强烈的责任感，祖辈对家庭有稳定作用，家族观念较强，注重家庭成员的责任担当。\r\n乙庚合：家庭中具有变革精神，祖辈对命主的教育影响较大，注重培养命主的创新能力。\r\n丙辛合：家庭中注重感情联系，可能家庭氛围温暖和谐，祖辈重视美感和感情培养。\r\n丁壬合：祖辈与命主的关系和谐温暖，家庭氛围中有包容，祖辈的关爱较多。\r\n戊癸合：家庭中注重互助，祖辈对家庭有包容、保护作用，生活较为稳定。\r\n月柱（父母、兄弟姐妹）\r\n\r\n甲己合：父母关系较为和谐，兄弟姐妹之间责任感强，互相支持。父母可能对命主责任心要求较高。\r\n乙庚合：父母或兄弟姐妹对命主有激励作用，家庭中注重培养进取精神，关系中有竞争与合作并存的特征。\r\n丙辛合：命主与父母或兄弟姐妹的关系亲密，容易产生感情上的吸引和依赖。家中感情联系紧密，可能较有艺术氛围。\r\n丁壬合：命主与父母的关系柔和，兄弟姐妹间关系亲密，感情深厚，家庭氛围温暖。\r\n戊癸合：父母对子女关爱有加，家庭生活稳定，兄弟姐妹之间互助，关系较好。\r\n日柱（夫妻、配偶）\r\n\r\n甲己合：夫妻间责任感强，有稳定的感情基础，双方有较强的责任心，婚姻生活较为和谐。\r\n乙庚合：夫妻关系中有吸引力与冲突并存，双方在婚姻中互相激励，婚姻生活中充满活力。\r\n丙辛合：夫妻之间感情浓厚，有浪漫色彩，容易相互吸引，婚姻中有较多的情感交流。\r\n丁壬合：夫妻关系温柔包容，有时带有互相理解的深厚感情，双方对彼此有温柔体贴之心。\r\n戊癸合：夫妻之间关系稳定，相互包容，有守护和关怀之意，婚姻生活较为平和。\r\n时柱（子女、晚年生活）\r\n\r\n甲己合：子女关系和睦，子女有责任感，晚年生活较为稳定安定，命主对子女有责任感。\r\n乙庚合：子女有较强的进取心和竞争力，晚年生活可能带有些许波动，但积极向上。\r\n丙辛合：子女与命主关系亲密，晚年生活丰富多彩，注重精神生活，有浪漫色彩。\r\n丁壬合：晚年生活温馨，命主与子女关系和谐，子女对命主体贴包容，生活较为温柔安稳。\r\n戊癸合：晚年生活稳定，子女对命主关怀备至，子女间关系和睦，生活有保障和依靠。\r\n五合的应用与注意事项\r\n是否化合成功：天干五合未必总是能真正化合为某一五行。天干五合的化合要看合化的条件，通常需要相应的地支或五行来辅助，比如甲己合化土，需要命局中有火、土的支持，否则只是产生一定的合意，而非真正的五行转化。\r\n\r\n命局的整体分析：五合在命局中的影响较为隐性，作用力较弱，因此在分析五合时，需将其作为参考，而非决定性因素。天干五合通常在流年、大运中易被激发，尤其是在特定年份遇到相应的五行或干支时，合化力量会更为显著。\r\n\r\n结合宫位解释：五合在不同的宫位上含义会有所不同，比如出现在日柱的五合多指夫妻关系，而出现在月柱则多指父母或兄弟姐妹关系，因此在解读时需要结合宫位和命局的整体关系。";
-
+                            string 天干五合 = "天干五合的组合和含义\r\n\r\n甲己合：土（阴土）\r\n乙庚合：金（阳金）\r\n丙辛合：水（阴水）\r\n丁壬合：木（阳木）\r\n戊癸合：火（阳火）\r\n\r\n甲己合（木土合）\r\n\r\n含义：甲木与己土相合，代表木克土，但二者相合中带有制约和平衡。甲己合通常象征稳定、责任和包容，代表一种长久、平稳的合作关系，或者责任的承担。常用于表示一种有责任感的关系，比如父子、上下级关系等。\r\n乙庚合（金木合）\r\n\r\n含义：乙木与庚金相合，木金相克，乙庚合带有变革、创新的意思，通常代表在对立中相互吸引和协调的关系。乙庚合也意味着冲突中找到平衡，代表事业上的开拓精神和协调力。\r\n丙辛合（火金合）\r\n\r\n含义：丙火与辛金相合，火克金，丙辛合常带有感情和吸引力的意思，象征浪漫的关系、感情或激情。丙辛合在感情方面多用于男女吸引，也可以代表美感、艺术或带有魅力的合作关系。\r\n丁壬合（水火合）\r\n\r\n含义：丁火与壬水相合，水火相克，丁壬合象征柔和与强势的结合，通常代表创造力和柔中带刚的关系，表现出包容与协作。丁壬合也代表智力上的启发或灵感的碰撞。\r\n戊癸合（土水合）\r\n\r\n含义：戊土与癸水相合，土克水，戊癸合象征包容与覆盖，通常代表一种滋润的关系，比如保护、支持或包容。戊癸合多指温暖的支持关系，比如朋友、师生关系，或在事业中有互助互惠的作用。\r\n天干五合在不同宫位的含义\r\n在八字中，天干五合出现在不同宫位，会对命主的不同生活领域产生影响，具体如下：\r\n\r\n年柱（祖辈、家庭背景）\r\n\r\n甲己合：家庭中可能有强烈的责任感，祖辈对家庭有稳定作用，家族观念较强，注重家庭成员的责任担当。\r\n乙庚合：家庭中具有变革精神，祖辈对命主的教育影响较大，注重培养命主的创新能力。\r\n丙辛合：家庭中注重感情联系，可能家庭氛围温暖和谐，祖辈重视美感和感情培养。\r\n丁壬合：祖辈与命主的关系和谐温暖，家庭氛围中有包容，祖辈的关爱较多。\r\n戊癸合：家庭中注重互助，祖辈对家庭有包容、保护作用，生活较为稳定。\r\n月柱（父母、兄弟姐妹）\r\n\r\n甲己合：父母关系较为和谐，兄弟姐妹之间责任感强，互相支持。父母可能对命主责任心要求较高。\r\n乙庚合：父母或兄弟姐妹对命主有激励作用，家庭中注重培养进取精神，关系中有竞争与合作并存的特征。\r\n丙辛合：命主与父母或兄弟姐妹的关系亲密，容易产生感情上的吸引和依赖。家中感情联系紧密，可能较有艺术氛围。\r\n丁壬合：命主与父母的关系柔和，兄弟姐妹间关系亲密，感情深厚，家庭氛围温暖。\r\n戊癸合：父母对子女关爱有加，家庭生活稳定，兄弟姐妹之间互助，关系较好。\r\n日柱（夫妻、配偶）\r\n\r\n甲己合：夫妻间责任感强，有稳定的感情基础，双方有较强的责任心，婚姻生活较为和谐。\r\n乙庚合：夫妻关系中有吸引力与冲突并存，双方在婚姻中互相激励，婚姻生活中充满活力。\r\n丙辛合：夫妻之间感情浓厚，有浪漫色彩，容易相互吸引，婚姻中有较多的情感交流。\r\n丁壬合：夫妻关系温柔包容，有时带有互相理解的深厚感情，双方对彼此有温柔体贴之心。\r\n戊癸合：夫妻之间关系稳定，相互包容，有守护和关怀之意，婚姻生活较为平和。\r\n时柱（子女、晚年生活）\r\n\r\n甲己合：子女关系和睦，子女有责任感，晚年生活较为稳定安定，命主对子女有责任感。\r\n乙庚合：子女有较强的进取心和竞争力，晚年生活可能带有些许波动，但积极向上。\r\n丙辛合：子女与命主关系亲密，晚年生活丰富多彩，注重精神生活，有浪漫色彩。\r\n丁壬合：晚年生活温馨，命主与子女关系和谐，子女对命主体贴包容，生活较为温柔安稳。\r\n戊癸合：晚年生活稳定，子女对命主关怀备至，子女间关系和睦，生活有保障和依靠。\r\n五合的应用与注意事项\r\n是否化合成功：天干五合未必总是能真正化合为某一五行。天干五合的化合要看合化的条件，通常需要相应的地支或五行来辅助，比如甲己合化土，需要命局中有火、土的支持，否则只是产生一定的合意，而非真正的五行转化。\r\n\r\n命局的整体分析：五合在命局中的影响较为隐性，作用力较弱，因此在分析五合时，需将其作为参考，而非决定性因素。天干五合通常在流年、大运中易被激发，尤其是在特定年份遇到相应的五行或干支时，合化力量会更为显著。\r\n\r\n结合宫位解释：五合在不同的宫位上含义会有所不同，比如出现在日柱的五合多指夫妻关系，而出现在月柱则多指父母或兄弟姐妹关系，因此在解读时需要结合宫位和命局的整体关系。";
+                            
                             命局神煞 += 天干五合;
                         }
                     }
@@ -35409,7 +35409,7 @@ namespace BaZiFuZuGongJu
                                 {
                                     wxshui -= 1;
                                 }
-                                nyzhechongxing = 1; Label64.ForeColor = Color.White; Label64.BackColor = Color.Sienna; Label64.Text += "子丑合土-"; 地支六合真假 = 1; wxtu += 1;
+                                nyzhechongxing = 1; Label64.ForeColor = Color.White; Label64.BackColor = Color.Sienna; Label64.Text += "子丑合出己土"; 地支六合真假 = 1; wxtu += 1;
                             }
                             if (ydz == zii && rdz == chou || rdz == zii && ydz == chou)
                             {
@@ -35421,7 +35421,7 @@ namespace BaZiFuZuGongJu
                                 {
                                     wxshui -= 1;
                                 }
-                                yrzhechongxing = 1; Label63.ForeColor = Color.White; Label63.BackColor = Color.Sienna; Label63.Text += "子丑合土-"; 地支六合真假 = 1; wxtu += 1;
+                                yrzhechongxing = 1; Label63.ForeColor = Color.White; Label63.BackColor = Color.Sienna; Label63.Text += "子丑合出己土"; 地支六合真假 = 1; wxtu += 1;
                             }
                             if (rdz == zii && sdz == chou || sdz == zii && rdz == chou)
                             {
@@ -35433,7 +35433,7 @@ namespace BaZiFuZuGongJu
                                 {
                                     wxshui -= 1;
                                 }
-                                rszhechongxing = 1; Label62.ForeColor = Color.White; Label62.BackColor = Color.Sienna; Label62.Text += "子丑合土-"; 地支六合真假 = 1; wxtu += 1;
+                                rszhechongxing = 1; Label62.ForeColor = Color.White; Label62.BackColor = Color.Sienna; Label62.Text += "子丑合出己土"; 地支六合真假 = 1; wxtu += 1;
                             }
                         }
                         if (ntg == jia || ytg == jia || rtg == jia || stg == jia || ntg == yii || ytg == yii || rtg == yii || stg == yii)
@@ -35448,7 +35448,7 @@ namespace BaZiFuZuGongJu
                                 {
                                     wxshui -= 1; wxmu -= 0.6;
                                 }
-                                nyzhechongxing = 1; Label64.ForeColor = Color.White; Label64.BackColor = Color.Green; Label64.Text += "寅亥合木-"; 地支六合真假 = 1; wxmu += 1;
+                                nyzhechongxing = 1; Label64.ForeColor = Color.White; Label64.BackColor = Color.Green; Label64.Text += "寅亥合出甲木"; 地支六合真假 = 1; wxmu += 1;
                             }
                             if (ydz == yin && rdz == hai || rdz == yin && ydz == hai)
                             {
@@ -35460,7 +35460,7 @@ namespace BaZiFuZuGongJu
                                 {
                                     wxshui -= 1; wxmu -= 0.6;
                                 }
-                                yrzhechongxing = 1; Label63.ForeColor = Color.White; Label63.BackColor = Color.Green; Label63.Text += "寅亥合木-"; 地支六合真假 = 1; wxmu += 1;
+                                yrzhechongxing = 1; Label63.ForeColor = Color.White; Label63.BackColor = Color.Green; Label63.Text += "寅亥合出甲木"; 地支六合真假 = 1; wxmu += 1;
                             }
                             if (rdz == yin && sdz == hai || sdz == yin && rdz == hai)
                             {
@@ -35472,7 +35472,7 @@ namespace BaZiFuZuGongJu
                                 {
                                     wxshui -= 1; wxmu -= 0.6;
                                 }
-                                rszhechongxing = 1; Label62.ForeColor = Color.White; Label62.BackColor = Color.Green; Label62.Text += "寅亥合木-"; 地支六合真假 = 1; wxmu += 1;
+                                rszhechongxing = 1; Label62.ForeColor = Color.White; Label62.BackColor = Color.Green; Label62.Text += "寅亥合出甲木"; 地支六合真假 = 1; wxmu += 1;
                             }
                         }
                         if (ntg == bing || ytg == bing || rtg == bing || stg == bing || ntg == ding || ytg == ding || rtg == ding || stg == ding)
@@ -35487,7 +35487,7 @@ namespace BaZiFuZuGongJu
                                 {
                                     wxshui -= 1; wxjin -= 0.6; wxhuo -= 0.3;
                                 }
-                                nyzhechongxing = 1; Label64.ForeColor = Color.White; Label64.BackColor = Color.Red; Label64.Text += "卯戌合火-"; 地支六合真假 = 1; wxhuo += 1;
+                                nyzhechongxing = 1; Label64.ForeColor = Color.White; Label64.BackColor = Color.Red; Label64.Text += "卯戌合出丙火"; 地支六合真假 = 1; wxhuo += 1;
                             }
                             if (ydz == mao && rdz == xuu || rdz == mao && ydz == xuu)
                             {
@@ -35499,7 +35499,7 @@ namespace BaZiFuZuGongJu
                                 {
                                     wxshui -= 1; wxjin -= 0.6; wxhuo -= 0.3;
                                 }
-                                yrzhechongxing = 1; Label63.ForeColor = Color.White; Label63.BackColor = Color.Red; Label63.Text += "卯戌合火-"; 地支六合真假 = 1; wxhuo += 1;
+                                yrzhechongxing = 1; Label63.ForeColor = Color.White; Label63.BackColor = Color.Red; Label63.Text += "卯戌合出丙火"; 地支六合真假 = 1; wxhuo += 1;
                             }
                             if (rdz == mao && sdz == xuu || sdz == mao && rdz == xuu)
                             {
@@ -35511,7 +35511,7 @@ namespace BaZiFuZuGongJu
                                 {
                                     wxshui -= 1; wxjin -= 0.6; wxhuo -= 0.3;
                                 }
-                                rszhechongxing = 1; Label62.ForeColor = Color.White; Label62.BackColor = Color.Red; Label62.Text += "卯戌合火-"; 地支六合真假 = 1; wxhuo += 1;
+                                rszhechongxing = 1; Label62.ForeColor = Color.White; Label62.BackColor = Color.Red; Label62.Text += "卯戌合出丙火"; 地支六合真假 = 1; wxhuo += 1;
                             }
                         }
                         if (ntg == geng || ytg == geng || rtg == geng || stg == geng || ntg == xin || ytg == xin || rtg == xin || stg == xin)
@@ -35526,7 +35526,7 @@ namespace BaZiFuZuGongJu
                                 {
                                     wxtu -= 1; wxmu -= 0.6; wxshui -= 0.3;
                                 }
-                                nyzhechongxing = 1; Label64.ForeColor = Color.Gold; Label64.BackColor = Color.Black; Label64.Text += "辰酉合金-"; 地支六合真假 = 1; wxjin += 1;
+                                nyzhechongxing = 1; Label64.ForeColor = Color.Gold; Label64.BackColor = Color.Black; Label64.Text += "辰酉合出辛金"; 地支六合真假 = 1; wxjin += 1;
                             }
                             if (ydz == chen && rdz == you || rdz == chen && ydz == you)
                             {
@@ -35538,7 +35538,7 @@ namespace BaZiFuZuGongJu
                                 {
                                     wxtu -= 1; wxmu -= 0.6; wxshui -= 0.3;
                                 }
-                                yrzhechongxing = 1; Label63.ForeColor = Color.Gold; Label63.BackColor = Color.Black; Label63.Text += "辰酉合金-"; 地支六合真假 = 1; wxjin += 1;
+                                yrzhechongxing = 1; Label63.ForeColor = Color.Gold; Label63.BackColor = Color.Black; Label63.Text += "辰酉合出辛金"; 地支六合真假 = 1; wxjin += 1;
                             }
                             if (rdz == chen && sdz == you || sdz == chen && rdz == you)
                             {
@@ -35550,7 +35550,7 @@ namespace BaZiFuZuGongJu
                                 {
                                     wxtu -= 1; wxmu -= 0.6; wxshui -= 0.3;
                                 }
-                                rszhechongxing = 1; Label62.ForeColor = Color.Gold; Label62.BackColor = Color.Black; Label62.Text += "辰酉合金-"; 地支六合真假 = 1; wxjin += 1;
+                                rszhechongxing = 1; Label62.ForeColor = Color.Gold; Label62.BackColor = Color.Black; Label62.Text += "辰酉合出辛金"; 地支六合真假 = 1; wxjin += 1;
                             }
                         }
                         if (ntg == ren || ytg == ren || rtg == ren || stg == ren || ntg == gui || ytg == gui || rtg == gui || stg == gui)
@@ -35565,7 +35565,7 @@ namespace BaZiFuZuGongJu
                                 {
                                     wxjin -= 1; wxshui -= 0.6; wxtu -= 0.3;
                                 }
-                                nyzhechongxing = 1; Label64.ForeColor = Color.White; Label64.BackColor = Color.DodgerBlue; Label64.Text += "巳申合水-"; 地支六合真假 = 1; wxshui += 1;
+                                nyzhechongxing = 1; Label64.ForeColor = Color.White; Label64.BackColor = Color.DodgerBlue; Label64.Text += "巳申合出壬水"; 地支六合真假 = 1; wxshui += 1;
                             }
                             if (ydz == sii && rdz == shen || rdz == sii && ydz == shen)
                             {
@@ -35577,7 +35577,7 @@ namespace BaZiFuZuGongJu
                                 {
                                     wxjin -= 1; wxshui -= 0.6; wxtu -= 0.3;
                                 }
-                                yrzhechongxing = 1; Label63.ForeColor = Color.White; Label63.BackColor = Color.DodgerBlue; Label63.Text += "巳申合水-"; 地支六合真假 = 1; wxshui += 1;
+                                yrzhechongxing = 1; Label63.ForeColor = Color.White; Label63.BackColor = Color.DodgerBlue; Label63.Text += "巳申合出壬水"; 地支六合真假 = 1; wxshui += 1;
                             }
                             if (rdz == sii && sdz == shen || sdz == sii && rdz == shen)
                             {
@@ -35589,7 +35589,7 @@ namespace BaZiFuZuGongJu
                                 {
                                     wxjin -= 1; wxshui -= 0.6; wxtu -= 0.3;
                                 }
-                                rszhechongxing = 1; Label62.ForeColor = Color.White; Label62.BackColor = Color.DodgerBlue; Label62.Text += "巳申合水-"; 地支六合真假 = 1; wxshui += 1;
+                                rszhechongxing = 1; Label62.ForeColor = Color.White; Label62.BackColor = Color.DodgerBlue; Label62.Text += "巳申合出壬水"; 地支六合真假 = 1; wxshui += 1;
                             }
                         }
                         if (ntg == wuu || ytg == wuu || rtg == wuu || stg == wuu || ntg == jii || ytg == jii || rtg == jii || stg == jii)
@@ -35604,7 +35604,7 @@ namespace BaZiFuZuGongJu
                                 {
                                     wxtu -= 1; wxhuo -= 0.6; wxmu -= 0.3;
                                 }
-                                nyzhechongxing = 1; Label64.ForeColor = Color.White; Label64.BackColor = Color.Sienna; Label64.Text += "午未合土-"; 地支六合真假 = 1; wxtu += 1;
+                                nyzhechongxing = 1; Label64.ForeColor = Color.White; Label64.BackColor = Color.Sienna; Label64.Text += "午未合出己土"; 地支六合真假 = 1; wxtu += 1;
                             }
                             if (ydz == wuma && rdz == wei || rdz == wuma && ydz == wei)
                             {
@@ -35616,7 +35616,7 @@ namespace BaZiFuZuGongJu
                                 {
                                     wxtu -= 1; wxhuo -= 0.6; wxmu -= 0.3;
                                 }
-                                yrzhechongxing = 1; Label63.ForeColor = Color.White; Label63.BackColor = Color.Sienna; Label63.Text += "午未合土-"; 地支六合真假 = 1; wxtu += 1;
+                                yrzhechongxing = 1; Label63.ForeColor = Color.White; Label63.BackColor = Color.Sienna; Label63.Text += "午未合出己土"; 地支六合真假 = 1; wxtu += 1;
                             }
                             if (rdz == wuma && sdz == wei || sdz == wuma && rdz == wei)
                             {
@@ -35628,12 +35628,12 @@ namespace BaZiFuZuGongJu
                                 {
                                     wxtu -= 1; wxhuo -= 0.6; wxmu -= 0.3;
                                 }
-                                rszhechongxing = 1; Label62.ForeColor = Color.White; Label62.BackColor = Color.Sienna; Label62.Text += "午未合土-"; 地支六合真假 = 1; wxtu += 1;
+                                rszhechongxing = 1; Label62.ForeColor = Color.White; Label62.BackColor = Color.Sienna; Label62.Text += "午未合出己土"; 地支六合真假 = 1; wxtu += 1;
                             }
                         }
                         if (地支六合真假 == 1)
                         {
-                            string 地支六合 = "十二支六合：\r\n\r\n子丑合土\r\n寅亥合木\r\n卯戌合火\r\n辰酉合金\r\n巳申合水\r\n午未合火\r\n\r\n十二地支六合详解\r\n1、子丑合详解\r\n子丑合土为克合，合中带克，半吉半凶。子为玄武，丑为贵神，子为水，丑为稀泥，这种合就是把水和稀泥合在一块，所以叫做泥合。\r\n玄武为暧昧之神，向贵神求合，主要目的，是未害子，求丑来护卫，玄武暧昧不净，代表一种阴暗之象，但是子合的同时会被丑克住，所以子水本身有损失，这代表一种不情愿的合。因此子丑合代表因小失大，和聚散不能自主之象。子水有暗昧的性质，同时玄武有贪淫之象，在年月，代表长辈中有不正之人，在日时同样如此。一般情况下有子丑合的人你断他是个因小失大的人通常不会错的。\r\n2、寅亥合详解\r\n寅亥合木为破合，主先破后合，带耗泄之气，也要分是寅来合亥，还是亥来合寅。同时寅亥也带破，这个合叫做破合。同时又叫义合，因为寅亥中都含甲木，为兄弟合作共同抵御外敌之象，因为义合，所以非常同心，又因为是破合，所以他也带有不好的象，一般在年柱出现，都会有英年早逝的祖辈和残疾之人。\r\n3、卯戌合详解\r\n卯戌合火为克合，合中带克，半吉；卯来合戌，戌有官；戌来合卯，卯要破财。卯戌合，叫做淫合，因为卯为花草，戌为火炉，合化火，其象意为卯木自焚。代表一种无控能力，意志不坚定，缺乏主见之象。在六合里面，卯戌合最能代表未婚同居。\r\n4、巳申合详解\r\n申合水为刑合，合中带刺，巳来合申，昼夜愁；申来合巳，财运到。\r\n巳申同时也是三刑中的一种，这个代表的意思跟寅亥合有点类似，合同时又刑，好中有坏，就好像矛盾夫妻，分开就思念，在一起又争吵。申为刀剑，巳为金的长生处，因此有火金铸剑之象，代表一种家里出武职的象。\r\n5、午未合详解\r\n午未合为争合，带争夺性质（午为太阳，未为太阴）。午来合未，争宠；未来合午，求人。\r\n午为炉火，未为碳，这种合叫做和合。代表一种光明燃烧之象，因此为人光明正大。同时午火为文印，在神将中代表公门和文笔，未为小吉，这代表家门中出文人之象。未又为少妇，还代表家门中出重婚之人。\r\n6、辰酉合详解\r\n辰酉合金为生合，合中带生，主全福；辰来合酉，龙凤呈祥；酉来合辰，要乱人伦。辰酉合，为融合。辰为天罡，贵人不临，酉为太阴，主阴私之事，这种合代表一种私下约定，女命在感情上一般是自由恋爱，在古代就说是容易私奔。辰为天罡主讼，酉为门户，这还代表着一种象，就是家有斗讼，展开来说就是有牢狱官非等\r\n十二地支合化原理\r\n十二地支在八字命理上的合化，必须有以下几个条件才能化。\r\n1、相合必须是紧贴之合\r\n这样，双方的合力大，才有可能变成另一种东西。\r\n\r\n\r\n\r\n2、被合化的五行必须无根\r\n被合化的五行在四柱中均无根无生无助，即没有帮助它的，它只好随合他的人而走。或者虽然有生有助有根，但这些生、助、根很弱而被刑冲去而不起作用。最低的限度也必须是在参与合化的两柱中无根无生无助，在其他柱中虽然有根、有生、有助，但线路上却帮不上忙，即没有生和帮的途径，这样才能被合化。\r\n3、化神在命局中旺相成势\r\n这样才能化得出来，也就是说辰酉合金在天干要有庚或辛来引化。";
+                            string 地支六合 = "十二支六合：\r\n\r\n子丑合：土（阴土）\r\n寅亥合：木（阳木）\r\n卯戌合：火（阳火）\r\n辰酉合：水（阴金）\r\n巳申合：金（阳水）\r\n午未合：土（阴土）\r\n\r\n十二地支六合详解\r\n1、子丑合详解\r\n子丑合土为克合，合中带克，半吉半凶。子为玄武，丑为贵神，子为水，丑为稀泥，这种合就是把水和稀泥合在一块，所以叫做泥合。\r\n玄武为暧昧之神，向贵神求合，主要目的，是未害子，求丑来护卫，玄武暧昧不净，代表一种阴暗之象，但是子合的同时会被丑克住，所以子水本身有损失，这代表一种不情愿的合。因此子丑合代表因小失大，和聚散不能自主之象。子水有暗昧的性质，同时玄武有贪淫之象，在年月，代表长辈中有不正之人，在日时同样如此。一般情况下有子丑合的人你断他是个因小失大的人通常不会错的。\r\n2、寅亥合详解\r\n寅亥合木为破合，主先破后合，带耗泄之气，也要分是寅来合亥，还是亥来合寅。同时寅亥也带破，这个合叫做破合。同时又叫义合，因为寅亥中都含甲木，为兄弟合作共同抵御外敌之象，因为义合，所以非常同心，又因为是破合，所以他也带有不好的象，一般在年柱出现，都会有英年早逝的祖辈和残疾之人。\r\n3、卯戌合详解\r\n卯戌合火为克合，合中带克，半吉；卯来合戌，戌有官；戌来合卯，卯要破财。卯戌合，叫做淫合，因为卯为花草，戌为火炉，合化火，其象意为卯木自焚。代表一种无控能力，意志不坚定，缺乏主见之象。在六合里面，卯戌合最能代表未婚同居。\r\n4、巳申合详解\r\n申合水为刑合，合中带刺，巳来合申，昼夜愁；申来合巳，财运到。\r\n巳申同时也是三刑中的一种，这个代表的意思跟寅亥合有点类似，合同时又刑，好中有坏，就好像矛盾夫妻，分开就思念，在一起又争吵。申为刀剑，巳为金的长生处，因此有火金铸剑之象，代表一种家里出武职的象。\r\n5、午未合详解\r\n午未合为争合，带争夺性质（午为太阳，未为太阴）。午来合未，争宠；未来合午，求人。\r\n午为炉火，未为碳，这种合叫做和合。代表一种光明燃烧之象，因此为人光明正大。同时午火为文印，在神将中代表公门和文笔，未为小吉，这代表家门中出文人之象。未又为少妇，还代表家门中出重婚之人。\r\n6、辰酉合详解\r\n辰酉合金为生合，合中带生，主全福；辰来合酉，龙凤呈祥；酉来合辰，要乱人伦。辰酉合，为融合。辰为天罡，贵人不临，酉为太阴，主阴私之事，这种合代表一种私下约定，女命在感情上一般是自由恋爱，在古代就说是容易私奔。辰为天罡主讼，酉为门户，这还代表着一种象，就是家有斗讼，展开来说就是有牢狱官非等\r\n十二地支合化原理\r\n十二地支在八字命理上的合化，必须有以下几个条件才能化。\r\n1、相合必须是紧贴之合\r\n这样，双方的合力大，才有可能变成另一种东西。\r\n\r\n\r\n\r\n2、被合化的五行必须无根\r\n被合化的五行在四柱中均无根无生无助，即没有帮助它的，它只好随合他的人而走。或者虽然有生有助有根，但这些生、助、根很弱而被刑冲去而不起作用。最低的限度也必须是在参与合化的两柱中无根无生无助，在其他柱中虽然有根、有生、有助，但线路上却帮不上忙，即没有生和帮的途径，这样才能被合化。\r\n3、化神在命局中旺相成势\r\n这样才能化得出来，也就是说辰酉合金在天干要有庚或辛来引化。";
 
                             命局神煞 += 地支六合;
                         }
