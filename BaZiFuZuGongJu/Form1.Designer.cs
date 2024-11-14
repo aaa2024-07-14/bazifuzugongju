@@ -2060,11 +2060,11 @@
             // 
             Label3.AutoSize = true;
             Label3.BackColor = Color.DodgerBlue;
-            Label3.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label3.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label3.ForeColor = Color.White;
-            Label3.Location = new Point(64, 538);
+            Label3.Location = new Point(83, 534);
             Label3.Name = "Label3";
-            Label3.Size = new Size(33, 28);
+            Label3.Size = new Size(38, 31);
             Label3.TabIndex = 212;
             Label3.TabStop = true;
             Label3.Text = "合";
@@ -2073,11 +2073,11 @@
             // 
             Label7.AutoSize = true;
             Label7.BackColor = Color.Green;
-            Label7.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label7.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label7.ForeColor = Color.White;
-            Label7.Location = new Point(65, 563);
+            Label7.Location = new Point(83, 565);
             Label7.Name = "Label7";
-            Label7.Size = new Size(33, 28);
+            Label7.Size = new Size(38, 31);
             Label7.TabIndex = 213;
             Label7.TabStop = true;
             Label7.Text = "合";
@@ -2086,11 +2086,11 @@
             // 
             Label11.AutoSize = true;
             Label11.BackColor = Color.Sienna;
-            Label11.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label11.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label11.ForeColor = Color.White;
-            Label11.Location = new Point(64, 594);
+            Label11.Location = new Point(83, 596);
             Label11.Name = "Label11";
-            Label11.Size = new Size(33, 28);
+            Label11.Size = new Size(38, 31);
             Label11.TabIndex = 214;
             Label11.TabStop = true;
             Label11.Text = "合";
@@ -2099,11 +2099,11 @@
             // 
             Label14.AutoSize = true;
             Label14.BackColor = Color.Sienna;
-            Label14.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label14.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label14.ForeColor = Color.White;
-            Label14.Location = new Point(545, 594);
+            Label14.Location = new Point(564, 596);
             Label14.Name = "Label14";
-            Label14.Size = new Size(33, 28);
+            Label14.Size = new Size(38, 31);
             Label14.TabIndex = 217;
             Label14.TabStop = true;
             Label14.Text = "合";
@@ -2112,11 +2112,11 @@
             // 
             Label16.AutoSize = true;
             Label16.BackColor = Color.Green;
-            Label16.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label16.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label16.ForeColor = Color.White;
-            Label16.Location = new Point(546, 563);
+            Label16.Location = new Point(564, 565);
             Label16.Name = "Label16";
-            Label16.Size = new Size(33, 28);
+            Label16.Size = new Size(38, 31);
             Label16.TabIndex = 216;
             Label16.TabStop = true;
             Label16.Text = "合";
@@ -2125,11 +2125,11 @@
             // 
             Label18.AutoSize = true;
             Label18.BackColor = Color.DodgerBlue;
-            Label18.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label18.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label18.ForeColor = Color.White;
-            Label18.Location = new Point(545, 538);
+            Label18.Location = new Point(564, 534);
             Label18.Name = "Label18";
-            Label18.Size = new Size(33, 28);
+            Label18.Size = new Size(38, 31);
             Label18.TabIndex = 215;
             Label18.TabStop = true;
             Label18.Text = "合";
@@ -2138,11 +2138,11 @@
             // 
             Label19.AutoSize = true;
             Label19.BackColor = Color.Sienna;
-            Label19.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label19.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label19.ForeColor = Color.White;
-            Label19.Location = new Point(1026, 594);
+            Label19.Location = new Point(1045, 596);
             Label19.Name = "Label19";
-            Label19.Size = new Size(33, 28);
+            Label19.Size = new Size(38, 31);
             Label19.TabIndex = 220;
             Label19.TabStop = true;
             Label19.Text = "合";
@@ -2151,11 +2151,11 @@
             // 
             Label34.AutoSize = true;
             Label34.BackColor = Color.Green;
-            Label34.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label34.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label34.ForeColor = Color.White;
-            Label34.Location = new Point(1027, 563);
+            Label34.Location = new Point(1045, 565);
             Label34.Name = "Label34";
-            Label34.Size = new Size(33, 28);
+            Label34.Size = new Size(38, 31);
             Label34.TabIndex = 219;
             Label34.TabStop = true;
             Label34.Text = "合";
@@ -2164,11 +2164,11 @@
             // 
             Label39.AutoSize = true;
             Label39.BackColor = Color.DodgerBlue;
-            Label39.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label39.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label39.ForeColor = Color.White;
-            Label39.Location = new Point(1026, 538);
+            Label39.Location = new Point(1045, 534);
             Label39.Name = "Label39";
-            Label39.Size = new Size(33, 28);
+            Label39.Size = new Size(38, 31);
             Label39.TabIndex = 218;
             Label39.TabStop = true;
             Label39.Text = "合";
@@ -2177,11 +2177,11 @@
             // 
             Label47.AutoSize = true;
             Label47.BackColor = Color.Red;
-            Label47.Font = new Font("楷体", 26.25F, FontStyle.Bold, GraphicsUnit.Point, 134);
+            Label47.Font = new Font("微软雅黑", 21.75F, FontStyle.Bold, GraphicsUnit.Point, 134);
             Label47.ForeColor = Color.White;
-            Label47.Location = new Point(1528, 594);
+            Label47.Location = new Point(1532, 599);
             Label47.Name = "Label47";
-            Label47.Size = new Size(52, 35);
+            Label47.Size = new Size(46, 39);
             Label47.TabIndex = 223;
             Label47.TabStop = true;
             Label47.Text = "合";
@@ -2190,11 +2190,11 @@
             // 
             Label57.AutoSize = true;
             Label57.BackColor = Color.Green;
-            Label57.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label57.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label57.ForeColor = Color.White;
-            Label57.Location = new Point(1510, 563);
+            Label57.Location = new Point(1528, 565);
             Label57.Name = "Label57";
-            Label57.Size = new Size(33, 28);
+            Label57.Size = new Size(38, 31);
             Label57.TabIndex = 222;
             Label57.TabStop = true;
             Label57.Text = "合";
@@ -2203,11 +2203,11 @@
             // 
             Label61.AutoSize = true;
             Label61.BackColor = Color.Gold;
-            Label61.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label61.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label61.ForeColor = Color.Black;
             Label61.Location = new Point(1041, 500);
             Label61.Name = "Label61";
-            Label61.Size = new Size(33, 28);
+            Label61.Size = new Size(38, 31);
             Label61.TabIndex = 221;
             Label61.TabStop = true;
             Label61.Text = "合";
@@ -2216,11 +2216,11 @@
             // 
             Label62.AutoSize = true;
             Label62.BackColor = Color.Sienna;
-            Label62.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label62.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label62.ForeColor = Color.White;
             Label62.Location = new Point(1045, 627);
             Label62.Name = "Label62";
-            Label62.Size = new Size(33, 28);
+            Label62.Size = new Size(38, 31);
             Label62.TabIndex = 226;
             Label62.TabStop = true;
             Label62.Text = "合";
@@ -2229,11 +2229,11 @@
             // 
             Label63.AutoSize = true;
             Label63.BackColor = Color.Sienna;
-            Label63.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label63.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label63.ForeColor = Color.White;
             Label63.Location = new Point(564, 627);
             Label63.Name = "Label63";
-            Label63.Size = new Size(33, 28);
+            Label63.Size = new Size(38, 31);
             Label63.TabIndex = 225;
             Label63.TabStop = true;
             Label63.Text = "合";
@@ -2242,11 +2242,11 @@
             // 
             Label64.AutoSize = true;
             Label64.BackColor = Color.Sienna;
-            Label64.Font = new Font("微软雅黑", 15.75F, FontStyle.Bold);
+            Label64.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label64.ForeColor = Color.White;
             Label64.Location = new Point(83, 627);
             Label64.Name = "Label64";
-            Label64.Size = new Size(33, 28);
+            Label64.Size = new Size(38, 31);
             Label64.TabIndex = 224;
             Label64.TabStop = true;
             Label64.Text = "合";
@@ -3206,7 +3206,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-11-13v2";
+            Text = "八字排盘工具v2024-11-14";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).EndInit();
