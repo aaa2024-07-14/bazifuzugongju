@@ -1928,7 +1928,7 @@
             LabelDayTime.BackColor = Color.White;
             LabelDayTime.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             LabelDayTime.ForeColor = Color.Black;
-            LabelDayTime.Location = new Point(1558, 40);
+            LabelDayTime.Location = new Point(1544, 39);
             LabelDayTime.Name = "LabelDayTime";
             LabelDayTime.Size = new Size(62, 31);
             LabelDayTime.TabIndex = 202;
