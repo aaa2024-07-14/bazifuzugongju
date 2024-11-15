@@ -14085,11 +14085,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs1.Text == tai)
                         {
-                            buttoncs1.ForeColor = Color.DimGray; buttoncs1.BackColor = Color.RosyBrown;
+                            buttoncs1.ForeColor = Color.DimGray; buttoncs1.BackColor = Color.White;
                         }
                         if (buttoncs1.Text == yang)
                         {
-                            buttoncs1.ForeColor = Color.DimGray; buttoncs1.BackColor = Color.RosyBrown;
+                            buttoncs1.ForeColor = Color.DimGray; buttoncs1.BackColor = Color.White;
                         }
                         if (buttoncs1.Text == muyu)
                         {
@@ -14097,11 +14097,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs1.Text == shuai)
                         {
-                            buttoncs1.ForeColor = Color.DimGray; buttoncs1.BackColor = Color.RosyBrown;
+                            buttoncs1.ForeColor = Color.DimGray; buttoncs1.BackColor = Color.White;
                         }
                         if (buttoncs1.Text == bingg)
                         {
-                            buttoncs1.ForeColor = Color.DimGray; buttoncs1.BackColor = Color.RosyBrown;
+                            buttoncs1.ForeColor = Color.DimGray; buttoncs1.BackColor = Color.White;
                         }
                         if (buttoncs1.Text == ssii)
                         {
@@ -14133,11 +14133,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs2.Text == tai)
                         {
-                            buttoncs2.ForeColor = Color.DimGray; buttoncs2.BackColor = Color.RosyBrown;
+                            buttoncs2.ForeColor = Color.DimGray; buttoncs2.BackColor = Color.White;
                         }
                         if (buttoncs2.Text == yang)
                         {
-                            buttoncs2.ForeColor = Color.DimGray; buttoncs2.BackColor = Color.RosyBrown;
+                            buttoncs2.ForeColor = Color.DimGray; buttoncs2.BackColor = Color.White;
                         }
                         if (buttoncs2.Text == muyu)
                         {
@@ -14145,11 +14145,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs2.Text == shuai)
                         {
-                            buttoncs2.ForeColor = Color.DimGray; buttoncs2.BackColor = Color.RosyBrown;
+                            buttoncs2.ForeColor = Color.DimGray; buttoncs2.BackColor = Color.White;
                         }
                         if (buttoncs2.Text == bingg)
                         {
-                            buttoncs2.ForeColor = Color.DimGray; buttoncs2.BackColor = Color.RosyBrown;
+                            buttoncs2.ForeColor = Color.DimGray; buttoncs2.BackColor = Color.White;
                         }
                         if (buttoncs2.Text == ssii)
                         {
@@ -14181,11 +14181,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs3.Text == tai)
                         {
-                            buttoncs3.ForeColor = Color.DimGray; buttoncs3.BackColor = Color.RosyBrown;
+                            buttoncs3.ForeColor = Color.DimGray; buttoncs3.BackColor = Color.White;
                         }
                         if (buttoncs3.Text == yang)
                         {
-                            buttoncs3.ForeColor = Color.DimGray; buttoncs3.BackColor = Color.RosyBrown;
+                            buttoncs3.ForeColor = Color.DimGray; buttoncs3.BackColor = Color.White;
                         }
                         if (buttoncs3.Text == muyu)
                         {
@@ -14193,11 +14193,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs3.Text == shuai)
                         {
-                            buttoncs3.ForeColor = Color.DimGray; buttoncs3.BackColor = Color.RosyBrown;
+                            buttoncs3.ForeColor = Color.DimGray; buttoncs3.BackColor = Color.White;
                         }
                         if (buttoncs3.Text == bingg)
                         {
-                            buttoncs3.ForeColor = Color.DimGray; buttoncs3.BackColor = Color.RosyBrown;
+                            buttoncs3.ForeColor = Color.DimGray; buttoncs3.BackColor = Color.White;
                         }
                         if (buttoncs3.Text == ssii)
                         {
@@ -14229,11 +14229,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs4.Text == tai)
                         {
-                            buttoncs4.ForeColor = Color.DimGray; buttoncs4.BackColor = Color.RosyBrown;
+                            buttoncs4.ForeColor = Color.DimGray; buttoncs4.BackColor = Color.White;
                         }
                         if (buttoncs4.Text == yang)
                         {
-                            buttoncs4.ForeColor = Color.DimGray; buttoncs4.BackColor = Color.RosyBrown;
+                            buttoncs4.ForeColor = Color.DimGray; buttoncs4.BackColor = Color.White;
                         }
                         if (buttoncs4.Text == muyu)
                         {
@@ -14241,11 +14241,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs4.Text == shuai)
                         {
-                            buttoncs4.ForeColor = Color.DimGray; buttoncs4.BackColor = Color.RosyBrown;
+                            buttoncs4.ForeColor = Color.DimGray; buttoncs4.BackColor = Color.White;
                         }
                         if (buttoncs4.Text == bingg)
                         {
-                            buttoncs4.ForeColor = Color.DimGray; buttoncs4.BackColor = Color.RosyBrown;
+                            buttoncs4.ForeColor = Color.DimGray; buttoncs4.BackColor = Color.White;
                         }
                         if (buttoncs4.Text == ssii)
                         {
@@ -14277,11 +14277,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs5.Text == tai)
                         {
-                            buttoncs5.ForeColor = Color.DimGray; buttoncs5.BackColor = Color.RosyBrown;
+                            buttoncs5.ForeColor = Color.DimGray; buttoncs5.BackColor = Color.White;
                         }
                         if (buttoncs5.Text == yang)
                         {
-                            buttoncs5.ForeColor = Color.DimGray; buttoncs5.BackColor = Color.RosyBrown;
+                            buttoncs5.ForeColor = Color.DimGray; buttoncs5.BackColor = Color.White;
                         }
                         if (buttoncs5.Text == muyu)
                         {
@@ -14289,11 +14289,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs5.Text == shuai)
                         {
-                            buttoncs5.ForeColor = Color.DimGray; buttoncs5.BackColor = Color.RosyBrown;
+                            buttoncs5.ForeColor = Color.DimGray; buttoncs5.BackColor = Color.White;
                         }
                         if (buttoncs5.Text == bingg)
                         {
-                            buttoncs5.ForeColor = Color.DimGray; buttoncs5.BackColor = Color.RosyBrown;
+                            buttoncs5.ForeColor = Color.DimGray; buttoncs5.BackColor = Color.White;
                         }
                         if (buttoncs5.Text == ssii)
                         {
@@ -14325,11 +14325,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs6.Text == tai)
                         {
-                            buttoncs6.ForeColor = Color.DimGray; buttoncs6.BackColor = Color.RosyBrown;
+                            buttoncs6.ForeColor = Color.DimGray; buttoncs6.BackColor = Color.White;
                         }
                         if (buttoncs6.Text == yang)
                         {
-                            buttoncs6.ForeColor = Color.DimGray; buttoncs6.BackColor = Color.RosyBrown;
+                            buttoncs6.ForeColor = Color.DimGray; buttoncs6.BackColor = Color.White;
                         }
                         if (buttoncs6.Text == muyu)
                         {
@@ -14337,11 +14337,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs6.Text == shuai)
                         {
-                            buttoncs6.ForeColor = Color.DimGray; buttoncs6.BackColor = Color.RosyBrown;
+                            buttoncs6.ForeColor = Color.DimGray; buttoncs6.BackColor = Color.White;
                         }
                         if (buttoncs6.Text == bingg)
                         {
-                            buttoncs6.ForeColor = Color.DimGray; buttoncs6.BackColor = Color.RosyBrown;
+                            buttoncs6.ForeColor = Color.DimGray; buttoncs6.BackColor = Color.White;
                         }
                         if (buttoncs6.Text == ssii)
                         {
@@ -14373,11 +14373,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs7.Text == tai)
                         {
-                            buttoncs7.ForeColor = Color.DimGray; buttoncs7.BackColor = Color.RosyBrown;
+                            buttoncs7.ForeColor = Color.DimGray; buttoncs7.BackColor = Color.White;
                         }
                         if (buttoncs7.Text == yang)
                         {
-                            buttoncs7.ForeColor = Color.DimGray; buttoncs7.BackColor = Color.RosyBrown;
+                            buttoncs7.ForeColor = Color.DimGray; buttoncs7.BackColor = Color.White;
                         }
                         if (buttoncs7.Text == muyu)
                         {
@@ -14385,11 +14385,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs7.Text == shuai)
                         {
-                            buttoncs7.ForeColor = Color.DimGray; buttoncs7.BackColor = Color.RosyBrown;
+                            buttoncs7.ForeColor = Color.DimGray; buttoncs7.BackColor = Color.White;
                         }
                         if (buttoncs7.Text == bingg)
                         {
-                            buttoncs7.ForeColor = Color.DimGray; buttoncs7.BackColor = Color.RosyBrown;
+                            buttoncs7.ForeColor = Color.DimGray; buttoncs7.BackColor = Color.White;
                         }
                         if (buttoncs7.Text == ssii)
                         {
@@ -14421,11 +14421,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs8.Text == tai)
                         {
-                            buttoncs8.ForeColor = Color.DimGray; buttoncs8.BackColor = Color.RosyBrown;
+                            buttoncs8.ForeColor = Color.DimGray; buttoncs8.BackColor = Color.White;
                         }
                         if (buttoncs8.Text == yang)
                         {
-                            buttoncs8.ForeColor = Color.DimGray; buttoncs8.BackColor = Color.RosyBrown;
+                            buttoncs8.ForeColor = Color.DimGray; buttoncs8.BackColor = Color.White;
                         }
                         if (buttoncs8.Text == muyu)
                         {
@@ -14433,11 +14433,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs8.Text == shuai)
                         {
-                            buttoncs8.ForeColor = Color.DimGray; buttoncs8.BackColor = Color.RosyBrown;
+                            buttoncs8.ForeColor = Color.DimGray; buttoncs8.BackColor = Color.White;
                         }
                         if (buttoncs8.Text == bingg)
                         {
-                            buttoncs8.ForeColor = Color.DimGray; buttoncs8.BackColor = Color.RosyBrown;
+                            buttoncs8.ForeColor = Color.DimGray; buttoncs8.BackColor = Color.White;
                         }
                         if (buttoncs8.Text == ssii)
                         {
@@ -14469,11 +14469,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs9.Text == tai)
                         {
-                            buttoncs9.ForeColor = Color.DimGray; buttoncs9.BackColor = Color.RosyBrown;
+                            buttoncs9.ForeColor = Color.DimGray; buttoncs9.BackColor = Color.White;
                         }
                         if (buttoncs9.Text == yang)
                         {
-                            buttoncs9.ForeColor = Color.DimGray; buttoncs9.BackColor = Color.RosyBrown;
+                            buttoncs9.ForeColor = Color.DimGray; buttoncs9.BackColor = Color.White;
                         }
                         if (buttoncs9.Text == muyu)
                         {
@@ -14481,11 +14481,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs9.Text == shuai)
                         {
-                            buttoncs9.ForeColor = Color.DimGray; buttoncs9.BackColor = Color.RosyBrown;
+                            buttoncs9.ForeColor = Color.DimGray; buttoncs9.BackColor = Color.White;
                         }
                         if (buttoncs9.Text == bingg)
                         {
-                            buttoncs9.ForeColor = Color.DimGray; buttoncs9.BackColor = Color.RosyBrown;
+                            buttoncs9.ForeColor = Color.DimGray; buttoncs9.BackColor = Color.White;
                         }
                         if (buttoncs9.Text == ssii)
                         {
@@ -14517,11 +14517,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs10.Text == tai)
                         {
-                            buttoncs10.ForeColor = Color.DimGray; buttoncs10.BackColor = Color.RosyBrown;
+                            buttoncs10.ForeColor = Color.DimGray; buttoncs10.BackColor = Color.White;
                         }
                         if (buttoncs10.Text == yang)
                         {
-                            buttoncs10.ForeColor = Color.DimGray; buttoncs10.BackColor = Color.RosyBrown;
+                            buttoncs10.ForeColor = Color.DimGray; buttoncs10.BackColor = Color.White;
                         }
                         if (buttoncs10.Text == muyu)
                         {
@@ -14529,11 +14529,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs10.Text == shuai)
                         {
-                            buttoncs10.ForeColor = Color.DimGray; buttoncs10.BackColor = Color.RosyBrown;
+                            buttoncs10.ForeColor = Color.DimGray; buttoncs10.BackColor = Color.White;
                         }
                         if (buttoncs10.Text == bingg)
                         {
-                            buttoncs10.ForeColor = Color.DimGray; buttoncs10.BackColor = Color.RosyBrown;
+                            buttoncs10.ForeColor = Color.DimGray; buttoncs10.BackColor = Color.White;
                         }
                         if (buttoncs10.Text == ssii)
                         {
@@ -14565,11 +14565,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs11.Text == tai)
                         {
-                            buttoncs11.ForeColor = Color.DimGray; buttoncs11.BackColor = Color.RosyBrown;
+                            buttoncs11.ForeColor = Color.DimGray; buttoncs11.BackColor = Color.White;
                         }
                         if (buttoncs11.Text == yang)
                         {
-                            buttoncs11.ForeColor = Color.DimGray; buttoncs11.BackColor = Color.RosyBrown;
+                            buttoncs11.ForeColor = Color.DimGray; buttoncs11.BackColor = Color.White;
                         }
                         if (buttoncs11.Text == muyu)
                         {
@@ -14577,11 +14577,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs11.Text == shuai)
                         {
-                            buttoncs11.ForeColor = Color.DimGray; buttoncs11.BackColor = Color.RosyBrown;
+                            buttoncs11.ForeColor = Color.DimGray; buttoncs11.BackColor = Color.White;
                         }
                         if (buttoncs11.Text == bingg)
                         {
-                            buttoncs11.ForeColor = Color.DimGray; buttoncs11.BackColor = Color.RosyBrown;
+                            buttoncs11.ForeColor = Color.DimGray; buttoncs11.BackColor = Color.White;
                         }
                         if (buttoncs11.Text == ssii)
                         {
@@ -14613,11 +14613,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs12.Text == tai)
                         {
-                            buttoncs12.ForeColor = Color.DimGray; buttoncs12.BackColor = Color.RosyBrown;
+                            buttoncs12.ForeColor = Color.DimGray; buttoncs12.BackColor = Color.White;
                         }
                         if (buttoncs12.Text == yang)
                         {
-                            buttoncs12.ForeColor = Color.DimGray; buttoncs12.BackColor = Color.RosyBrown;
+                            buttoncs12.ForeColor = Color.DimGray; buttoncs12.BackColor = Color.White;
                         }
                         if (buttoncs12.Text == muyu)
                         {
@@ -14625,11 +14625,11 @@ namespace BaZiFuZuGongJu
                         }
                         if (buttoncs12.Text == shuai)
                         {
-                            buttoncs12.ForeColor = Color.DimGray; buttoncs12.BackColor = Color.RosyBrown;
+                            buttoncs12.ForeColor = Color.DimGray; buttoncs12.BackColor = Color.White;
                         }
                         if (buttoncs12.Text == bingg)
                         {
-                            buttoncs12.ForeColor = Color.DimGray; buttoncs12.BackColor = Color.RosyBrown;
+                            buttoncs12.ForeColor = Color.DimGray; buttoncs12.BackColor = Color.White;
                         }
                         if (buttoncs12.Text == ssii)
                         {
