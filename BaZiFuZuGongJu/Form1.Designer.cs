@@ -79,26 +79,26 @@
             Label4 = new Label();
             Label5 = new Label();
             Label6 = new Label();
-            linkLabencs = new Label();
+            Labelncsn = new Label();
             Label8 = new Label();
             Label9 = new Label();
             Label10 = new Label();
             Labelytgss = new Label();
             Label12 = new Label();
             Label13 = new Label();
-            Labelycs = new Label();
+            Labelncsy = new Label();
             Label15 = new Label();
             Label17 = new Label();
             Labelrtgss = new Label();
             Label20 = new Label();
-            Labelrcs = new Label();
+            Labelncsr = new Label();
             Label22 = new Label();
             Label23 = new Label();
             Label24 = new Label();
             Labelstgss = new Label();
             Label26 = new Label();
             Label27 = new Label();
-            Labelscs = new Label();
+            Labelncss = new Label();
             Label29 = new Label();
             Label30 = new Label();
             Label31 = new Label();
@@ -255,6 +255,18 @@
             buttoncsdz1 = new Button();
             button1 = new Button();
             panel1 = new Panel();
+            Labelscsn = new Label();
+            Labelscsy = new Label();
+            Labelscsr = new Label();
+            Labelscss = new Label();
+            Labelrcsn = new Label();
+            Labelrcsy = new Label();
+            Labelrcsr = new Label();
+            Labelrcss = new Label();
+            Labelycsn = new Label();
+            Labelycsy = new Label();
+            Labelycsr = new Label();
+            Labelycss = new Label();
             buttonbu = new Button();
             buttonjishen = new Button();
             tableLayoutPanel1 = new TableLayoutPanel();
@@ -827,19 +839,19 @@
             Label6.TabStop = true;
             Label6.Text = "婴幼儿期约1-9岁";
             // 
-            // linkLabencs
+            // Labelncsn
             // 
-            linkLabencs.AutoSize = true;
-            linkLabencs.BackColor = Color.SaddleBrown;
-            linkLabencs.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            linkLabencs.ForeColor = Color.White;
-            linkLabencs.Location = new Point(1, 276);
-            linkLabencs.Name = "linkLabencs";
-            linkLabencs.Size = new Size(62, 31);
-            linkLabencs.TabIndex = 56;
-            linkLabencs.TabStop = true;
-            linkLabencs.Text = "长生";
-            linkLabencs.Click += linkLabencs_Click;
+            Labelncsn.AutoSize = true;
+            Labelncsn.BackColor = Color.White;
+            Labelncsn.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelncsn.ForeColor = Color.Black;
+            Labelncsn.Location = new Point(0, 276);
+            Labelncsn.Name = "Labelncsn";
+            Labelncsn.Size = new Size(93, 31);
+            Labelncsn.TabIndex = 56;
+            Labelncsn.TabStop = true;
+            Labelncsn.Text = "正长生;";
+            Labelncsn.Click += linkLabencs_Click;
             // 
             // Label8
             // 
@@ -919,19 +931,19 @@
             Label13.TabStop = true;
             Label13.Text = "青年期约19-27岁";
             // 
-            // Labelycs
+            // Labelncsy
             // 
-            Labelycs.AutoSize = true;
-            Labelycs.BackColor = Color.SaddleBrown;
-            Labelycs.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            Labelycs.ForeColor = Color.White;
-            Labelycs.Location = new Point(483, 276);
-            Labelycs.Name = "Labelycs";
-            Labelycs.Size = new Size(62, 31);
-            Labelycs.TabIndex = 63;
-            Labelycs.TabStop = true;
-            Labelycs.Text = "长生";
-            Labelycs.Click += Labelycs_Click;
+            Labelncsy.AutoSize = true;
+            Labelncsy.BackColor = Color.White;
+            Labelncsy.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelncsy.ForeColor = Color.Black;
+            Labelncsy.Location = new Point(90, 276);
+            Labelncsy.Name = "Labelncsy";
+            Labelncsy.Size = new Size(93, 31);
+            Labelncsy.TabIndex = 63;
+            Labelncsy.TabStop = true;
+            Labelncsy.Text = "正长生;";
+            Labelncsy.Click += Labelycs_Click;
             // 
             // Label15
             // 
@@ -985,19 +997,19 @@
             Label20.TabStop = true;
             Label20.Text = "流年阴阳";
             // 
-            // Labelrcs
+            // Labelncsr
             // 
-            Labelrcs.AutoSize = true;
-            Labelrcs.BackColor = Color.SaddleBrown;
-            Labelrcs.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            Labelrcs.ForeColor = Color.White;
-            Labelrcs.Location = new Point(964, 276);
-            Labelrcs.Name = "Labelrcs";
-            Labelrcs.Size = new Size(62, 31);
-            Labelrcs.TabIndex = 70;
-            Labelrcs.TabStop = true;
-            Labelrcs.Text = "长生";
-            Labelrcs.Click += Labelrcs_Click;
+            Labelncsr.AutoSize = true;
+            Labelncsr.BackColor = Color.White;
+            Labelncsr.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelncsr.ForeColor = Color.Black;
+            Labelncsr.Location = new Point(178, 276);
+            Labelncsr.Name = "Labelncsr";
+            Labelncsr.Size = new Size(93, 31);
+            Labelncsr.TabIndex = 70;
+            Labelncsr.TabStop = true;
+            Labelncsr.Text = "正长生;";
+            Labelncsr.Click += Labelrcs_Click;
             // 
             // Label22
             // 
@@ -1083,19 +1095,19 @@
             Label27.Text = "中晚年期约46-54岁";
             Label27.Click += Label27_Click;
             // 
-            // Labelscs
+            // Labelncss
             // 
-            Labelscs.AutoSize = true;
-            Labelscs.BackColor = Color.SaddleBrown;
-            Labelscs.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            Labelscs.ForeColor = Color.White;
-            Labelscs.Location = new Point(1447, 276);
-            Labelscs.Name = "Labelscs";
-            Labelscs.Size = new Size(62, 31);
-            Labelscs.TabIndex = 77;
-            Labelscs.TabStop = true;
-            Labelscs.Text = "长生";
-            Labelscs.Click += Labelscs_Click;
+            Labelncss.AutoSize = true;
+            Labelncss.BackColor = Color.White;
+            Labelncss.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelncss.ForeColor = Color.Black;
+            Labelncss.Location = new Point(267, 276);
+            Labelncss.Name = "Labelncss";
+            Labelncss.Size = new Size(93, 31);
+            Labelncss.TabIndex = 77;
+            Labelncss.TabStop = true;
+            Labelncss.Text = "正长生;";
+            Labelncss.Click += Labelscs_Click;
             // 
             // Label29
             // 
@@ -2928,6 +2940,18 @@
             // 
             panel1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             panel1.Controls.Add(richTextBox1);
+            panel1.Controls.Add(Labelscsn);
+            panel1.Controls.Add(Labelscsy);
+            panel1.Controls.Add(Labelscsr);
+            panel1.Controls.Add(Labelscss);
+            panel1.Controls.Add(Labelrcsn);
+            panel1.Controls.Add(Labelrcsy);
+            panel1.Controls.Add(Labelrcsr);
+            panel1.Controls.Add(Labelrcss);
+            panel1.Controls.Add(Labelycsn);
+            panel1.Controls.Add(Labelycsy);
+            panel1.Controls.Add(Labelycsr);
+            panel1.Controls.Add(Labelycss);
             panel1.Controls.Add(buttonbu);
             panel1.Controls.Add(buttonjishen);
             panel1.Controls.Add(buttongj);
@@ -3027,7 +3051,7 @@
             panel1.Controls.Add(buttoncs4);
             panel1.Controls.Add(Label6);
             panel1.Controls.Add(buttoncs3);
-            panel1.Controls.Add(linkLabencs);
+            panel1.Controls.Add(Labelncsn);
             panel1.Controls.Add(buttoncs1);
             panel1.Controls.Add(Label8);
             panel1.Controls.Add(Label72);
@@ -3041,7 +3065,7 @@
             panel1.Controls.Add(Label70);
             panel1.Controls.Add(Label13);
             panel1.Controls.Add(Label71);
-            panel1.Controls.Add(Labelycs);
+            panel1.Controls.Add(Labelncsy);
             panel1.Controls.Add(Label21);
             panel1.Controls.Add(Label15);
             panel1.Controls.Add(Label65);
@@ -3051,7 +3075,7 @@
             panel1.Controls.Add(Label67);
             panel1.Controls.Add(Label20);
             panel1.Controls.Add(Label68);
-            panel1.Controls.Add(Labelrcs);
+            panel1.Controls.Add(Labelncsr);
             panel1.Controls.Add(Label69);
             panel1.Controls.Add(Label22);
             panel1.Controls.Add(Label62);
@@ -3065,7 +3089,7 @@
             panel1.Controls.Add(Label57);
             panel1.Controls.Add(Label27);
             panel1.Controls.Add(Label61);
-            panel1.Controls.Add(Labelscs);
+            panel1.Controls.Add(Labelncss);
             panel1.Controls.Add(Label19);
             panel1.Controls.Add(Label29);
             panel1.Controls.Add(Label34);
@@ -3158,6 +3182,162 @@
             panel1.Size = new Size(1920, 1080);
             panel1.TabIndex = 289;
             // 
+            // Labelscsn
+            // 
+            Labelscsn.AutoSize = true;
+            Labelscsn.BackColor = Color.White;
+            Labelscsn.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelscsn.ForeColor = Color.Black;
+            Labelscsn.Location = new Point(1447, 276);
+            Labelscsn.Name = "Labelscsn";
+            Labelscsn.Size = new Size(93, 31);
+            Labelscsn.TabIndex = 301;
+            Labelscsn.TabStop = true;
+            Labelscsn.Text = "正长生;";
+            // 
+            // Labelscsy
+            // 
+            Labelscsy.AutoSize = true;
+            Labelscsy.BackColor = Color.White;
+            Labelscsy.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelscsy.ForeColor = Color.Black;
+            Labelscsy.Location = new Point(1537, 276);
+            Labelscsy.Name = "Labelscsy";
+            Labelscsy.Size = new Size(93, 31);
+            Labelscsy.TabIndex = 302;
+            Labelscsy.TabStop = true;
+            Labelscsy.Text = "正长生;";
+            // 
+            // Labelscsr
+            // 
+            Labelscsr.AutoSize = true;
+            Labelscsr.BackColor = Color.White;
+            Labelscsr.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelscsr.ForeColor = Color.Black;
+            Labelscsr.Location = new Point(1625, 276);
+            Labelscsr.Name = "Labelscsr";
+            Labelscsr.Size = new Size(93, 31);
+            Labelscsr.TabIndex = 303;
+            Labelscsr.TabStop = true;
+            Labelscsr.Text = "正长生;";
+            // 
+            // Labelscss
+            // 
+            Labelscss.AutoSize = true;
+            Labelscss.BackColor = Color.White;
+            Labelscss.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelscss.ForeColor = Color.Black;
+            Labelscss.Location = new Point(1714, 276);
+            Labelscss.Name = "Labelscss";
+            Labelscss.Size = new Size(93, 31);
+            Labelscss.TabIndex = 304;
+            Labelscss.TabStop = true;
+            Labelscss.Text = "正长生;";
+            // 
+            // Labelrcsn
+            // 
+            Labelrcsn.AutoSize = true;
+            Labelrcsn.BackColor = Color.White;
+            Labelrcsn.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelrcsn.ForeColor = Color.Black;
+            Labelrcsn.Location = new Point(964, 276);
+            Labelrcsn.Name = "Labelrcsn";
+            Labelrcsn.Size = new Size(93, 31);
+            Labelrcsn.TabIndex = 297;
+            Labelrcsn.TabStop = true;
+            Labelrcsn.Text = "正长生;";
+            // 
+            // Labelrcsy
+            // 
+            Labelrcsy.AutoSize = true;
+            Labelrcsy.BackColor = Color.White;
+            Labelrcsy.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelrcsy.ForeColor = Color.Black;
+            Labelrcsy.Location = new Point(1054, 276);
+            Labelrcsy.Name = "Labelrcsy";
+            Labelrcsy.Size = new Size(93, 31);
+            Labelrcsy.TabIndex = 298;
+            Labelrcsy.TabStop = true;
+            Labelrcsy.Text = "正长生;";
+            // 
+            // Labelrcsr
+            // 
+            Labelrcsr.AutoSize = true;
+            Labelrcsr.BackColor = Color.White;
+            Labelrcsr.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelrcsr.ForeColor = Color.Black;
+            Labelrcsr.Location = new Point(1142, 276);
+            Labelrcsr.Name = "Labelrcsr";
+            Labelrcsr.Size = new Size(93, 31);
+            Labelrcsr.TabIndex = 299;
+            Labelrcsr.TabStop = true;
+            Labelrcsr.Text = "正长生;";
+            // 
+            // Labelrcss
+            // 
+            Labelrcss.AutoSize = true;
+            Labelrcss.BackColor = Color.White;
+            Labelrcss.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelrcss.ForeColor = Color.Black;
+            Labelrcss.Location = new Point(1231, 276);
+            Labelrcss.Name = "Labelrcss";
+            Labelrcss.Size = new Size(93, 31);
+            Labelrcss.TabIndex = 300;
+            Labelrcss.TabStop = true;
+            Labelrcss.Text = "正长生;";
+            // 
+            // Labelycsn
+            // 
+            Labelycsn.AutoSize = true;
+            Labelycsn.BackColor = Color.White;
+            Labelycsn.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelycsn.ForeColor = Color.Black;
+            Labelycsn.Location = new Point(483, 276);
+            Labelycsn.Name = "Labelycsn";
+            Labelycsn.Size = new Size(93, 31);
+            Labelycsn.TabIndex = 293;
+            Labelycsn.TabStop = true;
+            Labelycsn.Text = "正长生;";
+            // 
+            // Labelycsy
+            // 
+            Labelycsy.AutoSize = true;
+            Labelycsy.BackColor = Color.White;
+            Labelycsy.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelycsy.ForeColor = Color.Black;
+            Labelycsy.Location = new Point(573, 276);
+            Labelycsy.Name = "Labelycsy";
+            Labelycsy.Size = new Size(93, 31);
+            Labelycsy.TabIndex = 294;
+            Labelycsy.TabStop = true;
+            Labelycsy.Text = "正长生;";
+            // 
+            // Labelycsr
+            // 
+            Labelycsr.AutoSize = true;
+            Labelycsr.BackColor = Color.White;
+            Labelycsr.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelycsr.ForeColor = Color.Black;
+            Labelycsr.Location = new Point(661, 276);
+            Labelycsr.Name = "Labelycsr";
+            Labelycsr.Size = new Size(93, 31);
+            Labelycsr.TabIndex = 295;
+            Labelycsr.TabStop = true;
+            Labelycsr.Text = "正长生;";
+            // 
+            // Labelycss
+            // 
+            Labelycss.AutoSize = true;
+            Labelycss.BackColor = Color.White;
+            Labelycss.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            Labelycss.ForeColor = Color.Black;
+            Labelycss.Location = new Point(750, 276);
+            Labelycss.Name = "Labelycss";
+            Labelycss.Size = new Size(93, 31);
+            Labelycss.TabIndex = 296;
+            Labelycss.TabStop = true;
+            Labelycss.Text = "正长生;";
+            // 
             // buttonbu
             // 
             buttonbu.Font = new Font("微软雅黑", 24F, FontStyle.Bold);
@@ -3206,7 +3386,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-11-15";
+            Text = "八字排盘工具v2024-11-15v2";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).EndInit();
@@ -3270,26 +3450,26 @@
         private Label Label4;
         private Label Label5;
         private Label Label6;
-        private Label linkLabencs;
+        private Label Labelncsn;
         private Label Label8;
         private Label Label9;
         private Label Label10;
         private Label Labelytgss;
         private Label Label12;
         private Label Label13;
-        private Label Labelycs;
+        private Label Labelncsy;
         private Label Label15;
         private Label Label17;
         private Label Labelrtgss;
         private Label Label20;
-        private Label Labelrcs;
+        private Label Labelncsr;
         private Label Label22;
         private Label Label23;
         private Label Label24;
         private Label Labelstgss;
         private Label Label26;
         private Label Label27;
-        private Label Labelscs;
+        private Label Labelncss;
         private Label Label29;
         private Label Label30;
         private Label Label31;
@@ -3449,5 +3629,17 @@
         private TableLayoutPanel tableLayoutPanel1;
         private Button buttonbu;
         private Button buttonjishen;
+        private Label Labelscsn;
+        private Label Labelscsy;
+        private Label Labelscsr;
+        private Label Labelscss;
+        private Label Labelrcsn;
+        private Label Labelrcsy;
+        private Label Labelrcsr;
+        private Label Labelrcss;
+        private Label Labelycsn;
+        private Label Labelycsy;
+        private Label Labelycsr;
+        private Label Labelycss;
     }
 }
