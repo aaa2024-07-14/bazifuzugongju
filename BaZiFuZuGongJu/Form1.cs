@@ -27953,9 +27953,8 @@ namespace BaZiFuZuGongJu
                         {
                             Labelncss.Text += "时养"; Labelncss.ForeColor = Color.DimGray;
                         }
-
                     }
-                    if (ntg == bing)
+                    if (ytg == bing)
                     {
                         if (ndz == yin)
                         {
@@ -28007,7 +28006,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == wuu)
+                    if (ytg == wuu)
                     {
                         if (ndz == yin)
                         {
@@ -28059,7 +28058,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ding)
+                    if (ytg == ding)
                     {
                         if (ndz == you)
                         {
@@ -28111,7 +28110,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jii)
+                    if (ytg == jii)
                     {
                         if (ndz == you)
                         {
@@ -28163,7 +28162,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == yii)
+                    if (ytg == yii)
                     {
                         if (ndz == wuma)
                         {
@@ -28215,7 +28214,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == xin)
+                    if (ytg == xin)
                     {
                         if (ndz == zii)
                         {
@@ -28267,7 +28266,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == gui)
+                    if (ytg == gui)
                     {
                         if (ndz == mao)
                         {
@@ -28319,7 +28318,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jia)
+                    if (ytg == jia)
                     {
                         if (ndz == hai)
                         {
@@ -28371,7 +28370,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == geng)
+                    if (ytg == geng)
                     {
                         if (ndz == sii)
                         {
@@ -28423,7 +28422,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ren)
+                    if (ytg == ren)
                     {
                         if (ndz == shen)
                         {
@@ -28475,7 +28474,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == bing)
+                    if (ytg == bing)
                     {
                         if (ydz == yin)
                         {
@@ -28527,7 +28526,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == wuu)
+                    if (ytg == wuu)
                     {
                         if (ydz == yin)
                         {
@@ -28579,7 +28578,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ding)
+                    if (ytg == ding)
                     {
                         if (ydz == you)
                         {
@@ -28631,7 +28630,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jii)
+                    if (ytg == jii)
                     {
                         if (ydz == you)
                         {
@@ -28683,7 +28682,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == yii)
+                    if (ytg == yii)
                     {
                         if (ydz == wuma)
                         {
@@ -28735,7 +28734,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == xin)
+                    if (ytg == xin)
                     {
                         if (ydz == zii)
                         {
@@ -28787,7 +28786,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == gui)
+                    if (ytg == gui)
                     {
                         if (ydz == mao)
                         {
@@ -28839,7 +28838,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jia)
+                    if (ytg == jia)
                     {
                         if (ydz == hai)
                         {
@@ -28891,7 +28890,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == geng)
+                    if (ytg == geng)
                     {
                         if (ydz == sii)
                         {
@@ -28943,7 +28942,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ren)
+                    if (ytg == ren)
                     {
                         if (ydz == shen)
                         {
@@ -28995,7 +28994,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == bing)
+                    if (ytg == bing)
                     {
                         if (rdz == yin)
                         {
@@ -29047,7 +29046,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == wuu)
+                    if (ytg == wuu)
                     {
                         if (rdz == yin)
                         {
@@ -29099,7 +29098,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ding)
+                    if (ytg == ding)
                     {
                         if (rdz == you)
                         {
@@ -29151,7 +29150,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jii)
+                    if (ytg == jii)
                     {
                         if (rdz == you)
                         {
@@ -29203,7 +29202,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == yii)
+                    if (ytg == yii)
                     {
                         if (rdz == wuma)
                         {
@@ -29255,7 +29254,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == xin)
+                    if (ytg == xin)
                     {
                         if (rdz == zii)
                         {
@@ -29307,7 +29306,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == gui)
+                    if (ytg == gui)
                     {
                         if (rdz == mao)
                         {
@@ -29359,7 +29358,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jia)
+                    if (ytg == jia)
                     {
                         if (rdz == hai)
                         {
@@ -29411,7 +29410,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == geng)
+                    if (ytg == geng)
                     {
                         if (rdz == sii)
                         {
@@ -29463,7 +29462,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ren)
+                    if (ytg == ren)
                     {
                         if (rdz == shen)
                         {
@@ -29515,7 +29514,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == bing)
+                    if (ytg == bing)
                     {
                         if (sdz == yin)
                         {
@@ -29567,7 +29566,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == wuu)
+                    if (ytg == wuu)
                     {
                         if (sdz == yin)
                         {
@@ -29619,7 +29618,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ding)
+                    if (ytg == ding)
                     {
                         if (sdz == you)
                         {
@@ -29671,7 +29670,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jii)
+                    if (ytg == jii)
                     {
                         if (sdz == you)
                         {
@@ -29723,7 +29722,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == yii)
+                    if (ytg == yii)
                     {
                         if (sdz == wuma)
                         {
@@ -29775,7 +29774,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == xin)
+                    if (ytg == xin)
                     {
                         if (sdz == zii)
                         {
@@ -29827,7 +29826,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == gui)
+                    if (ytg == gui)
                     {
                         if (sdz == mao)
                         {
@@ -29879,7 +29878,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jia)
+                    if (ytg == jia)
                     {
                         if (sdz == hai)
                         {
@@ -29931,7 +29930,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == geng)
+                    if (ytg == geng)
                     {
                         if (sdz == sii)
                         {
@@ -29983,7 +29982,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ren)
+                    if (ytg == ren)
                     {
                         if (sdz == shen)
                         {
@@ -30033,9 +30032,8 @@ namespace BaZiFuZuGongJu
                         {
                             Labelycss.Text += "时养"; Labelycss.ForeColor = Color.DimGray;
                         }
-
                     }
-                    if (ntg == bing)
+                    if (rtg == bing)
                     {
                         if (ndz == yin)
                         {
@@ -30087,7 +30085,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == wuu)
+                    if (rtg == wuu)
                     {
                         if (ndz == yin)
                         {
@@ -30139,7 +30137,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ding)
+                    if (rtg == ding)
                     {
                         if (ndz == you)
                         {
@@ -30191,7 +30189,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jii)
+                    if (rtg == jii)
                     {
                         if (ndz == you)
                         {
@@ -30243,7 +30241,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == yii)
+                    if (rtg == yii)
                     {
                         if (ndz == wuma)
                         {
@@ -30295,7 +30293,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == xin)
+                    if (rtg == xin)
                     {
                         if (ndz == zii)
                         {
@@ -30347,7 +30345,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == gui)
+                    if (rtg == gui)
                     {
                         if (ndz == mao)
                         {
@@ -30399,7 +30397,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jia)
+                    if (rtg == jia)
                     {
                         if (ndz == hai)
                         {
@@ -30451,7 +30449,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == geng)
+                    if (rtg == geng)
                     {
                         if (ndz == sii)
                         {
@@ -30503,7 +30501,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ren)
+                    if (rtg == ren)
                     {
                         if (ndz == shen)
                         {
@@ -30555,7 +30553,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == bing)
+                    if (rtg == bing)
                     {
                         if (ydz == yin)
                         {
@@ -30607,7 +30605,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == wuu)
+                    if (rtg == wuu)
                     {
                         if (ydz == yin)
                         {
@@ -30659,7 +30657,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ding)
+                    if (rtg == ding)
                     {
                         if (ydz == you)
                         {
@@ -30711,7 +30709,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jii)
+                    if (rtg == jii)
                     {
                         if (ydz == you)
                         {
@@ -30763,7 +30761,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == yii)
+                    if (rtg == yii)
                     {
                         if (ydz == wuma)
                         {
@@ -30815,7 +30813,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == xin)
+                    if (rtg == xin)
                     {
                         if (ydz == zii)
                         {
@@ -30867,7 +30865,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == gui)
+                    if (rtg == gui)
                     {
                         if (ydz == mao)
                         {
@@ -30919,7 +30917,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jia)
+                    if (rtg == jia)
                     {
                         if (ydz == hai)
                         {
@@ -30971,7 +30969,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == geng)
+                    if (rtg == geng)
                     {
                         if (ydz == sii)
                         {
@@ -31023,7 +31021,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ren)
+                    if (rtg == ren)
                     {
                         if (ydz == shen)
                         {
@@ -31075,7 +31073,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == bing)
+                    if (rtg == bing)
                     {
                         if (rdz == yin)
                         {
@@ -31127,7 +31125,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == wuu)
+                    if (rtg == wuu)
                     {
                         if (rdz == yin)
                         {
@@ -31179,7 +31177,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ding)
+                    if (rtg == ding)
                     {
                         if (rdz == you)
                         {
@@ -31231,7 +31229,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jii)
+                    if (rtg == jii)
                     {
                         if (rdz == you)
                         {
@@ -31283,7 +31281,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == yii)
+                    if (rtg == yii)
                     {
                         if (rdz == wuma)
                         {
@@ -31335,7 +31333,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == xin)
+                    if (rtg == xin)
                     {
                         if (rdz == zii)
                         {
@@ -31387,7 +31385,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == gui)
+                    if (rtg == gui)
                     {
                         if (rdz == mao)
                         {
@@ -31439,7 +31437,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jia)
+                    if (rtg == jia)
                     {
                         if (rdz == hai)
                         {
@@ -31491,7 +31489,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == geng)
+                    if (rtg == geng)
                     {
                         if (rdz == sii)
                         {
@@ -31543,7 +31541,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ren)
+                    if (rtg == ren)
                     {
                         if (rdz == shen)
                         {
@@ -31595,7 +31593,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == bing)
+                    if (rtg == bing)
                     {
                         if (sdz == yin)
                         {
@@ -31647,7 +31645,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == wuu)
+                    if (rtg == wuu)
                     {
                         if (sdz == yin)
                         {
@@ -31699,7 +31697,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ding)
+                    if (rtg == ding)
                     {
                         if (sdz == you)
                         {
@@ -31751,7 +31749,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jii)
+                    if (rtg == jii)
                     {
                         if (sdz == you)
                         {
@@ -31803,7 +31801,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == yii)
+                    if (rtg == yii)
                     {
                         if (sdz == wuma)
                         {
@@ -31855,7 +31853,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == xin)
+                    if (rtg == xin)
                     {
                         if (sdz == zii)
                         {
@@ -31907,7 +31905,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == gui)
+                    if (rtg == gui)
                     {
                         if (sdz == mao)
                         {
@@ -31959,7 +31957,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jia)
+                    if (rtg == jia)
                     {
                         if (sdz == hai)
                         {
@@ -32011,7 +32009,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == geng)
+                    if (rtg == geng)
                     {
                         if (sdz == sii)
                         {
@@ -32063,7 +32061,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ren)
+                    if (rtg == ren)
                     {
                         if (sdz == shen)
                         {
@@ -32113,9 +32111,8 @@ namespace BaZiFuZuGongJu
                         {
                             Labelrcss.Text += "时养"; Labelrcss.ForeColor = Color.DimGray;
                         }
-
                     }
-                    if (ntg == bing)
+                    if (stg == bing)
                     {
                         if (ndz == yin)
                         {
@@ -32167,7 +32164,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == wuu)
+                    if (stg == wuu)
                     {
                         if (ndz == yin)
                         {
@@ -32219,7 +32216,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ding)
+                    if (stg == ding)
                     {
                         if (ndz == you)
                         {
@@ -32271,7 +32268,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jii)
+                    if (stg == jii)
                     {
                         if (ndz == you)
                         {
@@ -32323,7 +32320,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == yii)
+                    if (stg == yii)
                     {
                         if (ndz == wuma)
                         {
@@ -32375,7 +32372,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == xin)
+                    if (stg == xin)
                     {
                         if (ndz == zii)
                         {
@@ -32427,7 +32424,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == gui)
+                    if (stg == gui)
                     {
                         if (ndz == mao)
                         {
@@ -32479,7 +32476,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jia)
+                    if (stg == jia)
                     {
                         if (ndz == hai)
                         {
@@ -32531,7 +32528,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == geng)
+                    if (stg == geng)
                     {
                         if (ndz == sii)
                         {
@@ -32583,7 +32580,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ren)
+                    if (stg == ren)
                     {
                         if (ndz == shen)
                         {
@@ -32635,7 +32632,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == bing)
+                    if (stg == bing)
                     {
                         if (ydz == yin)
                         {
@@ -32687,7 +32684,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == wuu)
+                    if (stg == wuu)
                     {
                         if (ydz == yin)
                         {
@@ -32739,7 +32736,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ding)
+                    if (stg == ding)
                     {
                         if (ydz == you)
                         {
@@ -32791,7 +32788,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jii)
+                    if (stg == jii)
                     {
                         if (ydz == you)
                         {
@@ -32843,7 +32840,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == yii)
+                    if (stg == yii)
                     {
                         if (ydz == wuma)
                         {
@@ -32895,7 +32892,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == xin)
+                    if (stg == xin)
                     {
                         if (ydz == zii)
                         {
@@ -32947,7 +32944,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == gui)
+                    if (stg == gui)
                     {
                         if (ydz == mao)
                         {
@@ -32999,7 +32996,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jia)
+                    if (stg == jia)
                     {
                         if (ydz == hai)
                         {
@@ -33051,7 +33048,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == geng)
+                    if (stg == geng)
                     {
                         if (ydz == sii)
                         {
@@ -33103,7 +33100,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ren)
+                    if (stg == ren)
                     {
                         if (ydz == shen)
                         {
@@ -33155,7 +33152,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == bing)
+                    if (stg == bing)
                     {
                         if (rdz == yin)
                         {
@@ -33207,7 +33204,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == wuu)
+                    if (stg == wuu)
                     {
                         if (rdz == yin)
                         {
@@ -33259,7 +33256,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ding)
+                    if (stg == ding)
                     {
                         if (rdz == you)
                         {
@@ -33311,7 +33308,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jii)
+                    if (stg == jii)
                     {
                         if (rdz == you)
                         {
@@ -33363,7 +33360,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == yii)
+                    if (stg == yii)
                     {
                         if (rdz == wuma)
                         {
@@ -33415,7 +33412,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == xin)
+                    if (stg == xin)
                     {
                         if (rdz == zii)
                         {
@@ -33467,7 +33464,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == gui)
+                    if (stg == gui)
                     {
                         if (rdz == mao)
                         {
@@ -33519,7 +33516,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jia)
+                    if (stg == jia)
                     {
                         if (rdz == hai)
                         {
@@ -33571,7 +33568,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == geng)
+                    if (stg == geng)
                     {
                         if (rdz == sii)
                         {
@@ -33623,7 +33620,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ren)
+                    if (stg == ren)
                     {
                         if (rdz == shen)
                         {
@@ -33675,7 +33672,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == bing)
+                    if (stg == bing)
                     {
                         if (sdz == yin)
                         {
@@ -33727,7 +33724,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == wuu)
+                    if (stg == wuu)
                     {
                         if (sdz == yin)
                         {
@@ -33779,7 +33776,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ding)
+                    if (stg == ding)
                     {
                         if (sdz == you)
                         {
@@ -33831,7 +33828,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jii)
+                    if (stg == jii)
                     {
                         if (sdz == you)
                         {
@@ -33883,7 +33880,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == yii)
+                    if (stg == yii)
                     {
                         if (sdz == wuma)
                         {
@@ -33935,7 +33932,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == xin)
+                    if (stg == xin)
                     {
                         if (sdz == zii)
                         {
@@ -33987,7 +33984,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == gui)
+                    if (stg == gui)
                     {
                         if (sdz == mao)
                         {
@@ -34039,7 +34036,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == jia)
+                    if (stg == jia)
                     {
                         if (sdz == hai)
                         {
@@ -34091,7 +34088,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == geng)
+                    if (stg == geng)
                     {
                         if (sdz == sii)
                         {
@@ -34143,7 +34140,7 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
-                    if (ntg == ren)
+                    if (stg == ren)
                     {
                         if (sdz == shen)
                         {
@@ -34193,9 +34190,7 @@ namespace BaZiFuZuGongJu
                         {
                             Labelscss.Text += "时养"; Labelscss.ForeColor = Color.DimGray;
                         }
-
                     }
-
                 }
                 //干支基本五行
                 if (jia == jia)
