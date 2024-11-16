@@ -1,6 +1,5 @@
 ﻿using Lunar;
 using System.Globalization;
-using System.Windows.Forms;
 
 namespace BaZiFuZuGongJu
 {
@@ -25880,51 +25879,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ndz == yin)
                         {
-                            Labelncsn.Text += "年长生;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年长生"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == mao)
                         {
-                            Labelncsn.Text += "年沐浴;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年沐浴"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == chen)
                         {
-                            Labelncsn.Text += "年冠带;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年冠带"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == sii)
                         {
-                            Labelncsn.Text += "年临官;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年临官"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == wuma)
                         {
-                            Labelncsn.Text += "年帝旺;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年帝旺"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == wei)
                         {
-                            Labelncsn.Text += "年衰;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年衰"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == shen)
                         {
-                            Labelncsn.Text += "年病;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年病"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == you)
                         {
-                            Labelncsn.Text += "年死;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年死"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == xuu)
                         {
-                            Labelncsn.Text += "年墓;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年墓"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == hai)
                         {
-                            Labelncsn.Text += "年绝;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年绝"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == zii)
                         {
-                            Labelncsn.Text += "年胎;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年胎"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chou)
                         {
-                            Labelncsn.Text += "年养;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年养"; Labelncsn.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -25932,51 +25931,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ndz == yin)
                         {
-                            Labelncsn.Text += "年长生;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年长生"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == mao)
                         {
-                            Labelncsn.Text += "年沐浴;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年沐浴"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == chen)
                         {
-                            Labelncsn.Text += "年冠带;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年冠带"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == sii)
                         {
-                            Labelncsn.Text += "年临官;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年临官"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == wuma)
                         {
-                            Labelncsn.Text += "年帝旺;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年帝旺"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == wei)
                         {
-                            Labelncsn.Text += "年衰;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年衰"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == shen)
                         {
-                            Labelncsn.Text += "年病;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年病"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == you)
                         {
-                            Labelncsn.Text += "年死;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年死"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == xuu)
                         {
-                            Labelncsn.Text += "年墓;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年墓"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == hai)
                         {
-                            Labelncsn.Text += "年绝;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年绝"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == zii)
                         {
-                            Labelncsn.Text += "年胎;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年胎"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chou)
                         {
-                            Labelncsn.Text += "年养;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年养"; Labelncsn.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -25984,51 +25983,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ndz == you)
                         {
-                            Labelncsn.Text += "年长生;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年长生"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == shen)
                         {
-                            Labelncsn.Text += "年沐浴;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年沐浴"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == wei)
                         {
-                            Labelncsn.Text += "年冠带;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年冠带"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == wuma)
                         {
-                            Labelncsn.Text += "年临官;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年临官"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == sii)
                         {
-                            Labelncsn.Text += "年帝旺;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年帝旺"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == chen)
                         {
-                            Labelncsn.Text += "年衰;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年衰"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == mao)
                         {
-                            Labelncsn.Text += "年病;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年病"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == yin)
                         {
-                            Labelncsn.Text += "年死;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年死"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == chou)
                         {
-                            Labelncsn.Text += "年墓;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年墓"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == zii)
                         {
-                            Labelncsn.Text += "年绝;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年绝"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == hai)
                         {
-                            Labelncsn.Text += "年胎;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年胎"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == xuu)
                         {
-                            Labelncsn.Text += "年养;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年养"; Labelncsn.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -26036,51 +26035,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ndz == you)
                         {
-                            Labelncsn.Text += "年长生;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年长生"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == shen)
                         {
-                            Labelncsn.Text += "年沐浴;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年沐浴"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == wei)
                         {
-                            Labelncsn.Text += "年冠带;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年冠带"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == wuma)
                         {
-                            Labelncsn.Text += "年临官;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年临官"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == sii)
                         {
-                            Labelncsn.Text += "年帝旺;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年帝旺"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == chen)
                         {
-                            Labelncsn.Text += "年衰;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年衰"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == mao)
                         {
-                            Labelncsn.Text += "年病;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年病"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == yin)
                         {
-                            Labelncsn.Text += "年死;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年死"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == chou)
                         {
-                            Labelncsn.Text += "年墓;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年墓"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == zii)
                         {
-                            Labelncsn.Text += "年绝;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年绝"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == hai)
                         {
-                            Labelncsn.Text += "年胎;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年胎"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == xuu)
                         {
-                            Labelncsn.Text += "年养;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年养"; Labelncsn.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -26088,51 +26087,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ndz == wuma)
                         {
-                            Labelncsn.Text += "年长生;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年长生"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == sii)
                         {
-                            Labelncsn.Text += "年沐浴;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年沐浴"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == chen)
                         {
-                            Labelncsn.Text += "年冠带;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年冠带"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == mao)
                         {
-                            Labelncsn.Text += "年临官;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年临官"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == yin)
                         {
-                            Labelncsn.Text += "年帝旺;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年帝旺"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == chou)
                         {
-                            Labelncsn.Text += "年衰;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年衰"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == zii)
                         {
-                            Labelncsn.Text += "年病;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年病"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == hai)
                         {
-                            Labelncsn.Text += "年死;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年死"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == xuu)
                         {
-                            Labelncsn.Text += "年墓;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年墓"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == you)
                         {
-                            Labelncsn.Text += "年绝;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年绝"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == shen)
                         {
-                            Labelncsn.Text += "年胎;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年胎"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == wei)
                         {
-                            Labelncsn.Text += "年养;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年养"; Labelncsn.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -26140,51 +26139,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ndz == zii)
                         {
-                            Labelncsn.Text += "年长生;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年长生"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == hai)
                         {
-                            Labelncsn.Text += "年沐浴;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年沐浴"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == xuu)
                         {
-                            Labelncsn.Text += "年冠带;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年冠带"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == you)
                         {
-                            Labelncsn.Text += "年临官;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年临官"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == shen)
                         {
-                            Labelncsn.Text += "年帝旺;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年帝旺"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == wei)
                         {
-                            Labelncsn.Text += "年衰;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年衰"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == wuma)
                         {
-                            Labelncsn.Text += "年病;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年病"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == sii)
                         {
-                            Labelncsn.Text += "年死;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年死"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == chen)
                         {
-                            Labelncsn.Text += "年墓;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年墓"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == mao)
                         {
-                            Labelncsn.Text += "年绝;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年绝"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == yin)
                         {
-                            Labelncsn.Text += "年胎;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年胎"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chou)
                         {
-                            Labelncsn.Text += "年养;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年养"; Labelncsn.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -26192,51 +26191,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ndz == mao)
                         {
-                            Labelncsn.Text += "年长生;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年长生"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == yin)
                         {
-                            Labelncsn.Text += "年沐浴;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年沐浴"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == chou)
                         {
-                            Labelncsn.Text += "年冠带;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年冠带"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == zii)
                         {
-                            Labelncsn.Text += "年临官;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年临官"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == hai)
                         {
-                            Labelncsn.Text += "年帝旺;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年帝旺"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == xuu)
                         {
-                            Labelncsn.Text += "年衰;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年衰"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == you)
                         {
-                            Labelncsn.Text += "年病;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年病"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == shen)
                         {
-                            Labelncsn.Text += "年死;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年死"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == wei)
                         {
-                            Labelncsn.Text += "年墓;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年墓"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == wuma)
                         {
-                            Labelncsn.Text += "年绝;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年绝"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == sii)
                         {
-                            Labelncsn.Text += "年胎;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年胎"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chen)
                         {
-                            Labelncsn.Text += "年养;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年养"; Labelncsn.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -26244,51 +26243,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ndz == hai)
                         {
-                            Labelncsn.Text += "年长生;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年长生"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == zii)
                         {
-                            Labelncsn.Text += "年沐浴;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年沐浴"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == chou)
                         {
-                            Labelncsn.Text += "年冠带;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年冠带"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == yin)
                         {
-                            Labelncsn.Text += "年临官;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年临官"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == mao)
                         {
-                            Labelncsn.Text += "年帝旺;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年帝旺"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == chen)
                         {
-                            Labelncsn.Text += "年衰;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年衰"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == sii)
                         {
-                            Labelncsn.Text += "年病;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年病"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == wuma)
                         {
-                            Labelncsn.Text += "年死;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年死"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == wei)
                         {
-                            Labelncsn.Text += "年墓;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年墓"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == shen)
                         {
-                            Labelncsn.Text += "年绝;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年绝"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == you)
                         {
-                            Labelncsn.Text += "年胎;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年胎"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == xuu)
                         {
-                            Labelncsn.Text += "年养;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年养"; Labelncsn.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -26296,51 +26295,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ndz == sii)
                         {
-                            Labelncsn.Text += "年长生;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年长生"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == wuma)
                         {
-                            Labelncsn.Text += "年沐浴;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年沐浴"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == wei)
                         {
-                            Labelncsn.Text += "年冠带;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年冠带"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == shen)
                         {
-                            Labelncsn.Text += "年临官;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年临官"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == you)
                         {
-                            Labelncsn.Text += "年帝旺;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年帝旺"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == xuu)
                         {
-                            Labelncsn.Text += "年衰;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年衰"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == hai)
                         {
-                            Labelncsn.Text += "年病;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年病"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == zii)
                         {
-                            Labelncsn.Text += "年死;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年死"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == chou)
                         {
-                            Labelncsn.Text += "年墓;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年墓"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == yin)
                         {
-                            Labelncsn.Text += "年绝;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年绝"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == mao)
                         {
-                            Labelncsn.Text += "年胎;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年胎"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chen)
                         {
-                            Labelncsn.Text += "年养;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年养"; Labelncsn.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -26348,51 +26347,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ndz == shen)
                         {
-                            Labelncsn.Text += "年长生;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年长生"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == you)
                         {
-                            Labelncsn.Text += "年沐浴;"; Labelncsn.ForeColor = Color.Green;
+                            Labelncsn.Text += "年沐浴"; Labelncsn.ForeColor = Color.Green;
                         }
                         if (ndz == xuu)
                         {
-                            Labelncsn.Text += "年冠带;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年冠带"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == hai)
                         {
-                            Labelncsn.Text += "年临官;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年临官"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == zii)
                         {
-                            Labelncsn.Text += "年帝旺;"; Labelncsn.ForeColor = Color.Red;
+                            Labelncsn.Text += "年帝旺"; Labelncsn.ForeColor = Color.Red;
                         }
                         if (ndz == chou)
                         {
-                            Labelncsn.Text += "年衰;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年衰"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == yin)
                         {
-                            Labelncsn.Text += "年病;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年病"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == mao)
                         {
-                            Labelncsn.Text += "年死;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年死"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == chen)
                         {
-                            Labelncsn.Text += "年墓;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年墓"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == sii)
                         {
-                            Labelncsn.Text += "年绝;"; Labelncsn.ForeColor = Color.Black;
+                            Labelncsn.Text += "年绝"; Labelncsn.ForeColor = Color.Black;
                         }
                         if (ndz == wuma)
                         {
-                            Labelncsn.Text += "年胎;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年胎"; Labelncsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == wei)
                         {
-                            Labelncsn.Text += "年养;"; Labelncsn.ForeColor = Color.DimGray;
+                            Labelncsn.Text += "年养"; Labelncsn.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -26400,51 +26399,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ydz == yin)
                         {
-                            Labelncsy.Text += "月长生;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月长生"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == mao)
                         {
-                            Labelncsy.Text += "月沐浴;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月沐浴"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == chen)
                         {
-                            Labelncsy.Text += "月冠带;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月冠带"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == sii)
                         {
-                            Labelncsy.Text += "月临官;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月临官"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == wuma)
                         {
-                            Labelncsy.Text += "月帝旺;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月帝旺"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == wei)
                         {
-                            Labelncsy.Text += "月衰;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月衰"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == shen)
                         {
-                            Labelncsy.Text += "月病;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月病"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == you)
                         {
-                            Labelncsy.Text += "月死;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月死"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == xuu)
                         {
-                            Labelncsy.Text += "月墓;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月墓"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == hai)
                         {
-                            Labelncsy.Text += "月绝;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月绝"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == zii)
                         {
-                            Labelncsy.Text += "月胎;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月胎"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chou)
                         {
-                            Labelncsy.Text += "月养;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月养"; Labelncsy.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -26452,51 +26451,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ydz == yin)
                         {
-                            Labelncsy.Text += "月长生;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月长生"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == mao)
                         {
-                            Labelncsy.Text += "月沐浴;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月沐浴"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == chen)
                         {
-                            Labelncsy.Text += "月冠带;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月冠带"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == sii)
                         {
-                            Labelncsy.Text += "月临官;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月临官"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == wuma)
                         {
-                            Labelncsy.Text += "月帝旺;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月帝旺"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == wei)
                         {
-                            Labelncsy.Text += "月衰;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月衰"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == shen)
                         {
-                            Labelncsy.Text += "月病;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月病"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == you)
                         {
-                            Labelncsy.Text += "月死;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月死"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == xuu)
                         {
-                            Labelncsy.Text += "月墓;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月墓"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == hai)
                         {
-                            Labelncsy.Text += "月绝;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月绝"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == zii)
                         {
-                            Labelncsy.Text += "月胎;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月胎"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chou)
                         {
-                            Labelncsy.Text += "月养;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月养"; Labelncsy.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -26504,51 +26503,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ydz == you)
                         {
-                            Labelncsy.Text += "月长生;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月长生"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == shen)
                         {
-                            Labelncsy.Text += "月沐浴;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月沐浴"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == wei)
                         {
-                            Labelncsy.Text += "月冠带;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月冠带"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == wuma)
                         {
-                            Labelncsy.Text += "月临官;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月临官"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == sii)
                         {
-                            Labelncsy.Text += "月帝旺;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月帝旺"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == chen)
                         {
-                            Labelncsy.Text += "月衰;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月衰"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == mao)
                         {
-                            Labelncsy.Text += "月病;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月病"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == yin)
                         {
-                            Labelncsy.Text += "月死;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月死"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == chou)
                         {
-                            Labelncsy.Text += "月墓;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月墓"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == zii)
                         {
-                            Labelncsy.Text += "月绝;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月绝"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == hai)
                         {
-                            Labelncsy.Text += "月胎;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月胎"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == xuu)
                         {
-                            Labelncsy.Text += "月养;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月养"; Labelncsy.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -26556,51 +26555,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ydz == you)
                         {
-                            Labelncsy.Text += "月长生;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月长生"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == shen)
                         {
-                            Labelncsy.Text += "月沐浴;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月沐浴"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == wei)
                         {
-                            Labelncsy.Text += "月冠带;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月冠带"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == wuma)
                         {
-                            Labelncsy.Text += "月临官;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月临官"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == sii)
                         {
-                            Labelncsy.Text += "月帝旺;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月帝旺"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == chen)
                         {
-                            Labelncsy.Text += "月衰;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月衰"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == mao)
                         {
-                            Labelncsy.Text += "月病;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月病"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == yin)
                         {
-                            Labelncsy.Text += "月死;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月死"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == chou)
                         {
-                            Labelncsy.Text += "月墓;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月墓"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == zii)
                         {
-                            Labelncsy.Text += "月绝;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月绝"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == hai)
                         {
-                            Labelncsy.Text += "月胎;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月胎"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == xuu)
                         {
-                            Labelncsy.Text += "月养;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月养"; Labelncsy.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -26608,51 +26607,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ydz == wuma)
                         {
-                            Labelncsy.Text += "月长生;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月长生"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == sii)
                         {
-                            Labelncsy.Text += "月沐浴;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月沐浴"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == chen)
                         {
-                            Labelncsy.Text += "月冠带;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月冠带"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == mao)
                         {
-                            Labelncsy.Text += "月临官;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月临官"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == yin)
                         {
-                            Labelncsy.Text += "月帝旺;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月帝旺"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == chou)
                         {
-                            Labelncsy.Text += "月衰;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月衰"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == zii)
                         {
-                            Labelncsy.Text += "月病;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月病"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == hai)
                         {
-                            Labelncsy.Text += "月死;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月死"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == xuu)
                         {
-                            Labelncsy.Text += "月墓;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月墓"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == you)
                         {
-                            Labelncsy.Text += "月绝;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月绝"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == shen)
                         {
-                            Labelncsy.Text += "月胎;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月胎"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == wei)
                         {
-                            Labelncsy.Text += "月养;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月养"; Labelncsy.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -26660,51 +26659,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ydz == zii)
                         {
-                            Labelncsy.Text += "月长生;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月长生"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == hai)
                         {
-                            Labelncsy.Text += "月沐浴;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月沐浴"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == xuu)
                         {
-                            Labelncsy.Text += "月冠带;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月冠带"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == you)
                         {
-                            Labelncsy.Text += "月临官;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月临官"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == shen)
                         {
-                            Labelncsy.Text += "月帝旺;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月帝旺"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == wei)
                         {
-                            Labelncsy.Text += "月衰;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月衰"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == wuma)
                         {
-                            Labelncsy.Text += "月病;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月病"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == sii)
                         {
-                            Labelncsy.Text += "月死;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月死"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == chen)
                         {
-                            Labelncsy.Text += "月墓;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月墓"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == mao)
                         {
-                            Labelncsy.Text += "月绝;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月绝"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == yin)
                         {
-                            Labelncsy.Text += "月胎;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月胎"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chou)
                         {
-                            Labelncsy.Text += "月养;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月养"; Labelncsy.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -26712,51 +26711,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ydz == mao)
                         {
-                            Labelncsy.Text += "月长生;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月长生"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == yin)
                         {
-                            Labelncsy.Text += "月沐浴;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月沐浴"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == chou)
                         {
-                            Labelncsy.Text += "月冠带;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月冠带"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == zii)
                         {
-                            Labelncsy.Text += "月临官;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月临官"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == hai)
                         {
-                            Labelncsy.Text += "月帝旺;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月帝旺"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == xuu)
                         {
-                            Labelncsy.Text += "月衰;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月衰"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == you)
                         {
-                            Labelncsy.Text += "月病;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月病"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == shen)
                         {
-                            Labelncsy.Text += "月死;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月死"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == wei)
                         {
-                            Labelncsy.Text += "月墓;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月墓"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == wuma)
                         {
-                            Labelncsy.Text += "月绝;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月绝"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == sii)
                         {
-                            Labelncsy.Text += "月胎;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月胎"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chen)
                         {
-                            Labelncsy.Text += "月养;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月养"; Labelncsy.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -26764,51 +26763,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ydz == hai)
                         {
-                            Labelncsy.Text += "月长生;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月长生"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == zii)
                         {
-                            Labelncsy.Text += "月沐浴;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月沐浴"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == chou)
                         {
-                            Labelncsy.Text += "月冠带;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月冠带"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == yin)
                         {
-                            Labelncsy.Text += "月临官;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月临官"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == mao)
                         {
-                            Labelncsy.Text += "月帝旺;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月帝旺"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == chen)
                         {
-                            Labelncsy.Text += "月衰;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月衰"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == sii)
                         {
-                            Labelncsy.Text += "月病;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月病"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == wuma)
                         {
-                            Labelncsy.Text += "月死;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月死"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == wei)
                         {
-                            Labelncsy.Text += "月墓;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月墓"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == shen)
                         {
-                            Labelncsy.Text += "月绝;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月绝"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == you)
                         {
-                            Labelncsy.Text += "月胎;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月胎"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == xuu)
                         {
-                            Labelncsy.Text += "月养;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月养"; Labelncsy.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -26816,51 +26815,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ydz == sii)
                         {
-                            Labelncsy.Text += "月长生;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月长生"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == wuma)
                         {
-                            Labelncsy.Text += "月沐浴;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月沐浴"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == wei)
                         {
-                            Labelncsy.Text += "月冠带;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月冠带"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == shen)
                         {
-                            Labelncsy.Text += "月临官;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月临官"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == you)
                         {
-                            Labelncsy.Text += "月帝旺;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月帝旺"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == xuu)
                         {
-                            Labelncsy.Text += "月衰;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月衰"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == hai)
                         {
-                            Labelncsy.Text += "月病;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月病"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == zii)
                         {
-                            Labelncsy.Text += "月死;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月死"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == chou)
                         {
-                            Labelncsy.Text += "月墓;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月墓"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == yin)
                         {
-                            Labelncsy.Text += "月绝;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月绝"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == mao)
                         {
-                            Labelncsy.Text += "月胎;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月胎"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chen)
                         {
-                            Labelncsy.Text += "月养;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月养"; Labelncsy.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -26868,51 +26867,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (ydz == shen)
                         {
-                            Labelncsy.Text += "月长生;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月长生"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == you)
                         {
-                            Labelncsy.Text += "月沐浴;"; Labelncsy.ForeColor = Color.Green;
+                            Labelncsy.Text += "月沐浴"; Labelncsy.ForeColor = Color.Green;
                         }
                         if (ydz == xuu)
                         {
-                            Labelncsy.Text += "月冠带;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月冠带"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == hai)
                         {
-                            Labelncsy.Text += "月临官;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月临官"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == zii)
                         {
-                            Labelncsy.Text += "月帝旺;"; Labelncsy.ForeColor = Color.Red;
+                            Labelncsy.Text += "月帝旺"; Labelncsy.ForeColor = Color.Red;
                         }
                         if (ydz == chou)
                         {
-                            Labelncsy.Text += "月衰;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月衰"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == yin)
                         {
-                            Labelncsy.Text += "月病;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月病"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == mao)
                         {
-                            Labelncsy.Text += "月死;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月死"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == chen)
                         {
-                            Labelncsy.Text += "月墓;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月墓"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == sii)
                         {
-                            Labelncsy.Text += "月绝;"; Labelncsy.ForeColor = Color.Black;
+                            Labelncsy.Text += "月绝"; Labelncsy.ForeColor = Color.Black;
                         }
                         if (ydz == wuma)
                         {
-                            Labelncsy.Text += "月胎;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月胎"; Labelncsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == wei)
                         {
-                            Labelncsy.Text += "月养;"; Labelncsy.ForeColor = Color.DimGray;
+                            Labelncsy.Text += "月养"; Labelncsy.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -26920,51 +26919,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (rdz == yin)
                         {
-                            Labelncsr.Text += "日长生;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日长生"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == mao)
                         {
-                            Labelncsr.Text += "日沐浴;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日沐浴"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == chen)
                         {
-                            Labelncsr.Text += "日冠带;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日冠带"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == sii)
                         {
-                            Labelncsr.Text += "日临官;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日临官"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == wuma)
                         {
-                            Labelncsr.Text += "日帝旺;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日帝旺"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == wei)
                         {
-                            Labelncsr.Text += "日衰;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日衰"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == shen)
                         {
-                            Labelncsr.Text += "日病;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日病"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == you)
                         {
-                            Labelncsr.Text += "日死;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日死"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == xuu)
                         {
-                            Labelncsr.Text += "日墓;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日墓"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == hai)
                         {
-                            Labelncsr.Text += "日绝;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日绝"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == zii)
                         {
-                            Labelncsr.Text += "日胎;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日胎"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chou)
                         {
-                            Labelncsr.Text += "日养;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日养"; Labelncsr.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -26972,51 +26971,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (rdz == yin)
                         {
-                            Labelncsr.Text += "日长生;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日长生"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == mao)
                         {
-                            Labelncsr.Text += "日沐浴;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日沐浴"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == chen)
                         {
-                            Labelncsr.Text += "日冠带;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日冠带"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == sii)
                         {
-                            Labelncsr.Text += "日临官;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日临官"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == wuma)
                         {
-                            Labelncsr.Text += "日帝旺;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日帝旺"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == wei)
                         {
-                            Labelncsr.Text += "日衰;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日衰"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == shen)
                         {
-                            Labelncsr.Text += "日病;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日病"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == you)
                         {
-                            Labelncsr.Text += "日死;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日死"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == xuu)
                         {
-                            Labelncsr.Text += "日墓;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日墓"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == hai)
                         {
-                            Labelncsr.Text += "日绝;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日绝"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == zii)
                         {
-                            Labelncsr.Text += "日胎;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日胎"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chou)
                         {
-                            Labelncsr.Text += "日养;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日养"; Labelncsr.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -27024,51 +27023,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (rdz == you)
                         {
-                            Labelncsr.Text += "日长生;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日长生"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == shen)
                         {
-                            Labelncsr.Text += "日沐浴;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日沐浴"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == wei)
                         {
-                            Labelncsr.Text += "日冠带;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日冠带"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == wuma)
                         {
-                            Labelncsr.Text += "日临官;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日临官"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == sii)
                         {
-                            Labelncsr.Text += "日帝旺;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日帝旺"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == chen)
                         {
-                            Labelncsr.Text += "日衰;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日衰"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == mao)
                         {
-                            Labelncsr.Text += "日病;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日病"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == yin)
                         {
-                            Labelncsr.Text += "日死;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日死"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == chou)
                         {
-                            Labelncsr.Text += "日墓;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日墓"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == zii)
                         {
-                            Labelncsr.Text += "日绝;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日绝"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == hai)
                         {
-                            Labelncsr.Text += "日胎;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日胎"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == xuu)
                         {
-                            Labelncsr.Text += "日养;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日养"; Labelncsr.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -27076,51 +27075,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (rdz == you)
                         {
-                            Labelncsr.Text += "日长生;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日长生"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == shen)
                         {
-                            Labelncsr.Text += "日沐浴;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日沐浴"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == wei)
                         {
-                            Labelncsr.Text += "日冠带;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日冠带"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == wuma)
                         {
-                            Labelncsr.Text += "日临官;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日临官"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == sii)
                         {
-                            Labelncsr.Text += "日帝旺;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日帝旺"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == chen)
                         {
-                            Labelncsr.Text += "日衰;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日衰"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == mao)
                         {
-                            Labelncsr.Text += "日病;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日病"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == yin)
                         {
-                            Labelncsr.Text += "日死;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日死"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == chou)
                         {
-                            Labelncsr.Text += "日墓;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日墓"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == zii)
                         {
-                            Labelncsr.Text += "日绝;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日绝"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == hai)
                         {
-                            Labelncsr.Text += "日胎;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日胎"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == xuu)
                         {
-                            Labelncsr.Text += "日养;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日养"; Labelncsr.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -27128,51 +27127,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (rdz == wuma)
                         {
-                            Labelncsr.Text += "日长生;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日长生"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == sii)
                         {
-                            Labelncsr.Text += "日沐浴;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日沐浴"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == chen)
                         {
-                            Labelncsr.Text += "日冠带;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日冠带"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == mao)
                         {
-                            Labelncsr.Text += "日临官;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日临官"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == yin)
                         {
-                            Labelncsr.Text += "日帝旺;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日帝旺"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == chou)
                         {
-                            Labelncsr.Text += "日衰;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日衰"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == zii)
                         {
-                            Labelncsr.Text += "日病;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日病"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == hai)
                         {
-                            Labelncsr.Text += "日死;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日死"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == xuu)
                         {
-                            Labelncsr.Text += "日墓;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日墓"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == you)
                         {
-                            Labelncsr.Text += "日绝;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日绝"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == shen)
                         {
-                            Labelncsr.Text += "日胎;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日胎"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == wei)
                         {
-                            Labelncsr.Text += "日养;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日养"; Labelncsr.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -27180,51 +27179,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (rdz == zii)
                         {
-                            Labelncsr.Text += "日长生;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日长生"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == hai)
                         {
-                            Labelncsr.Text += "日沐浴;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日沐浴"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == xuu)
                         {
-                            Labelncsr.Text += "日冠带;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日冠带"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == you)
                         {
-                            Labelncsr.Text += "日临官;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日临官"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == shen)
                         {
-                            Labelncsr.Text += "日帝旺;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日帝旺"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == wei)
                         {
-                            Labelncsr.Text += "日衰;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日衰"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == wuma)
                         {
-                            Labelncsr.Text += "日病;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日病"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == sii)
                         {
-                            Labelncsr.Text += "日死;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日死"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == chen)
                         {
-                            Labelncsr.Text += "日墓;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日墓"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == mao)
                         {
-                            Labelncsr.Text += "日绝;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日绝"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == yin)
                         {
-                            Labelncsr.Text += "日胎;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日胎"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chou)
                         {
-                            Labelncsr.Text += "日养;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日养"; Labelncsr.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -27232,51 +27231,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (rdz == mao)
                         {
-                            Labelncsr.Text += "日长生;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日长生"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == yin)
                         {
-                            Labelncsr.Text += "日沐浴;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日沐浴"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == chou)
                         {
-                            Labelncsr.Text += "日冠带;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日冠带"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == zii)
                         {
-                            Labelncsr.Text += "日临官;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日临官"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == hai)
                         {
-                            Labelncsr.Text += "日帝旺;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日帝旺"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == xuu)
                         {
-                            Labelncsr.Text += "日衰;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日衰"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == you)
                         {
-                            Labelncsr.Text += "日病;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日病"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == shen)
                         {
-                            Labelncsr.Text += "日死;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日死"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == wei)
                         {
-                            Labelncsr.Text += "日墓;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日墓"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == wuma)
                         {
-                            Labelncsr.Text += "日绝;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日绝"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == sii)
                         {
-                            Labelncsr.Text += "日胎;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日胎"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chen)
                         {
-                            Labelncsr.Text += "日养;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日养"; Labelncsr.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -27284,51 +27283,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (rdz == hai)
                         {
-                            Labelncsr.Text += "日长生;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日长生"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == zii)
                         {
-                            Labelncsr.Text += "日沐浴;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日沐浴"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == chou)
                         {
-                            Labelncsr.Text += "日冠带;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日冠带"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == yin)
                         {
-                            Labelncsr.Text += "日临官;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日临官"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == mao)
                         {
-                            Labelncsr.Text += "日帝旺;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日帝旺"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == chen)
                         {
-                            Labelncsr.Text += "日衰;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日衰"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == sii)
                         {
-                            Labelncsr.Text += "日病;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日病"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == wuma)
                         {
-                            Labelncsr.Text += "日死;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日死"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == wei)
                         {
-                            Labelncsr.Text += "日墓;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日墓"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == shen)
                         {
-                            Labelncsr.Text += "日绝;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日绝"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == you)
                         {
-                            Labelncsr.Text += "日胎;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日胎"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == xuu)
                         {
-                            Labelncsr.Text += "日养;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日养"; Labelncsr.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -27336,51 +27335,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (rdz == sii)
                         {
-                            Labelncsr.Text += "日长生;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日长生"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == wuma)
                         {
-                            Labelncsr.Text += "日沐浴;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日沐浴"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == wei)
                         {
-                            Labelncsr.Text += "日冠带;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日冠带"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == shen)
                         {
-                            Labelncsr.Text += "日临官;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日临官"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == you)
                         {
-                            Labelncsr.Text += "日帝旺;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日帝旺"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == xuu)
                         {
-                            Labelncsr.Text += "日衰;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日衰"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == hai)
                         {
-                            Labelncsr.Text += "日病;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日病"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == zii)
                         {
-                            Labelncsr.Text += "日死;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日死"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == chou)
                         {
-                            Labelncsr.Text += "日墓;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日墓"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == yin)
                         {
-                            Labelncsr.Text += "日绝;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日绝"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == mao)
                         {
-                            Labelncsr.Text += "日胎;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日胎"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chen)
                         {
-                            Labelncsr.Text += "日养;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日养"; Labelncsr.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -27388,51 +27387,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (rdz == shen)
                         {
-                            Labelncsr.Text += "日长生;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日长生"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == you)
                         {
-                            Labelncsr.Text += "日沐浴;"; Labelncsr.ForeColor = Color.Green;
+                            Labelncsr.Text += "日沐浴"; Labelncsr.ForeColor = Color.Green;
                         }
                         if (rdz == xuu)
                         {
-                            Labelncsr.Text += "日冠带;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日冠带"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == hai)
                         {
-                            Labelncsr.Text += "日临官;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日临官"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == zii)
                         {
-                            Labelncsr.Text += "日帝旺;"; Labelncsr.ForeColor = Color.Red;
+                            Labelncsr.Text += "日帝旺"; Labelncsr.ForeColor = Color.Red;
                         }
                         if (rdz == chou)
                         {
-                            Labelncsr.Text += "日衰;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日衰"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == yin)
                         {
-                            Labelncsr.Text += "日病;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日病"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == mao)
                         {
-                            Labelncsr.Text += "日死;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日死"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == chen)
                         {
-                            Labelncsr.Text += "日墓;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日墓"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == sii)
                         {
-                            Labelncsr.Text += "日绝;"; Labelncsr.ForeColor = Color.Black;
+                            Labelncsr.Text += "日绝"; Labelncsr.ForeColor = Color.Black;
                         }
                         if (rdz == wuma)
                         {
-                            Labelncsr.Text += "日胎;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日胎"; Labelncsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == wei)
                         {
-                            Labelncsr.Text += "日养;"; Labelncsr.ForeColor = Color.DimGray;
+                            Labelncsr.Text += "日养"; Labelncsr.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -27440,51 +27439,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (sdz == yin)
                         {
-                            Labelncss.Text += "时长生;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时长生"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == mao)
                         {
-                            Labelncss.Text += "时沐浴;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时沐浴"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == chen)
                         {
-                            Labelncss.Text += "时冠带;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时冠带"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == sii)
                         {
-                            Labelncss.Text += "时临官;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时临官"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == wuma)
                         {
-                            Labelncss.Text += "时帝旺;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时帝旺"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == wei)
                         {
-                            Labelncss.Text += "时衰;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时衰"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == shen)
                         {
-                            Labelncss.Text += "时病;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时病"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == you)
                         {
-                            Labelncss.Text += "时死;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时死"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == xuu)
                         {
-                            Labelncss.Text += "时墓;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时墓"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == hai)
                         {
-                            Labelncss.Text += "时绝;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时绝"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == zii)
                         {
-                            Labelncss.Text += "时胎;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时胎"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chou)
                         {
-                            Labelncss.Text += "时养;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时养"; Labelncss.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -27492,51 +27491,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (sdz == yin)
                         {
-                            Labelncss.Text += "时长生;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时长生"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == mao)
                         {
-                            Labelncss.Text += "时沐浴;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时沐浴"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == chen)
                         {
-                            Labelncss.Text += "时冠带;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时冠带"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == sii)
                         {
-                            Labelncss.Text += "时临官;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时临官"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == wuma)
                         {
-                            Labelncss.Text += "时帝旺;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时帝旺"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == wei)
                         {
-                            Labelncss.Text += "时衰;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时衰"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == shen)
                         {
-                            Labelncss.Text += "时病;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时病"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == you)
                         {
-                            Labelncss.Text += "时死;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时死"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == xuu)
                         {
-                            Labelncss.Text += "时墓;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时墓"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == hai)
                         {
-                            Labelncss.Text += "时绝;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时绝"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == zii)
                         {
-                            Labelncss.Text += "时胎;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时胎"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chou)
                         {
-                            Labelncss.Text += "时养;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时养"; Labelncss.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -27544,51 +27543,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (sdz == you)
                         {
-                            Labelncss.Text += "时长生;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时长生"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == shen)
                         {
-                            Labelncss.Text += "时沐浴;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时沐浴"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == wei)
                         {
-                            Labelncss.Text += "时冠带;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时冠带"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == wuma)
                         {
-                            Labelncss.Text += "时临官;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时临官"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == sii)
                         {
-                            Labelncss.Text += "时帝旺;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时帝旺"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == chen)
                         {
-                            Labelncss.Text += "时衰;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时衰"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == mao)
                         {
-                            Labelncss.Text += "时病;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时病"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == yin)
                         {
-                            Labelncss.Text += "时死;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时死"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == chou)
                         {
-                            Labelncss.Text += "时墓;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时墓"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == zii)
                         {
-                            Labelncss.Text += "时绝;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时绝"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == hai)
                         {
-                            Labelncss.Text += "时胎;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时胎"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == xuu)
                         {
-                            Labelncss.Text += "时养;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时养"; Labelncss.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -27596,51 +27595,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (sdz == you)
                         {
-                            Labelncss.Text += "时长生;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时长生"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == shen)
                         {
-                            Labelncss.Text += "时沐浴;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时沐浴"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == wei)
                         {
-                            Labelncss.Text += "时冠带;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时冠带"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == wuma)
                         {
-                            Labelncss.Text += "时临官;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时临官"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == sii)
                         {
-                            Labelncss.Text += "时帝旺;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时帝旺"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == chen)
                         {
-                            Labelncss.Text += "时衰;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时衰"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == mao)
                         {
-                            Labelncss.Text += "时病;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时病"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == yin)
                         {
-                            Labelncss.Text += "时死;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时死"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == chou)
                         {
-                            Labelncss.Text += "时墓;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时墓"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == zii)
                         {
-                            Labelncss.Text += "时绝;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时绝"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == hai)
                         {
-                            Labelncss.Text += "时胎;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时胎"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == xuu)
                         {
-                            Labelncss.Text += "时养;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时养"; Labelncss.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -27648,51 +27647,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (sdz == wuma)
                         {
-                            Labelncss.Text += "时长生;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时长生"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == sii)
                         {
-                            Labelncss.Text += "时沐浴;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时沐浴"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == chen)
                         {
-                            Labelncss.Text += "时冠带;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时冠带"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == mao)
                         {
-                            Labelncss.Text += "时临官;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时临官"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == yin)
                         {
-                            Labelncss.Text += "时帝旺;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时帝旺"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == chou)
                         {
-                            Labelncss.Text += "时衰;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时衰"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == zii)
                         {
-                            Labelncss.Text += "时病;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时病"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == hai)
                         {
-                            Labelncss.Text += "时死;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时死"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == xuu)
                         {
-                            Labelncss.Text += "时墓;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时墓"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == you)
                         {
-                            Labelncss.Text += "时绝;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时绝"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == shen)
                         {
-                            Labelncss.Text += "时胎;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时胎"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == wei)
                         {
-                            Labelncss.Text += "时养;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时养"; Labelncss.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -27700,51 +27699,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (sdz == zii)
                         {
-                            Labelncss.Text += "时长生;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时长生"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == hai)
                         {
-                            Labelncss.Text += "时沐浴;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时沐浴"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == xuu)
                         {
-                            Labelncss.Text += "时冠带;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时冠带"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == you)
                         {
-                            Labelncss.Text += "时临官;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时临官"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == shen)
                         {
-                            Labelncss.Text += "时帝旺;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时帝旺"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == wei)
                         {
-                            Labelncss.Text += "时衰;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时衰"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == wuma)
                         {
-                            Labelncss.Text += "时病;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时病"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == sii)
                         {
-                            Labelncss.Text += "时死;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时死"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == chen)
                         {
-                            Labelncss.Text += "时墓;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时墓"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == mao)
                         {
-                            Labelncss.Text += "时绝;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时绝"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == yin)
                         {
-                            Labelncss.Text += "时胎;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时胎"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chou)
                         {
-                            Labelncss.Text += "时养;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时养"; Labelncss.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -27752,51 +27751,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (sdz == mao)
                         {
-                            Labelncss.Text += "时长生;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时长生"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == yin)
                         {
-                            Labelncss.Text += "时沐浴;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时沐浴"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == chou)
                         {
-                            Labelncss.Text += "时冠带;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时冠带"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == zii)
                         {
-                            Labelncss.Text += "时临官;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时临官"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == hai)
                         {
-                            Labelncss.Text += "时帝旺;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时帝旺"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == xuu)
                         {
-                            Labelncss.Text += "时衰;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时衰"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == you)
                         {
-                            Labelncss.Text += "时病;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时病"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == shen)
                         {
-                            Labelncss.Text += "时死;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时死"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == wei)
                         {
-                            Labelncss.Text += "时墓;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时墓"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == wuma)
                         {
-                            Labelncss.Text += "时绝;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时绝"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == sii)
                         {
-                            Labelncss.Text += "时胎;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时胎"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chen)
                         {
-                            Labelncss.Text += "时养;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时养"; Labelncss.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -27804,51 +27803,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (sdz == hai)
                         {
-                            Labelncss.Text += "时长生;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时长生"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == zii)
                         {
-                            Labelncss.Text += "时沐浴;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时沐浴"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == chou)
                         {
-                            Labelncss.Text += "时冠带;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时冠带"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == yin)
                         {
-                            Labelncss.Text += "时临官;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时临官"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == mao)
                         {
-                            Labelncss.Text += "时帝旺;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时帝旺"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == chen)
                         {
-                            Labelncss.Text += "时衰;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时衰"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == sii)
                         {
-                            Labelncss.Text += "时病;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时病"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == wuma)
                         {
-                            Labelncss.Text += "时死;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时死"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == wei)
                         {
-                            Labelncss.Text += "时墓;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时墓"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == shen)
                         {
-                            Labelncss.Text += "时绝;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时绝"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == you)
                         {
-                            Labelncss.Text += "时胎;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时胎"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == xuu)
                         {
-                            Labelncss.Text += "时养;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时养"; Labelncss.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -27856,51 +27855,51 @@ namespace BaZiFuZuGongJu
                     {
                         if (sdz == sii)
                         {
-                            Labelncss.Text += "时长生;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时长生"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == wuma)
                         {
-                            Labelncss.Text += "时沐浴;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时沐浴"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == wei)
                         {
-                            Labelncss.Text += "时冠带;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时冠带"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == shen)
                         {
-                            Labelncss.Text += "时临官;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时临官"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == you)
                         {
-                            Labelncss.Text += "时帝旺;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时帝旺"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == xuu)
                         {
-                            Labelncss.Text += "时衰;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时衰"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == hai)
                         {
-                            Labelncss.Text += "时病;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时病"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == zii)
                         {
-                            Labelncss.Text += "时死;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时死"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == chou)
                         {
-                            Labelncss.Text += "时墓;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时墓"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == yin)
                         {
-                            Labelncss.Text += "时绝;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时绝"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == mao)
                         {
-                            Labelncss.Text += "时胎;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时胎"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chen)
                         {
-                            Labelncss.Text += "时养;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时养"; Labelncss.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -27908,6291 +27907,6291 @@ namespace BaZiFuZuGongJu
                     {
                         if (sdz == shen)
                         {
-                            Labelncss.Text += "时长生;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时长生"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == you)
                         {
-                            Labelncss.Text += "时沐浴;"; Labelncss.ForeColor = Color.Green;
+                            Labelncss.Text += "时沐浴"; Labelncss.ForeColor = Color.Green;
                         }
                         if (sdz == xuu)
                         {
-                            Labelncss.Text += "时冠带;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时冠带"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == hai)
                         {
-                            Labelncss.Text += "时临官;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时临官"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == zii)
                         {
-                            Labelncss.Text += "时帝旺;"; Labelncss.ForeColor = Color.Red;
+                            Labelncss.Text += "时帝旺"; Labelncss.ForeColor = Color.Red;
                         }
                         if (sdz == chou)
                         {
-                            Labelncss.Text += "时衰;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时衰"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == yin)
                         {
-                            Labelncss.Text += "时病;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时病"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == mao)
                         {
-                            Labelncss.Text += "时死;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时死"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == chen)
                         {
-                            Labelncss.Text += "时墓;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时墓"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == sii)
                         {
-                            Labelncss.Text += "时绝;"; Labelncss.ForeColor = Color.Black;
+                            Labelncss.Text += "时绝"; Labelncss.ForeColor = Color.Black;
                         }
                         if (sdz == wuma)
                         {
-                            Labelncss.Text += "时胎;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时胎"; Labelncss.ForeColor = Color.DimGray;
                         }
                         if (sdz == wei)
                         {
-                            Labelncss.Text += "时养;"; Labelncss.ForeColor = Color.DimGray;
+                            Labelncss.Text += "时养"; Labelncss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == bing)
+                    if (ntg == bing)
                     {
                         if (ndz == yin)
                         {
-                            Labelycsn.Text += "年长生;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年长生"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == mao)
                         {
-                            Labelycsn.Text += "年沐浴;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年沐浴"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == chen)
                         {
-                            Labelycsn.Text += "年冠带;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年冠带"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == sii)
                         {
-                            Labelycsn.Text += "年临官;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年临官"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == wuma)
                         {
-                            Labelycsn.Text += "年帝旺;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年帝旺"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == wei)
                         {
-                            Labelycsn.Text += "年衰;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年衰"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == shen)
                         {
-                            Labelycsn.Text += "年病;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年病"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == you)
                         {
-                            Labelycsn.Text += "年死;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年死"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == xuu)
                         {
-                            Labelycsn.Text += "年墓;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年墓"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == hai)
                         {
-                            Labelycsn.Text += "年绝;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年绝"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == zii)
                         {
-                            Labelycsn.Text += "年胎;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年胎"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chou)
                         {
-                            Labelycsn.Text += "年养;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年养"; Labelycsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == wuu)
+                    if (ntg == wuu)
                     {
                         if (ndz == yin)
                         {
-                            Labelycsn.Text += "年长生;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年长生"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == mao)
                         {
-                            Labelycsn.Text += "年沐浴;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年沐浴"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == chen)
                         {
-                            Labelycsn.Text += "年冠带;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年冠带"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == sii)
                         {
-                            Labelycsn.Text += "年临官;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年临官"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == wuma)
                         {
-                            Labelycsn.Text += "年帝旺;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年帝旺"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == wei)
                         {
-                            Labelycsn.Text += "年衰;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年衰"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == shen)
                         {
-                            Labelycsn.Text += "年病;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年病"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == you)
                         {
-                            Labelycsn.Text += "年死;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年死"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == xuu)
                         {
-                            Labelycsn.Text += "年墓;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年墓"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == hai)
                         {
-                            Labelycsn.Text += "年绝;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年绝"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == zii)
                         {
-                            Labelycsn.Text += "年胎;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年胎"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chou)
                         {
-                            Labelycsn.Text += "年养;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年养"; Labelycsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == ding)
+                    if (ntg == ding)
                     {
                         if (ndz == you)
                         {
-                            Labelycsn.Text += "年长生;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年长生"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == shen)
                         {
-                            Labelycsn.Text += "年沐浴;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年沐浴"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == wei)
                         {
-                            Labelycsn.Text += "年冠带;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年冠带"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == wuma)
                         {
-                            Labelycsn.Text += "年临官;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年临官"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == sii)
                         {
-                            Labelycsn.Text += "年帝旺;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年帝旺"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == chen)
                         {
-                            Labelycsn.Text += "年衰;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年衰"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == mao)
                         {
-                            Labelycsn.Text += "年病;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年病"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == yin)
                         {
-                            Labelycsn.Text += "年死;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年死"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == chou)
                         {
-                            Labelycsn.Text += "年墓;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年墓"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == zii)
                         {
-                            Labelycsn.Text += "年绝;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年绝"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == hai)
                         {
-                            Labelycsn.Text += "年胎;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年胎"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == xuu)
                         {
-                            Labelycsn.Text += "年养;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年养"; Labelycsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == jii)
+                    if (ntg == jii)
                     {
                         if (ndz == you)
                         {
-                            Labelycsn.Text += "年长生;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年长生"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == shen)
                         {
-                            Labelycsn.Text += "年沐浴;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年沐浴"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == wei)
                         {
-                            Labelycsn.Text += "年冠带;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年冠带"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == wuma)
                         {
-                            Labelycsn.Text += "年临官;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年临官"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == sii)
                         {
-                            Labelycsn.Text += "年帝旺;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年帝旺"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == chen)
                         {
-                            Labelycsn.Text += "年衰;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年衰"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == mao)
                         {
-                            Labelycsn.Text += "年病;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年病"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == yin)
                         {
-                            Labelycsn.Text += "年死;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年死"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == chou)
                         {
-                            Labelycsn.Text += "年墓;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年墓"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == zii)
                         {
-                            Labelycsn.Text += "年绝;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年绝"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == hai)
                         {
-                            Labelycsn.Text += "年胎;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年胎"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == xuu)
                         {
-                            Labelycsn.Text += "年养;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年养"; Labelycsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == yii)
+                    if (ntg == yii)
                     {
                         if (ndz == wuma)
                         {
-                            Labelycsn.Text += "年长生;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年长生"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == sii)
                         {
-                            Labelycsn.Text += "年沐浴;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年沐浴"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == chen)
                         {
-                            Labelycsn.Text += "年冠带;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年冠带"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == mao)
                         {
-                            Labelycsn.Text += "年临官;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年临官"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == yin)
                         {
-                            Labelycsn.Text += "年帝旺;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年帝旺"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == chou)
                         {
-                            Labelycsn.Text += "年衰;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年衰"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == zii)
                         {
-                            Labelycsn.Text += "年病;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年病"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == hai)
                         {
-                            Labelycsn.Text += "年死;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年死"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == xuu)
                         {
-                            Labelycsn.Text += "年墓;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年墓"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == you)
                         {
-                            Labelycsn.Text += "年绝;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年绝"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == shen)
                         {
-                            Labelycsn.Text += "年胎;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年胎"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == wei)
                         {
-                            Labelycsn.Text += "年养;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年养"; Labelycsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == xin)
+                    if (ntg == xin)
                     {
                         if (ndz == zii)
                         {
-                            Labelycsn.Text += "年长生;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年长生"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == hai)
                         {
-                            Labelycsn.Text += "年沐浴;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年沐浴"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == xuu)
                         {
-                            Labelycsn.Text += "年冠带;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年冠带"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == you)
                         {
-                            Labelycsn.Text += "年临官;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年临官"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == shen)
                         {
-                            Labelycsn.Text += "年帝旺;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年帝旺"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == wei)
                         {
-                            Labelycsn.Text += "年衰;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年衰"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == wuma)
                         {
-                            Labelycsn.Text += "年病;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年病"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == sii)
                         {
-                            Labelycsn.Text += "年死;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年死"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == chen)
                         {
-                            Labelycsn.Text += "年墓;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年墓"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == mao)
                         {
-                            Labelycsn.Text += "年绝;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年绝"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == yin)
                         {
-                            Labelycsn.Text += "年胎;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年胎"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chou)
                         {
-                            Labelycsn.Text += "年养;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年养"; Labelycsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == gui)
+                    if (ntg == gui)
                     {
                         if (ndz == mao)
                         {
-                            Labelycsn.Text += "年长生;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年长生"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == yin)
                         {
-                            Labelycsn.Text += "年沐浴;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年沐浴"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == chou)
                         {
-                            Labelycsn.Text += "年冠带;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年冠带"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == zii)
                         {
-                            Labelycsn.Text += "年临官;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年临官"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == hai)
                         {
-                            Labelycsn.Text += "年帝旺;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年帝旺"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == xuu)
                         {
-                            Labelycsn.Text += "年衰;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年衰"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == you)
                         {
-                            Labelycsn.Text += "年病;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年病"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == shen)
                         {
-                            Labelycsn.Text += "年死;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年死"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == wei)
                         {
-                            Labelycsn.Text += "年墓;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年墓"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == wuma)
                         {
-                            Labelycsn.Text += "年绝;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年绝"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == sii)
                         {
-                            Labelycsn.Text += "年胎;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年胎"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chen)
                         {
-                            Labelycsn.Text += "年养;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年养"; Labelycsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == jia)
+                    if (ntg == jia)
                     {
                         if (ndz == hai)
                         {
-                            Labelycsn.Text += "年长生;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年长生"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == zii)
                         {
-                            Labelycsn.Text += "年沐浴;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年沐浴"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == chou)
                         {
-                            Labelycsn.Text += "年冠带;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年冠带"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == yin)
                         {
-                            Labelycsn.Text += "年临官;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年临官"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == mao)
                         {
-                            Labelycsn.Text += "年帝旺;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年帝旺"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == chen)
                         {
-                            Labelycsn.Text += "年衰;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年衰"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == sii)
                         {
-                            Labelycsn.Text += "年病;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年病"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == wuma)
                         {
-                            Labelycsn.Text += "年死;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年死"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == wei)
                         {
-                            Labelycsn.Text += "年墓;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年墓"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == shen)
                         {
-                            Labelycsn.Text += "年绝;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年绝"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == you)
                         {
-                            Labelycsn.Text += "年胎;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年胎"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == xuu)
                         {
-                            Labelycsn.Text += "年养;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年养"; Labelycsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == geng)
+                    if (ntg == geng)
                     {
                         if (ndz == sii)
                         {
-                            Labelycsn.Text += "年长生;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年长生"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == wuma)
                         {
-                            Labelycsn.Text += "年沐浴;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年沐浴"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == wei)
                         {
-                            Labelycsn.Text += "年冠带;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年冠带"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == shen)
                         {
-                            Labelycsn.Text += "年临官;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年临官"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == you)
                         {
-                            Labelycsn.Text += "年帝旺;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年帝旺"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == xuu)
                         {
-                            Labelycsn.Text += "年衰;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年衰"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == hai)
                         {
-                            Labelycsn.Text += "年病;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年病"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == zii)
                         {
-                            Labelycsn.Text += "年死;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年死"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == chou)
                         {
-                            Labelycsn.Text += "年墓;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年墓"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == yin)
                         {
-                            Labelycsn.Text += "年绝;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年绝"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == mao)
                         {
-                            Labelycsn.Text += "年胎;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年胎"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chen)
                         {
-                            Labelycsn.Text += "年养;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年养"; Labelycsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == ren)
+                    if (ntg == ren)
                     {
                         if (ndz == shen)
                         {
-                            Labelycsn.Text += "年长生;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年长生"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == you)
                         {
-                            Labelycsn.Text += "年沐浴;"; Labelycsn.ForeColor = Color.Green;
+                            Labelycsn.Text += "年沐浴"; Labelycsn.ForeColor = Color.Green;
                         }
                         if (ndz == xuu)
                         {
-                            Labelycsn.Text += "年冠带;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年冠带"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == hai)
                         {
-                            Labelycsn.Text += "年临官;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年临官"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == zii)
                         {
-                            Labelycsn.Text += "年帝旺;"; Labelycsn.ForeColor = Color.Red;
+                            Labelycsn.Text += "年帝旺"; Labelycsn.ForeColor = Color.Red;
                         }
                         if (ndz == chou)
                         {
-                            Labelycsn.Text += "年衰;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年衰"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == yin)
                         {
-                            Labelycsn.Text += "年病;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年病"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == mao)
                         {
-                            Labelycsn.Text += "年死;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年死"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == chen)
                         {
-                            Labelycsn.Text += "年墓;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年墓"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == sii)
                         {
-                            Labelycsn.Text += "年绝;"; Labelycsn.ForeColor = Color.Black;
+                            Labelycsn.Text += "年绝"; Labelycsn.ForeColor = Color.Black;
                         }
                         if (ndz == wuma)
                         {
-                            Labelycsn.Text += "年胎;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年胎"; Labelycsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == wei)
                         {
-                            Labelycsn.Text += "年养;"; Labelycsn.ForeColor = Color.DimGray;
+                            Labelycsn.Text += "年养"; Labelycsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == bing)
+                    if (ntg == bing)
                     {
                         if (ydz == yin)
                         {
-                            Labelycsy.Text += "月长生;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月长生"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == mao)
                         {
-                            Labelycsy.Text += "月沐浴;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月沐浴"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == chen)
                         {
-                            Labelycsy.Text += "月冠带;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月冠带"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == sii)
                         {
-                            Labelycsy.Text += "月临官;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月临官"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == wuma)
                         {
-                            Labelycsy.Text += "月帝旺;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月帝旺"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == wei)
                         {
-                            Labelycsy.Text += "月衰;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月衰"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == shen)
                         {
-                            Labelycsy.Text += "月病;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月病"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == you)
                         {
-                            Labelycsy.Text += "月死;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月死"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == xuu)
                         {
-                            Labelycsy.Text += "月墓;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月墓"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == hai)
                         {
-                            Labelycsy.Text += "月绝;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月绝"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == zii)
                         {
-                            Labelycsy.Text += "月胎;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月胎"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chou)
                         {
-                            Labelycsy.Text += "月养;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月养"; Labelycsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == wuu)
+                    if (ntg == wuu)
                     {
                         if (ydz == yin)
                         {
-                            Labelycsy.Text += "月长生;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月长生"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == mao)
                         {
-                            Labelycsy.Text += "月沐浴;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月沐浴"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == chen)
                         {
-                            Labelycsy.Text += "月冠带;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月冠带"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == sii)
                         {
-                            Labelycsy.Text += "月临官;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月临官"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == wuma)
                         {
-                            Labelycsy.Text += "月帝旺;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月帝旺"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == wei)
                         {
-                            Labelycsy.Text += "月衰;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月衰"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == shen)
                         {
-                            Labelycsy.Text += "月病;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月病"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == you)
                         {
-                            Labelycsy.Text += "月死;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月死"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == xuu)
                         {
-                            Labelycsy.Text += "月墓;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月墓"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == hai)
                         {
-                            Labelycsy.Text += "月绝;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月绝"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == zii)
                         {
-                            Labelycsy.Text += "月胎;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月胎"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chou)
                         {
-                            Labelycsy.Text += "月养;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月养"; Labelycsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == ding)
+                    if (ntg == ding)
                     {
                         if (ydz == you)
                         {
-                            Labelycsy.Text += "月长生;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月长生"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == shen)
                         {
-                            Labelycsy.Text += "月沐浴;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月沐浴"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == wei)
                         {
-                            Labelycsy.Text += "月冠带;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月冠带"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == wuma)
                         {
-                            Labelycsy.Text += "月临官;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月临官"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == sii)
                         {
-                            Labelycsy.Text += "月帝旺;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月帝旺"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == chen)
                         {
-                            Labelycsy.Text += "月衰;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月衰"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == mao)
                         {
-                            Labelycsy.Text += "月病;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月病"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == yin)
                         {
-                            Labelycsy.Text += "月死;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月死"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == chou)
                         {
-                            Labelycsy.Text += "月墓;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月墓"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == zii)
                         {
-                            Labelycsy.Text += "月绝;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月绝"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == hai)
                         {
-                            Labelycsy.Text += "月胎;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月胎"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == xuu)
                         {
-                            Labelycsy.Text += "月养;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月养"; Labelycsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == jii)
+                    if (ntg == jii)
                     {
                         if (ydz == you)
                         {
-                            Labelycsy.Text += "月长生;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月长生"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == shen)
                         {
-                            Labelycsy.Text += "月沐浴;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月沐浴"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == wei)
                         {
-                            Labelycsy.Text += "月冠带;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月冠带"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == wuma)
                         {
-                            Labelycsy.Text += "月临官;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月临官"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == sii)
                         {
-                            Labelycsy.Text += "月帝旺;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月帝旺"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == chen)
                         {
-                            Labelycsy.Text += "月衰;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月衰"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == mao)
                         {
-                            Labelycsy.Text += "月病;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月病"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == yin)
                         {
-                            Labelycsy.Text += "月死;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月死"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == chou)
                         {
-                            Labelycsy.Text += "月墓;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月墓"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == zii)
                         {
-                            Labelycsy.Text += "月绝;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月绝"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == hai)
                         {
-                            Labelycsy.Text += "月胎;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月胎"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == xuu)
                         {
-                            Labelycsy.Text += "月养;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月养"; Labelycsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == yii)
+                    if (ntg == yii)
                     {
                         if (ydz == wuma)
                         {
-                            Labelycsy.Text += "月长生;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月长生"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == sii)
                         {
-                            Labelycsy.Text += "月沐浴;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月沐浴"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == chen)
                         {
-                            Labelycsy.Text += "月冠带;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月冠带"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == mao)
                         {
-                            Labelycsy.Text += "月临官;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月临官"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == yin)
                         {
-                            Labelycsy.Text += "月帝旺;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月帝旺"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == chou)
                         {
-                            Labelycsy.Text += "月衰;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月衰"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == zii)
                         {
-                            Labelycsy.Text += "月病;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月病"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == hai)
                         {
-                            Labelycsy.Text += "月死;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月死"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == xuu)
                         {
-                            Labelycsy.Text += "月墓;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月墓"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == you)
                         {
-                            Labelycsy.Text += "月绝;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月绝"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == shen)
                         {
-                            Labelycsy.Text += "月胎;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月胎"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == wei)
                         {
-                            Labelycsy.Text += "月养;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月养"; Labelycsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == xin)
+                    if (ntg == xin)
                     {
                         if (ydz == zii)
                         {
-                            Labelycsy.Text += "月长生;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月长生"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == hai)
                         {
-                            Labelycsy.Text += "月沐浴;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月沐浴"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == xuu)
                         {
-                            Labelycsy.Text += "月冠带;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月冠带"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == you)
                         {
-                            Labelycsy.Text += "月临官;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月临官"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == shen)
                         {
-                            Labelycsy.Text += "月帝旺;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月帝旺"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == wei)
                         {
-                            Labelycsy.Text += "月衰;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月衰"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == wuma)
                         {
-                            Labelycsy.Text += "月病;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月病"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == sii)
                         {
-                            Labelycsy.Text += "月死;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月死"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == chen)
                         {
-                            Labelycsy.Text += "月墓;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月墓"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == mao)
                         {
-                            Labelycsy.Text += "月绝;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月绝"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == yin)
                         {
-                            Labelycsy.Text += "月胎;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月胎"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chou)
                         {
-                            Labelycsy.Text += "月养;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月养"; Labelycsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == gui)
+                    if (ntg == gui)
                     {
                         if (ydz == mao)
                         {
-                            Labelycsy.Text += "月长生;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月长生"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == yin)
                         {
-                            Labelycsy.Text += "月沐浴;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月沐浴"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == chou)
                         {
-                            Labelycsy.Text += "月冠带;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月冠带"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == zii)
                         {
-                            Labelycsy.Text += "月临官;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月临官"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == hai)
                         {
-                            Labelycsy.Text += "月帝旺;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月帝旺"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == xuu)
                         {
-                            Labelycsy.Text += "月衰;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月衰"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == you)
                         {
-                            Labelycsy.Text += "月病;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月病"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == shen)
                         {
-                            Labelycsy.Text += "月死;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月死"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == wei)
                         {
-                            Labelycsy.Text += "月墓;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月墓"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == wuma)
                         {
-                            Labelycsy.Text += "月绝;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月绝"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == sii)
                         {
-                            Labelycsy.Text += "月胎;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月胎"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chen)
                         {
-                            Labelycsy.Text += "月养;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月养"; Labelycsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == jia)
+                    if (ntg == jia)
                     {
                         if (ydz == hai)
                         {
-                            Labelycsy.Text += "月长生;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月长生"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == zii)
                         {
-                            Labelycsy.Text += "月沐浴;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月沐浴"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == chou)
                         {
-                            Labelycsy.Text += "月冠带;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月冠带"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == yin)
                         {
-                            Labelycsy.Text += "月临官;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月临官"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == mao)
                         {
-                            Labelycsy.Text += "月帝旺;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月帝旺"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == chen)
                         {
-                            Labelycsy.Text += "月衰;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月衰"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == sii)
                         {
-                            Labelycsy.Text += "月病;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月病"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == wuma)
                         {
-                            Labelycsy.Text += "月死;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月死"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == wei)
                         {
-                            Labelycsy.Text += "月墓;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月墓"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == shen)
                         {
-                            Labelycsy.Text += "月绝;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月绝"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == you)
                         {
-                            Labelycsy.Text += "月胎;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月胎"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == xuu)
                         {
-                            Labelycsy.Text += "月养;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月养"; Labelycsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == geng)
+                    if (ntg == geng)
                     {
                         if (ydz == sii)
                         {
-                            Labelycsy.Text += "月长生;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月长生"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == wuma)
                         {
-                            Labelycsy.Text += "月沐浴;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月沐浴"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == wei)
                         {
-                            Labelycsy.Text += "月冠带;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月冠带"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == shen)
                         {
-                            Labelycsy.Text += "月临官;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月临官"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == you)
                         {
-                            Labelycsy.Text += "月帝旺;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月帝旺"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == xuu)
                         {
-                            Labelycsy.Text += "月衰;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月衰"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == hai)
                         {
-                            Labelycsy.Text += "月病;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月病"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == zii)
                         {
-                            Labelycsy.Text += "月死;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月死"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == chou)
                         {
-                            Labelycsy.Text += "月墓;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月墓"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == yin)
                         {
-                            Labelycsy.Text += "月绝;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月绝"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == mao)
                         {
-                            Labelycsy.Text += "月胎;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月胎"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chen)
                         {
-                            Labelycsy.Text += "月养;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月养"; Labelycsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == ren)
+                    if (ntg == ren)
                     {
                         if (ydz == shen)
                         {
-                            Labelycsy.Text += "月长生;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月长生"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == you)
                         {
-                            Labelycsy.Text += "月沐浴;"; Labelycsy.ForeColor = Color.Green;
+                            Labelycsy.Text += "月沐浴"; Labelycsy.ForeColor = Color.Green;
                         }
                         if (ydz == xuu)
                         {
-                            Labelycsy.Text += "月冠带;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月冠带"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == hai)
                         {
-                            Labelycsy.Text += "月临官;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月临官"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == zii)
                         {
-                            Labelycsy.Text += "月帝旺;"; Labelycsy.ForeColor = Color.Red;
+                            Labelycsy.Text += "月帝旺"; Labelycsy.ForeColor = Color.Red;
                         }
                         if (ydz == chou)
                         {
-                            Labelycsy.Text += "月衰;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月衰"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == yin)
                         {
-                            Labelycsy.Text += "月病;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月病"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == mao)
                         {
-                            Labelycsy.Text += "月死;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月死"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == chen)
                         {
-                            Labelycsy.Text += "月墓;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月墓"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == sii)
                         {
-                            Labelycsy.Text += "月绝;"; Labelycsy.ForeColor = Color.Black;
+                            Labelycsy.Text += "月绝"; Labelycsy.ForeColor = Color.Black;
                         }
                         if (ydz == wuma)
                         {
-                            Labelycsy.Text += "月胎;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月胎"; Labelycsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == wei)
                         {
-                            Labelycsy.Text += "月养;"; Labelycsy.ForeColor = Color.DimGray;
+                            Labelycsy.Text += "月养"; Labelycsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == bing)
+                    if (ntg == bing)
                     {
                         if (rdz == yin)
                         {
-                            Labelycsr.Text += "日长生;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日长生"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == mao)
                         {
-                            Labelycsr.Text += "日沐浴;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日沐浴"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == chen)
                         {
-                            Labelycsr.Text += "日冠带;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日冠带"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == sii)
                         {
-                            Labelycsr.Text += "日临官;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日临官"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == wuma)
                         {
-                            Labelycsr.Text += "日帝旺;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日帝旺"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == wei)
                         {
-                            Labelycsr.Text += "日衰;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日衰"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == shen)
                         {
-                            Labelycsr.Text += "日病;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日病"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == you)
                         {
-                            Labelycsr.Text += "日死;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日死"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == xuu)
                         {
-                            Labelycsr.Text += "日墓;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日墓"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == hai)
                         {
-                            Labelycsr.Text += "日绝;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日绝"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == zii)
                         {
-                            Labelycsr.Text += "日胎;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日胎"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chou)
                         {
-                            Labelycsr.Text += "日养;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日养"; Labelycsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == wuu)
+                    if (ntg == wuu)
                     {
                         if (rdz == yin)
                         {
-                            Labelycsr.Text += "日长生;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日长生"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == mao)
                         {
-                            Labelycsr.Text += "日沐浴;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日沐浴"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == chen)
                         {
-                            Labelycsr.Text += "日冠带;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日冠带"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == sii)
                         {
-                            Labelycsr.Text += "日临官;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日临官"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == wuma)
                         {
-                            Labelycsr.Text += "日帝旺;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日帝旺"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == wei)
                         {
-                            Labelycsr.Text += "日衰;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日衰"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == shen)
                         {
-                            Labelycsr.Text += "日病;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日病"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == you)
                         {
-                            Labelycsr.Text += "日死;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日死"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == xuu)
                         {
-                            Labelycsr.Text += "日墓;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日墓"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == hai)
                         {
-                            Labelycsr.Text += "日绝;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日绝"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == zii)
                         {
-                            Labelycsr.Text += "日胎;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日胎"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chou)
                         {
-                            Labelycsr.Text += "日养;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日养"; Labelycsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == ding)
+                    if (ntg == ding)
                     {
                         if (rdz == you)
                         {
-                            Labelycsr.Text += "日长生;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日长生"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == shen)
                         {
-                            Labelycsr.Text += "日沐浴;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日沐浴"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == wei)
                         {
-                            Labelycsr.Text += "日冠带;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日冠带"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == wuma)
                         {
-                            Labelycsr.Text += "日临官;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日临官"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == sii)
                         {
-                            Labelycsr.Text += "日帝旺;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日帝旺"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == chen)
                         {
-                            Labelycsr.Text += "日衰;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日衰"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == mao)
                         {
-                            Labelycsr.Text += "日病;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日病"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == yin)
                         {
-                            Labelycsr.Text += "日死;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日死"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == chou)
                         {
-                            Labelycsr.Text += "日墓;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日墓"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == zii)
                         {
-                            Labelycsr.Text += "日绝;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日绝"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == hai)
                         {
-                            Labelycsr.Text += "日胎;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日胎"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == xuu)
                         {
-                            Labelycsr.Text += "日养;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日养"; Labelycsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == jii)
+                    if (ntg == jii)
                     {
                         if (rdz == you)
                         {
-                            Labelycsr.Text += "日长生;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日长生"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == shen)
                         {
-                            Labelycsr.Text += "日沐浴;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日沐浴"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == wei)
                         {
-                            Labelycsr.Text += "日冠带;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日冠带"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == wuma)
                         {
-                            Labelycsr.Text += "日临官;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日临官"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == sii)
                         {
-                            Labelycsr.Text += "日帝旺;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日帝旺"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == chen)
                         {
-                            Labelycsr.Text += "日衰;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日衰"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == mao)
                         {
-                            Labelycsr.Text += "日病;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日病"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == yin)
                         {
-                            Labelycsr.Text += "日死;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日死"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == chou)
                         {
-                            Labelycsr.Text += "日墓;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日墓"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == zii)
                         {
-                            Labelycsr.Text += "日绝;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日绝"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == hai)
                         {
-                            Labelycsr.Text += "日胎;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日胎"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == xuu)
                         {
-                            Labelycsr.Text += "日养;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日养"; Labelycsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == yii)
+                    if (ntg == yii)
                     {
                         if (rdz == wuma)
                         {
-                            Labelycsr.Text += "日长生;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日长生"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == sii)
                         {
-                            Labelycsr.Text += "日沐浴;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日沐浴"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == chen)
                         {
-                            Labelycsr.Text += "日冠带;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日冠带"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == mao)
                         {
-                            Labelycsr.Text += "日临官;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日临官"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == yin)
                         {
-                            Labelycsr.Text += "日帝旺;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日帝旺"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == chou)
                         {
-                            Labelycsr.Text += "日衰;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日衰"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == zii)
                         {
-                            Labelycsr.Text += "日病;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日病"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == hai)
                         {
-                            Labelycsr.Text += "日死;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日死"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == xuu)
                         {
-                            Labelycsr.Text += "日墓;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日墓"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == you)
                         {
-                            Labelycsr.Text += "日绝;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日绝"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == shen)
                         {
-                            Labelycsr.Text += "日胎;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日胎"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == wei)
                         {
-                            Labelycsr.Text += "日养;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日养"; Labelycsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == xin)
+                    if (ntg == xin)
                     {
                         if (rdz == zii)
                         {
-                            Labelycsr.Text += "日长生;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日长生"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == hai)
                         {
-                            Labelycsr.Text += "日沐浴;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日沐浴"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == xuu)
                         {
-                            Labelycsr.Text += "日冠带;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日冠带"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == you)
                         {
-                            Labelycsr.Text += "日临官;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日临官"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == shen)
                         {
-                            Labelycsr.Text += "日帝旺;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日帝旺"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == wei)
                         {
-                            Labelycsr.Text += "日衰;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日衰"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == wuma)
                         {
-                            Labelycsr.Text += "日病;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日病"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == sii)
                         {
-                            Labelycsr.Text += "日死;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日死"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == chen)
                         {
-                            Labelycsr.Text += "日墓;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日墓"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == mao)
                         {
-                            Labelycsr.Text += "日绝;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日绝"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == yin)
                         {
-                            Labelycsr.Text += "日胎;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日胎"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chou)
                         {
-                            Labelycsr.Text += "日养;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日养"; Labelycsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == gui)
+                    if (ntg == gui)
                     {
                         if (rdz == mao)
                         {
-                            Labelycsr.Text += "日长生;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日长生"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == yin)
                         {
-                            Labelycsr.Text += "日沐浴;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日沐浴"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == chou)
                         {
-                            Labelycsr.Text += "日冠带;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日冠带"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == zii)
                         {
-                            Labelycsr.Text += "日临官;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日临官"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == hai)
                         {
-                            Labelycsr.Text += "日帝旺;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日帝旺"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == xuu)
                         {
-                            Labelycsr.Text += "日衰;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日衰"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == you)
                         {
-                            Labelycsr.Text += "日病;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日病"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == shen)
                         {
-                            Labelycsr.Text += "日死;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日死"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == wei)
                         {
-                            Labelycsr.Text += "日墓;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日墓"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == wuma)
                         {
-                            Labelycsr.Text += "日绝;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日绝"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == sii)
                         {
-                            Labelycsr.Text += "日胎;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日胎"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chen)
                         {
-                            Labelycsr.Text += "日养;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日养"; Labelycsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == jia)
+                    if (ntg == jia)
                     {
                         if (rdz == hai)
                         {
-                            Labelycsr.Text += "日长生;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日长生"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == zii)
                         {
-                            Labelycsr.Text += "日沐浴;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日沐浴"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == chou)
                         {
-                            Labelycsr.Text += "日冠带;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日冠带"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == yin)
                         {
-                            Labelycsr.Text += "日临官;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日临官"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == mao)
                         {
-                            Labelycsr.Text += "日帝旺;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日帝旺"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == chen)
                         {
-                            Labelycsr.Text += "日衰;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日衰"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == sii)
                         {
-                            Labelycsr.Text += "日病;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日病"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == wuma)
                         {
-                            Labelycsr.Text += "日死;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日死"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == wei)
                         {
-                            Labelycsr.Text += "日墓;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日墓"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == shen)
                         {
-                            Labelycsr.Text += "日绝;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日绝"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == you)
                         {
-                            Labelycsr.Text += "日胎;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日胎"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == xuu)
                         {
-                            Labelycsr.Text += "日养;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日养"; Labelycsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == geng)
+                    if (ntg == geng)
                     {
                         if (rdz == sii)
                         {
-                            Labelycsr.Text += "日长生;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日长生"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == wuma)
                         {
-                            Labelycsr.Text += "日沐浴;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日沐浴"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == wei)
                         {
-                            Labelycsr.Text += "日冠带;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日冠带"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == shen)
                         {
-                            Labelycsr.Text += "日临官;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日临官"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == you)
                         {
-                            Labelycsr.Text += "日帝旺;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日帝旺"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == xuu)
                         {
-                            Labelycsr.Text += "日衰;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日衰"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == hai)
                         {
-                            Labelycsr.Text += "日病;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日病"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == zii)
                         {
-                            Labelycsr.Text += "日死;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日死"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == chou)
                         {
-                            Labelycsr.Text += "日墓;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日墓"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == yin)
                         {
-                            Labelycsr.Text += "日绝;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日绝"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == mao)
                         {
-                            Labelycsr.Text += "日胎;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日胎"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chen)
                         {
-                            Labelycsr.Text += "日养;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日养"; Labelycsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == ren)
+                    if (ntg == ren)
                     {
                         if (rdz == shen)
                         {
-                            Labelycsr.Text += "日长生;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日长生"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == you)
                         {
-                            Labelycsr.Text += "日沐浴;"; Labelycsr.ForeColor = Color.Green;
+                            Labelycsr.Text += "日沐浴"; Labelycsr.ForeColor = Color.Green;
                         }
                         if (rdz == xuu)
                         {
-                            Labelycsr.Text += "日冠带;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日冠带"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == hai)
                         {
-                            Labelycsr.Text += "日临官;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日临官"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == zii)
                         {
-                            Labelycsr.Text += "日帝旺;"; Labelycsr.ForeColor = Color.Red;
+                            Labelycsr.Text += "日帝旺"; Labelycsr.ForeColor = Color.Red;
                         }
                         if (rdz == chou)
                         {
-                            Labelycsr.Text += "日衰;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日衰"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == yin)
                         {
-                            Labelycsr.Text += "日病;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日病"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == mao)
                         {
-                            Labelycsr.Text += "日死;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日死"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == chen)
                         {
-                            Labelycsr.Text += "日墓;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日墓"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == sii)
                         {
-                            Labelycsr.Text += "日绝;"; Labelycsr.ForeColor = Color.Black;
+                            Labelycsr.Text += "日绝"; Labelycsr.ForeColor = Color.Black;
                         }
                         if (rdz == wuma)
                         {
-                            Labelycsr.Text += "日胎;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日胎"; Labelycsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == wei)
                         {
-                            Labelycsr.Text += "日养;"; Labelycsr.ForeColor = Color.DimGray;
+                            Labelycsr.Text += "日养"; Labelycsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == bing)
+                    if (ntg == bing)
                     {
                         if (sdz == yin)
                         {
-                            Labelycss.Text += "时长生;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时长生"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == mao)
                         {
-                            Labelycss.Text += "时沐浴;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时沐浴"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == chen)
                         {
-                            Labelycss.Text += "时冠带;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时冠带"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == sii)
                         {
-                            Labelycss.Text += "时临官;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时临官"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == wuma)
                         {
-                            Labelycss.Text += "时帝旺;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时帝旺"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == wei)
                         {
-                            Labelycss.Text += "时衰;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时衰"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == shen)
                         {
-                            Labelycss.Text += "时病;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时病"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == you)
                         {
-                            Labelycss.Text += "时死;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时死"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == xuu)
                         {
-                            Labelycss.Text += "时墓;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时墓"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == hai)
                         {
-                            Labelycss.Text += "时绝;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时绝"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == zii)
                         {
-                            Labelycss.Text += "时胎;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时胎"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chou)
                         {
-                            Labelycss.Text += "时养;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时养"; Labelycss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == wuu)
+                    if (ntg == wuu)
                     {
                         if (sdz == yin)
                         {
-                            Labelycss.Text += "时长生;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时长生"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == mao)
                         {
-                            Labelycss.Text += "时沐浴;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时沐浴"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == chen)
                         {
-                            Labelycss.Text += "时冠带;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时冠带"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == sii)
                         {
-                            Labelycss.Text += "时临官;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时临官"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == wuma)
                         {
-                            Labelycss.Text += "时帝旺;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时帝旺"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == wei)
                         {
-                            Labelycss.Text += "时衰;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时衰"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == shen)
                         {
-                            Labelycss.Text += "时病;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时病"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == you)
                         {
-                            Labelycss.Text += "时死;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时死"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == xuu)
                         {
-                            Labelycss.Text += "时墓;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时墓"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == hai)
                         {
-                            Labelycss.Text += "时绝;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时绝"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == zii)
                         {
-                            Labelycss.Text += "时胎;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时胎"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chou)
                         {
-                            Labelycss.Text += "时养;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时养"; Labelycss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == ding)
+                    if (ntg == ding)
                     {
                         if (sdz == you)
                         {
-                            Labelycss.Text += "时长生;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时长生"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == shen)
                         {
-                            Labelycss.Text += "时沐浴;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时沐浴"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == wei)
                         {
-                            Labelycss.Text += "时冠带;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时冠带"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == wuma)
                         {
-                            Labelycss.Text += "时临官;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时临官"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == sii)
                         {
-                            Labelycss.Text += "时帝旺;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时帝旺"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == chen)
                         {
-                            Labelycss.Text += "时衰;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时衰"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == mao)
                         {
-                            Labelycss.Text += "时病;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时病"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == yin)
                         {
-                            Labelycss.Text += "时死;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时死"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == chou)
                         {
-                            Labelycss.Text += "时墓;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时墓"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == zii)
                         {
-                            Labelycss.Text += "时绝;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时绝"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == hai)
                         {
-                            Labelycss.Text += "时胎;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时胎"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == xuu)
                         {
-                            Labelycss.Text += "时养;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时养"; Labelycss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == jii)
+                    if (ntg == jii)
                     {
                         if (sdz == you)
                         {
-                            Labelycss.Text += "时长生;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时长生"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == shen)
                         {
-                            Labelycss.Text += "时沐浴;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时沐浴"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == wei)
                         {
-                            Labelycss.Text += "时冠带;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时冠带"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == wuma)
                         {
-                            Labelycss.Text += "时临官;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时临官"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == sii)
                         {
-                            Labelycss.Text += "时帝旺;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时帝旺"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == chen)
                         {
-                            Labelycss.Text += "时衰;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时衰"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == mao)
                         {
-                            Labelycss.Text += "时病;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时病"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == yin)
                         {
-                            Labelycss.Text += "时死;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时死"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == chou)
                         {
-                            Labelycss.Text += "时墓;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时墓"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == zii)
                         {
-                            Labelycss.Text += "时绝;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时绝"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == hai)
                         {
-                            Labelycss.Text += "时胎;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时胎"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == xuu)
                         {
-                            Labelycss.Text += "时养;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时养"; Labelycss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == yii)
+                    if (ntg == yii)
                     {
                         if (sdz == wuma)
                         {
-                            Labelycss.Text += "时长生;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时长生"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == sii)
                         {
-                            Labelycss.Text += "时沐浴;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时沐浴"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == chen)
                         {
-                            Labelycss.Text += "时冠带;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时冠带"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == mao)
                         {
-                            Labelycss.Text += "时临官;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时临官"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == yin)
                         {
-                            Labelycss.Text += "时帝旺;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时帝旺"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == chou)
                         {
-                            Labelycss.Text += "时衰;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时衰"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == zii)
                         {
-                            Labelycss.Text += "时病;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时病"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == hai)
                         {
-                            Labelycss.Text += "时死;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时死"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == xuu)
                         {
-                            Labelycss.Text += "时墓;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时墓"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == you)
                         {
-                            Labelycss.Text += "时绝;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时绝"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == shen)
                         {
-                            Labelycss.Text += "时胎;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时胎"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == wei)
                         {
-                            Labelycss.Text += "时养;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时养"; Labelycss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == xin)
+                    if (ntg == xin)
                     {
                         if (sdz == zii)
                         {
-                            Labelycss.Text += "时长生;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时长生"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == hai)
                         {
-                            Labelycss.Text += "时沐浴;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时沐浴"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == xuu)
                         {
-                            Labelycss.Text += "时冠带;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时冠带"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == you)
                         {
-                            Labelycss.Text += "时临官;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时临官"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == shen)
                         {
-                            Labelycss.Text += "时帝旺;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时帝旺"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == wei)
                         {
-                            Labelycss.Text += "时衰;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时衰"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == wuma)
                         {
-                            Labelycss.Text += "时病;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时病"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == sii)
                         {
-                            Labelycss.Text += "时死;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时死"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == chen)
                         {
-                            Labelycss.Text += "时墓;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时墓"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == mao)
                         {
-                            Labelycss.Text += "时绝;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时绝"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == yin)
                         {
-                            Labelycss.Text += "时胎;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时胎"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chou)
                         {
-                            Labelycss.Text += "时养;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时养"; Labelycss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == gui)
+                    if (ntg == gui)
                     {
                         if (sdz == mao)
                         {
-                            Labelycss.Text += "时长生;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时长生"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == yin)
                         {
-                            Labelycss.Text += "时沐浴;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时沐浴"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == chou)
                         {
-                            Labelycss.Text += "时冠带;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时冠带"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == zii)
                         {
-                            Labelycss.Text += "时临官;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时临官"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == hai)
                         {
-                            Labelycss.Text += "时帝旺;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时帝旺"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == xuu)
                         {
-                            Labelycss.Text += "时衰;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时衰"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == you)
                         {
-                            Labelycss.Text += "时病;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时病"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == shen)
                         {
-                            Labelycss.Text += "时死;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时死"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == wei)
                         {
-                            Labelycss.Text += "时墓;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时墓"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == wuma)
                         {
-                            Labelycss.Text += "时绝;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时绝"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == sii)
                         {
-                            Labelycss.Text += "时胎;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时胎"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chen)
                         {
-                            Labelycss.Text += "时养;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时养"; Labelycss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == jia)
+                    if (ntg == jia)
                     {
                         if (sdz == hai)
                         {
-                            Labelycss.Text += "时长生;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时长生"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == zii)
                         {
-                            Labelycss.Text += "时沐浴;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时沐浴"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == chou)
                         {
-                            Labelycss.Text += "时冠带;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时冠带"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == yin)
                         {
-                            Labelycss.Text += "时临官;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时临官"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == mao)
                         {
-                            Labelycss.Text += "时帝旺;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时帝旺"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == chen)
                         {
-                            Labelycss.Text += "时衰;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时衰"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == sii)
                         {
-                            Labelycss.Text += "时病;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时病"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == wuma)
                         {
-                            Labelycss.Text += "时死;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时死"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == wei)
                         {
-                            Labelycss.Text += "时墓;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时墓"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == shen)
                         {
-                            Labelycss.Text += "时绝;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时绝"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == you)
                         {
-                            Labelycss.Text += "时胎;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时胎"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == xuu)
                         {
-                            Labelycss.Text += "时养;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时养"; Labelycss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == geng)
+                    if (ntg == geng)
                     {
                         if (sdz == sii)
                         {
-                            Labelycss.Text += "时长生;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时长生"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == wuma)
                         {
-                            Labelycss.Text += "时沐浴;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时沐浴"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == wei)
                         {
-                            Labelycss.Text += "时冠带;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时冠带"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == shen)
                         {
-                            Labelycss.Text += "时临官;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时临官"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == you)
                         {
-                            Labelycss.Text += "时帝旺;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时帝旺"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == xuu)
                         {
-                            Labelycss.Text += "时衰;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时衰"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == hai)
                         {
-                            Labelycss.Text += "时病;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时病"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == zii)
                         {
-                            Labelycss.Text += "时死;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时死"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == chou)
                         {
-                            Labelycss.Text += "时墓;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时墓"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == yin)
                         {
-                            Labelycss.Text += "时绝;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时绝"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == mao)
                         {
-                            Labelycss.Text += "时胎;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时胎"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chen)
                         {
-                            Labelycss.Text += "时养;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时养"; Labelycss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (ytg == ren)
+                    if (ntg == ren)
                     {
                         if (sdz == shen)
                         {
-                            Labelycss.Text += "时长生;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时长生"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == you)
                         {
-                            Labelycss.Text += "时沐浴;"; Labelycss.ForeColor = Color.Green;
+                            Labelycss.Text += "时沐浴"; Labelycss.ForeColor = Color.Green;
                         }
                         if (sdz == xuu)
                         {
-                            Labelycss.Text += "时冠带;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时冠带"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == hai)
                         {
-                            Labelycss.Text += "时临官;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时临官"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == zii)
                         {
-                            Labelycss.Text += "时帝旺;"; Labelycss.ForeColor = Color.Red;
+                            Labelycss.Text += "时帝旺"; Labelycss.ForeColor = Color.Red;
                         }
                         if (sdz == chou)
                         {
-                            Labelycss.Text += "时衰;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时衰"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == yin)
                         {
-                            Labelycss.Text += "时病;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时病"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == mao)
                         {
-                            Labelycss.Text += "时死;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时死"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == chen)
                         {
-                            Labelycss.Text += "时墓;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时墓"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == sii)
                         {
-                            Labelycss.Text += "时绝;"; Labelycss.ForeColor = Color.Black;
+                            Labelycss.Text += "时绝"; Labelycss.ForeColor = Color.Black;
                         }
                         if (sdz == wuma)
                         {
-                            Labelycss.Text += "时胎;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时胎"; Labelycss.ForeColor = Color.DimGray;
                         }
                         if (sdz == wei)
                         {
-                            Labelycss.Text += "时养;"; Labelycss.ForeColor = Color.DimGray;
+                            Labelycss.Text += "时养"; Labelycss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == bing)
+                    if (ntg == bing)
                     {
                         if (ndz == yin)
                         {
-                            Labelrcsn.Text += "年长生;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年长生"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == mao)
                         {
-                            Labelrcsn.Text += "年沐浴;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年沐浴"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == chen)
                         {
-                            Labelrcsn.Text += "年冠带;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年冠带"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == sii)
                         {
-                            Labelrcsn.Text += "年临官;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年临官"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == wuma)
                         {
-                            Labelrcsn.Text += "年帝旺;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年帝旺"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == wei)
                         {
-                            Labelrcsn.Text += "年衰;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年衰"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == shen)
                         {
-                            Labelrcsn.Text += "年病;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年病"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == you)
                         {
-                            Labelrcsn.Text += "年死;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年死"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == xuu)
                         {
-                            Labelrcsn.Text += "年墓;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年墓"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == hai)
                         {
-                            Labelrcsn.Text += "年绝;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年绝"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == zii)
                         {
-                            Labelrcsn.Text += "年胎;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年胎"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chou)
                         {
-                            Labelrcsn.Text += "年养;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年养"; Labelrcsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == wuu)
+                    if (ntg == wuu)
                     {
                         if (ndz == yin)
                         {
-                            Labelrcsn.Text += "年长生;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年长生"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == mao)
                         {
-                            Labelrcsn.Text += "年沐浴;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年沐浴"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == chen)
                         {
-                            Labelrcsn.Text += "年冠带;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年冠带"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == sii)
                         {
-                            Labelrcsn.Text += "年临官;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年临官"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == wuma)
                         {
-                            Labelrcsn.Text += "年帝旺;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年帝旺"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == wei)
                         {
-                            Labelrcsn.Text += "年衰;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年衰"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == shen)
                         {
-                            Labelrcsn.Text += "年病;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年病"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == you)
                         {
-                            Labelrcsn.Text += "年死;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年死"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == xuu)
                         {
-                            Labelrcsn.Text += "年墓;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年墓"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == hai)
                         {
-                            Labelrcsn.Text += "年绝;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年绝"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == zii)
                         {
-                            Labelrcsn.Text += "年胎;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年胎"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chou)
                         {
-                            Labelrcsn.Text += "年养;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年养"; Labelrcsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == ding)
+                    if (ntg == ding)
                     {
                         if (ndz == you)
                         {
-                            Labelrcsn.Text += "年长生;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年长生"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == shen)
                         {
-                            Labelrcsn.Text += "年沐浴;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年沐浴"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == wei)
                         {
-                            Labelrcsn.Text += "年冠带;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年冠带"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == wuma)
                         {
-                            Labelrcsn.Text += "年临官;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年临官"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == sii)
                         {
-                            Labelrcsn.Text += "年帝旺;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年帝旺"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == chen)
                         {
-                            Labelrcsn.Text += "年衰;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年衰"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == mao)
                         {
-                            Labelrcsn.Text += "年病;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年病"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == yin)
                         {
-                            Labelrcsn.Text += "年死;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年死"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == chou)
                         {
-                            Labelrcsn.Text += "年墓;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年墓"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == zii)
                         {
-                            Labelrcsn.Text += "年绝;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年绝"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == hai)
                         {
-                            Labelrcsn.Text += "年胎;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年胎"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == xuu)
                         {
-                            Labelrcsn.Text += "年养;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年养"; Labelrcsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == jii)
+                    if (ntg == jii)
                     {
                         if (ndz == you)
                         {
-                            Labelrcsn.Text += "年长生;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年长生"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == shen)
                         {
-                            Labelrcsn.Text += "年沐浴;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年沐浴"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == wei)
                         {
-                            Labelrcsn.Text += "年冠带;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年冠带"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == wuma)
                         {
-                            Labelrcsn.Text += "年临官;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年临官"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == sii)
                         {
-                            Labelrcsn.Text += "年帝旺;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年帝旺"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == chen)
                         {
-                            Labelrcsn.Text += "年衰;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年衰"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == mao)
                         {
-                            Labelrcsn.Text += "年病;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年病"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == yin)
                         {
-                            Labelrcsn.Text += "年死;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年死"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == chou)
                         {
-                            Labelrcsn.Text += "年墓;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年墓"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == zii)
                         {
-                            Labelrcsn.Text += "年绝;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年绝"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == hai)
                         {
-                            Labelrcsn.Text += "年胎;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年胎"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == xuu)
                         {
-                            Labelrcsn.Text += "年养;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年养"; Labelrcsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == yii)
+                    if (ntg == yii)
                     {
                         if (ndz == wuma)
                         {
-                            Labelrcsn.Text += "年长生;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年长生"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == sii)
                         {
-                            Labelrcsn.Text += "年沐浴;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年沐浴"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == chen)
                         {
-                            Labelrcsn.Text += "年冠带;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年冠带"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == mao)
                         {
-                            Labelrcsn.Text += "年临官;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年临官"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == yin)
                         {
-                            Labelrcsn.Text += "年帝旺;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年帝旺"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == chou)
                         {
-                            Labelrcsn.Text += "年衰;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年衰"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == zii)
                         {
-                            Labelrcsn.Text += "年病;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年病"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == hai)
                         {
-                            Labelrcsn.Text += "年死;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年死"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == xuu)
                         {
-                            Labelrcsn.Text += "年墓;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年墓"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == you)
                         {
-                            Labelrcsn.Text += "年绝;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年绝"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == shen)
                         {
-                            Labelrcsn.Text += "年胎;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年胎"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == wei)
                         {
-                            Labelrcsn.Text += "年养;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年养"; Labelrcsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == xin)
+                    if (ntg == xin)
                     {
                         if (ndz == zii)
                         {
-                            Labelrcsn.Text += "年长生;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年长生"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == hai)
                         {
-                            Labelrcsn.Text += "年沐浴;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年沐浴"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == xuu)
                         {
-                            Labelrcsn.Text += "年冠带;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年冠带"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == you)
                         {
-                            Labelrcsn.Text += "年临官;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年临官"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == shen)
                         {
-                            Labelrcsn.Text += "年帝旺;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年帝旺"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == wei)
                         {
-                            Labelrcsn.Text += "年衰;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年衰"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == wuma)
                         {
-                            Labelrcsn.Text += "年病;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年病"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == sii)
                         {
-                            Labelrcsn.Text += "年死;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年死"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == chen)
                         {
-                            Labelrcsn.Text += "年墓;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年墓"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == mao)
                         {
-                            Labelrcsn.Text += "年绝;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年绝"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == yin)
                         {
-                            Labelrcsn.Text += "年胎;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年胎"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chou)
                         {
-                            Labelrcsn.Text += "年养;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年养"; Labelrcsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == gui)
+                    if (ntg == gui)
                     {
                         if (ndz == mao)
                         {
-                            Labelrcsn.Text += "年长生;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年长生"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == yin)
                         {
-                            Labelrcsn.Text += "年沐浴;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年沐浴"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == chou)
                         {
-                            Labelrcsn.Text += "年冠带;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年冠带"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == zii)
                         {
-                            Labelrcsn.Text += "年临官;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年临官"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == hai)
                         {
-                            Labelrcsn.Text += "年帝旺;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年帝旺"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == xuu)
                         {
-                            Labelrcsn.Text += "年衰;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年衰"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == you)
                         {
-                            Labelrcsn.Text += "年病;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年病"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == shen)
                         {
-                            Labelrcsn.Text += "年死;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年死"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == wei)
                         {
-                            Labelrcsn.Text += "年墓;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年墓"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == wuma)
                         {
-                            Labelrcsn.Text += "年绝;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年绝"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == sii)
                         {
-                            Labelrcsn.Text += "年胎;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年胎"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chen)
                         {
-                            Labelrcsn.Text += "年养;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年养"; Labelrcsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == jia)
+                    if (ntg == jia)
                     {
                         if (ndz == hai)
                         {
-                            Labelrcsn.Text += "年长生;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年长生"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == zii)
                         {
-                            Labelrcsn.Text += "年沐浴;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年沐浴"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == chou)
                         {
-                            Labelrcsn.Text += "年冠带;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年冠带"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == yin)
                         {
-                            Labelrcsn.Text += "年临官;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年临官"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == mao)
                         {
-                            Labelrcsn.Text += "年帝旺;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年帝旺"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == chen)
                         {
-                            Labelrcsn.Text += "年衰;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年衰"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == sii)
                         {
-                            Labelrcsn.Text += "年病;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年病"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == wuma)
                         {
-                            Labelrcsn.Text += "年死;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年死"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == wei)
                         {
-                            Labelrcsn.Text += "年墓;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年墓"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == shen)
                         {
-                            Labelrcsn.Text += "年绝;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年绝"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == you)
                         {
-                            Labelrcsn.Text += "年胎;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年胎"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == xuu)
                         {
-                            Labelrcsn.Text += "年养;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年养"; Labelrcsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == geng)
+                    if (ntg == geng)
                     {
                         if (ndz == sii)
                         {
-                            Labelrcsn.Text += "年长生;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年长生"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == wuma)
                         {
-                            Labelrcsn.Text += "年沐浴;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年沐浴"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == wei)
                         {
-                            Labelrcsn.Text += "年冠带;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年冠带"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == shen)
                         {
-                            Labelrcsn.Text += "年临官;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年临官"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == you)
                         {
-                            Labelrcsn.Text += "年帝旺;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年帝旺"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == xuu)
                         {
-                            Labelrcsn.Text += "年衰;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年衰"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == hai)
                         {
-                            Labelrcsn.Text += "年病;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年病"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == zii)
                         {
-                            Labelrcsn.Text += "年死;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年死"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == chou)
                         {
-                            Labelrcsn.Text += "年墓;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年墓"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == yin)
                         {
-                            Labelrcsn.Text += "年绝;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年绝"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == mao)
                         {
-                            Labelrcsn.Text += "年胎;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年胎"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chen)
                         {
-                            Labelrcsn.Text += "年养;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年养"; Labelrcsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == ren)
+                    if (ntg == ren)
                     {
                         if (ndz == shen)
                         {
-                            Labelrcsn.Text += "年长生;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年长生"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == you)
                         {
-                            Labelrcsn.Text += "年沐浴;"; Labelrcsn.ForeColor = Color.Green;
+                            Labelrcsn.Text += "年沐浴"; Labelrcsn.ForeColor = Color.Green;
                         }
                         if (ndz == xuu)
                         {
-                            Labelrcsn.Text += "年冠带;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年冠带"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == hai)
                         {
-                            Labelrcsn.Text += "年临官;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年临官"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == zii)
                         {
-                            Labelrcsn.Text += "年帝旺;"; Labelrcsn.ForeColor = Color.Red;
+                            Labelrcsn.Text += "年帝旺"; Labelrcsn.ForeColor = Color.Red;
                         }
                         if (ndz == chou)
                         {
-                            Labelrcsn.Text += "年衰;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年衰"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == yin)
                         {
-                            Labelrcsn.Text += "年病;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年病"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == mao)
                         {
-                            Labelrcsn.Text += "年死;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年死"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == chen)
                         {
-                            Labelrcsn.Text += "年墓;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年墓"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == sii)
                         {
-                            Labelrcsn.Text += "年绝;"; Labelrcsn.ForeColor = Color.Black;
+                            Labelrcsn.Text += "年绝"; Labelrcsn.ForeColor = Color.Black;
                         }
                         if (ndz == wuma)
                         {
-                            Labelrcsn.Text += "年胎;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年胎"; Labelrcsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == wei)
                         {
-                            Labelrcsn.Text += "年养;"; Labelrcsn.ForeColor = Color.DimGray;
+                            Labelrcsn.Text += "年养"; Labelrcsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == bing)
+                    if (ntg == bing)
                     {
                         if (ydz == yin)
                         {
-                            Labelrcsy.Text += "月长生;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月长生"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == mao)
                         {
-                            Labelrcsy.Text += "月沐浴;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月沐浴"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == chen)
                         {
-                            Labelrcsy.Text += "月冠带;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月冠带"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == sii)
                         {
-                            Labelrcsy.Text += "月临官;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月临官"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == wuma)
                         {
-                            Labelrcsy.Text += "月帝旺;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月帝旺"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == wei)
                         {
-                            Labelrcsy.Text += "月衰;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月衰"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == shen)
                         {
-                            Labelrcsy.Text += "月病;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月病"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == you)
                         {
-                            Labelrcsy.Text += "月死;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月死"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == xuu)
                         {
-                            Labelrcsy.Text += "月墓;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月墓"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == hai)
                         {
-                            Labelrcsy.Text += "月绝;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月绝"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == zii)
                         {
-                            Labelrcsy.Text += "月胎;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月胎"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chou)
                         {
-                            Labelrcsy.Text += "月养;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月养"; Labelrcsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == wuu)
+                    if (ntg == wuu)
                     {
                         if (ydz == yin)
                         {
-                            Labelrcsy.Text += "月长生;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月长生"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == mao)
                         {
-                            Labelrcsy.Text += "月沐浴;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月沐浴"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == chen)
                         {
-                            Labelrcsy.Text += "月冠带;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月冠带"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == sii)
                         {
-                            Labelrcsy.Text += "月临官;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月临官"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == wuma)
                         {
-                            Labelrcsy.Text += "月帝旺;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月帝旺"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == wei)
                         {
-                            Labelrcsy.Text += "月衰;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月衰"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == shen)
                         {
-                            Labelrcsy.Text += "月病;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月病"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == you)
                         {
-                            Labelrcsy.Text += "月死;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月死"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == xuu)
                         {
-                            Labelrcsy.Text += "月墓;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月墓"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == hai)
                         {
-                            Labelrcsy.Text += "月绝;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月绝"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == zii)
                         {
-                            Labelrcsy.Text += "月胎;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月胎"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chou)
                         {
-                            Labelrcsy.Text += "月养;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月养"; Labelrcsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == ding)
+                    if (ntg == ding)
                     {
                         if (ydz == you)
                         {
-                            Labelrcsy.Text += "月长生;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月长生"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == shen)
                         {
-                            Labelrcsy.Text += "月沐浴;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月沐浴"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == wei)
                         {
-                            Labelrcsy.Text += "月冠带;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月冠带"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == wuma)
                         {
-                            Labelrcsy.Text += "月临官;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月临官"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == sii)
                         {
-                            Labelrcsy.Text += "月帝旺;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月帝旺"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == chen)
                         {
-                            Labelrcsy.Text += "月衰;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月衰"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == mao)
                         {
-                            Labelrcsy.Text += "月病;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月病"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == yin)
                         {
-                            Labelrcsy.Text += "月死;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月死"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == chou)
                         {
-                            Labelrcsy.Text += "月墓;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月墓"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == zii)
                         {
-                            Labelrcsy.Text += "月绝;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月绝"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == hai)
                         {
-                            Labelrcsy.Text += "月胎;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月胎"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == xuu)
                         {
-                            Labelrcsy.Text += "月养;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月养"; Labelrcsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == jii)
+                    if (ntg == jii)
                     {
                         if (ydz == you)
                         {
-                            Labelrcsy.Text += "月长生;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月长生"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == shen)
                         {
-                            Labelrcsy.Text += "月沐浴;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月沐浴"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == wei)
                         {
-                            Labelrcsy.Text += "月冠带;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月冠带"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == wuma)
                         {
-                            Labelrcsy.Text += "月临官;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月临官"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == sii)
                         {
-                            Labelrcsy.Text += "月帝旺;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月帝旺"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == chen)
                         {
-                            Labelrcsy.Text += "月衰;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月衰"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == mao)
                         {
-                            Labelrcsy.Text += "月病;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月病"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == yin)
                         {
-                            Labelrcsy.Text += "月死;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月死"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == chou)
                         {
-                            Labelrcsy.Text += "月墓;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月墓"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == zii)
                         {
-                            Labelrcsy.Text += "月绝;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月绝"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == hai)
                         {
-                            Labelrcsy.Text += "月胎;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月胎"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == xuu)
                         {
-                            Labelrcsy.Text += "月养;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月养"; Labelrcsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == yii)
+                    if (ntg == yii)
                     {
                         if (ydz == wuma)
                         {
-                            Labelrcsy.Text += "月长生;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月长生"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == sii)
                         {
-                            Labelrcsy.Text += "月沐浴;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月沐浴"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == chen)
                         {
-                            Labelrcsy.Text += "月冠带;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月冠带"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == mao)
                         {
-                            Labelrcsy.Text += "月临官;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月临官"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == yin)
                         {
-                            Labelrcsy.Text += "月帝旺;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月帝旺"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == chou)
                         {
-                            Labelrcsy.Text += "月衰;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月衰"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == zii)
                         {
-                            Labelrcsy.Text += "月病;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月病"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == hai)
                         {
-                            Labelrcsy.Text += "月死;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月死"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == xuu)
                         {
-                            Labelrcsy.Text += "月墓;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月墓"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == you)
                         {
-                            Labelrcsy.Text += "月绝;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月绝"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == shen)
                         {
-                            Labelrcsy.Text += "月胎;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月胎"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == wei)
                         {
-                            Labelrcsy.Text += "月养;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月养"; Labelrcsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == xin)
+                    if (ntg == xin)
                     {
                         if (ydz == zii)
                         {
-                            Labelrcsy.Text += "月长生;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月长生"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == hai)
                         {
-                            Labelrcsy.Text += "月沐浴;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月沐浴"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == xuu)
                         {
-                            Labelrcsy.Text += "月冠带;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月冠带"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == you)
                         {
-                            Labelrcsy.Text += "月临官;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月临官"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == shen)
                         {
-                            Labelrcsy.Text += "月帝旺;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月帝旺"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == wei)
                         {
-                            Labelrcsy.Text += "月衰;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月衰"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == wuma)
                         {
-                            Labelrcsy.Text += "月病;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月病"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == sii)
                         {
-                            Labelrcsy.Text += "月死;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月死"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == chen)
                         {
-                            Labelrcsy.Text += "月墓;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月墓"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == mao)
                         {
-                            Labelrcsy.Text += "月绝;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月绝"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == yin)
                         {
-                            Labelrcsy.Text += "月胎;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月胎"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chou)
                         {
-                            Labelrcsy.Text += "月养;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月养"; Labelrcsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == gui)
+                    if (ntg == gui)
                     {
                         if (ydz == mao)
                         {
-                            Labelrcsy.Text += "月长生;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月长生"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == yin)
                         {
-                            Labelrcsy.Text += "月沐浴;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月沐浴"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == chou)
                         {
-                            Labelrcsy.Text += "月冠带;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月冠带"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == zii)
                         {
-                            Labelrcsy.Text += "月临官;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月临官"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == hai)
                         {
-                            Labelrcsy.Text += "月帝旺;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月帝旺"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == xuu)
                         {
-                            Labelrcsy.Text += "月衰;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月衰"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == you)
                         {
-                            Labelrcsy.Text += "月病;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月病"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == shen)
                         {
-                            Labelrcsy.Text += "月死;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月死"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == wei)
                         {
-                            Labelrcsy.Text += "月墓;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月墓"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == wuma)
                         {
-                            Labelrcsy.Text += "月绝;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月绝"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == sii)
                         {
-                            Labelrcsy.Text += "月胎;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月胎"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chen)
                         {
-                            Labelrcsy.Text += "月养;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月养"; Labelrcsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == jia)
+                    if (ntg == jia)
                     {
                         if (ydz == hai)
                         {
-                            Labelrcsy.Text += "月长生;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月长生"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == zii)
                         {
-                            Labelrcsy.Text += "月沐浴;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月沐浴"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == chou)
                         {
-                            Labelrcsy.Text += "月冠带;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月冠带"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == yin)
                         {
-                            Labelrcsy.Text += "月临官;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月临官"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == mao)
                         {
-                            Labelrcsy.Text += "月帝旺;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月帝旺"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == chen)
                         {
-                            Labelrcsy.Text += "月衰;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月衰"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == sii)
                         {
-                            Labelrcsy.Text += "月病;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月病"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == wuma)
                         {
-                            Labelrcsy.Text += "月死;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月死"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == wei)
                         {
-                            Labelrcsy.Text += "月墓;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月墓"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == shen)
                         {
-                            Labelrcsy.Text += "月绝;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月绝"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == you)
                         {
-                            Labelrcsy.Text += "月胎;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月胎"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == xuu)
                         {
-                            Labelrcsy.Text += "月养;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月养"; Labelrcsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == geng)
+                    if (ntg == geng)
                     {
                         if (ydz == sii)
                         {
-                            Labelrcsy.Text += "月长生;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月长生"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == wuma)
                         {
-                            Labelrcsy.Text += "月沐浴;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月沐浴"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == wei)
                         {
-                            Labelrcsy.Text += "月冠带;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月冠带"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == shen)
                         {
-                            Labelrcsy.Text += "月临官;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月临官"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == you)
                         {
-                            Labelrcsy.Text += "月帝旺;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月帝旺"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == xuu)
                         {
-                            Labelrcsy.Text += "月衰;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月衰"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == hai)
                         {
-                            Labelrcsy.Text += "月病;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月病"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == zii)
                         {
-                            Labelrcsy.Text += "月死;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月死"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == chou)
                         {
-                            Labelrcsy.Text += "月墓;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月墓"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == yin)
                         {
-                            Labelrcsy.Text += "月绝;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月绝"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == mao)
                         {
-                            Labelrcsy.Text += "月胎;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月胎"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chen)
                         {
-                            Labelrcsy.Text += "月养;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月养"; Labelrcsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == ren)
+                    if (ntg == ren)
                     {
                         if (ydz == shen)
                         {
-                            Labelrcsy.Text += "月长生;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月长生"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == you)
                         {
-                            Labelrcsy.Text += "月沐浴;"; Labelrcsy.ForeColor = Color.Green;
+                            Labelrcsy.Text += "月沐浴"; Labelrcsy.ForeColor = Color.Green;
                         }
                         if (ydz == xuu)
                         {
-                            Labelrcsy.Text += "月冠带;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月冠带"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == hai)
                         {
-                            Labelrcsy.Text += "月临官;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月临官"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == zii)
                         {
-                            Labelrcsy.Text += "月帝旺;"; Labelrcsy.ForeColor = Color.Red;
+                            Labelrcsy.Text += "月帝旺"; Labelrcsy.ForeColor = Color.Red;
                         }
                         if (ydz == chou)
                         {
-                            Labelrcsy.Text += "月衰;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月衰"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == yin)
                         {
-                            Labelrcsy.Text += "月病;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月病"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == mao)
                         {
-                            Labelrcsy.Text += "月死;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月死"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == chen)
                         {
-                            Labelrcsy.Text += "月墓;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月墓"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == sii)
                         {
-                            Labelrcsy.Text += "月绝;"; Labelrcsy.ForeColor = Color.Black;
+                            Labelrcsy.Text += "月绝"; Labelrcsy.ForeColor = Color.Black;
                         }
                         if (ydz == wuma)
                         {
-                            Labelrcsy.Text += "月胎;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月胎"; Labelrcsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == wei)
                         {
-                            Labelrcsy.Text += "月养;"; Labelrcsy.ForeColor = Color.DimGray;
+                            Labelrcsy.Text += "月养"; Labelrcsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == bing)
+                    if (ntg == bing)
                     {
                         if (rdz == yin)
                         {
-                            Labelrcsr.Text += "日长生;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日长生"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == mao)
                         {
-                            Labelrcsr.Text += "日沐浴;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日沐浴"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == chen)
                         {
-                            Labelrcsr.Text += "日冠带;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日冠带"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == sii)
                         {
-                            Labelrcsr.Text += "日临官;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日临官"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == wuma)
                         {
-                            Labelrcsr.Text += "日帝旺;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日帝旺"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == wei)
                         {
-                            Labelrcsr.Text += "日衰;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日衰"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == shen)
                         {
-                            Labelrcsr.Text += "日病;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日病"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == you)
                         {
-                            Labelrcsr.Text += "日死;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日死"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == xuu)
                         {
-                            Labelrcsr.Text += "日墓;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日墓"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == hai)
                         {
-                            Labelrcsr.Text += "日绝;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日绝"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == zii)
                         {
-                            Labelrcsr.Text += "日胎;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日胎"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chou)
                         {
-                            Labelrcsr.Text += "日养;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日养"; Labelrcsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == wuu)
+                    if (ntg == wuu)
                     {
                         if (rdz == yin)
                         {
-                            Labelrcsr.Text += "日长生;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日长生"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == mao)
                         {
-                            Labelrcsr.Text += "日沐浴;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日沐浴"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == chen)
                         {
-                            Labelrcsr.Text += "日冠带;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日冠带"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == sii)
                         {
-                            Labelrcsr.Text += "日临官;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日临官"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == wuma)
                         {
-                            Labelrcsr.Text += "日帝旺;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日帝旺"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == wei)
                         {
-                            Labelrcsr.Text += "日衰;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日衰"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == shen)
                         {
-                            Labelrcsr.Text += "日病;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日病"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == you)
                         {
-                            Labelrcsr.Text += "日死;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日死"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == xuu)
                         {
-                            Labelrcsr.Text += "日墓;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日墓"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == hai)
                         {
-                            Labelrcsr.Text += "日绝;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日绝"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == zii)
                         {
-                            Labelrcsr.Text += "日胎;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日胎"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chou)
                         {
-                            Labelrcsr.Text += "日养;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日养"; Labelrcsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == ding)
+                    if (ntg == ding)
                     {
                         if (rdz == you)
                         {
-                            Labelrcsr.Text += "日长生;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日长生"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == shen)
                         {
-                            Labelrcsr.Text += "日沐浴;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日沐浴"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == wei)
                         {
-                            Labelrcsr.Text += "日冠带;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日冠带"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == wuma)
                         {
-                            Labelrcsr.Text += "日临官;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日临官"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == sii)
                         {
-                            Labelrcsr.Text += "日帝旺;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日帝旺"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == chen)
                         {
-                            Labelrcsr.Text += "日衰;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日衰"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == mao)
                         {
-                            Labelrcsr.Text += "日病;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日病"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == yin)
                         {
-                            Labelrcsr.Text += "日死;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日死"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == chou)
                         {
-                            Labelrcsr.Text += "日墓;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日墓"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == zii)
                         {
-                            Labelrcsr.Text += "日绝;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日绝"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == hai)
                         {
-                            Labelrcsr.Text += "日胎;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日胎"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == xuu)
                         {
-                            Labelrcsr.Text += "日养;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日养"; Labelrcsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == jii)
+                    if (ntg == jii)
                     {
                         if (rdz == you)
                         {
-                            Labelrcsr.Text += "日长生;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日长生"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == shen)
                         {
-                            Labelrcsr.Text += "日沐浴;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日沐浴"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == wei)
                         {
-                            Labelrcsr.Text += "日冠带;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日冠带"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == wuma)
                         {
-                            Labelrcsr.Text += "日临官;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日临官"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == sii)
                         {
-                            Labelrcsr.Text += "日帝旺;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日帝旺"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == chen)
                         {
-                            Labelrcsr.Text += "日衰;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日衰"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == mao)
                         {
-                            Labelrcsr.Text += "日病;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日病"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == yin)
                         {
-                            Labelrcsr.Text += "日死;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日死"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == chou)
                         {
-                            Labelrcsr.Text += "日墓;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日墓"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == zii)
                         {
-                            Labelrcsr.Text += "日绝;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日绝"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == hai)
                         {
-                            Labelrcsr.Text += "日胎;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日胎"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == xuu)
                         {
-                            Labelrcsr.Text += "日养;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日养"; Labelrcsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == yii)
+                    if (ntg == yii)
                     {
                         if (rdz == wuma)
                         {
-                            Labelrcsr.Text += "日长生;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日长生"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == sii)
                         {
-                            Labelrcsr.Text += "日沐浴;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日沐浴"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == chen)
                         {
-                            Labelrcsr.Text += "日冠带;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日冠带"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == mao)
                         {
-                            Labelrcsr.Text += "日临官;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日临官"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == yin)
                         {
-                            Labelrcsr.Text += "日帝旺;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日帝旺"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == chou)
                         {
-                            Labelrcsr.Text += "日衰;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日衰"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == zii)
                         {
-                            Labelrcsr.Text += "日病;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日病"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == hai)
                         {
-                            Labelrcsr.Text += "日死;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日死"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == xuu)
                         {
-                            Labelrcsr.Text += "日墓;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日墓"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == you)
                         {
-                            Labelrcsr.Text += "日绝;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日绝"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == shen)
                         {
-                            Labelrcsr.Text += "日胎;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日胎"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == wei)
                         {
-                            Labelrcsr.Text += "日养;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日养"; Labelrcsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == xin)
+                    if (ntg == xin)
                     {
                         if (rdz == zii)
                         {
-                            Labelrcsr.Text += "日长生;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日长生"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == hai)
                         {
-                            Labelrcsr.Text += "日沐浴;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日沐浴"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == xuu)
                         {
-                            Labelrcsr.Text += "日冠带;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日冠带"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == you)
                         {
-                            Labelrcsr.Text += "日临官;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日临官"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == shen)
                         {
-                            Labelrcsr.Text += "日帝旺;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日帝旺"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == wei)
                         {
-                            Labelrcsr.Text += "日衰;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日衰"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == wuma)
                         {
-                            Labelrcsr.Text += "日病;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日病"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == sii)
                         {
-                            Labelrcsr.Text += "日死;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日死"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == chen)
                         {
-                            Labelrcsr.Text += "日墓;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日墓"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == mao)
                         {
-                            Labelrcsr.Text += "日绝;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日绝"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == yin)
                         {
-                            Labelrcsr.Text += "日胎;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日胎"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chou)
                         {
-                            Labelrcsr.Text += "日养;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日养"; Labelrcsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == gui)
+                    if (ntg == gui)
                     {
                         if (rdz == mao)
                         {
-                            Labelrcsr.Text += "日长生;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日长生"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == yin)
                         {
-                            Labelrcsr.Text += "日沐浴;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日沐浴"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == chou)
                         {
-                            Labelrcsr.Text += "日冠带;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日冠带"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == zii)
                         {
-                            Labelrcsr.Text += "日临官;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日临官"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == hai)
                         {
-                            Labelrcsr.Text += "日帝旺;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日帝旺"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == xuu)
                         {
-                            Labelrcsr.Text += "日衰;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日衰"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == you)
                         {
-                            Labelrcsr.Text += "日病;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日病"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == shen)
                         {
-                            Labelrcsr.Text += "日死;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日死"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == wei)
                         {
-                            Labelrcsr.Text += "日墓;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日墓"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == wuma)
                         {
-                            Labelrcsr.Text += "日绝;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日绝"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == sii)
                         {
-                            Labelrcsr.Text += "日胎;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日胎"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chen)
                         {
-                            Labelrcsr.Text += "日养;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日养"; Labelrcsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == jia)
+                    if (ntg == jia)
                     {
                         if (rdz == hai)
                         {
-                            Labelrcsr.Text += "日长生;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日长生"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == zii)
                         {
-                            Labelrcsr.Text += "日沐浴;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日沐浴"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == chou)
                         {
-                            Labelrcsr.Text += "日冠带;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日冠带"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == yin)
                         {
-                            Labelrcsr.Text += "日临官;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日临官"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == mao)
                         {
-                            Labelrcsr.Text += "日帝旺;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日帝旺"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == chen)
                         {
-                            Labelrcsr.Text += "日衰;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日衰"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == sii)
                         {
-                            Labelrcsr.Text += "日病;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日病"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == wuma)
                         {
-                            Labelrcsr.Text += "日死;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日死"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == wei)
                         {
-                            Labelrcsr.Text += "日墓;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日墓"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == shen)
                         {
-                            Labelrcsr.Text += "日绝;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日绝"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == you)
                         {
-                            Labelrcsr.Text += "日胎;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日胎"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == xuu)
                         {
-                            Labelrcsr.Text += "日养;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日养"; Labelrcsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == geng)
+                    if (ntg == geng)
                     {
                         if (rdz == sii)
                         {
-                            Labelrcsr.Text += "日长生;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日长生"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == wuma)
                         {
-                            Labelrcsr.Text += "日沐浴;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日沐浴"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == wei)
                         {
-                            Labelrcsr.Text += "日冠带;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日冠带"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == shen)
                         {
-                            Labelrcsr.Text += "日临官;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日临官"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == you)
                         {
-                            Labelrcsr.Text += "日帝旺;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日帝旺"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == xuu)
                         {
-                            Labelrcsr.Text += "日衰;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日衰"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == hai)
                         {
-                            Labelrcsr.Text += "日病;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日病"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == zii)
                         {
-                            Labelrcsr.Text += "日死;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日死"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == chou)
                         {
-                            Labelrcsr.Text += "日墓;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日墓"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == yin)
                         {
-                            Labelrcsr.Text += "日绝;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日绝"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == mao)
                         {
-                            Labelrcsr.Text += "日胎;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日胎"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chen)
                         {
-                            Labelrcsr.Text += "日养;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日养"; Labelrcsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == ren)
+                    if (ntg == ren)
                     {
                         if (rdz == shen)
                         {
-                            Labelrcsr.Text += "日长生;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日长生"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == you)
                         {
-                            Labelrcsr.Text += "日沐浴;"; Labelrcsr.ForeColor = Color.Green;
+                            Labelrcsr.Text += "日沐浴"; Labelrcsr.ForeColor = Color.Green;
                         }
                         if (rdz == xuu)
                         {
-                            Labelrcsr.Text += "日冠带;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日冠带"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == hai)
                         {
-                            Labelrcsr.Text += "日临官;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日临官"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == zii)
                         {
-                            Labelrcsr.Text += "日帝旺;"; Labelrcsr.ForeColor = Color.Red;
+                            Labelrcsr.Text += "日帝旺"; Labelrcsr.ForeColor = Color.Red;
                         }
                         if (rdz == chou)
                         {
-                            Labelrcsr.Text += "日衰;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日衰"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == yin)
                         {
-                            Labelrcsr.Text += "日病;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日病"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == mao)
                         {
-                            Labelrcsr.Text += "日死;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日死"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == chen)
                         {
-                            Labelrcsr.Text += "日墓;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日墓"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == sii)
                         {
-                            Labelrcsr.Text += "日绝;"; Labelrcsr.ForeColor = Color.Black;
+                            Labelrcsr.Text += "日绝"; Labelrcsr.ForeColor = Color.Black;
                         }
                         if (rdz == wuma)
                         {
-                            Labelrcsr.Text += "日胎;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日胎"; Labelrcsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == wei)
                         {
-                            Labelrcsr.Text += "日养;"; Labelrcsr.ForeColor = Color.DimGray;
+                            Labelrcsr.Text += "日养"; Labelrcsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == bing)
+                    if (ntg == bing)
                     {
                         if (sdz == yin)
                         {
-                            Labelrcss.Text += "时长生;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时长生"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == mao)
                         {
-                            Labelrcss.Text += "时沐浴;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时沐浴"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == chen)
                         {
-                            Labelrcss.Text += "时冠带;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时冠带"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == sii)
                         {
-                            Labelrcss.Text += "时临官;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时临官"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == wuma)
                         {
-                            Labelrcss.Text += "时帝旺;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时帝旺"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == wei)
                         {
-                            Labelrcss.Text += "时衰;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时衰"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == shen)
                         {
-                            Labelrcss.Text += "时病;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时病"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == you)
                         {
-                            Labelrcss.Text += "时死;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时死"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == xuu)
                         {
-                            Labelrcss.Text += "时墓;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时墓"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == hai)
                         {
-                            Labelrcss.Text += "时绝;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时绝"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == zii)
                         {
-                            Labelrcss.Text += "时胎;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时胎"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chou)
                         {
-                            Labelrcss.Text += "时养;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时养"; Labelrcss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == wuu)
+                    if (ntg == wuu)
                     {
                         if (sdz == yin)
                         {
-                            Labelrcss.Text += "时长生;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时长生"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == mao)
                         {
-                            Labelrcss.Text += "时沐浴;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时沐浴"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == chen)
                         {
-                            Labelrcss.Text += "时冠带;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时冠带"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == sii)
                         {
-                            Labelrcss.Text += "时临官;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时临官"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == wuma)
                         {
-                            Labelrcss.Text += "时帝旺;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时帝旺"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == wei)
                         {
-                            Labelrcss.Text += "时衰;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时衰"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == shen)
                         {
-                            Labelrcss.Text += "时病;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时病"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == you)
                         {
-                            Labelrcss.Text += "时死;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时死"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == xuu)
                         {
-                            Labelrcss.Text += "时墓;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时墓"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == hai)
                         {
-                            Labelrcss.Text += "时绝;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时绝"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == zii)
                         {
-                            Labelrcss.Text += "时胎;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时胎"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chou)
                         {
-                            Labelrcss.Text += "时养;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时养"; Labelrcss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == ding)
+                    if (ntg == ding)
                     {
                         if (sdz == you)
                         {
-                            Labelrcss.Text += "时长生;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时长生"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == shen)
                         {
-                            Labelrcss.Text += "时沐浴;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时沐浴"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == wei)
                         {
-                            Labelrcss.Text += "时冠带;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时冠带"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == wuma)
                         {
-                            Labelrcss.Text += "时临官;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时临官"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == sii)
                         {
-                            Labelrcss.Text += "时帝旺;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时帝旺"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == chen)
                         {
-                            Labelrcss.Text += "时衰;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时衰"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == mao)
                         {
-                            Labelrcss.Text += "时病;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时病"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == yin)
                         {
-                            Labelrcss.Text += "时死;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时死"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == chou)
                         {
-                            Labelrcss.Text += "时墓;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时墓"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == zii)
                         {
-                            Labelrcss.Text += "时绝;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时绝"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == hai)
                         {
-                            Labelrcss.Text += "时胎;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时胎"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == xuu)
                         {
-                            Labelrcss.Text += "时养;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时养"; Labelrcss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == jii)
+                    if (ntg == jii)
                     {
                         if (sdz == you)
                         {
-                            Labelrcss.Text += "时长生;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时长生"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == shen)
                         {
-                            Labelrcss.Text += "时沐浴;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时沐浴"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == wei)
                         {
-                            Labelrcss.Text += "时冠带;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时冠带"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == wuma)
                         {
-                            Labelrcss.Text += "时临官;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时临官"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == sii)
                         {
-                            Labelrcss.Text += "时帝旺;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时帝旺"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == chen)
                         {
-                            Labelrcss.Text += "时衰;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时衰"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == mao)
                         {
-                            Labelrcss.Text += "时病;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时病"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == yin)
                         {
-                            Labelrcss.Text += "时死;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时死"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == chou)
                         {
-                            Labelrcss.Text += "时墓;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时墓"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == zii)
                         {
-                            Labelrcss.Text += "时绝;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时绝"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == hai)
                         {
-                            Labelrcss.Text += "时胎;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时胎"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == xuu)
                         {
-                            Labelrcss.Text += "时养;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时养"; Labelrcss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == yii)
+                    if (ntg == yii)
                     {
                         if (sdz == wuma)
                         {
-                            Labelrcss.Text += "时长生;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时长生"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == sii)
                         {
-                            Labelrcss.Text += "时沐浴;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时沐浴"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == chen)
                         {
-                            Labelrcss.Text += "时冠带;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时冠带"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == mao)
                         {
-                            Labelrcss.Text += "时临官;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时临官"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == yin)
                         {
-                            Labelrcss.Text += "时帝旺;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时帝旺"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == chou)
                         {
-                            Labelrcss.Text += "时衰;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时衰"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == zii)
                         {
-                            Labelrcss.Text += "时病;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时病"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == hai)
                         {
-                            Labelrcss.Text += "时死;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时死"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == xuu)
                         {
-                            Labelrcss.Text += "时墓;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时墓"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == you)
                         {
-                            Labelrcss.Text += "时绝;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时绝"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == shen)
                         {
-                            Labelrcss.Text += "时胎;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时胎"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == wei)
                         {
-                            Labelrcss.Text += "时养;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时养"; Labelrcss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == xin)
+                    if (ntg == xin)
                     {
                         if (sdz == zii)
                         {
-                            Labelrcss.Text += "时长生;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时长生"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == hai)
                         {
-                            Labelrcss.Text += "时沐浴;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时沐浴"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == xuu)
                         {
-                            Labelrcss.Text += "时冠带;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时冠带"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == you)
                         {
-                            Labelrcss.Text += "时临官;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时临官"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == shen)
                         {
-                            Labelrcss.Text += "时帝旺;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时帝旺"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == wei)
                         {
-                            Labelrcss.Text += "时衰;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时衰"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == wuma)
                         {
-                            Labelrcss.Text += "时病;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时病"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == sii)
                         {
-                            Labelrcss.Text += "时死;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时死"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == chen)
                         {
-                            Labelrcss.Text += "时墓;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时墓"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == mao)
                         {
-                            Labelrcss.Text += "时绝;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时绝"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == yin)
                         {
-                            Labelrcss.Text += "时胎;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时胎"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chou)
                         {
-                            Labelrcss.Text += "时养;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时养"; Labelrcss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == gui)
+                    if (ntg == gui)
                     {
                         if (sdz == mao)
                         {
-                            Labelrcss.Text += "时长生;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时长生"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == yin)
                         {
-                            Labelrcss.Text += "时沐浴;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时沐浴"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == chou)
                         {
-                            Labelrcss.Text += "时冠带;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时冠带"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == zii)
                         {
-                            Labelrcss.Text += "时临官;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时临官"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == hai)
                         {
-                            Labelrcss.Text += "时帝旺;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时帝旺"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == xuu)
                         {
-                            Labelrcss.Text += "时衰;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时衰"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == you)
                         {
-                            Labelrcss.Text += "时病;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时病"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == shen)
                         {
-                            Labelrcss.Text += "时死;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时死"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == wei)
                         {
-                            Labelrcss.Text += "时墓;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时墓"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == wuma)
                         {
-                            Labelrcss.Text += "时绝;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时绝"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == sii)
                         {
-                            Labelrcss.Text += "时胎;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时胎"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chen)
                         {
-                            Labelrcss.Text += "时养;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时养"; Labelrcss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == jia)
+                    if (ntg == jia)
                     {
                         if (sdz == hai)
                         {
-                            Labelrcss.Text += "时长生;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时长生"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == zii)
                         {
-                            Labelrcss.Text += "时沐浴;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时沐浴"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == chou)
                         {
-                            Labelrcss.Text += "时冠带;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时冠带"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == yin)
                         {
-                            Labelrcss.Text += "时临官;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时临官"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == mao)
                         {
-                            Labelrcss.Text += "时帝旺;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时帝旺"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == chen)
                         {
-                            Labelrcss.Text += "时衰;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时衰"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == sii)
                         {
-                            Labelrcss.Text += "时病;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时病"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == wuma)
                         {
-                            Labelrcss.Text += "时死;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时死"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == wei)
                         {
-                            Labelrcss.Text += "时墓;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时墓"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == shen)
                         {
-                            Labelrcss.Text += "时绝;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时绝"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == you)
                         {
-                            Labelrcss.Text += "时胎;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时胎"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == xuu)
                         {
-                            Labelrcss.Text += "时养;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时养"; Labelrcss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == geng)
+                    if (ntg == geng)
                     {
                         if (sdz == sii)
                         {
-                            Labelrcss.Text += "时长生;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时长生"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == wuma)
                         {
-                            Labelrcss.Text += "时沐浴;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时沐浴"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == wei)
                         {
-                            Labelrcss.Text += "时冠带;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时冠带"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == shen)
                         {
-                            Labelrcss.Text += "时临官;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时临官"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == you)
                         {
-                            Labelrcss.Text += "时帝旺;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时帝旺"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == xuu)
                         {
-                            Labelrcss.Text += "时衰;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时衰"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == hai)
                         {
-                            Labelrcss.Text += "时病;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时病"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == zii)
                         {
-                            Labelrcss.Text += "时死;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时死"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == chou)
                         {
-                            Labelrcss.Text += "时墓;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时墓"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == yin)
                         {
-                            Labelrcss.Text += "时绝;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时绝"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == mao)
                         {
-                            Labelrcss.Text += "时胎;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时胎"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chen)
                         {
-                            Labelrcss.Text += "时养;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时养"; Labelrcss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (rtg == ren)
+                    if (ntg == ren)
                     {
                         if (sdz == shen)
                         {
-                            Labelrcss.Text += "时长生;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时长生"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == you)
                         {
-                            Labelrcss.Text += "时沐浴;"; Labelrcss.ForeColor = Color.Green;
+                            Labelrcss.Text += "时沐浴"; Labelrcss.ForeColor = Color.Green;
                         }
                         if (sdz == xuu)
                         {
-                            Labelrcss.Text += "时冠带;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时冠带"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == hai)
                         {
-                            Labelrcss.Text += "时临官;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时临官"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == zii)
                         {
-                            Labelrcss.Text += "时帝旺;"; Labelrcss.ForeColor = Color.Red;
+                            Labelrcss.Text += "时帝旺"; Labelrcss.ForeColor = Color.Red;
                         }
                         if (sdz == chou)
                         {
-                            Labelrcss.Text += "时衰;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时衰"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == yin)
                         {
-                            Labelrcss.Text += "时病;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时病"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == mao)
                         {
-                            Labelrcss.Text += "时死;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时死"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == chen)
                         {
-                            Labelrcss.Text += "时墓;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时墓"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == sii)
                         {
-                            Labelrcss.Text += "时绝;"; Labelrcss.ForeColor = Color.Black;
+                            Labelrcss.Text += "时绝"; Labelrcss.ForeColor = Color.Black;
                         }
                         if (sdz == wuma)
                         {
-                            Labelrcss.Text += "时胎;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时胎"; Labelrcss.ForeColor = Color.DimGray;
                         }
                         if (sdz == wei)
                         {
-                            Labelrcss.Text += "时养;"; Labelrcss.ForeColor = Color.DimGray;
+                            Labelrcss.Text += "时养"; Labelrcss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == bing)
+                    if (ntg == bing)
                     {
                         if (ndz == yin)
                         {
-                            Labelscsn.Text += "年长生;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年长生"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == mao)
                         {
-                            Labelscsn.Text += "年沐浴;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年沐浴"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == chen)
                         {
-                            Labelscsn.Text += "年冠带;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年冠带"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == sii)
                         {
-                            Labelscsn.Text += "年临官;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年临官"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == wuma)
                         {
-                            Labelscsn.Text += "年帝旺;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年帝旺"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == wei)
                         {
-                            Labelscsn.Text += "年衰;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年衰"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == shen)
                         {
-                            Labelscsn.Text += "年病;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年病"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == you)
                         {
-                            Labelscsn.Text += "年死;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年死"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == xuu)
                         {
-                            Labelscsn.Text += "年墓;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年墓"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == hai)
                         {
-                            Labelscsn.Text += "年绝;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年绝"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == zii)
                         {
-                            Labelscsn.Text += "年胎;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年胎"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chou)
                         {
-                            Labelscsn.Text += "年养;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年养"; Labelscsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == wuu)
+                    if (ntg == wuu)
                     {
                         if (ndz == yin)
                         {
-                            Labelscsn.Text += "年长生;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年长生"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == mao)
                         {
-                            Labelscsn.Text += "年沐浴;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年沐浴"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == chen)
                         {
-                            Labelscsn.Text += "年冠带;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年冠带"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == sii)
                         {
-                            Labelscsn.Text += "年临官;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年临官"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == wuma)
                         {
-                            Labelscsn.Text += "年帝旺;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年帝旺"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == wei)
                         {
-                            Labelscsn.Text += "年衰;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年衰"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == shen)
                         {
-                            Labelscsn.Text += "年病;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年病"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == you)
                         {
-                            Labelscsn.Text += "年死;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年死"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == xuu)
                         {
-                            Labelscsn.Text += "年墓;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年墓"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == hai)
                         {
-                            Labelscsn.Text += "年绝;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年绝"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == zii)
                         {
-                            Labelscsn.Text += "年胎;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年胎"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chou)
                         {
-                            Labelscsn.Text += "年养;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年养"; Labelscsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == ding)
+                    if (ntg == ding)
                     {
                         if (ndz == you)
                         {
-                            Labelscsn.Text += "年长生;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年长生"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == shen)
                         {
-                            Labelscsn.Text += "年沐浴;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年沐浴"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == wei)
                         {
-                            Labelscsn.Text += "年冠带;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年冠带"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == wuma)
                         {
-                            Labelscsn.Text += "年临官;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年临官"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == sii)
                         {
-                            Labelscsn.Text += "年帝旺;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年帝旺"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == chen)
                         {
-                            Labelscsn.Text += "年衰;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年衰"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == mao)
                         {
-                            Labelscsn.Text += "年病;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年病"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == yin)
                         {
-                            Labelscsn.Text += "年死;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年死"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == chou)
                         {
-                            Labelscsn.Text += "年墓;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年墓"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == zii)
                         {
-                            Labelscsn.Text += "年绝;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年绝"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == hai)
                         {
-                            Labelscsn.Text += "年胎;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年胎"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == xuu)
                         {
-                            Labelscsn.Text += "年养;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年养"; Labelscsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == jii)
+                    if (ntg == jii)
                     {
                         if (ndz == you)
                         {
-                            Labelscsn.Text += "年长生;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年长生"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == shen)
                         {
-                            Labelscsn.Text += "年沐浴;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年沐浴"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == wei)
                         {
-                            Labelscsn.Text += "年冠带;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年冠带"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == wuma)
                         {
-                            Labelscsn.Text += "年临官;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年临官"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == sii)
                         {
-                            Labelscsn.Text += "年帝旺;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年帝旺"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == chen)
                         {
-                            Labelscsn.Text += "年衰;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年衰"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == mao)
                         {
-                            Labelscsn.Text += "年病;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年病"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == yin)
                         {
-                            Labelscsn.Text += "年死;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年死"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == chou)
                         {
-                            Labelscsn.Text += "年墓;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年墓"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == zii)
                         {
-                            Labelscsn.Text += "年绝;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年绝"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == hai)
                         {
-                            Labelscsn.Text += "年胎;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年胎"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == xuu)
                         {
-                            Labelscsn.Text += "年养;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年养"; Labelscsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == yii)
+                    if (ntg == yii)
                     {
                         if (ndz == wuma)
                         {
-                            Labelscsn.Text += "年长生;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年长生"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == sii)
                         {
-                            Labelscsn.Text += "年沐浴;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年沐浴"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == chen)
                         {
-                            Labelscsn.Text += "年冠带;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年冠带"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == mao)
                         {
-                            Labelscsn.Text += "年临官;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年临官"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == yin)
                         {
-                            Labelscsn.Text += "年帝旺;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年帝旺"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == chou)
                         {
-                            Labelscsn.Text += "年衰;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年衰"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == zii)
                         {
-                            Labelscsn.Text += "年病;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年病"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == hai)
                         {
-                            Labelscsn.Text += "年死;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年死"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == xuu)
                         {
-                            Labelscsn.Text += "年墓;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年墓"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == you)
                         {
-                            Labelscsn.Text += "年绝;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年绝"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == shen)
                         {
-                            Labelscsn.Text += "年胎;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年胎"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == wei)
                         {
-                            Labelscsn.Text += "年养;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年养"; Labelscsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == xin)
+                    if (ntg == xin)
                     {
                         if (ndz == zii)
                         {
-                            Labelscsn.Text += "年长生;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年长生"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == hai)
                         {
-                            Labelscsn.Text += "年沐浴;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年沐浴"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == xuu)
                         {
-                            Labelscsn.Text += "年冠带;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年冠带"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == you)
                         {
-                            Labelscsn.Text += "年临官;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年临官"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == shen)
                         {
-                            Labelscsn.Text += "年帝旺;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年帝旺"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == wei)
                         {
-                            Labelscsn.Text += "年衰;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年衰"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == wuma)
                         {
-                            Labelscsn.Text += "年病;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年病"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == sii)
                         {
-                            Labelscsn.Text += "年死;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年死"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == chen)
                         {
-                            Labelscsn.Text += "年墓;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年墓"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == mao)
                         {
-                            Labelscsn.Text += "年绝;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年绝"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == yin)
                         {
-                            Labelscsn.Text += "年胎;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年胎"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chou)
                         {
-                            Labelscsn.Text += "年养;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年养"; Labelscsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == gui)
+                    if (ntg == gui)
                     {
                         if (ndz == mao)
                         {
-                            Labelscsn.Text += "年长生;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年长生"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == yin)
                         {
-                            Labelscsn.Text += "年沐浴;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年沐浴"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == chou)
                         {
-                            Labelscsn.Text += "年冠带;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年冠带"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == zii)
                         {
-                            Labelscsn.Text += "年临官;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年临官"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == hai)
                         {
-                            Labelscsn.Text += "年帝旺;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年帝旺"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == xuu)
                         {
-                            Labelscsn.Text += "年衰;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年衰"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == you)
                         {
-                            Labelscsn.Text += "年病;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年病"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == shen)
                         {
-                            Labelscsn.Text += "年死;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年死"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == wei)
                         {
-                            Labelscsn.Text += "年墓;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年墓"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == wuma)
                         {
-                            Labelscsn.Text += "年绝;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年绝"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == sii)
                         {
-                            Labelscsn.Text += "年胎;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年胎"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chen)
                         {
-                            Labelscsn.Text += "年养;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年养"; Labelscsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == jia)
+                    if (ntg == jia)
                     {
                         if (ndz == hai)
                         {
-                            Labelscsn.Text += "年长生;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年长生"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == zii)
                         {
-                            Labelscsn.Text += "年沐浴;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年沐浴"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == chou)
                         {
-                            Labelscsn.Text += "年冠带;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年冠带"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == yin)
                         {
-                            Labelscsn.Text += "年临官;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年临官"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == mao)
                         {
-                            Labelscsn.Text += "年帝旺;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年帝旺"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == chen)
                         {
-                            Labelscsn.Text += "年衰;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年衰"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == sii)
                         {
-                            Labelscsn.Text += "年病;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年病"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == wuma)
                         {
-                            Labelscsn.Text += "年死;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年死"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == wei)
                         {
-                            Labelscsn.Text += "年墓;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年墓"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == shen)
                         {
-                            Labelscsn.Text += "年绝;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年绝"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == you)
                         {
-                            Labelscsn.Text += "年胎;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年胎"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == xuu)
                         {
-                            Labelscsn.Text += "年养;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年养"; Labelscsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == geng)
+                    if (ntg == geng)
                     {
                         if (ndz == sii)
                         {
-                            Labelscsn.Text += "年长生;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年长生"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == wuma)
                         {
-                            Labelscsn.Text += "年沐浴;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年沐浴"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == wei)
                         {
-                            Labelscsn.Text += "年冠带;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年冠带"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == shen)
                         {
-                            Labelscsn.Text += "年临官;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年临官"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == you)
                         {
-                            Labelscsn.Text += "年帝旺;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年帝旺"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == xuu)
                         {
-                            Labelscsn.Text += "年衰;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年衰"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == hai)
                         {
-                            Labelscsn.Text += "年病;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年病"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == zii)
                         {
-                            Labelscsn.Text += "年死;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年死"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == chou)
                         {
-                            Labelscsn.Text += "年墓;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年墓"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == yin)
                         {
-                            Labelscsn.Text += "年绝;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年绝"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == mao)
                         {
-                            Labelscsn.Text += "年胎;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年胎"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == chen)
                         {
-                            Labelscsn.Text += "年养;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年养"; Labelscsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == ren)
+                    if (ntg == ren)
                     {
                         if (ndz == shen)
                         {
-                            Labelscsn.Text += "年长生;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年长生"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == you)
                         {
-                            Labelscsn.Text += "年沐浴;"; Labelscsn.ForeColor = Color.Green;
+                            Labelscsn.Text += "年沐浴"; Labelscsn.ForeColor = Color.Green;
                         }
                         if (ndz == xuu)
                         {
-                            Labelscsn.Text += "年冠带;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年冠带"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == hai)
                         {
-                            Labelscsn.Text += "年临官;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年临官"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == zii)
                         {
-                            Labelscsn.Text += "年帝旺;"; Labelscsn.ForeColor = Color.Red;
+                            Labelscsn.Text += "年帝旺"; Labelscsn.ForeColor = Color.Red;
                         }
                         if (ndz == chou)
                         {
-                            Labelscsn.Text += "年衰;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年衰"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == yin)
                         {
-                            Labelscsn.Text += "年病;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年病"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == mao)
                         {
-                            Labelscsn.Text += "年死;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年死"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == chen)
                         {
-                            Labelscsn.Text += "年墓;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年墓"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == sii)
                         {
-                            Labelscsn.Text += "年绝;"; Labelscsn.ForeColor = Color.Black;
+                            Labelscsn.Text += "年绝"; Labelscsn.ForeColor = Color.Black;
                         }
                         if (ndz == wuma)
                         {
-                            Labelscsn.Text += "年胎;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年胎"; Labelscsn.ForeColor = Color.DimGray;
                         }
                         if (ndz == wei)
                         {
-                            Labelscsn.Text += "年养;"; Labelscsn.ForeColor = Color.DimGray;
+                            Labelscsn.Text += "年养"; Labelscsn.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == bing)
+                    if (ntg == bing)
                     {
                         if (ydz == yin)
                         {
-                            Labelscsy.Text += "月长生;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月长生"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == mao)
                         {
-                            Labelscsy.Text += "月沐浴;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月沐浴"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == chen)
                         {
-                            Labelscsy.Text += "月冠带;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月冠带"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == sii)
                         {
-                            Labelscsy.Text += "月临官;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月临官"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == wuma)
                         {
-                            Labelscsy.Text += "月帝旺;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月帝旺"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == wei)
                         {
-                            Labelscsy.Text += "月衰;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月衰"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == shen)
                         {
-                            Labelscsy.Text += "月病;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月病"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == you)
                         {
-                            Labelscsy.Text += "月死;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月死"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == xuu)
                         {
-                            Labelscsy.Text += "月墓;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月墓"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == hai)
                         {
-                            Labelscsy.Text += "月绝;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月绝"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == zii)
                         {
-                            Labelscsy.Text += "月胎;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月胎"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chou)
                         {
-                            Labelscsy.Text += "月养;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月养"; Labelscsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == wuu)
+                    if (ntg == wuu)
                     {
                         if (ydz == yin)
                         {
-                            Labelscsy.Text += "月长生;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月长生"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == mao)
                         {
-                            Labelscsy.Text += "月沐浴;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月沐浴"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == chen)
                         {
-                            Labelscsy.Text += "月冠带;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月冠带"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == sii)
                         {
-                            Labelscsy.Text += "月临官;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月临官"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == wuma)
                         {
-                            Labelscsy.Text += "月帝旺;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月帝旺"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == wei)
                         {
-                            Labelscsy.Text += "月衰;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月衰"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == shen)
                         {
-                            Labelscsy.Text += "月病;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月病"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == you)
                         {
-                            Labelscsy.Text += "月死;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月死"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == xuu)
                         {
-                            Labelscsy.Text += "月墓;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月墓"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == hai)
                         {
-                            Labelscsy.Text += "月绝;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月绝"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == zii)
                         {
-                            Labelscsy.Text += "月胎;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月胎"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chou)
                         {
-                            Labelscsy.Text += "月养;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月养"; Labelscsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == ding)
+                    if (ntg == ding)
                     {
                         if (ydz == you)
                         {
-                            Labelscsy.Text += "月长生;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月长生"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == shen)
                         {
-                            Labelscsy.Text += "月沐浴;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月沐浴"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == wei)
                         {
-                            Labelscsy.Text += "月冠带;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月冠带"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == wuma)
                         {
-                            Labelscsy.Text += "月临官;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月临官"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == sii)
                         {
-                            Labelscsy.Text += "月帝旺;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月帝旺"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == chen)
                         {
-                            Labelscsy.Text += "月衰;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月衰"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == mao)
                         {
-                            Labelscsy.Text += "月病;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月病"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == yin)
                         {
-                            Labelscsy.Text += "月死;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月死"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == chou)
                         {
-                            Labelscsy.Text += "月墓;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月墓"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == zii)
                         {
-                            Labelscsy.Text += "月绝;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月绝"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == hai)
                         {
-                            Labelscsy.Text += "月胎;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月胎"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == xuu)
                         {
-                            Labelscsy.Text += "月养;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月养"; Labelscsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == jii)
+                    if (ntg == jii)
                     {
                         if (ydz == you)
                         {
-                            Labelscsy.Text += "月长生;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月长生"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == shen)
                         {
-                            Labelscsy.Text += "月沐浴;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月沐浴"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == wei)
                         {
-                            Labelscsy.Text += "月冠带;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月冠带"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == wuma)
                         {
-                            Labelscsy.Text += "月临官;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月临官"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == sii)
                         {
-                            Labelscsy.Text += "月帝旺;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月帝旺"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == chen)
                         {
-                            Labelscsy.Text += "月衰;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月衰"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == mao)
                         {
-                            Labelscsy.Text += "月病;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月病"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == yin)
                         {
-                            Labelscsy.Text += "月死;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月死"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == chou)
                         {
-                            Labelscsy.Text += "月墓;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月墓"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == zii)
                         {
-                            Labelscsy.Text += "月绝;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月绝"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == hai)
                         {
-                            Labelscsy.Text += "月胎;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月胎"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == xuu)
                         {
-                            Labelscsy.Text += "月养;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月养"; Labelscsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == yii)
+                    if (ntg == yii)
                     {
                         if (ydz == wuma)
                         {
-                            Labelscsy.Text += "月长生;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月长生"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == sii)
                         {
-                            Labelscsy.Text += "月沐浴;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月沐浴"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == chen)
                         {
-                            Labelscsy.Text += "月冠带;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月冠带"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == mao)
                         {
-                            Labelscsy.Text += "月临官;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月临官"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == yin)
                         {
-                            Labelscsy.Text += "月帝旺;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月帝旺"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == chou)
                         {
-                            Labelscsy.Text += "月衰;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月衰"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == zii)
                         {
-                            Labelscsy.Text += "月病;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月病"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == hai)
                         {
-                            Labelscsy.Text += "月死;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月死"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == xuu)
                         {
-                            Labelscsy.Text += "月墓;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月墓"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == you)
                         {
-                            Labelscsy.Text += "月绝;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月绝"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == shen)
                         {
-                            Labelscsy.Text += "月胎;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月胎"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == wei)
                         {
-                            Labelscsy.Text += "月养;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月养"; Labelscsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == xin)
+                    if (ntg == xin)
                     {
                         if (ydz == zii)
                         {
-                            Labelscsy.Text += "月长生;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月长生"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == hai)
                         {
-                            Labelscsy.Text += "月沐浴;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月沐浴"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == xuu)
                         {
-                            Labelscsy.Text += "月冠带;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月冠带"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == you)
                         {
-                            Labelscsy.Text += "月临官;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月临官"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == shen)
                         {
-                            Labelscsy.Text += "月帝旺;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月帝旺"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == wei)
                         {
-                            Labelscsy.Text += "月衰;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月衰"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == wuma)
                         {
-                            Labelscsy.Text += "月病;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月病"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == sii)
                         {
-                            Labelscsy.Text += "月死;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月死"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == chen)
                         {
-                            Labelscsy.Text += "月墓;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月墓"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == mao)
                         {
-                            Labelscsy.Text += "月绝;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月绝"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == yin)
                         {
-                            Labelscsy.Text += "月胎;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月胎"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chou)
                         {
-                            Labelscsy.Text += "月养;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月养"; Labelscsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == gui)
+                    if (ntg == gui)
                     {
                         if (ydz == mao)
                         {
-                            Labelscsy.Text += "月长生;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月长生"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == yin)
                         {
-                            Labelscsy.Text += "月沐浴;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月沐浴"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == chou)
                         {
-                            Labelscsy.Text += "月冠带;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月冠带"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == zii)
                         {
-                            Labelscsy.Text += "月临官;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月临官"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == hai)
                         {
-                            Labelscsy.Text += "月帝旺;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月帝旺"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == xuu)
                         {
-                            Labelscsy.Text += "月衰;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月衰"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == you)
                         {
-                            Labelscsy.Text += "月病;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月病"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == shen)
                         {
-                            Labelscsy.Text += "月死;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月死"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == wei)
                         {
-                            Labelscsy.Text += "月墓;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月墓"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == wuma)
                         {
-                            Labelscsy.Text += "月绝;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月绝"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == sii)
                         {
-                            Labelscsy.Text += "月胎;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月胎"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chen)
                         {
-                            Labelscsy.Text += "月养;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月养"; Labelscsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == jia)
+                    if (ntg == jia)
                     {
                         if (ydz == hai)
                         {
-                            Labelscsy.Text += "月长生;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月长生"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == zii)
                         {
-                            Labelscsy.Text += "月沐浴;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月沐浴"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == chou)
                         {
-                            Labelscsy.Text += "月冠带;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月冠带"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == yin)
                         {
-                            Labelscsy.Text += "月临官;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月临官"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == mao)
                         {
-                            Labelscsy.Text += "月帝旺;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月帝旺"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == chen)
                         {
-                            Labelscsy.Text += "月衰;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月衰"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == sii)
                         {
-                            Labelscsy.Text += "月病;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月病"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == wuma)
                         {
-                            Labelscsy.Text += "月死;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月死"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == wei)
                         {
-                            Labelscsy.Text += "月墓;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月墓"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == shen)
                         {
-                            Labelscsy.Text += "月绝;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月绝"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == you)
                         {
-                            Labelscsy.Text += "月胎;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月胎"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == xuu)
                         {
-                            Labelscsy.Text += "月养;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月养"; Labelscsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == geng)
+                    if (ntg == geng)
                     {
                         if (ydz == sii)
                         {
-                            Labelscsy.Text += "月长生;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月长生"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == wuma)
                         {
-                            Labelscsy.Text += "月沐浴;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月沐浴"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == wei)
                         {
-                            Labelscsy.Text += "月冠带;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月冠带"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == shen)
                         {
-                            Labelscsy.Text += "月临官;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月临官"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == you)
                         {
-                            Labelscsy.Text += "月帝旺;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月帝旺"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == xuu)
                         {
-                            Labelscsy.Text += "月衰;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月衰"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == hai)
                         {
-                            Labelscsy.Text += "月病;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月病"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == zii)
                         {
-                            Labelscsy.Text += "月死;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月死"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == chou)
                         {
-                            Labelscsy.Text += "月墓;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月墓"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == yin)
                         {
-                            Labelscsy.Text += "月绝;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月绝"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == mao)
                         {
-                            Labelscsy.Text += "月胎;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月胎"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == chen)
                         {
-                            Labelscsy.Text += "月养;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月养"; Labelscsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == ren)
+                    if (ntg == ren)
                     {
                         if (ydz == shen)
                         {
-                            Labelscsy.Text += "月长生;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月长生"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == you)
                         {
-                            Labelscsy.Text += "月沐浴;"; Labelscsy.ForeColor = Color.Green;
+                            Labelscsy.Text += "月沐浴"; Labelscsy.ForeColor = Color.Green;
                         }
                         if (ydz == xuu)
                         {
-                            Labelscsy.Text += "月冠带;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月冠带"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == hai)
                         {
-                            Labelscsy.Text += "月临官;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月临官"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == zii)
                         {
-                            Labelscsy.Text += "月帝旺;"; Labelscsy.ForeColor = Color.Red;
+                            Labelscsy.Text += "月帝旺"; Labelscsy.ForeColor = Color.Red;
                         }
                         if (ydz == chou)
                         {
-                            Labelscsy.Text += "月衰;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月衰"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == yin)
                         {
-                            Labelscsy.Text += "月病;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月病"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == mao)
                         {
-                            Labelscsy.Text += "月死;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月死"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == chen)
                         {
-                            Labelscsy.Text += "月墓;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月墓"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == sii)
                         {
-                            Labelscsy.Text += "月绝;"; Labelscsy.ForeColor = Color.Black;
+                            Labelscsy.Text += "月绝"; Labelscsy.ForeColor = Color.Black;
                         }
                         if (ydz == wuma)
                         {
-                            Labelscsy.Text += "月胎;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月胎"; Labelscsy.ForeColor = Color.DimGray;
                         }
                         if (ydz == wei)
                         {
-                            Labelscsy.Text += "月养;"; Labelscsy.ForeColor = Color.DimGray;
+                            Labelscsy.Text += "月养"; Labelscsy.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == bing)
+                    if (ntg == bing)
                     {
                         if (rdz == yin)
                         {
-                            Labelscsr.Text += "日长生;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日长生"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == mao)
                         {
-                            Labelscsr.Text += "日沐浴;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日沐浴"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == chen)
                         {
-                            Labelscsr.Text += "日冠带;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日冠带"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == sii)
                         {
-                            Labelscsr.Text += "日临官;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日临官"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == wuma)
                         {
-                            Labelscsr.Text += "日帝旺;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日帝旺"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == wei)
                         {
-                            Labelscsr.Text += "日衰;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日衰"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == shen)
                         {
-                            Labelscsr.Text += "日病;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日病"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == you)
                         {
-                            Labelscsr.Text += "日死;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日死"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == xuu)
                         {
-                            Labelscsr.Text += "日墓;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日墓"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == hai)
                         {
-                            Labelscsr.Text += "日绝;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日绝"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == zii)
                         {
-                            Labelscsr.Text += "日胎;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日胎"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chou)
                         {
-                            Labelscsr.Text += "日养;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日养"; Labelscsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == wuu)
+                    if (ntg == wuu)
                     {
                         if (rdz == yin)
                         {
-                            Labelscsr.Text += "日长生;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日长生"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == mao)
                         {
-                            Labelscsr.Text += "日沐浴;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日沐浴"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == chen)
                         {
-                            Labelscsr.Text += "日冠带;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日冠带"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == sii)
                         {
-                            Labelscsr.Text += "日临官;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日临官"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == wuma)
                         {
-                            Labelscsr.Text += "日帝旺;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日帝旺"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == wei)
                         {
-                            Labelscsr.Text += "日衰;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日衰"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == shen)
                         {
-                            Labelscsr.Text += "日病;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日病"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == you)
                         {
-                            Labelscsr.Text += "日死;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日死"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == xuu)
                         {
-                            Labelscsr.Text += "日墓;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日墓"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == hai)
                         {
-                            Labelscsr.Text += "日绝;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日绝"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == zii)
                         {
-                            Labelscsr.Text += "日胎;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日胎"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chou)
                         {
-                            Labelscsr.Text += "日养;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日养"; Labelscsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == ding)
+                    if (ntg == ding)
                     {
                         if (rdz == you)
                         {
-                            Labelscsr.Text += "日长生;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日长生"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == shen)
                         {
-                            Labelscsr.Text += "日沐浴;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日沐浴"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == wei)
                         {
-                            Labelscsr.Text += "日冠带;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日冠带"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == wuma)
                         {
-                            Labelscsr.Text += "日临官;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日临官"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == sii)
                         {
-                            Labelscsr.Text += "日帝旺;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日帝旺"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == chen)
                         {
-                            Labelscsr.Text += "日衰;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日衰"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == mao)
                         {
-                            Labelscsr.Text += "日病;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日病"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == yin)
                         {
-                            Labelscsr.Text += "日死;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日死"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == chou)
                         {
-                            Labelscsr.Text += "日墓;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日墓"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == zii)
                         {
-                            Labelscsr.Text += "日绝;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日绝"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == hai)
                         {
-                            Labelscsr.Text += "日胎;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日胎"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == xuu)
                         {
-                            Labelscsr.Text += "日养;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日养"; Labelscsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == jii)
+                    if (ntg == jii)
                     {
                         if (rdz == you)
                         {
-                            Labelscsr.Text += "日长生;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日长生"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == shen)
                         {
-                            Labelscsr.Text += "日沐浴;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日沐浴"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == wei)
                         {
-                            Labelscsr.Text += "日冠带;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日冠带"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == wuma)
                         {
-                            Labelscsr.Text += "日临官;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日临官"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == sii)
                         {
-                            Labelscsr.Text += "日帝旺;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日帝旺"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == chen)
                         {
-                            Labelscsr.Text += "日衰;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日衰"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == mao)
                         {
-                            Labelscsr.Text += "日病;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日病"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == yin)
                         {
-                            Labelscsr.Text += "日死;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日死"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == chou)
                         {
-                            Labelscsr.Text += "日墓;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日墓"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == zii)
                         {
-                            Labelscsr.Text += "日绝;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日绝"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == hai)
                         {
-                            Labelscsr.Text += "日胎;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日胎"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == xuu)
                         {
-                            Labelscsr.Text += "日养;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日养"; Labelscsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == yii)
+                    if (ntg == yii)
                     {
                         if (rdz == wuma)
                         {
-                            Labelscsr.Text += "日长生;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日长生"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == sii)
                         {
-                            Labelscsr.Text += "日沐浴;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日沐浴"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == chen)
                         {
-                            Labelscsr.Text += "日冠带;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日冠带"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == mao)
                         {
-                            Labelscsr.Text += "日临官;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日临官"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == yin)
                         {
-                            Labelscsr.Text += "日帝旺;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日帝旺"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == chou)
                         {
-                            Labelscsr.Text += "日衰;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日衰"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == zii)
                         {
-                            Labelscsr.Text += "日病;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日病"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == hai)
                         {
-                            Labelscsr.Text += "日死;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日死"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == xuu)
                         {
-                            Labelscsr.Text += "日墓;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日墓"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == you)
                         {
-                            Labelscsr.Text += "日绝;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日绝"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == shen)
                         {
-                            Labelscsr.Text += "日胎;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日胎"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == wei)
                         {
-                            Labelscsr.Text += "日养;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日养"; Labelscsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == xin)
+                    if (ntg == xin)
                     {
                         if (rdz == zii)
                         {
-                            Labelscsr.Text += "日长生;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日长生"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == hai)
                         {
-                            Labelscsr.Text += "日沐浴;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日沐浴"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == xuu)
                         {
-                            Labelscsr.Text += "日冠带;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日冠带"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == you)
                         {
-                            Labelscsr.Text += "日临官;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日临官"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == shen)
                         {
-                            Labelscsr.Text += "日帝旺;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日帝旺"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == wei)
                         {
-                            Labelscsr.Text += "日衰;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日衰"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == wuma)
                         {
-                            Labelscsr.Text += "日病;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日病"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == sii)
                         {
-                            Labelscsr.Text += "日死;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日死"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == chen)
                         {
-                            Labelscsr.Text += "日墓;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日墓"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == mao)
                         {
-                            Labelscsr.Text += "日绝;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日绝"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == yin)
                         {
-                            Labelscsr.Text += "日胎;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日胎"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chou)
                         {
-                            Labelscsr.Text += "日养;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日养"; Labelscsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == gui)
+                    if (ntg == gui)
                     {
                         if (rdz == mao)
                         {
-                            Labelscsr.Text += "日长生;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日长生"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == yin)
                         {
-                            Labelscsr.Text += "日沐浴;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日沐浴"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == chou)
                         {
-                            Labelscsr.Text += "日冠带;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日冠带"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == zii)
                         {
-                            Labelscsr.Text += "日临官;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日临官"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == hai)
                         {
-                            Labelscsr.Text += "日帝旺;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日帝旺"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == xuu)
                         {
-                            Labelscsr.Text += "日衰;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日衰"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == you)
                         {
-                            Labelscsr.Text += "日病;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日病"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == shen)
                         {
-                            Labelscsr.Text += "日死;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日死"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == wei)
                         {
-                            Labelscsr.Text += "日墓;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日墓"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == wuma)
                         {
-                            Labelscsr.Text += "日绝;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日绝"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == sii)
                         {
-                            Labelscsr.Text += "日胎;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日胎"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chen)
                         {
-                            Labelscsr.Text += "日养;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日养"; Labelscsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == jia)
+                    if (ntg == jia)
                     {
                         if (rdz == hai)
                         {
-                            Labelscsr.Text += "日长生;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日长生"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == zii)
                         {
-                            Labelscsr.Text += "日沐浴;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日沐浴"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == chou)
                         {
-                            Labelscsr.Text += "日冠带;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日冠带"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == yin)
                         {
-                            Labelscsr.Text += "日临官;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日临官"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == mao)
                         {
-                            Labelscsr.Text += "日帝旺;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日帝旺"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == chen)
                         {
-                            Labelscsr.Text += "日衰;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日衰"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == sii)
                         {
-                            Labelscsr.Text += "日病;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日病"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == wuma)
                         {
-                            Labelscsr.Text += "日死;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日死"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == wei)
                         {
-                            Labelscsr.Text += "日墓;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日墓"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == shen)
                         {
-                            Labelscsr.Text += "日绝;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日绝"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == you)
                         {
-                            Labelscsr.Text += "日胎;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日胎"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == xuu)
                         {
-                            Labelscsr.Text += "日养;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日养"; Labelscsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == geng)
+                    if (ntg == geng)
                     {
                         if (rdz == sii)
                         {
-                            Labelscsr.Text += "日长生;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日长生"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == wuma)
                         {
-                            Labelscsr.Text += "日沐浴;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日沐浴"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == wei)
                         {
-                            Labelscsr.Text += "日冠带;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日冠带"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == shen)
                         {
-                            Labelscsr.Text += "日临官;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日临官"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == you)
                         {
-                            Labelscsr.Text += "日帝旺;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日帝旺"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == xuu)
                         {
-                            Labelscsr.Text += "日衰;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日衰"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == hai)
                         {
-                            Labelscsr.Text += "日病;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日病"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == zii)
                         {
-                            Labelscsr.Text += "日死;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日死"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == chou)
                         {
-                            Labelscsr.Text += "日墓;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日墓"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == yin)
                         {
-                            Labelscsr.Text += "日绝;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日绝"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == mao)
                         {
-                            Labelscsr.Text += "日胎;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日胎"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == chen)
                         {
-                            Labelscsr.Text += "日养;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日养"; Labelscsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == ren)
+                    if (ntg == ren)
                     {
                         if (rdz == shen)
                         {
-                            Labelscsr.Text += "日长生;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日长生"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == you)
                         {
-                            Labelscsr.Text += "日沐浴;"; Labelscsr.ForeColor = Color.Green;
+                            Labelscsr.Text += "日沐浴"; Labelscsr.ForeColor = Color.Green;
                         }
                         if (rdz == xuu)
                         {
-                            Labelscsr.Text += "日冠带;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日冠带"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == hai)
                         {
-                            Labelscsr.Text += "日临官;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日临官"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == zii)
                         {
-                            Labelscsr.Text += "日帝旺;"; Labelscsr.ForeColor = Color.Red;
+                            Labelscsr.Text += "日帝旺"; Labelscsr.ForeColor = Color.Red;
                         }
                         if (rdz == chou)
                         {
-                            Labelscsr.Text += "日衰;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日衰"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == yin)
                         {
-                            Labelscsr.Text += "日病;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日病"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == mao)
                         {
-                            Labelscsr.Text += "日死;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日死"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == chen)
                         {
-                            Labelscsr.Text += "日墓;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日墓"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == sii)
                         {
-                            Labelscsr.Text += "日绝;"; Labelscsr.ForeColor = Color.Black;
+                            Labelscsr.Text += "日绝"; Labelscsr.ForeColor = Color.Black;
                         }
                         if (rdz == wuma)
                         {
-                            Labelscsr.Text += "日胎;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日胎"; Labelscsr.ForeColor = Color.DimGray;
                         }
                         if (rdz == wei)
                         {
-                            Labelscsr.Text += "日养;"; Labelscsr.ForeColor = Color.DimGray;
+                            Labelscsr.Text += "日养"; Labelscsr.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == bing)
+                    if (ntg == bing)
                     {
                         if (sdz == yin)
                         {
-                            Labelscss.Text += "时长生;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时长生"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == mao)
                         {
-                            Labelscss.Text += "时沐浴;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时沐浴"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == chen)
                         {
-                            Labelscss.Text += "时冠带;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时冠带"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == sii)
                         {
-                            Labelscss.Text += "时临官;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时临官"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == wuma)
                         {
-                            Labelscss.Text += "时帝旺;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时帝旺"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == wei)
                         {
-                            Labelscss.Text += "时衰;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时衰"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == shen)
                         {
-                            Labelscss.Text += "时病;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时病"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == you)
                         {
-                            Labelscss.Text += "时死;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时死"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == xuu)
                         {
-                            Labelscss.Text += "时墓;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时墓"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == hai)
                         {
-                            Labelscss.Text += "时绝;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时绝"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == zii)
                         {
-                            Labelscss.Text += "时胎;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时胎"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chou)
                         {
-                            Labelscss.Text += "时养;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时养"; Labelscss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == wuu)
+                    if (ntg == wuu)
                     {
                         if (sdz == yin)
                         {
-                            Labelscss.Text += "时长生;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时长生"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == mao)
                         {
-                            Labelscss.Text += "时沐浴;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时沐浴"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == chen)
                         {
-                            Labelscss.Text += "时冠带;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时冠带"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == sii)
                         {
-                            Labelscss.Text += "时临官;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时临官"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == wuma)
                         {
-                            Labelscss.Text += "时帝旺;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时帝旺"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == wei)
                         {
-                            Labelscss.Text += "时衰;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时衰"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == shen)
                         {
-                            Labelscss.Text += "时病;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时病"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == you)
                         {
-                            Labelscss.Text += "时死;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时死"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == xuu)
                         {
-                            Labelscss.Text += "时墓;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时墓"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == hai)
                         {
-                            Labelscss.Text += "时绝;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时绝"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == zii)
                         {
-                            Labelscss.Text += "时胎;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时胎"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chou)
                         {
-                            Labelscss.Text += "时养;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时养"; Labelscss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == ding)
+                    if (ntg == ding)
                     {
                         if (sdz == you)
                         {
-                            Labelscss.Text += "时长生;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时长生"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == shen)
                         {
-                            Labelscss.Text += "时沐浴;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时沐浴"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == wei)
                         {
-                            Labelscss.Text += "时冠带;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时冠带"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == wuma)
                         {
-                            Labelscss.Text += "时临官;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时临官"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == sii)
                         {
-                            Labelscss.Text += "时帝旺;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时帝旺"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == chen)
                         {
-                            Labelscss.Text += "时衰;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时衰"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == mao)
                         {
-                            Labelscss.Text += "时病;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时病"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == yin)
                         {
-                            Labelscss.Text += "时死;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时死"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == chou)
                         {
-                            Labelscss.Text += "时墓;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时墓"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == zii)
                         {
-                            Labelscss.Text += "时绝;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时绝"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == hai)
                         {
-                            Labelscss.Text += "时胎;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时胎"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == xuu)
                         {
-                            Labelscss.Text += "时养;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时养"; Labelscss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == jii)
+                    if (ntg == jii)
                     {
                         if (sdz == you)
                         {
-                            Labelscss.Text += "时长生;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时长生"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == shen)
                         {
-                            Labelscss.Text += "时沐浴;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时沐浴"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == wei)
                         {
-                            Labelscss.Text += "时冠带;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时冠带"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == wuma)
                         {
-                            Labelscss.Text += "时临官;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时临官"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == sii)
                         {
-                            Labelscss.Text += "时帝旺;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时帝旺"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == chen)
                         {
-                            Labelscss.Text += "时衰;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时衰"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == mao)
                         {
-                            Labelscss.Text += "时病;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时病"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == yin)
                         {
-                            Labelscss.Text += "时死;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时死"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == chou)
                         {
-                            Labelscss.Text += "时墓;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时墓"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == zii)
                         {
-                            Labelscss.Text += "时绝;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时绝"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == hai)
                         {
-                            Labelscss.Text += "时胎;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时胎"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == xuu)
                         {
-                            Labelscss.Text += "时养;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时养"; Labelscss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == yii)
+                    if (ntg == yii)
                     {
                         if (sdz == wuma)
                         {
-                            Labelscss.Text += "时长生;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时长生"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == sii)
                         {
-                            Labelscss.Text += "时沐浴;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时沐浴"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == chen)
                         {
-                            Labelscss.Text += "时冠带;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时冠带"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == mao)
                         {
-                            Labelscss.Text += "时临官;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时临官"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == yin)
                         {
-                            Labelscss.Text += "时帝旺;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时帝旺"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == chou)
                         {
-                            Labelscss.Text += "时衰;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时衰"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == zii)
                         {
-                            Labelscss.Text += "时病;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时病"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == hai)
                         {
-                            Labelscss.Text += "时死;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时死"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == xuu)
                         {
-                            Labelscss.Text += "时墓;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时墓"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == you)
                         {
-                            Labelscss.Text += "时绝;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时绝"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == shen)
                         {
-                            Labelscss.Text += "时胎;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时胎"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == wei)
                         {
-                            Labelscss.Text += "时养;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时养"; Labelscss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == xin)
+                    if (ntg == xin)
                     {
                         if (sdz == zii)
                         {
-                            Labelscss.Text += "时长生;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时长生"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == hai)
                         {
-                            Labelscss.Text += "时沐浴;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时沐浴"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == xuu)
                         {
-                            Labelscss.Text += "时冠带;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时冠带"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == you)
                         {
-                            Labelscss.Text += "时临官;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时临官"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == shen)
                         {
-                            Labelscss.Text += "时帝旺;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时帝旺"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == wei)
                         {
-                            Labelscss.Text += "时衰;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时衰"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == wuma)
                         {
-                            Labelscss.Text += "时病;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时病"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == sii)
                         {
-                            Labelscss.Text += "时死;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时死"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == chen)
                         {
-                            Labelscss.Text += "时墓;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时墓"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == mao)
                         {
-                            Labelscss.Text += "时绝;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时绝"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == yin)
                         {
-                            Labelscss.Text += "时胎;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时胎"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chou)
                         {
-                            Labelscss.Text += "时养;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时养"; Labelscss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == gui)
+                    if (ntg == gui)
                     {
                         if (sdz == mao)
                         {
-                            Labelscss.Text += "时长生;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时长生"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == yin)
                         {
-                            Labelscss.Text += "时沐浴;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时沐浴"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == chou)
                         {
-                            Labelscss.Text += "时冠带;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时冠带"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == zii)
                         {
-                            Labelscss.Text += "时临官;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时临官"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == hai)
                         {
-                            Labelscss.Text += "时帝旺;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时帝旺"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == xuu)
                         {
-                            Labelscss.Text += "时衰;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时衰"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == you)
                         {
-                            Labelscss.Text += "时病;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时病"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == shen)
                         {
-                            Labelscss.Text += "时死;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时死"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == wei)
                         {
-                            Labelscss.Text += "时墓;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时墓"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == wuma)
                         {
-                            Labelscss.Text += "时绝;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时绝"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == sii)
                         {
-                            Labelscss.Text += "时胎;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时胎"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chen)
                         {
-                            Labelscss.Text += "时养;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时养"; Labelscss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == jia)
+                    if (ntg == jia)
                     {
                         if (sdz == hai)
                         {
-                            Labelscss.Text += "时长生;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时长生"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == zii)
                         {
-                            Labelscss.Text += "时沐浴;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时沐浴"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == chou)
                         {
-                            Labelscss.Text += "时冠带;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时冠带"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == yin)
                         {
-                            Labelscss.Text += "时临官;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时临官"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == mao)
                         {
-                            Labelscss.Text += "时帝旺;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时帝旺"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == chen)
                         {
-                            Labelscss.Text += "时衰;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时衰"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == sii)
                         {
-                            Labelscss.Text += "时病;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时病"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == wuma)
                         {
-                            Labelscss.Text += "时死;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时死"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == wei)
                         {
-                            Labelscss.Text += "时墓;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时墓"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == shen)
                         {
-                            Labelscss.Text += "时绝;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时绝"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == you)
                         {
-                            Labelscss.Text += "时胎;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时胎"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == xuu)
                         {
-                            Labelscss.Text += "时养;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时养"; Labelscss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == geng)
+                    if (ntg == geng)
                     {
                         if (sdz == sii)
                         {
-                            Labelscss.Text += "时长生;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时长生"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == wuma)
                         {
-                            Labelscss.Text += "时沐浴;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时沐浴"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == wei)
                         {
-                            Labelscss.Text += "时冠带;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时冠带"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == shen)
                         {
-                            Labelscss.Text += "时临官;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时临官"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == you)
                         {
-                            Labelscss.Text += "时帝旺;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时帝旺"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == xuu)
                         {
-                            Labelscss.Text += "时衰;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时衰"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == hai)
                         {
-                            Labelscss.Text += "时病;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时病"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == zii)
                         {
-                            Labelscss.Text += "时死;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时死"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == chou)
                         {
-                            Labelscss.Text += "时墓;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时墓"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == yin)
                         {
-                            Labelscss.Text += "时绝;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时绝"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == mao)
                         {
-                            Labelscss.Text += "时胎;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时胎"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == chen)
                         {
-                            Labelscss.Text += "时养;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时养"; Labelscss.ForeColor = Color.DimGray;
                         }
 
                     }
-                    if (stg == ren)
+                    if (ntg == ren)
                     {
                         if (sdz == shen)
                         {
-                            Labelscss.Text += "时长生;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时长生"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == you)
                         {
-                            Labelscss.Text += "时沐浴;"; Labelscss.ForeColor = Color.Green;
+                            Labelscss.Text += "时沐浴"; Labelscss.ForeColor = Color.Green;
                         }
                         if (sdz == xuu)
                         {
-                            Labelscss.Text += "时冠带;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时冠带"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == hai)
                         {
-                            Labelscss.Text += "时临官;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时临官"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == zii)
                         {
-                            Labelscss.Text += "时帝旺;"; Labelscss.ForeColor = Color.Red;
+                            Labelscss.Text += "时帝旺"; Labelscss.ForeColor = Color.Red;
                         }
                         if (sdz == chou)
                         {
-                            Labelscss.Text += "时衰;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时衰"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == yin)
                         {
-                            Labelscss.Text += "时病;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时病"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == mao)
                         {
-                            Labelscss.Text += "时死;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时死"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == chen)
                         {
-                            Labelscss.Text += "时墓;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时墓"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == sii)
                         {
-                            Labelscss.Text += "时绝;"; Labelscss.ForeColor = Color.Black;
+                            Labelscss.Text += "时绝"; Labelscss.ForeColor = Color.Black;
                         }
                         if (sdz == wuma)
                         {
-                            Labelscss.Text += "时胎;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时胎"; Labelscss.ForeColor = Color.DimGray;
                         }
                         if (sdz == wei)
                         {
-                            Labelscss.Text += "时养;"; Labelscss.ForeColor = Color.DimGray;
+                            Labelscss.Text += "时养"; Labelscss.ForeColor = Color.DimGray;
                         }
 
                     }
@@ -49502,315 +49501,315 @@ namespace BaZiFuZuGongJu
                 }
                 //穷通宝鉴
                 if (jia == jia)
+                {
+
+                    if (rtg == jia || rtg == yii)
                     {
+                        string 论木 = "论木\r\n　　木性腾上而无所止，气重则欲金任使，有金则有惟高惟敛之德。仍爱土重，则根蟠深固，土少则有枝茂根危之患。木赖水生，少则滋润，多则漂流。甲戌、乙亥、木之源。甲寅、乙卯、木之乡。甲辰、乙巳、木之生。皆活木也。甲申﹑乙酉、木受剋。甲午、乙未、木自死。甲子、乙丑、金剋木。皆死木也。生木得火而秀，丙丁相同。死木得金而造，庚辛必利。生木见金自伤，死木得火自焚，无风自止，其势乱也。遇水返化其源，其势尽也。金木相等，格谓斲轮。若向秋生，反为伤斧，是秋生忌金重也。 \r\n";
 
-                        if (rtg == jia || rtg == yii)
+                        if (rtg == jia)
                         {
-                            string 论木 = "论木\r\n　　木性腾上而无所止，气重则欲金任使，有金则有惟高惟敛之德。仍爱土重，则根蟠深固，土少则有枝茂根危之患。木赖水生，少则滋润，多则漂流。甲戌、乙亥、木之源。甲寅、乙卯、木之乡。甲辰、乙巳、木之生。皆活木也。甲申﹑乙酉、木受剋。甲午、乙未、木自死。甲子、乙丑、金剋木。皆死木也。生木得火而秀，丙丁相同。死木得金而造，庚辛必利。生木见金自伤，死木得火自焚，无风自止，其势乱也。遇水返化其源，其势尽也。金木相等，格谓斲轮。若向秋生，反为伤斧，是秋生忌金重也。 \r\n";
 
-                            if (rtg == jia)
+                            if (ydz == yin || ydz == mao || ydz == chen)
                             {
+                                string 三春甲木 = "三春甲木总论 \r\n　　春月之木，渐有生长之象。初春犹有余寒，当以火温暖，则有舒畅之美，水多变剋，有损精神。重见生旺，必用庚金斲凿，可成楝樑。春末阳壮水渴，藉水资扶，则花繁叶茂。初春无火，增之以水，则阴浓气弱，根损枝枯，不能华秀。春末失水，增之以火，则阳气太盛，燥渴相加，枝枯叶干，亦不华秀。是以水火二物，要得时相济为美。 \r\n\r\n三春甲木 \r\n \r\n　　正月甲木，初春尚有余寒，得丙癸逢，富贵双全。癸藏丙透，名寒木向阳，主大富贵。倘风水不及，亦不失儒林俊秀。如无丙癸，平常人也。 \r\n\r\n　　正二月甲木，素无取从才从杀从化之理。或一派庚辛，主一生劳苦，剋子刑妻，再支会金局，非贫即夭。如无丙丁，一派壬癸，又无戊己制之，名水泛木浮，死无棺椁。如一派戊己，支会金局，为财多身弱，富屋贫人，终生劳苦，妻晚子迟。或无庚金，有丁透，亦属文星，为木火通明之象，又名伤官生财格，主聪明雅秀。一见癸水伤丁，但作厚道迂儒。或柱中多癸，滋助木神，伤灭丁火，其人奸雄枭险，曹操之徒，言清行浊，笑里藏刀。 \r\n\r\n　　若庚申、戊寅、甲寅、丙寅。一行金水运，发进士。或甲午日庚午时，此人必贵。但要好运相催，不宜制了庚丁。 \r\n　　或支成金局，多透庚辛，此又不吉，号曰木被金伤，若无丙丁破金，必主残疾。或支成火局，洩露太过，定主愚懦，常有啾唧灾病缠身，终有暗疾。支成木局，得庚为贵，无庚必凶，若非僧道，男主鳏孤，女主寡独。支成水局，戊透为贵，如无戊制，不但贫贱，且死无棺木。故书曰：甲木若无根，全赖申子辰，干得才杀透，平步上青云。 \r\n\r\n　　凡三春甲木，用庚者，土为妻，金为子。用丁者，木为妻，火为子。 \r\n　　总之正二月甲木，有庚戊者上命。如有丁透，大富大贵之命也。 \r\n　　二月甲木，庚金得所，名阳刃驾杀，可云小贵，异途显达，或主武职，但要财资之。柱中逢才，英雄独压万人。若见癸水，困了才杀，主为光棍，重刃必定遭凶。性情凶暴。书曰：木旺宜火之光辉，秋闱可试。木向春生，处世安然有寿。日主无依，却喜运行才地。 \r\n\r\n　　三月甲木，木气相竭。先取庚金，次用壬水。庚壬两透，一榜堪图。但要运用相生，风水阴德，方许富贵。 \r\n　　或见一二庚金，独取壬水。壬透清秀之人，才学必富。 \r\n　　或天干透出二丙，庚藏支下，此钝斧无钢，富贵难求。若有壬癸破火，堪作秀才。 \r\n　　或柱中全无一水，戊己透干，支成土局，又作弃命从才，因人而致富贵，妻子有能。 \r\n　　或见戊己，及比劫多者，名为杂气夺才，此人劳碌到老，无驭内之权。女命合此，女掌男权，贤能内助，若比劫重见，淫恶不堪。 \r\n\r\n　　或支成金局，方可用丁，不然，三月无用丁之法。惟有先庚后壬取用。 \r\n　　书曰：甲乙生寅卯，庚辛干上逢，离南推富贵，坎地却为凶。";
 
-                                if (ydz == yin || ydz == mao || ydz == chen)
-                                {
-                                    string 三春甲木 = "三春甲木总论 \r\n　　春月之木，渐有生长之象。初春犹有余寒，当以火温暖，则有舒畅之美，水多变剋，有损精神。重见生旺，必用庚金斲凿，可成楝樑。春末阳壮水渴，藉水资扶，则花繁叶茂。初春无火，增之以水，则阴浓气弱，根损枝枯，不能华秀。春末失水，增之以火，则阳气太盛，燥渴相加，枝枯叶干，亦不华秀。是以水火二物，要得时相济为美。 \r\n\r\n三春甲木 \r\n \r\n　　正月甲木，初春尚有余寒，得丙癸逢，富贵双全。癸藏丙透，名寒木向阳，主大富贵。倘风水不及，亦不失儒林俊秀。如无丙癸，平常人也。 \r\n\r\n　　正二月甲木，素无取从才从杀从化之理。或一派庚辛，主一生劳苦，剋子刑妻，再支会金局，非贫即夭。如无丙丁，一派壬癸，又无戊己制之，名水泛木浮，死无棺椁。如一派戊己，支会金局，为财多身弱，富屋贫人，终生劳苦，妻晚子迟。或无庚金，有丁透，亦属文星，为木火通明之象，又名伤官生财格，主聪明雅秀。一见癸水伤丁，但作厚道迂儒。或柱中多癸，滋助木神，伤灭丁火，其人奸雄枭险，曹操之徒，言清行浊，笑里藏刀。 \r\n\r\n　　若庚申、戊寅、甲寅、丙寅。一行金水运，发进士。或甲午日庚午时，此人必贵。但要好运相催，不宜制了庚丁。 \r\n　　或支成金局，多透庚辛，此又不吉，号曰木被金伤，若无丙丁破金，必主残疾。或支成火局，洩露太过，定主愚懦，常有啾唧灾病缠身，终有暗疾。支成木局，得庚为贵，无庚必凶，若非僧道，男主鳏孤，女主寡独。支成水局，戊透为贵，如无戊制，不但贫贱，且死无棺木。故书曰：甲木若无根，全赖申子辰，干得才杀透，平步上青云。 \r\n\r\n　　凡三春甲木，用庚者，土为妻，金为子。用丁者，木为妻，火为子。 \r\n　　总之正二月甲木，有庚戊者上命。如有丁透，大富大贵之命也。 \r\n　　二月甲木，庚金得所，名阳刃驾杀，可云小贵，异途显达，或主武职，但要财资之。柱中逢才，英雄独压万人。若见癸水，困了才杀，主为光棍，重刃必定遭凶。性情凶暴。书曰：木旺宜火之光辉，秋闱可试。木向春生，处世安然有寿。日主无依，却喜运行才地。 \r\n\r\n　　三月甲木，木气相竭。先取庚金，次用壬水。庚壬两透，一榜堪图。但要运用相生，风水阴德，方许富贵。 \r\n　　或见一二庚金，独取壬水。壬透清秀之人，才学必富。 \r\n　　或天干透出二丙，庚藏支下，此钝斧无钢，富贵难求。若有壬癸破火，堪作秀才。 \r\n　　或柱中全无一水，戊己透干，支成土局，又作弃命从才，因人而致富贵，妻子有能。 \r\n　　或见戊己，及比劫多者，名为杂气夺才，此人劳碌到老，无驭内之权。女命合此，女掌男权，贤能内助，若比劫重见，淫恶不堪。 \r\n\r\n　　或支成金局，方可用丁，不然，三月无用丁之法。惟有先庚后壬取用。 \r\n　　书曰：甲乙生寅卯，庚辛干上逢，离南推富贵，坎地却为凶。";
-
-                                    qongtongbaojian += 论木 + 三春甲木;
-                                }
-                                if (ydz == sii || ydz == wuma || ydz == wei)
-                                {
-                                    string 三夏甲木 = "三夏甲木 \r\n　　四月甲木退气，丙火司权，先癸后丁。 \r\n　　庚金太多，甲反受病。若得壬水，方配得中和，此人性好清高，假装富贵。即荫袭显达，终日好作祸乱，善辨巧谈，喜作诗文。此理最验。 \r\n\r\n　　如一庚二丙，稍有富贵。金多火多，又为下格。 \r\n　　或癸丁与庚齐透天干，此命可言科甲，即风水浅薄，亦有选拔之才。癸水不出，虽有庚金丁火，不过富中取贵异途官职而已。壬透可云一富，若全无点水，又无庚金丁火，一派丙戊，此无用之人也。 \r\n\r\n　　五六月甲木，木性虚焦，一理共推。五月先癸后丁庚金次之。六月三伏生寒，丁火退气。先丁后庚，无癸亦可。或五月乏癸，用丁亦可，要运行北地为隹。 \r\n\r\n　　总之五六月用丁火，虽运行北地，不致于死。却不利运行火地，号曰木化成灰必死。行西程又不吉，号曰伤官遇杀，不测灾来，惟东方则吉，北方次之。此五六月用丁之说也。 \r\n\r\n凡用神太多，不宜克制，须泄之为妙。\r\n　　五六月甲木，木盛先庚，庚盛先丁。五月癸庚两透，为上上之格。六月庚丁两透，亦为上上之格。用神既透，木火通明，自然大富大贵。或丁火太多，癸水亦多，反作平人。 \r\n\r\n　　若柱中多金，名曰杀重身轻，先富后贫，运不相扶，非贫即夭。或庚多，有一二丙丁制伏，又有壬癸透干，泄金之气，此又为先贫后富。 \r\n\r\n　　或满柱丙火，又加丁火，不见官杀，谓之伤官伤尽最为奇，反成清贵，定主才学过人，科甲有望，但岁运不宜见水。若柱中有壬水，运又逢水，必贫夭死。 \r\n\r\n　　但凡木火伤官者，聪明智巧，却是人同心异，多见多疑，虽不生事害人，每抱忌妒之想，女命一理同推。 \r\n　　或四柱多土，干上有乙木，切勿作弃命从才。 \r\n　　时月两透己土，名二土争合，男主奔流，女主淫贱。见二甲则不争矣，亦属平庸之辈。或四柱有辰，干见二己二甲，此人名利双全，大富大贵。 \r\n\r\n　　若在六月，见辰支，名为逢时化合格。以癸水为妻，丁火为子。若二己一甲争合。取支中比劫为用。以甲为用者，壬癸为妻，甲乙为子。其余用庚者，土妻金子。用丁者，木妻火子。女命以妻作夫，用作子。十干皆同。 \r\n\r\n　　或是己土，不见戊土，乃为假从，其人一生缩首，反畏妻子。若无印绶，一生贫苦。六月尤可，五月决不可。 \r\n ";
-
-                                    qongtongbaojian += 论木 + 三夏甲木;
-                                }
-                                if (ydz == shen || ydz == you || ydz == xuu)
-                                {
-                                    string 三秋甲木 = "三秋甲木总论 \r\n　　三秋甲木，木性枯藁，金土乘旺，先丁后庚，丁庚两全，将甲造为画戟，七月甲堪为戟，非丁火不能造庚，非庚不能造甲，丁庚两透，科甲定然。庚禄居申，杀印相生，运行金水，身伴明君。或庚透无丁，一富而已，主为人操心太重，不能坐享。或丁透庚藏，亦主青衿小富。或庚多无丁，残疾之人若为僧道，灾厄可免。 \r\n\r\n　　或四柱庚旺，支内水多，不作弃命从杀。见土多可作从才而看。 \r\n　　庚多无癸，而壬水多，戊己亦多，此则专用一点丁火，方可制金以养群土，此命大富。丁藏富小，不显。丁露定作富豪。得二丁，不坐死绝，必然富贵双全，即风水不及，亦可富中取贵，纳粟奏名。 \r\n\r\n　　或癸叠叠制伏丁火，虽满腹文章，终难显达。得运行火土，破癸，略可假就功名，岁运皆背，刀笔之徒。 \r\n　　支成水局，戊己透干，制去癸水，存其丁火又可云科甲，但此等命，主为人心奸巧诈，好讼争非，因贪致祸。奸险之徒，决非安份之人也。\r\n \r\n三秋甲木 \r\n　　七月甲木，丁火为尊，庚金次之，庚金不可少。火隔水不能镕金，故丁火镕金，必赖甲木引助，方成洪炉。若有癸水阻隔，便灭丁火，壬水无碍，且能合丁，但须见戊土，方可制水存火。 \r\n\r\n　　八月甲木，木囚金旺。丁火为先，次用丙火，庚金再次。 \r\n　　一丁一庚，科甲定显。癸水一透，科甲不全。 \r\n　　丙庚两透，富大贵小。丙丁全无，僧道之命。 \r\n　　丙透无癸，富贵双全。有癸制丙，寻常之人。 \r\n　　支成火局，可许假贵，戊己一透，可作富翁。 \r\n　　或支成金局，干露庚金，为木被金伤，必主残疾，得丙丁破金，亦主老来暗疾。 \r\n　　或支成木局，干透比劫，反取庚金为先，次用丁火。 \r\n　　九月甲木，木星凋零，独爱丁火，壬癸滋扶，丁壬癸透，戊己亦透，此命配得中和，可许一榜。庚金得所，科甲定然。\r\n\r\n　　或见一二比肩，无庚金制之，平常人也。倘运不得用，贫无立锥。一命，甲辰、甲戌、甲辰、甲戌、身伴明君，富贵寿考，此为天元一气，又名一才一用。遇比用才，专取季土。或见庚丙，可许入泮，白手成家。用火者，木妻火子，子肖妻贤。 \r\n\r\n　　或四柱木多，用丙用丁，皆不足异，耑用庚金为妙。凡四季甲木，总不外乎庚金。譬如木为犁，能疏季土，非庚金为犁嘴，安能疏土虽用丙丁，癸庚决不可少也。九月却不取土妻庚子，当取水妻木子。 \r\n\r\n　　凡甲木，多见戊己，定作弃命从才而看。从才格，取火妻土子。 \r\n　　或见一派丙丁伤金，不过假道斯文，有壬癸破了丙丁，技艺之流。无壬癸破火，支又成火局，乃为枯朽之木，有庚亦何能为力，定作孤贫下贱之辈，男女一理。 \r\n\r\n　　或有假伤官，得地逢生，此正合甲乙秋生贵元武之说，用水制伤官者，以金为妻，水为子。 \r\n　　或丁戊俱多，总不见水，又为伤官生财格，亦可云富贵，此格取火为妻，土为子。 \r\n　　凡甲多庚透，大贵。庚藏，小贵。若柱中多庚，则又以丁为奇，富贵人也。如庚申年、丙戌月、甲申日、壬申时，此主功名显达，有文学。若无庚丙年月，又无火星出干，虽曰好学，终困名场。 \r\n\r\n　　九月甲木，耑用丁癸，见戊透必贵。如戊戌、壬戌、甲子、甲申，支成水局，干有壬水，正合贵元武之说。配得中和，一榜之命，家计丰足。但庚丁未透出干，不能馆选。 \r\n\r\n　　甲乙比肩，又逢比劫运，主兄弟劫财争讼，刑妻损子。甲乙生正二月，无制无洩，主长发师姑。 \r\n ";
-
-                                    qongtongbaojian += 论木 + 三秋甲木;
-                                }
-                                if (ydz == hai || ydz == zii || ydz == chou)
-                                {
-                                    string 三冬甲木 = "三冬甲木\r\n \r\n　　十月甲木，庚丁为要，丙火次之。忌壬水泛身，须戊土制之。 \r\n　　若庚丁两透，又加戊出干，名曰去浊留清，富贵之极，即乏丁火，亦稍有富贵。或甲多制戊，庚金无根，平常人也。庚戊若透，虽出比劫，必定富而寿。 \r\n\r\n或多比劫，只一庚出干，坐禄逢生乃为舍丁从庚，略富贵。 或支见申亥，戊己得所，以救庚丁，可许科甲。 若单己透，其力弱小，不过贡监而已。\r\n\r\n　　用庚，土妻金子。用丁，木妻火子。 \r\n　　十一月甲木，木性生寒，丁先庚后，丙火佐之。癸水司权，为火金之病。庚丁两透，支见巳寅，科甲有准，风水不及，选拔有之。若癸透伤丁。无戊己辅救，残疾之人。或壬水重出，丁火全无者，庸人也，得丙方妙。 \r\n\r\n　　或支成水局，加以壬透，名为水泛木浮，死无棺木。 \r\n　　总之十一月甲木，为寒枝，不比春木清茂，耑取庚丁。透壬无丙，不过刀笔异途，武职有验。 \r\n　　用庚，土妻金子。用火，木妻火子。 \r\n　　十二月甲木，天寒气冻，木性极寒，无生发之象，先用庚噼甲，方引丁火始得木火有通明之象，故丁次之。 \r\n庚丁两透，科甲恩封。 庚透丁藏，小贵。 丁透庚藏，小富贵。 无庚者，贫贱。 无丁者，寒儒。 或有丁透重重，亦是富贵中人，但须比肩，能发丁之焰，自有德业才能。 如无比肩，寻常之士，稍有衣食而已。 或支多见水，即有比肩，亦属平常。\r\n　　总之腊月甲木，虽有庚金，丁不可少。乏庚略可，乏丁无用。经云：甲木无根，男女夭寿。 \r\n ";
-
-                                    qongtongbaojian += 论木 + 三冬甲木;
-                                }
-
+                                qongtongbaojian += 论木 + 三春甲木;
                             }
-                            if (rtg == yii)
+                            if (ydz == sii || ydz == wuma || ydz == wei)
                             {
-                                if (ydz == yin || ydz == mao || ydz == chen)
-                                {
-                                    string 三春乙木 = "三春乙木总论\r\n \r\n三春乙木，为芝兰蒿草之物，丙癸不可离也，春乙见丙，卉木向阳，万象回春，须癸滋养根基。 丙癸齐透天干，无化合制克，自然登科及第，故书云：乙木根荄种得深，只须阳地不宜阴，漂浮只怕多逢水，克制何须苦用金。\r\n\r\n三春乙木\r\n　　正月乙木，必须用丙，因天气尤有余寒，非丙不暖，虽有癸水，恐凝寒气，故以丙火为先，癸水次之。 \r\n　　丙癸两透，科甲定然，或有丙无癸门户阐扬。或丙多乏癸，名曰春旱。独阳不长，浊富之人。或丙少癸多，又为困丙，终为寒士。或癸己多见，为溼土之木皆下格。 \r\n\r\n　　用丙者，木妻火子。用癸水见火多者，金妻水子。 \r\n　　二月乙木，阳气渐升，木不寒矣，以丙为君，癸为臣，丙癸两透，不透庚金，大富大贵。 \r\n　　或天干透庚，支下无辰，不能化金，得癸透养木亦为贵，若见水库，则为假化，平常人也。 \r\n　　二月乙木，耑用丙癸，或支成木局，有癸透乃作贵命，更得丙洩木气，上上之命，但须透癸。或水多困丙，多戊化癸，皆下格。 \r\n\r\n　　用丙者，木妻、火子。用癸者，金妻、水子。 \r\n　　亥卯未逢于甲乙，富贵无疑。木全寅卯辰方，功名有准。活木忌埋根之铁，支下有庚辛，戕贼其根，木则朽矣。 \r\n　　三月乙木，阳气愈炽，先癸后丙。 \r\n　　癸丙两透，不见己庚，玉堂之客。见己庚者，平常之人。或一乙逢庚，不见己者，亦主小富贵，但不显达。或多水见己，只恐高才不第。见戊堪发异途。或庚己混杂，丙癸全，则为下格。 \r\n\r\n　　或见水局，丙戊高透，亦主科甲。或柱中全无丙戊，支合水局，此离乡之命。 \r\n　　或见一派癸水，又有辛金，则作旺看。得一戊己制癸，亦可云小富贵。若一派壬水，不特贫贱，而且夭折。有一戊己，方云有寿，但终为技术之人。 \r\n\r\n　　又或庚辰时月，名二庚争合，乃贫贱之辈。如年干见丁破庚，可云从化，亦不失武职之权。 \r\n用癸者，金妻水子。癸多用丙者，木妻火子。 \r\n ";
+                                string 三夏甲木 = "三夏甲木 \r\n　　四月甲木退气，丙火司权，先癸后丁。 \r\n　　庚金太多，甲反受病。若得壬水，方配得中和，此人性好清高，假装富贵。即荫袭显达，终日好作祸乱，善辨巧谈，喜作诗文。此理最验。 \r\n\r\n　　如一庚二丙，稍有富贵。金多火多，又为下格。 \r\n　　或癸丁与庚齐透天干，此命可言科甲，即风水浅薄，亦有选拔之才。癸水不出，虽有庚金丁火，不过富中取贵异途官职而已。壬透可云一富，若全无点水，又无庚金丁火，一派丙戊，此无用之人也。 \r\n\r\n　　五六月甲木，木性虚焦，一理共推。五月先癸后丁庚金次之。六月三伏生寒，丁火退气。先丁后庚，无癸亦可。或五月乏癸，用丁亦可，要运行北地为隹。 \r\n\r\n　　总之五六月用丁火，虽运行北地，不致于死。却不利运行火地，号曰木化成灰必死。行西程又不吉，号曰伤官遇杀，不测灾来，惟东方则吉，北方次之。此五六月用丁之说也。 \r\n\r\n凡用神太多，不宜克制，须泄之为妙。\r\n　　五六月甲木，木盛先庚，庚盛先丁。五月癸庚两透，为上上之格。六月庚丁两透，亦为上上之格。用神既透，木火通明，自然大富大贵。或丁火太多，癸水亦多，反作平人。 \r\n\r\n　　若柱中多金，名曰杀重身轻，先富后贫，运不相扶，非贫即夭。或庚多，有一二丙丁制伏，又有壬癸透干，泄金之气，此又为先贫后富。 \r\n\r\n　　或满柱丙火，又加丁火，不见官杀，谓之伤官伤尽最为奇，反成清贵，定主才学过人，科甲有望，但岁运不宜见水。若柱中有壬水，运又逢水，必贫夭死。 \r\n\r\n　　但凡木火伤官者，聪明智巧，却是人同心异，多见多疑，虽不生事害人，每抱忌妒之想，女命一理同推。 \r\n　　或四柱多土，干上有乙木，切勿作弃命从才。 \r\n　　时月两透己土，名二土争合，男主奔流，女主淫贱。见二甲则不争矣，亦属平庸之辈。或四柱有辰，干见二己二甲，此人名利双全，大富大贵。 \r\n\r\n　　若在六月，见辰支，名为逢时化合格。以癸水为妻，丁火为子。若二己一甲争合。取支中比劫为用。以甲为用者，壬癸为妻，甲乙为子。其余用庚者，土妻金子。用丁者，木妻火子。女命以妻作夫，用作子。十干皆同。 \r\n\r\n　　或是己土，不见戊土，乃为假从，其人一生缩首，反畏妻子。若无印绶，一生贫苦。六月尤可，五月决不可。 \r\n ";
 
-                                    qongtongbaojian += 论木 + 三春乙木;
-                                }
-                                if (ydz == sii || ydz == wuma || ydz == wei)
-                                {
-                                    string 三夏乙木 = "三夏乙木总论\r\n \r\n三夏乙木，木性枯焦。 四月专尚癸水。 五六月先丙后癸，夏至前仍用癸水。 先得丙透，支下又有丙火，名曰木秀火明。 得一癸透，科甲中人。 或透二丙一癸，可许采芹。\r\n\r\n　　或一派癸水，有丁无丙，平常之人。或一癸透干，异途显宦，难由科甲。癸居子辰，异路小职。或丙藏支下，癸透年干，己出月上，虽非科甲，异路功名。又或重重癸水，或支藏癸水，由行伍出身得功名。\r\n \r\n三夏乙木\r\n　　四月乙木，自有丙火，耑取癸水为尊。四月乙木专用癸水，丙火酌用，虽以庚辛佐癸，须辛透为清。癸透、庚辛又透，科甲定然，独一点癸水、无金，是水无根，虽出天干，不过秀才小富，须要大运相扶。或土多困癸，贫贱之人。丙戊太多，支成火局，瞽目之流。 \r\n\r\n　　用癸者，金妻水子。 \r\n　　乙逢双女木伤残，若见辛金寿必难，不得丙丁来制伏，岂知安乐不久长。 \r\n　　五月乙木，丁火司权，禾稼俱旱。上半月属阳，仍用癸水。下半月属阴，三伏生寒，丙癸齐用。柱多金水，丙火为先，余皆用癸水为先。 \r\n\r\n　　乙木重逢火位，名为气散之文，支成火局，洩乙精神，须用癸滋。癸透有根，富贵双全。或庚辛年上，癸透时干，定许科甲，无癸者常人。 \r\n\r\n　　若见丙透，支成火局，阳焦木性，此人残疾，无癸必夭，见壬可解。或火土太多，其人愚贱，或为僧道门下闲人。 \r\n　　六月乙木，木性且寒，柱多金水，丙火为尊。支成水局，乙得无伤。癸水透干，大富大贵。无癸定作常人，运不行北，困苦一生。 \r\n\r\n　　凡五六月乙木，气退枯焦，用癸水切忌戊己杂乱，则为下格。或甲木高透，制伏土神名为去浊留清，可许俊秀。土多乏甲秀气脱空，庸人而已。 \r\n\r\n　　或丙癸两透，加以甲透制戊，选拔定然。若不见丙癸，只有丁火，亦属常人，有壬、可充衣食。 \r\n　　或柱中无水，又无比劫出干﹐乃为弃命从才，富大贵小，能招贤德之妻。从才格以火为妻，土为子。 \r\n　　或一派戊土出干，不见比肩，名为才多身弱，终为富屋贫人。 \r\n　　或丙辛化水，嫖赌破家，终非承受之儿。 \r\n　　或一派乙木，不见丙癸，名为乱臣无主劳碌奔波，又加支多辛金，僧道之辈。 \r\n　　或一派甲木，无癸无丙，又无庚金，此人一生虚浮，总不诚实。有庚制甲，乃有谋之人，但嗜酒贪花，多慾败德，不修品行，男女一理。 \r\n\r\n　　总之夏月之乙木，耑用癸水，丙火酌用，庚辛次之。 \r\n ";
-
-                                    qongtongbaojian += 论木 + 三夏乙木;
-                                }
-                                if (ydz == shen || ydz == you || ydz == xuu)
-                                {
-                                    string 三秋乙木 = "三秋乙木\r\n \r\n　　三秋乙木，金神司令，先丙后癸，惟九月耑用癸水，恐丙暖戊土为病也。 \r\n　　七月乙木，庚金乘令，庚虽输情于乙妹，怎奈干乙难合支金。柱见庚多，乙难受载。或丙透干，又加巳出埋金，此格可云科甲。有己透、加丙，亦是上命。七月喜己土为用，或不见丙癸。己土必不可少，此则以火为妻，土为子。 \r\n\r\n　　或癸透、丙藏、庚少，此不用己，可许贡拔。无丙、有癸透者，不失刀笔门户。有支下庚多，癸又藏者，无丙己二神，平常人物。 \r\n\r\n或生辰时，此为从化，反主富贵。 凡化合格皆以所生之神为用。 化金者，戊为用神，特忌丙丁煅炼破格。 从化者以火为妻，土为子。 其余以金为妻。 妻必贤美。 以水为子，子必克肖，但忌刑冲。 凡命皆然，不特此也。\r\n\r\n　　秋乙逢金，非贫即夭。秋生乙木忌根枯，根既枯藁，贫苦到老。 \r\n　　八月乙木，芝兰禾稼均退。以丹桂为乙木。在白露之后，桂蕊未开，耑用癸水以滋桂萼。若秋分后，桂花已开，却喜向阳，又宜用丙，癸水次之，丙癸两透，科甲名臣。 \r\n\r\n　　或支成金局，宜暗藏丁，无丁制金，恐木被金伤。若无水火，此人劳碌。或得癸水，为子得母，其人一生丰盈。或丙癸两透，戊土杂出，亦主异路功名。 \r\n\r\n　　生秋分后，有丙无癸，亦略富贵。若有癸无丙，名利虚花。若四柱不见丙癸，下格。 \r\n　　或癸在年（月）干，丙透时干，名为木火文星，定主上达。生于秋分后方佳。或生上半月无癸，姑用壬水，不然，枯木无用，必作贫人。又四柱多见戊己，下格。 \r\n\r\n　　用癸者，金妻、水子。用丙者，木妻、火子。用壬者，金妻水子。 \r\n　　甲乙遇强金，魂归西土，青龙逢兑旺，且贫且贱。 \r\n　　乙木生居酉，莫逢巳酉丑，富贵坎离宫，贫穷申酉守。木逢金旺巳伤，再遇金乡，岂不损寿。 \r\n九月乙木，根枯叶落，必赖癸水滋养。 如见甲申时，名为藤萝系甲，可秋可冬。 若见癸水，又遇辛金发水之源，定主科甲。 或有癸无辛，常人。 有辛无癸，贫贱。 或四柱壬多，水难生乙，亦是寻常之辈。\r\n\r\n　　或支多戊土，又逢天干，作从才看，无比劫方妙，一逢比劫，富屋贫人。 \r\n用癸者，金妻、水子。 但子女艰难，季土克制故也。";
-
-                                    qongtongbaojian += 论木 + 三秋乙木;
-                                }
-                                if (ydz == hai || ydz == zii || ydz == chou)
-                                {
-                                    string 三冬乙木 = "三冬乙木\r\n　　十月乙木，木不受气，而壬水司令，取丙为用，戊土次之。丙戊两透，科甲定然。有丙无戊，虽不科甲，亦入儒林。支多丙火，运入火乡，亦主显达。 \r\n\r\n　　或水多无戊，乙性漂浮，流荡之徒。若不见丙巳，妻子难全，或一点壬水，即多见戊土，亦为不妙，得甲制戊，可许能干，但为人好生祸乱，构讼生非，男女一理。支成木局，时值小阳，此又如春木同旺，若有癸出，须取戊为尊，加以丙透，科甲之人。若无丙戊二字，自成自败，终非承受之辈。 \r\n\r\n　　十一月乙木，花木寒冻，一阳来復，喜用丙火解冻，则花木有向阳之意，不宜用癸以冻花木，故耑用丙火。 \r\n　　有一二点丙火出干，无癸制者，可许科甲。即丙藏支内，亦有选拔恩封，得此不贵，必因风水薄。或壬癸出干，有戊制，可作能人，即丙在支内，亦是俊秀。若壬透无戊，贫贱之人。 \r\n\r\n　　支成水局，干透壬癸，丙丁全无，虽有戊制，贫乏到老，运至南方，稍有衣食。丁火有亦如无，丁乃灯烛之火，岂能解严寒之冻。设无丙丁，戊土多见，金水奔流，下贱。或有戊己无火，亦属常人，但不至下贱。或一派丁火，大奸大诈之徒。如无甲引丁，孤鳏到老。丁火见甲，必主麟趾振振，芝兰绕膝。 \r\n\r\n　　或成水局，壬癸两透，则木浮矣，不特贫贱，而且夭折，得一戊救方可。 \r\n　　冬月之木，虽取戊制水，不可作用，耑取丙火则可。用火者，木妻、火子。用土者，火妻、土子。 \r\n　　乙木生于冬至之后，坐下木局，得丙透干者，富贵之造。即丁出干，亦有衣禄，须忌癸制丁。乙木生于冬月，己土透干，又有丙透，大富贵之造。 \r\n\r\n　　十一月乙木，木寒宜丙﹐有寒谷回春之象，得一丙透，无癸出破格，不特科甲，定主名臣显宦。丙火藏支，食饩而已。干支无丙，一介寒儒。 \r\n\r\n　　或四柱多己，不逢比劫，乃为从才，富比王侯，若见比劫，贫无立锥。虽或一派戊己，见甲颇有衣禄。耑以丙火为用，方妙。 ";
-
-                                    qongtongbaojian += 论木 + 三冬乙木;
-                                }
-
+                                qongtongbaojian += 论木 + 三夏甲木;
                             }
+                            if (ydz == shen || ydz == you || ydz == xuu)
+                            {
+                                string 三秋甲木 = "三秋甲木总论 \r\n　　三秋甲木，木性枯藁，金土乘旺，先丁后庚，丁庚两全，将甲造为画戟，七月甲堪为戟，非丁火不能造庚，非庚不能造甲，丁庚两透，科甲定然。庚禄居申，杀印相生，运行金水，身伴明君。或庚透无丁，一富而已，主为人操心太重，不能坐享。或丁透庚藏，亦主青衿小富。或庚多无丁，残疾之人若为僧道，灾厄可免。 \r\n\r\n　　或四柱庚旺，支内水多，不作弃命从杀。见土多可作从才而看。 \r\n　　庚多无癸，而壬水多，戊己亦多，此则专用一点丁火，方可制金以养群土，此命大富。丁藏富小，不显。丁露定作富豪。得二丁，不坐死绝，必然富贵双全，即风水不及，亦可富中取贵，纳粟奏名。 \r\n\r\n　　或癸叠叠制伏丁火，虽满腹文章，终难显达。得运行火土，破癸，略可假就功名，岁运皆背，刀笔之徒。 \r\n　　支成水局，戊己透干，制去癸水，存其丁火又可云科甲，但此等命，主为人心奸巧诈，好讼争非，因贪致祸。奸险之徒，决非安份之人也。\r\n \r\n三秋甲木 \r\n　　七月甲木，丁火为尊，庚金次之，庚金不可少。火隔水不能镕金，故丁火镕金，必赖甲木引助，方成洪炉。若有癸水阻隔，便灭丁火，壬水无碍，且能合丁，但须见戊土，方可制水存火。 \r\n\r\n　　八月甲木，木囚金旺。丁火为先，次用丙火，庚金再次。 \r\n　　一丁一庚，科甲定显。癸水一透，科甲不全。 \r\n　　丙庚两透，富大贵小。丙丁全无，僧道之命。 \r\n　　丙透无癸，富贵双全。有癸制丙，寻常之人。 \r\n　　支成火局，可许假贵，戊己一透，可作富翁。 \r\n　　或支成金局，干露庚金，为木被金伤，必主残疾，得丙丁破金，亦主老来暗疾。 \r\n　　或支成木局，干透比劫，反取庚金为先，次用丁火。 \r\n　　九月甲木，木星凋零，独爱丁火，壬癸滋扶，丁壬癸透，戊己亦透，此命配得中和，可许一榜。庚金得所，科甲定然。\r\n\r\n　　或见一二比肩，无庚金制之，平常人也。倘运不得用，贫无立锥。一命，甲辰、甲戌、甲辰、甲戌、身伴明君，富贵寿考，此为天元一气，又名一才一用。遇比用才，专取季土。或见庚丙，可许入泮，白手成家。用火者，木妻火子，子肖妻贤。 \r\n\r\n　　或四柱木多，用丙用丁，皆不足异，耑用庚金为妙。凡四季甲木，总不外乎庚金。譬如木为犁，能疏季土，非庚金为犁嘴，安能疏土虽用丙丁，癸庚决不可少也。九月却不取土妻庚子，当取水妻木子。 \r\n\r\n　　凡甲木，多见戊己，定作弃命从才而看。从才格，取火妻土子。 \r\n　　或见一派丙丁伤金，不过假道斯文，有壬癸破了丙丁，技艺之流。无壬癸破火，支又成火局，乃为枯朽之木，有庚亦何能为力，定作孤贫下贱之辈，男女一理。 \r\n\r\n　　或有假伤官，得地逢生，此正合甲乙秋生贵元武之说，用水制伤官者，以金为妻，水为子。 \r\n　　或丁戊俱多，总不见水，又为伤官生财格，亦可云富贵，此格取火为妻，土为子。 \r\n　　凡甲多庚透，大贵。庚藏，小贵。若柱中多庚，则又以丁为奇，富贵人也。如庚申年、丙戌月、甲申日、壬申时，此主功名显达，有文学。若无庚丙年月，又无火星出干，虽曰好学，终困名场。 \r\n\r\n　　九月甲木，耑用丁癸，见戊透必贵。如戊戌、壬戌、甲子、甲申，支成水局，干有壬水，正合贵元武之说。配得中和，一榜之命，家计丰足。但庚丁未透出干，不能馆选。 \r\n\r\n　　甲乙比肩，又逢比劫运，主兄弟劫财争讼，刑妻损子。甲乙生正二月，无制无洩，主长发师姑。 \r\n ";
 
+                                qongtongbaojian += 论木 + 三秋甲木;
+                            }
+                            if (ydz == hai || ydz == zii || ydz == chou)
+                            {
+                                string 三冬甲木 = "三冬甲木\r\n \r\n　　十月甲木，庚丁为要，丙火次之。忌壬水泛身，须戊土制之。 \r\n　　若庚丁两透，又加戊出干，名曰去浊留清，富贵之极，即乏丁火，亦稍有富贵。或甲多制戊，庚金无根，平常人也。庚戊若透，虽出比劫，必定富而寿。 \r\n\r\n或多比劫，只一庚出干，坐禄逢生乃为舍丁从庚，略富贵。 或支见申亥，戊己得所，以救庚丁，可许科甲。 若单己透，其力弱小，不过贡监而已。\r\n\r\n　　用庚，土妻金子。用丁，木妻火子。 \r\n　　十一月甲木，木性生寒，丁先庚后，丙火佐之。癸水司权，为火金之病。庚丁两透，支见巳寅，科甲有准，风水不及，选拔有之。若癸透伤丁。无戊己辅救，残疾之人。或壬水重出，丁火全无者，庸人也，得丙方妙。 \r\n\r\n　　或支成水局，加以壬透，名为水泛木浮，死无棺木。 \r\n　　总之十一月甲木，为寒枝，不比春木清茂，耑取庚丁。透壬无丙，不过刀笔异途，武职有验。 \r\n　　用庚，土妻金子。用火，木妻火子。 \r\n　　十二月甲木，天寒气冻，木性极寒，无生发之象，先用庚噼甲，方引丁火始得木火有通明之象，故丁次之。 \r\n庚丁两透，科甲恩封。 庚透丁藏，小贵。 丁透庚藏，小富贵。 无庚者，贫贱。 无丁者，寒儒。 或有丁透重重，亦是富贵中人，但须比肩，能发丁之焰，自有德业才能。 如无比肩，寻常之士，稍有衣食而已。 或支多见水，即有比肩，亦属平常。\r\n　　总之腊月甲木，虽有庚金，丁不可少。乏庚略可，乏丁无用。经云：甲木无根，男女夭寿。 \r\n ";
+
+                                qongtongbaojian += 论木 + 三冬甲木;
+                            }
 
                         }
-                        if (rtg == bing || rtg == ding)
+                        if (rtg == yii)
                         {
-                            string 论火 = "论火 \r\n \r\n　　炎炎真火，位镇南方，故火无不明之理，辉光不久。全要伏藏，故明无不灭之象。火以木为体。无木、则火不长焰。火以水为用，无水、则火太酷烈。故火多则不实，火烈则伤物。木能藏火，到寅卯方而生火，不利于西，遇申酉而必死。生居离位，木断有为，若居坎宫，谨畏守礼。 \r\n\r\n金得火和，而能镕铸。 水得火和，则成既济。 遇土不明，多主蹇塞。 逢木旺处，决定为荣。 木死火虚，难得永久，纵有功名，必不久长。 春忌见木，恶其焚也。 夏忌见土，恶其暗也。 秋忌见金﹐金难克制。 冬忌见水，水旺则灭。 故春火欲明，不欲炎。 炎则不实。 秋火欲藏、不欲明。 明则太燥，冬火欲生、不欲杀，杀则歇灭。";
-                            if (rtg == bing)
+                            if (ydz == yin || ydz == mao || ydz == chen)
                             {
-                                if (ydz == yin || ydz == mao || ydz == chen)
-                                {
-                                    string 三春丙火 = "三春丙火总论\r\n \r\n　　三春丙火秉象至威，阳回大地，侮雪欺霜，耑用壬水为扶阳，名曰天和地润，既济功成。 \r\n　　正月用壬，庚辛为助。二月耑用壬水。三月土重晦光，取甲佐之为妙。 \r\n癸丙春生，不晴不雨之天。 丙日春生，时月出癸，云雾迷蒙，不显不达，非若壬水辅丙也。\r\n \r\n三春丙火\r\n　　正月丙火，三阳开泰，火气渐炎，取壬为尊，庚金佐之。壬庚两透，科甲定然。即壬透庚藏，亦有异途显达。 \r\n　　若一庚高透，支藏一二丙火，纳粟奏名，主为人慷慨英雄，有才迈众。 \r\n　　或一派庚辛混杂，常人。得时月两透庚金、无辛者，定主清贵。或辛年辛时，名为贪合，酒色之徒。女命一理。 \r\n　　或丙少壬多，而无戊制，名杀重身轻。斯人笑里藏刀，寻非痞棍。或见一戊制壬，反而富贵，宜见一二比肩方妙。 \r\n或一片戊土，甲不出干，终非大器，且恐孤贫。 正月之丙，忌戊晦光。 或支成火局，耑取壬水为贵﹐无壬、癸亦姑用。 若壬癸俱无，取戊以泄火气，但属平人。\r\n\r\n　　或支成火局，又作炎上而推，但不逢时耳。若不见东南岁运，反致孤贫。 \r\n　　或四柱有甲木，得庚金暗制，可作秀才。 \r\n　　无壬用癸者，略富贵，且官杀亦要旺相有根。丙火无壬，多主贫贱，屡徵屡验。 \r\n　　或火多无水，一至水乡必死，不然，定有灾咎。惟五月丙火，合炎上格，则不喜水破格。用癸无根，定主目疾。 \r\n　　用壬者，金妻水子。用庚者，土妻金子。 \r\n　　二月丙火，阳气舒升，耑用壬水。壬透天干，不见丁化，加以庚辛己亦透，壬水有根，定主科甲。 \r\n　　或无壬水，己土姑用，主有才学，虽不成名，必衣食充足。 \r\n　　或一派壬水，见一戊制，虽不科甲，亦有恩庇。或无戊透，则有辰戌丑未之戊，但辰宫癸水，贪合成火，不能制土，此平常衣禄。若支下全无一戊，此系奔流之人，加以金多生水，下贱之命。 \r\n\r\n　　或一派戊土，亦用壬水，运喜行木，见土不祥。行火亦不利。 \r\n　　或丙子日，辛卯时，乃从化格，但不逢时，贪财坏印，难招祖业。若得一二重丁火破辛，壬水得位，亦主富贵，虽不科甲，亦有异途，名传郡邑。合此格，主妻妾多子。 \r\n\r\n　　或月时见二辛卯，日乃丙子，名为争合，年不透丁制辛，此人昏迷酒色，年透丁火反吉。或支成木局，反因奸得财，因酒得名。 \r\n\r\n　　凡用壬者，金妻水子。 \r\n　　三月丙火，气渐炎升，用壬水。或成土局，取甲为辅，壬不可离。壬甲两透，科甲定宜，惟忌庚出制甲，则秀才而已。无甲用庚，助壬水洩土气。 \r\n\r\n　　壬透甲藏，富大贵小，有甲无壬，劳碌浊富。壬藏无甲，一介寒儒。壬甲两无，愚贱之辈。乙丁杂乱，定必属凡夫。 \r\n　　用壬者，金妻水子。用甲者，水妻木子。 \r\n ";
+                                string 三春乙木 = "三春乙木总论\r\n \r\n三春乙木，为芝兰蒿草之物，丙癸不可离也，春乙见丙，卉木向阳，万象回春，须癸滋养根基。 丙癸齐透天干，无化合制克，自然登科及第，故书云：乙木根荄种得深，只须阳地不宜阴，漂浮只怕多逢水，克制何须苦用金。\r\n\r\n三春乙木\r\n　　正月乙木，必须用丙，因天气尤有余寒，非丙不暖，虽有癸水，恐凝寒气，故以丙火为先，癸水次之。 \r\n　　丙癸两透，科甲定然，或有丙无癸门户阐扬。或丙多乏癸，名曰春旱。独阳不长，浊富之人。或丙少癸多，又为困丙，终为寒士。或癸己多见，为溼土之木皆下格。 \r\n\r\n　　用丙者，木妻火子。用癸水见火多者，金妻水子。 \r\n　　二月乙木，阳气渐升，木不寒矣，以丙为君，癸为臣，丙癸两透，不透庚金，大富大贵。 \r\n　　或天干透庚，支下无辰，不能化金，得癸透养木亦为贵，若见水库，则为假化，平常人也。 \r\n　　二月乙木，耑用丙癸，或支成木局，有癸透乃作贵命，更得丙洩木气，上上之命，但须透癸。或水多困丙，多戊化癸，皆下格。 \r\n\r\n　　用丙者，木妻、火子。用癸者，金妻、水子。 \r\n　　亥卯未逢于甲乙，富贵无疑。木全寅卯辰方，功名有准。活木忌埋根之铁，支下有庚辛，戕贼其根，木则朽矣。 \r\n　　三月乙木，阳气愈炽，先癸后丙。 \r\n　　癸丙两透，不见己庚，玉堂之客。见己庚者，平常之人。或一乙逢庚，不见己者，亦主小富贵，但不显达。或多水见己，只恐高才不第。见戊堪发异途。或庚己混杂，丙癸全，则为下格。 \r\n\r\n　　或见水局，丙戊高透，亦主科甲。或柱中全无丙戊，支合水局，此离乡之命。 \r\n　　或见一派癸水，又有辛金，则作旺看。得一戊己制癸，亦可云小富贵。若一派壬水，不特贫贱，而且夭折。有一戊己，方云有寿，但终为技术之人。 \r\n\r\n　　又或庚辰时月，名二庚争合，乃贫贱之辈。如年干见丁破庚，可云从化，亦不失武职之权。 \r\n用癸者，金妻水子。癸多用丙者，木妻火子。 \r\n ";
 
-                                    qongtongbaojian += 论火 + 三春丙火;
-                                }
-                                if (ydz == sii || ydz == wuma || ydz == wei)
-                                {
-                                    string 三夏丙火 = "三夏丙火总论\r\n三夏丙火，阳威性烈，专用壬水。 若亥宫壬水无力，回克泄气故也，仍用申宫长生之水，方云富贵。\r\n　　四月耑用壬水，金为佐。五月亦耑用壬。四五月壬透者富贵。丁多、兼看癸水。六月用壬，但借庚金为佐。 \r\n　　阳刃合杀，威权万里。丁火羊刃太旺，正谓羊刃倒戈，无头之鬼。丙火用壬，生旺坐实方好，忌壬水太多，名杀重身轻。 \r\n \r\n三夏丙火\r\n四月丙火，建禄于巳，火势炎炎，宜专用壬水，解炎威之力，成既济之功。 如无壬水，孤阳失辅，难透清光。 得庚发水源，方为有根之水。 壬庚两透，不见戊土，号曰湖水汪洋，广映太阳，光辉显着，文明之象，人格合此，不但科甲峥嵘，必有恩谥封荣，若不验，必暗损阴德。\r\n\r\n　　或无壬水，癸亦姑用，见庚透癸，不富必贵，但心性乖僻，巧谋善辩。或壬癸俱无，愚顽之辈。火炎无制，僧道之流，不然，须防夭折。 \r\n\r\n　　或一派庚金，不见比劫，有富无贵。 \r\n　　或丙午日干，四柱多壬，不见戊制，名曰阴刑杀重，光棍之流。或支水局，加之重重壬透，一无制伏，盗贼之命，如见己土，下贱鄙夫。 \r\n\r\n　　用壬者，金妻水子。 \r\n　　五月丙火，得壬高透，方为上命。或一壬无庚，亦主贡监，犹防戊己出干，丁壬化合，则为平人。即不透庚壬，或有申宫长生之水，济之坐禄之金，至妙，必入词林。又怕戊己杂乱，则为异路。 \r\n\r\n　　或成火局，不见滴水者，乃僧道鳏独之命。即有. \r\n一二癸水，多遇火土，用之无力，瞽目之人。得戊己透洩火气，亦主刑剋孤寡，行北运多凶，何也？所谓燥烈水激反凶！ \r\n　　或成炎上格，柱运不见庚辛，多见甲乙者，反主大富贵，然亦不可见水运。 \r\n　　或有庚癸透者，衣禄充足。支火轻，无目疾。支见水者，异途。或成土局，又为洩太过，得壬滋甲出干，土被制而火得生扶，此必富贵寿考之格也。 \r\n\r\n　　六月丙火退气，三伏生寒，壬水为用，取庚辅佐。 \r\n　　庚壬两透，贴身相生，可云科甲名宦。若无庚有壬，不见戊出，小富小贵。见戊制壬，则为乡贤而已。 \r\n　　或己土出干混杂，此必庸夫俗子。或壬水浅，己土出干，其人贫困。无壬下格，贱而且顽，男女一理。 \r\n　　或天干一派丙火，阳极生阴，干支两见庚壬，登科及第。 \r\n　　总之六月丙火用壬，不同余月用壬，喜运行西北，六月用壬，喜运行西南。 \r\n ";
-
-                                    qongtongbaojian += 论火 + 三夏丙火;
-                                }
-                                if (ydz == shen || ydz == you || ydz == xuu)
-                                {
-                                    string 三秋丙火 = "三秋丙火\r\n \r\n　　七月丙火，太阳转西，阳气衰矣。日近西山，见土皆晦，惟日照湖海，暮夜光天，故仍用壬水，辅映光辉。 \r\n　　如壬多，取戊制方妙。有壬透干，又见戊土出干，可云科甲。如戊藏支内，不过生员。多壬无戊，平常人也。或戊多壬少，亦属常人。或多壬，一戊出制，所谓众杀猖狂，一仁可化，必主显达，有权职。 \r\n\r\n　　一派辛金，又为弃命从才，奇特之造，虽不科甲，亦得恩荣，但多依亲戚而为进身之阶。从才者以水妻木子。 \r\n　　八月丙火，日近黄昏，丙火之余光，存于光湖，仍用壬水辅映。 \r\n　　四柱多丙，一壬高透为奇，定主登科及第。富贵双全。一壬藏支，亦主秀才。或戊多困水则假作斯文。若无壬水，癸亦可用，但功名不久。 \r\n\r\n　　或见辛透，不能从化，贫苦到老。或见一丁制辛，为人奸诈，不识高低。女命合此，长舌淫贱。 \r\n　　或成金局，无辛出干，此非从才，乃朱门饿莩。如辛出干，不见比劫，此从才格，反主富贵，亲戚提拔，妻贤内助。 \r\n　　用水者，金妻水子。从才者，水妻木子。 \r\n　　九月丙火，火气愈退，所忌土晦光火，必须先用甲木，次取壬水。甲壬两透，富贵非凡。若无壬水，得癸透干，亦可，虽不科甲，异路功名。壬癸藏支，贡监而已。甲藏壬透，无庚破甲，可许秀才。或庚戊困了水木，定是庸才。无甲壬癸者，下格。 \r\n\r\n　　或一派火土，虽不太旺，亦自燥矣。如不离乡过继，亦主奔流，加以无庚辛壬癸出干，必为夭命。 \r\n　　或支成火局，炎上失时，若运入南方，一贫彻骨。 \r\n　　用甲者，水妻木子。用壬者金妻水子。\r\n ";
-
-                                    qongtongbaojian += 论火 + 三秋丙火;
-                                }
-                                if (ydz == hai || ydz == zii || ydz == chou)
-                                {
-                                    string 三冬丙火 = "三冬丙火\r\n　　十月丙火，太阳失令，得见甲戊庚出干，可云科甲，主为人性好清高，斯文领袖。如辛透见辰，名化合逢时，主大贵。 \r\n　　或壬多无甲，乃作弃命从杀，即不科甲，亦是宦僚。或壬多有甲无戊，却非从杀，宜用己土混壬。 \r\n　　总之十月丙火，木旺宜庚，水旺宜戊，火旺用壬，随宜酌用可也。 \r\n　　十一月丙火，冬至一阳生，弱中復强，壬水为最，戊土佐之。 \r\n　　壬戊两透，科甲可许，无戊见己，异路功名。或无壬水，有癸出干得金滋无伤，又有丙透以解冻，可许衣衿。 \r\n　　或一派壬，则耑用戊土，此人虽不成名，文章迈众，但名利虚浮。何也？因戊晦光，又须甲木为葯也。或无壬水，癸亦可用，但不甚显。 \r\n\r\n　　或四柱多壬无甲，乃作弃命从杀，亦有云路。 \r\n　　或水多、有甲、无戊，却非从杀，宜用己土浊壬，十一月丙火，与十月颇同。 \r\n十二月丙火，气进二阳，侮雪欺霜，喜壬为用。己土司令，土多又不可少甲。壬甲两透，科甲堪宜，甲藏则秀才而已。或无甲得一壬透，富中取贵。 \r\n\r\n　　如见一派己土，不见甲乙，名为假伤官，聪明性傲，名利虚浮。 \r\n　　或一派癸水，得己出干，必自主创业。若制伏太过，又取辛金作用。得见癸透。此人即不成名，必清雅文墨士。 \r\n ";
-
-                                    qongtongbaojian += 论火 + 三冬丙火;
-                                }
-
+                                qongtongbaojian += 论木 + 三春乙木;
                             }
-                            if (rtg == ding)
+                            if (ydz == sii || ydz == wuma || ydz == wei)
                             {
-                                if (ydz == yin || ydz == mao || ydz == chen)
-                                {
-                                    string 三春丁火 = "三春丁火\r\n \r\n　　正月丁火，甲木当权，乃为母旺，非庚不能噼甲，何以引丁，姑用庚金。 \r\n或一派甲木，无庚制之，非贫即夭。 或只一甲木，多见乙木者，必离乡之客，焉问妻儿。 或见甲乙，生庚子时，又主妻早子早，且可采芹。\r\n\r\n得壬化木，弱极复生，合此必主大贵，但此化合，反以不见庚破格为妙。\r\n　　或有庚金壬癸，得己土出干制之，此命不由科甲，亦有异途。 \r\n　　或一派壬癸，不得寅时，又无庚金，必主穷困。 \r\n或丁年、壬月、丁日、壬时，男主大贵；女则不宜。 此格以土为妻、金为子。 但子女艰难。 女命合此，淫贱，刑夫克子。\r\n　　或支火局，无滴水解，僧道之命。见甲出略可。总不可无水。水多亦不宜。 \r\n二月丁火，湿乙伤丁，先庚后甲，非庚不能去乙，非甲不能引丁。 庚甲两透，科甲定然。 庚透甲藏，亦有生贡。 甲透庚藏，异路功名。\r\n\r\n　　或庚乙俱透，庚必输情于乙，未免贪合，运行金水，一贫彻骨。或庚透乙藏，则不能贪合，乙反引丁，即用乙亦无害，运入木火之乡，自然富贵。用乙者，水妻木子。若尽是乙木，不见一甲，此人富贵不久，因贪致祸﹐弄巧反拙。且不能承受先人之业。 \r\n\r\n　　或支成木局，有庚透、主清贵。不见庚者、常人。二月乙木司权，必须有庚，有乙无庚，主贫苦无依。用庚者、土妻金子。 \r\n\r\n　　得印旺杀高，大富大贵。或一派水，无一戊制，主贫苦无依。或乙少癸多，有戊出制﹐反吉。用土者、火妻土子。 \r\n三月丁火，戊土司令，泄弱丁气，先用甲木引丁制土，次看庚金。 庚甲两透，定主科甲。 或一藏一透，终非白丁。\r\n　　或支成木局，取庚为先。得庚透，丁癸不透，亦有异路功名。 \r\n　　或支成水局，加以壬透，名杀重身轻，必夭折天年。或遭凶死。或戊己两透，廊庙之客。若一甲破，定是常人。 \r\n　　用甲者，水妻木子。用金者，土妻金子。 \r\n ";
+                                string 三夏乙木 = "三夏乙木总论\r\n \r\n三夏乙木，木性枯焦。 四月专尚癸水。 五六月先丙后癸，夏至前仍用癸水。 先得丙透，支下又有丙火，名曰木秀火明。 得一癸透，科甲中人。 或透二丙一癸，可许采芹。\r\n\r\n　　或一派癸水，有丁无丙，平常之人。或一癸透干，异途显宦，难由科甲。癸居子辰，异路小职。或丙藏支下，癸透年干，己出月上，虽非科甲，异路功名。又或重重癸水，或支藏癸水，由行伍出身得功名。\r\n \r\n三夏乙木\r\n　　四月乙木，自有丙火，耑取癸水为尊。四月乙木专用癸水，丙火酌用，虽以庚辛佐癸，须辛透为清。癸透、庚辛又透，科甲定然，独一点癸水、无金，是水无根，虽出天干，不过秀才小富，须要大运相扶。或土多困癸，贫贱之人。丙戊太多，支成火局，瞽目之流。 \r\n\r\n　　用癸者，金妻水子。 \r\n　　乙逢双女木伤残，若见辛金寿必难，不得丙丁来制伏，岂知安乐不久长。 \r\n　　五月乙木，丁火司权，禾稼俱旱。上半月属阳，仍用癸水。下半月属阴，三伏生寒，丙癸齐用。柱多金水，丙火为先，余皆用癸水为先。 \r\n\r\n　　乙木重逢火位，名为气散之文，支成火局，洩乙精神，须用癸滋。癸透有根，富贵双全。或庚辛年上，癸透时干，定许科甲，无癸者常人。 \r\n\r\n　　若见丙透，支成火局，阳焦木性，此人残疾，无癸必夭，见壬可解。或火土太多，其人愚贱，或为僧道门下闲人。 \r\n　　六月乙木，木性且寒，柱多金水，丙火为尊。支成水局，乙得无伤。癸水透干，大富大贵。无癸定作常人，运不行北，困苦一生。 \r\n\r\n　　凡五六月乙木，气退枯焦，用癸水切忌戊己杂乱，则为下格。或甲木高透，制伏土神名为去浊留清，可许俊秀。土多乏甲秀气脱空，庸人而已。 \r\n\r\n　　或丙癸两透，加以甲透制戊，选拔定然。若不见丙癸，只有丁火，亦属常人，有壬、可充衣食。 \r\n　　或柱中无水，又无比劫出干﹐乃为弃命从才，富大贵小，能招贤德之妻。从才格以火为妻，土为子。 \r\n　　或一派戊土出干，不见比肩，名为才多身弱，终为富屋贫人。 \r\n　　或丙辛化水，嫖赌破家，终非承受之儿。 \r\n　　或一派乙木，不见丙癸，名为乱臣无主劳碌奔波，又加支多辛金，僧道之辈。 \r\n　　或一派甲木，无癸无丙，又无庚金，此人一生虚浮，总不诚实。有庚制甲，乃有谋之人，但嗜酒贪花，多慾败德，不修品行，男女一理。 \r\n\r\n　　总之夏月之乙木，耑用癸水，丙火酌用，庚辛次之。 \r\n ";
 
-                                    qongtongbaojian += 论火 + 三春丁火;
-                                }
-                                if (ydz == sii || ydz == wuma || ydz == wei)
-                                {
-                                    string 三夏丁火 = "三夏丁火\r\n \r\n四月丁火乘旺，虽取甲引丁，必用庚噼甲。 伐甲、方云木火通明。 甲多、又取庚为先。 但四柱忌见癸水。 癸水一见，泄金、湿甲、伤丁，故以癸为病。 或癸水藏支，壬水出干制丙，不夺丁光，自是雁塔题名，玉堂清贵。\r\n\r\n　　或有庚无甲，戊透天干，此为伤官生才，又取戊为用，必主富贵。戊土出干，不见甲乙，又不见水，是伤官伤尽。子平批八字清高，但不大贵，亦不大富。见水多木多，定是常人。 \r\n\r\n　　或四柱多丙，不见壬癸，夺了丁光，此人贫苦。或丁年、巳月、丁巳日、丙午时，一丙不夺二丁，即不显达，亦名播四邻。故书曰：丁火阴柔一烛灯，太阳相见夺光明；柱中若见甲木透，定许身安福自临。 \r\n\r\n　　五月丁火，时归建禄，不宜乱用甲木。 \r\n　　遇年透隔位之壬，不贪丁合者，忠而且厚。或支成火局，干见火出，得庚壬两透者，科甲定然。土透制壬，常人。即壬藏支中，亦非白丁，但要运行西北，方可发达。得一癸透，名独杀当权，出人头地。 \r\n\r\n　　若见寅辰亥卯字，化木生火，平常人物，丰衣足食，中年富，但刑?子息，劳而无功。或丙午月、丁未日、辛亥时，亥中有壬制丙，不致贫苦。若丙午时，则滴水难救炎火，必主僧道。若年支见子，虽不科甲，亦有衣衿。\r\n　　若干支无火局，有水透干，须用甲木，又要庚噼甲方明。木火通明，主大富贵。或木少火多，焚其木性，不能光透九霄，荣华不久。 \r\n\r\n　　或生月是禄，支皆生旺合局，加以火出，无滴水解炎，乃身旺无依，孤贫之格。女必为尼。即运北地，反主凶危。 \r\n　　用壬者，金妻水子。用甲者，水妻木子。 \r\n　　六月之丁，阴柔退气，但值三伏生寒，丁弱极矣，专取甲木，壬水次之。 \r\n　　若得甲出天干，支成木局，见亥中之壬，为木神有根，接引丁火，必然科甲。即不见木局，支见壬水，虽不大贵，亦有凌云之气，无庚不妙。 \r\n\r\n或支成水局，见水透干，则湿木性，不能引丁，必为平人，有甲透、亦有才干。 有庚透、方无刑伤。 若无甲木，假名假利，虽能生财，固执懦夫。\r\n\r\n　　或年月日时，皆一派丁未之类，此为纯阴，终无大用。 \r\n　　用甲者，水妻木子。\r\n ";
-
-                                    qongtongbaojian += 论火 + 三夏丁火;
-                                }
-                                if (ydz == shen || ydz == you || ydz == xuu)
-                                {
-                                    string 三秋丁火 = "三秋丁火\r\n \r\n　　三秋丁火，退气柔弱，耑用甲木，金虽乘旺司权，无伤丁之理，仍取庚噼甲，为引火之物，或借丙暖金晒木，不虑丙夺丁火。凡两丙夹丁者，夏月忌之，余月不忌淤。但此格少年困苦刑剋，中年富贵，必要地支见水制丙、方妙。 \r\n\r\n　　三秋甲庚丙并用，仍分优劣，何也？七月甲丙，申中有庚，八月甲丙庚皆用，七八月或无甲木，乙亦可用，为枯草引灯，却不离丙晒也。九月耑用甲庚。大扺甲不离庚，乙不离丙，其理极明。或见甲庚丙皆透，必主科甲。无甲用乙者，富贵皆小，且富而不贵者多。 \r\n\r\n　　或一重壬水，又多见癸水，必以戊土为制，自然富贵光辉。 \r\n　　或一派庚金，名财多身弱，主富屋贫人，妻多主事。或壬多洩庚，丁壬化杀，反成富贵。若庚多无壬，奔流下贱。 \r\n　　或八月一派辛金，不见庚金，又无比劫，此弃命从财，富而且贵，虽不科甲，亦有异途。从财者水为妻。不剋。有偏正。木为子。不刑。 \r\n\r\n　　或九月一派戊土，洩丁火之气，不见甲木，为伤官伤尽，非寻常可比。或甲木透出，为文书清贵，秋闱可夺。用甲者，庚不可少。水妻木子。 \r\n";
-
-                                    qongtongbaojian += 论火 + 三秋丁火;
-                                }
-                                if (ydz == hai || ydz == zii || ydz == chou)
-                                {
-                                    string 三冬丁火 = "三冬丁火\r\n　　三冬丁火微寒，耑用庚甲。甲乃庚之良友。凡用甲木，庚不可少，无庚无甲，何能引丁？难云木火通明，冬丁有甲，不怕水多金多。可称上格。甲庚两透，科甲分明。见己则否。己多合甲，则为常人。 \r\n\r\n　　或一丙夺丁，必赖支内水救。若有支金发水之源，官拜乌台有准。全无癸水制丙，无用之徒。或有金无水，贫寒之士。有水无金，又主清高。 \r\n\r\n　　或时月二壬争合，取戊破之。有戊稍有富贵。无戊常人。设戊藏得所，不失衣衿。 \r\n　　或二丙夺丁，得年干有癸，支下带合，金水得所，亦必显达，纳粟奏名，必验。 \r\n　　或仲冬水多癸旺，全无比印，此作弃命从杀，亦有异途功名。见丁比出干，难合格局，常人，且主骨肉浮云，六亲流水。戊出破癸，颇有兄弟妻儿。此格用戊，火妻土子。用甲、水妻木子。 \r\n\r\n　　三冬丁火，甲木为尊，庚金佐之，癸戊权宜酌用可也。 \r\n ";
-
-                                    qongtongbaojian += 论火 + 三冬丁火;
-                                }
-
+                                qongtongbaojian += 论木 + 三夏乙木;
                             }
+                            if (ydz == shen || ydz == you || ydz == xuu)
+                            {
+                                string 三秋乙木 = "三秋乙木\r\n \r\n　　三秋乙木，金神司令，先丙后癸，惟九月耑用癸水，恐丙暖戊土为病也。 \r\n　　七月乙木，庚金乘令，庚虽输情于乙妹，怎奈干乙难合支金。柱见庚多，乙难受载。或丙透干，又加巳出埋金，此格可云科甲。有己透、加丙，亦是上命。七月喜己土为用，或不见丙癸。己土必不可少，此则以火为妻，土为子。 \r\n\r\n　　或癸透、丙藏、庚少，此不用己，可许贡拔。无丙、有癸透者，不失刀笔门户。有支下庚多，癸又藏者，无丙己二神，平常人物。 \r\n\r\n或生辰时，此为从化，反主富贵。 凡化合格皆以所生之神为用。 化金者，戊为用神，特忌丙丁煅炼破格。 从化者以火为妻，土为子。 其余以金为妻。 妻必贤美。 以水为子，子必克肖，但忌刑冲。 凡命皆然，不特此也。\r\n\r\n　　秋乙逢金，非贫即夭。秋生乙木忌根枯，根既枯藁，贫苦到老。 \r\n　　八月乙木，芝兰禾稼均退。以丹桂为乙木。在白露之后，桂蕊未开，耑用癸水以滋桂萼。若秋分后，桂花已开，却喜向阳，又宜用丙，癸水次之，丙癸两透，科甲名臣。 \r\n\r\n　　或支成金局，宜暗藏丁，无丁制金，恐木被金伤。若无水火，此人劳碌。或得癸水，为子得母，其人一生丰盈。或丙癸两透，戊土杂出，亦主异路功名。 \r\n\r\n　　生秋分后，有丙无癸，亦略富贵。若有癸无丙，名利虚花。若四柱不见丙癸，下格。 \r\n　　或癸在年（月）干，丙透时干，名为木火文星，定主上达。生于秋分后方佳。或生上半月无癸，姑用壬水，不然，枯木无用，必作贫人。又四柱多见戊己，下格。 \r\n\r\n　　用癸者，金妻、水子。用丙者，木妻、火子。用壬者，金妻水子。 \r\n　　甲乙遇强金，魂归西土，青龙逢兑旺，且贫且贱。 \r\n　　乙木生居酉，莫逢巳酉丑，富贵坎离宫，贫穷申酉守。木逢金旺巳伤，再遇金乡，岂不损寿。 \r\n九月乙木，根枯叶落，必赖癸水滋养。 如见甲申时，名为藤萝系甲，可秋可冬。 若见癸水，又遇辛金发水之源，定主科甲。 或有癸无辛，常人。 有辛无癸，贫贱。 或四柱壬多，水难生乙，亦是寻常之辈。\r\n\r\n　　或支多戊土，又逢天干，作从才看，无比劫方妙，一逢比劫，富屋贫人。 \r\n用癸者，金妻、水子。 但子女艰难，季土克制故也。";
+
+                                qongtongbaojian += 论木 + 三秋乙木;
+                            }
+                            if (ydz == hai || ydz == zii || ydz == chou)
+                            {
+                                string 三冬乙木 = "三冬乙木\r\n　　十月乙木，木不受气，而壬水司令，取丙为用，戊土次之。丙戊两透，科甲定然。有丙无戊，虽不科甲，亦入儒林。支多丙火，运入火乡，亦主显达。 \r\n\r\n　　或水多无戊，乙性漂浮，流荡之徒。若不见丙巳，妻子难全，或一点壬水，即多见戊土，亦为不妙，得甲制戊，可许能干，但为人好生祸乱，构讼生非，男女一理。支成木局，时值小阳，此又如春木同旺，若有癸出，须取戊为尊，加以丙透，科甲之人。若无丙戊二字，自成自败，终非承受之辈。 \r\n\r\n　　十一月乙木，花木寒冻，一阳来復，喜用丙火解冻，则花木有向阳之意，不宜用癸以冻花木，故耑用丙火。 \r\n　　有一二点丙火出干，无癸制者，可许科甲。即丙藏支内，亦有选拔恩封，得此不贵，必因风水薄。或壬癸出干，有戊制，可作能人，即丙在支内，亦是俊秀。若壬透无戊，贫贱之人。 \r\n\r\n　　支成水局，干透壬癸，丙丁全无，虽有戊制，贫乏到老，运至南方，稍有衣食。丁火有亦如无，丁乃灯烛之火，岂能解严寒之冻。设无丙丁，戊土多见，金水奔流，下贱。或有戊己无火，亦属常人，但不至下贱。或一派丁火，大奸大诈之徒。如无甲引丁，孤鳏到老。丁火见甲，必主麟趾振振，芝兰绕膝。 \r\n\r\n　　或成水局，壬癸两透，则木浮矣，不特贫贱，而且夭折，得一戊救方可。 \r\n　　冬月之木，虽取戊制水，不可作用，耑取丙火则可。用火者，木妻、火子。用土者，火妻、土子。 \r\n　　乙木生于冬至之后，坐下木局，得丙透干者，富贵之造。即丁出干，亦有衣禄，须忌癸制丁。乙木生于冬月，己土透干，又有丙透，大富贵之造。 \r\n\r\n　　十一月乙木，木寒宜丙﹐有寒谷回春之象，得一丙透，无癸出破格，不特科甲，定主名臣显宦。丙火藏支，食饩而已。干支无丙，一介寒儒。 \r\n\r\n　　或四柱多己，不逢比劫，乃为从才，富比王侯，若见比劫，贫无立锥。虽或一派戊己，见甲颇有衣禄。耑以丙火为用，方妙。 ";
+
+                                qongtongbaojian += 论木 + 三冬乙木;
+                            }
+
                         }
-                        if (rtg == wuu || rtg == jii)
+
+
+                    }
+                    if (rtg == bing || rtg == ding)
+                    {
+                        string 论火 = "论火 \r\n \r\n　　炎炎真火，位镇南方，故火无不明之理，辉光不久。全要伏藏，故明无不灭之象。火以木为体。无木、则火不长焰。火以水为用，无水、则火太酷烈。故火多则不实，火烈则伤物。木能藏火，到寅卯方而生火，不利于西，遇申酉而必死。生居离位，木断有为，若居坎宫，谨畏守礼。 \r\n\r\n金得火和，而能镕铸。 水得火和，则成既济。 遇土不明，多主蹇塞。 逢木旺处，决定为荣。 木死火虚，难得永久，纵有功名，必不久长。 春忌见木，恶其焚也。 夏忌见土，恶其暗也。 秋忌见金﹐金难克制。 冬忌见水，水旺则灭。 故春火欲明，不欲炎。 炎则不实。 秋火欲藏、不欲明。 明则太燥，冬火欲生、不欲杀，杀则歇灭。";
+                        if (rtg == bing)
                         {
-                            string 论土 = "论土\r\n \r\n　　五行之土，散冠四维，故金木水火，依而成象，是四时皆有用有忌者。火、死酉也。水、旺子也。盖土赖火运，火死则土囚。土喜水才，水旺则土虚。土得金火，方成大器。土高无贵，空惹灰尘。土聚则滞，土散则轻。 \r\n\r\n　　辰戌丑未，壹心正也。分阴分阳，主则不同。辰有伏水；未有匿木，滋养万物，春夏为功；戌有藏火；丑有隐金。秋火冬金，肃杀万物。 \r\n\r\n　　土聚辰未为贵，聚丑戌不为贵。是土爱辰未、而不爱丑戌也明矣。若更五行有气，人命逢之，田产无比。晚年富贵悠悠。 \r\n　　若土太实无水，燥则不和；无木则不疏通；土见火则焦，女命多不生长。 \r\n　　土旺四季，惟戌土困弱。戌多为人好?，多瞌睡。辰未人好食，丑人清省。丑为艮土，有癸水能润而膏，人命遇此，主能卓立。 \r\n\r\n　　生于春月，其势虚浮，喜火生扶，恶木太过，忌水泛滥。喜土比助，得金而制木为祥。金太多仍盗土气。 \r\n　　夏月之土，其势燥烈，得盛水滋润成功，忌旺火煅炼焦坼。木助火炎，水?无?。金生水泛，妻才有益，见比肩蹇滞不通。如太过又宜木?。 \r\n\r\n　　秋月之土，子旺母衰，金多而秏盗其气，木盛须制伏纯良，火重重而不厌，水泛泛而不祥，得比肩则能助力，至霜降不比无妨。 \r\n\r\n　　冬月之土，外寒内温，水旺才丰，金多子秀，火盛有荣，木多无咎，再加比肩扶助为隹，更喜身主康强足寿。\r\n \r\n论四季月之土\r\n \r\n　　辰戌丑未，四土之神。惟未土为极旺，何也？辰土带木气?之，戌丑之土，带金气洩之，此三土虽旺而不旺，故土临此三位，金多作稼穑格，不失中和。若未月土则带火气也，带火气以生之，所以为极旺也。若土临此旺未月，见四柱土重，多作火炎土燥，不可作稼穑看。但临此月之土，见金结局者，不贵即富也。书曰：土逢季月见金多，终为贵论，而在未月尤甚。 \r\n";
-                            if (rtg == wuu)
+                            if (ydz == yin || ydz == mao || ydz == chen)
                             {
-                                if (ydz == yin || ydz == mao || ydz == chen)
-                                {
-                                    string 三春戊土 = "三春戊土总论\r\n \r\n　　三春戊土，无丙照暖，戊土不生，无甲疏噼，戊土不灵，无癸滋润，万物不长。正二月先丙后甲，癸又次之。三月先甲后丙，癸又次之，因戊土司权故也。有甲、丙、癸，三者齐透，必主一品当朝，或二透一藏，亦登金榜，二藏一透，也可异途。 \r\n\r\n　　正二月即有甲癸，若无丙除寒，如万物生而不长，故无丙者，富贵艰辛。或有丙无甲癸者，名曰春旱，如万物生而多厄。无甲癸者，一生勤苦，劳而无功。或一派丙火，有甲欠癸，先泰后否。或支成火局，不见壬癸，僧道孤贫。癸透者贵。壬透者富。 \r\n\r\n　　用水者，要审水之多少。或一派甲木，无丙者，常人。得一庚透方妙。或支成水局，甲又出干，又有庚透，富贵双全。 \r\n　　或无庚金，又无比印，难作从杀，定主遭凶，不然，必为盗贼。若日下坐午，不得善终。 \r\n　　或一派乙木，为官杀会党，即有庚透，却难制乙，此人内奸外直，口是心非。加一甲在内，无庚，必懒惰自甘，好食无厌。或丙多甲多，宜以癸庚参用。 \r\n\r\n　　三月戊土司令，不见丙甲癸者，愚而且贱。甲癸透者，科甲。丙癸透者、生员。甲癸俱藏者，只可云富，有癸异途。 \r\n　　若丙多无癸，旱田无水，不能种苗，旧谷已没，新谷未登，此先富后贫之造。或火多有壬透者，先贫后富。癸透先贱后荣。壬藏不过食足，癸藏不过名传，即此亦须运美。或支成火局，得癸透者，富贵天然。壬透富贵辛苦，何也？癸乃天上甘霖，壬乃江河波浪，所以有劳逸之殊。 \r\n\r\n支成木局，又甲乙出干，此名官杀会党，官杀无去留之义，得一庚透，扫除官杀，亦主富贵。 无庚乃浅薄之人，宜用火泄木气。 有一命、丁未、癸卯、戊寅、乙卯。 癸丁透干，加以戊癸化火，将甲木暗焚，反得武科探花。\r\n\r\n　　或有比印，耑看癸透，取癸而成贵格。无癸、无火、无金，名为土木自战，主腹中疾病，忧愁艰苦。 \r\n　　用甲者，水妻、木子。用丙者，木妻、火子。 ";
+                                string 三春丙火 = "三春丙火总论\r\n \r\n　　三春丙火秉象至威，阳回大地，侮雪欺霜，耑用壬水为扶阳，名曰天和地润，既济功成。 \r\n　　正月用壬，庚辛为助。二月耑用壬水。三月土重晦光，取甲佐之为妙。 \r\n癸丙春生，不晴不雨之天。 丙日春生，时月出癸，云雾迷蒙，不显不达，非若壬水辅丙也。\r\n \r\n三春丙火\r\n　　正月丙火，三阳开泰，火气渐炎，取壬为尊，庚金佐之。壬庚两透，科甲定然。即壬透庚藏，亦有异途显达。 \r\n　　若一庚高透，支藏一二丙火，纳粟奏名，主为人慷慨英雄，有才迈众。 \r\n　　或一派庚辛混杂，常人。得时月两透庚金、无辛者，定主清贵。或辛年辛时，名为贪合，酒色之徒。女命一理。 \r\n　　或丙少壬多，而无戊制，名杀重身轻。斯人笑里藏刀，寻非痞棍。或见一戊制壬，反而富贵，宜见一二比肩方妙。 \r\n或一片戊土，甲不出干，终非大器，且恐孤贫。 正月之丙，忌戊晦光。 或支成火局，耑取壬水为贵﹐无壬、癸亦姑用。 若壬癸俱无，取戊以泄火气，但属平人。\r\n\r\n　　或支成火局，又作炎上而推，但不逢时耳。若不见东南岁运，反致孤贫。 \r\n　　或四柱有甲木，得庚金暗制，可作秀才。 \r\n　　无壬用癸者，略富贵，且官杀亦要旺相有根。丙火无壬，多主贫贱，屡徵屡验。 \r\n　　或火多无水，一至水乡必死，不然，定有灾咎。惟五月丙火，合炎上格，则不喜水破格。用癸无根，定主目疾。 \r\n　　用壬者，金妻水子。用庚者，土妻金子。 \r\n　　二月丙火，阳气舒升，耑用壬水。壬透天干，不见丁化，加以庚辛己亦透，壬水有根，定主科甲。 \r\n　　或无壬水，己土姑用，主有才学，虽不成名，必衣食充足。 \r\n　　或一派壬水，见一戊制，虽不科甲，亦有恩庇。或无戊透，则有辰戌丑未之戊，但辰宫癸水，贪合成火，不能制土，此平常衣禄。若支下全无一戊，此系奔流之人，加以金多生水，下贱之命。 \r\n\r\n　　或一派戊土，亦用壬水，运喜行木，见土不祥。行火亦不利。 \r\n　　或丙子日，辛卯时，乃从化格，但不逢时，贪财坏印，难招祖业。若得一二重丁火破辛，壬水得位，亦主富贵，虽不科甲，亦有异途，名传郡邑。合此格，主妻妾多子。 \r\n\r\n　　或月时见二辛卯，日乃丙子，名为争合，年不透丁制辛，此人昏迷酒色，年透丁火反吉。或支成木局，反因奸得财，因酒得名。 \r\n\r\n　　凡用壬者，金妻水子。 \r\n　　三月丙火，气渐炎升，用壬水。或成土局，取甲为辅，壬不可离。壬甲两透，科甲定宜，惟忌庚出制甲，则秀才而已。无甲用庚，助壬水洩土气。 \r\n\r\n　　壬透甲藏，富大贵小，有甲无壬，劳碌浊富。壬藏无甲，一介寒儒。壬甲两无，愚贱之辈。乙丁杂乱，定必属凡夫。 \r\n　　用壬者，金妻水子。用甲者，水妻木子。 \r\n ";
 
-                                    qongtongbaojian += 论土 + 三春戊土;
-                                }
-                                if (ydz == sii || ydz == wuma || ydz == wei)
-                                {
-                                    string 三夏戊土 = "三夏戊土\r\n \r\n　　四月戊土，阳气发升，寒气内藏，外实内虚，不畏火炎，无阳气相催，万物不长，故先用甲疏噼，次取丙癸为佐。 \r\n　　丙透甲出，廊庙之才，丙癸俱透，科甲之士，即透一位，支藏得所，终非白丁。 \r\n　　若一派丙火，为火炎土燥，僧道之流，得一癸透壬藏，功名有准。或支藏癸水衣食充足，但骨肉多刑。 \r\n　　化合成局无破，富贵非轻。 \r\n　　此用癸水，金妻水子。 \r\n　　五月戊土，仲夏火炎，先看壬水，次取甲木，丙火酌用，用癸力微。 \r\n　　壬甲两透，名君臣庆会，自然桃浪先声，权高位显，又得辛透年干，官居一品。一命、辛未、甲午、戊寅、壬子，壬甲两透。印旺杀高，出将入相，名播四夷。 \r\n\r\n　　若支成火局，即透癸水，不能大济，是一杯水难济薪火也。人命合此，即好学不倦，亦不能成名，且主目疾。若得壬水出干，则非此比。 \r\n\r\n　　又或土木重重，全无滴水，僧道孤贫之辈。 \r\n　　用壬者、金妻水子。 \r\n　　六月戊土，遇夏干枯，先看癸水，次用丙火甲木。癸丙两透，科甲中人。或有癸无丙，见甲可许秀才。无甲略富。或有丙无癸，假道斯文，衣食颇足。 \r\n\r\n　　或癸透辛出，以刀笔之才，可谋异路。 \r\n　　无癸丙者，常人。若又无甲，下贱之辈。 \r\n　　或土多得一甲出，不见庚辛，为人作事轩昂，性情谨慎，即不显扬，亦文章惊世。 \r\n　　用癸者，金妻、水子。用丙者，木妻、火子。用甲者，水妻、木子。 \r\n ";
-
-                                    qongtongbaojian += 论土 + 三夏戊土;
-                                }
-                                if (ydz == shen || ydz == you || ydz == xuu)
-                                {
-                                    string 三秋戊土 = "三秋戊土\r\n　　七月戊土，阳气渐入，寒气渐出，先丙后癸，甲木次之。丙癸甲透者，富贵极品。癸藏丙透，不仅秀才。丙甲两透，癸水会局藏辰，亦不失富贵。无丙得癸甲透，此人清雅，家富千金。无癸甲者、常人。有丙火、妻贤子肖。若丙甲癸三者俱无，下流之命。 \r\n\r\n或支成水局，休作弃命从才，宜取甲泄之。 甲透者、稍有富贵。 用神妻子同前。\r\n八月戊土，金泄身寒，赖丙照暖，喜水滋润，先丙后癸，不必木疏。 丙癸两透，科甲中人。 丙透癸藏，可许入泮。 癸透丙藏，纳资得官。 若丙藏又无癸，即多不透，此皆常人。 丙癸全无，奔流之客。\r\n\r\n　　或四柱皆辛，无丙丁，此名伤官格，为人清秀，即不能拾芥，亦可武庠。一见癸水，富而且贵。 \r\n　　或支成水局，壬癸出干，此名才多身弱，愚懦无能。若天干有比劫，分散才神，颇言衣食。 \r\n用神妻子同前，秋土生金极弱，须丙火丁火出干方妙。\r\n　　九月戊土当权，不可专用丙，先看甲木，次取癸水，却忌化合。见金先用癸水，后取丙火，配合支干，方成有生之土，定发云程。 \r\n\r\n　　或无丙有癸，不见甲透者，衣衿小富。无癸丙、有甲者。衣食而已。若癸甲全无，虽有丙火，亦属平常，或为僧道。或支成水局，壬癸透干，用戊止流，有比透反主富。 \r\n\r\n　　支成火局，名土燥，不发。 \r\n　　得金水两透，此人清高，略可富贵。无水、一生困苦。妻子同前。 \r\n ";
-
-                                    qongtongbaojian += 论土 + 三秋戊土;
-                                }
-                                if (ydz == hai || ydz == zii || ydz == chou)
-                                {
-                                    string 三冬戊土 = "三冬戊土\r\n　　十月戊土，时值小阳，阳气略出，先用甲木，次取丙火。非甲、土不灵。非丙、土不暖，安能生发万物。甲丙两出，富贵中人。或甲得长生，遇支藏得地之水，一丙高透，亦主身贵扬名。 \r\n\r\n　　支见庚金，入泮而已。若不见庚金，甲木藏支，丙火高透，科甲有之。若有庚，丁出制，必异路功名。或为典吏。即庚丁不透，甲丙藏支，亦云富贵。 \r\n\r\n　　壬透得戊救丙，主富贵取贵。丙甲俱无，必为僧道。 \r\n　　十一二月严寒冰冻，丙火为专，甲木为佐。丙甲两透，桃浪之人，丙出甲藏，採芹食饩。丙藏甲出，佐杂前程。有丙无甲者，豪富。有甲无丙者，清贫。丙甲全无，下流之造。 \r\n\r\n　　或一派丙火，加以丙透，运值火土，弱中復强，又一壬透，主清高荣禄。乏壬、僧道孤寒。 \r\n　　或一派壬水，不见比劫，可作从才而论。即有比劫，得甲出干，又主富贵，若寒土无丙，虽有甲木，亦是内虚外实之人。 \r\n　　或二癸透月时，名为争合，终属劳碌之人。得一己出干制癸，反为忠义之士，捨己从人而论。 \r\n　　年月透辛金者，又属土金伤官，异路功名可许。以金为妻、水为子。\r\n ";
-
-                                    qongtongbaojian += 论土 + 三冬戊土;
-                                }
-
+                                qongtongbaojian += 论火 + 三春丙火;
                             }
-                            if (rtg == jii)
+                            if (ydz == sii || ydz == wuma || ydz == wei)
                             {
-                                if (ydz == yin || ydz == mao || ydz == chen)
-                                {
-                                    string 三春己土 = "三春己土\r\n　　正月己土，田园犹冻，盖因腊气未除，余寒未退，故丙为尊。得丙照暖，万物自生，忌见壬水，反为己病，何也？壬乃江湖之水，湖水一发，则田园洗荡，变为沙土，而根苗尽没矣。须戊作堤，以保园圃。壬多要见戊制。有戊出干者，定主玉堂金马。若乏戊制，必属平常。 \r\n\r\n或一派甲木，有庚出干，加以癸丙齐透，配得中和，亦名利双全。 即丙生寅月，庚透天干，亦有俊秀。 若甲多无庚，残疾废人，宜用丁泄。\r\n\r\n或一派火，即不见水无克，何也？ 正月己土寒滋，必丙暖，反主厚禄。 加一癸透，科甲自然。 戊透、反作常人。 或一派戊土，有甲出制，又主荣显。 如见乙出，虽多不能疏土，且乙多者，奸诈小人。\r\n\r\n　　用丙者，木妻、火子。 \r\n　　二月己土，阳气渐升，虽禾稼未成，万物出土，田园未展，先取甲木疏之，忌合。次取癸水润之。甲癸出干，定主科甲，加以一丙出透，势压百僚。一见壬水，微末官职。 \r\n\r\n　　或见庚制甲，壬水出干，比劫重重，此必俗子。丙透犹有小富，丙藏衣禄无亏。 \r\n或支成木局，庚透富贵，若柱多乙木，乙又屈庚，庚必输情于乙，不能扫邪于正，此必狡诈之徒，运入东南，恐有不测。 当用丁泄之。 有丁者、小人而已，不致无良。\r\n\r\n　　无比印、从杀者贵。 \r\n　　若柱中无甲丙癸者，皆下格。 \r\n　　妻子用神同前。 \r\n　　三月己土，正栽培禾稼之时，先丙后癸，土暖而润，随用甲疏，三者俱透天干，必官居黄阁。或三者透一，科甲定然，但要得地。却以庚金为病。 \r\n\r\n　　或有甲无癸，亦可致富，但不贵显。或有癸而无甲丙，亦有衣衿。或有丙癸无甲，亦系人才。丙癸全无，流俗之辈。 \r\n　　或一派乙木，无金制伏，贫而且夭也。 \r\n　　妻子同前。 \r\n ";
+                                string 三夏丙火 = "三夏丙火总论\r\n三夏丙火，阳威性烈，专用壬水。 若亥宫壬水无力，回克泄气故也，仍用申宫长生之水，方云富贵。\r\n　　四月耑用壬水，金为佐。五月亦耑用壬。四五月壬透者富贵。丁多、兼看癸水。六月用壬，但借庚金为佐。 \r\n　　阳刃合杀，威权万里。丁火羊刃太旺，正谓羊刃倒戈，无头之鬼。丙火用壬，生旺坐实方好，忌壬水太多，名杀重身轻。 \r\n \r\n三夏丙火\r\n四月丙火，建禄于巳，火势炎炎，宜专用壬水，解炎威之力，成既济之功。 如无壬水，孤阳失辅，难透清光。 得庚发水源，方为有根之水。 壬庚两透，不见戊土，号曰湖水汪洋，广映太阳，光辉显着，文明之象，人格合此，不但科甲峥嵘，必有恩谥封荣，若不验，必暗损阴德。\r\n\r\n　　或无壬水，癸亦姑用，见庚透癸，不富必贵，但心性乖僻，巧谋善辩。或壬癸俱无，愚顽之辈。火炎无制，僧道之流，不然，须防夭折。 \r\n\r\n　　或一派庚金，不见比劫，有富无贵。 \r\n　　或丙午日干，四柱多壬，不见戊制，名曰阴刑杀重，光棍之流。或支水局，加之重重壬透，一无制伏，盗贼之命，如见己土，下贱鄙夫。 \r\n\r\n　　用壬者，金妻水子。 \r\n　　五月丙火，得壬高透，方为上命。或一壬无庚，亦主贡监，犹防戊己出干，丁壬化合，则为平人。即不透庚壬，或有申宫长生之水，济之坐禄之金，至妙，必入词林。又怕戊己杂乱，则为异路。 \r\n\r\n　　或成火局，不见滴水者，乃僧道鳏独之命。即有. \r\n一二癸水，多遇火土，用之无力，瞽目之人。得戊己透洩火气，亦主刑剋孤寡，行北运多凶，何也？所谓燥烈水激反凶！ \r\n　　或成炎上格，柱运不见庚辛，多见甲乙者，反主大富贵，然亦不可见水运。 \r\n　　或有庚癸透者，衣禄充足。支火轻，无目疾。支见水者，异途。或成土局，又为洩太过，得壬滋甲出干，土被制而火得生扶，此必富贵寿考之格也。 \r\n\r\n　　六月丙火退气，三伏生寒，壬水为用，取庚辅佐。 \r\n　　庚壬两透，贴身相生，可云科甲名宦。若无庚有壬，不见戊出，小富小贵。见戊制壬，则为乡贤而已。 \r\n　　或己土出干混杂，此必庸夫俗子。或壬水浅，己土出干，其人贫困。无壬下格，贱而且顽，男女一理。 \r\n　　或天干一派丙火，阳极生阴，干支两见庚壬，登科及第。 \r\n　　总之六月丙火用壬，不同余月用壬，喜运行西北，六月用壬，喜运行西南。 \r\n ";
 
-                                    qongtongbaojian += 论土 + 三春己土;
-                                }
-                                if (ydz == sii || ydz == wuma || ydz == wei)
-                                {
-                                    string 三夏己土 = "三夏己土\r\n \r\n　　三夏己土，杂气才官，禾稼在田，最喜甘沛，取癸为要，次用丙火。夏无太阳，禾稼不长，故无癸曰旱田，无丙曰孤阴。 \r\n　　或丙癸两透，又加辛金生癸，此富贵之格，名水火既济，鼎甲之人。却忌戊癸化合。 \r\n　　或有丙无癸，有壬亦可，但不大发。 \r\n　　或一派丙火烈土，加以丁火制辛，癸水无根，如七八月之间旱，则苗藁矣，此命孤苦零丁。或有甲木，又见丙火重重，无滴水解炎，亦孤贫到老。 \r\n\r\n　　如有壬水，又见庚辛，此又不作孤看，但恐目疾，心肾肝脏之灾。若壬水有根，辛金得地，又非此而论。或壬癸并出，破火润土，此人聪?特达，富中取贵，又转祸为福也。 \r\n\r\n　　用癸者、金妻水子。用丙者，木妻火子。 ";
-
-                                    qongtongbaojian += 论土 + 三夏己土;
-                                }
-                                if (ydz == shen || ydz == you || ydz == xuu)
-                                {
-                                    string 三秋己土 = "三秋己土\r\n \r\n三秋己土，万物收藏之际，外虚内实，寒气渐升，须丙火温之，癸水润之，不特此也，且癸能泄金，丙能制金，补土精神，则秋生之物咸茂矣。 癸先丙后。\r\n\r\n　　丙癸两透，雁塔题名。或无癸，有两丙透者，异途显达。或武职权高。或有丙火，不见壬癸，为假道斯文，终无诚实。或有壬癸无丙者，衣食充足，才能而已。 \r\n\r\n　　或支成金局，癸透有根，此人家畜万缗，富中取贵。 \r\n　　或支四库，甲透者富。乏甲者孤贫。或甲出无癸乏金，积德可全科甲。或会火局，无水救，乃大奸大恶之徒。 \r\n　　或丙透癸藏，遇金颇有选援，加一壬辅，富贵慷慨，有贤声。见戊透者，主遭凶厄且贫。 \r\n　　八月支成金局，无丙丁出救，此人零丁孤苦。如得丙透丁藏，生己元神，此人名魁天下，五福完人。 \r\n　　总之，三秋己土，先癸后丙，取辛辅癸。九月土盛，宜甲木疏之，余皆酌用。 \r\n　　勾陈全备润下，劳碌奔波之客。土凝水竭，离乡背井之流。 \r\n　　勾陈得位会才官，无剋无破必然端，甲子北方寅卯木，管教环拱戴金冠。戊己喜亥卯未为官，申子辰为才，忌刑剋杀害。 \r\n ";
-
-                                    qongtongbaojian += 论土 + 三秋己土;
-                                }
-                                if (ydz == hai || ydz == zii || ydz == chou)
-                                {
-                                    string 三冬己土 = "三冬己土 \r\n \r\n　　三冬己土，溼泥寒冻，非丙暖不生，取丙为尊，甲木参酌。戊土癸水不用。惟初冬壬旺，取戊制之。余皆用丙丁，但丁不能解冻除寒，不能大济。 \r\n\r\n　　或干透一丙，支藏一丙，加以甲透，科甲有准。即藏丙无制，亦主衣衿。 \r\n　　或多壬水，得戊透制之，此命安然，富中取贵。不见戊土，富屋贫人。 \r\n　　凡三冬己土，见壬水出干，为水浸湖田，此人孤苦。若见火不孤，见土不贫。 \r\n　　或一派癸，不见比劫，此为从才，反主富贵，虽不科甲，恩诰有之。若见比争，平常人物，妻子主事。从才者，木妻、火子。 \r\n\r\n　　或一派戊己，取甲制之，甲透者，富贵。 \r\n　　或一派辛庚，须用丙火，还须丁火为助。丙藏、富贵奇特之命。\r\n ";
-
-                                    qongtongbaojian += 论土 + 三冬己土;
-                                }
-
+                                qongtongbaojian += 论火 + 三夏丙火;
                             }
+                            if (ydz == shen || ydz == you || ydz == xuu)
+                            {
+                                string 三秋丙火 = "三秋丙火\r\n \r\n　　七月丙火，太阳转西，阳气衰矣。日近西山，见土皆晦，惟日照湖海，暮夜光天，故仍用壬水，辅映光辉。 \r\n　　如壬多，取戊制方妙。有壬透干，又见戊土出干，可云科甲。如戊藏支内，不过生员。多壬无戊，平常人也。或戊多壬少，亦属常人。或多壬，一戊出制，所谓众杀猖狂，一仁可化，必主显达，有权职。 \r\n\r\n　　一派辛金，又为弃命从才，奇特之造，虽不科甲，亦得恩荣，但多依亲戚而为进身之阶。从才者以水妻木子。 \r\n　　八月丙火，日近黄昏，丙火之余光，存于光湖，仍用壬水辅映。 \r\n　　四柱多丙，一壬高透为奇，定主登科及第。富贵双全。一壬藏支，亦主秀才。或戊多困水则假作斯文。若无壬水，癸亦可用，但功名不久。 \r\n\r\n　　或见辛透，不能从化，贫苦到老。或见一丁制辛，为人奸诈，不识高低。女命合此，长舌淫贱。 \r\n　　或成金局，无辛出干，此非从才，乃朱门饿莩。如辛出干，不见比劫，此从才格，反主富贵，亲戚提拔，妻贤内助。 \r\n　　用水者，金妻水子。从才者，水妻木子。 \r\n　　九月丙火，火气愈退，所忌土晦光火，必须先用甲木，次取壬水。甲壬两透，富贵非凡。若无壬水，得癸透干，亦可，虽不科甲，异路功名。壬癸藏支，贡监而已。甲藏壬透，无庚破甲，可许秀才。或庚戊困了水木，定是庸才。无甲壬癸者，下格。 \r\n\r\n　　或一派火土，虽不太旺，亦自燥矣。如不离乡过继，亦主奔流，加以无庚辛壬癸出干，必为夭命。 \r\n　　或支成火局，炎上失时，若运入南方，一贫彻骨。 \r\n　　用甲者，水妻木子。用壬者金妻水子。\r\n ";
+
+                                qongtongbaojian += 论火 + 三秋丙火;
+                            }
+                            if (ydz == hai || ydz == zii || ydz == chou)
+                            {
+                                string 三冬丙火 = "三冬丙火\r\n　　十月丙火，太阳失令，得见甲戊庚出干，可云科甲，主为人性好清高，斯文领袖。如辛透见辰，名化合逢时，主大贵。 \r\n　　或壬多无甲，乃作弃命从杀，即不科甲，亦是宦僚。或壬多有甲无戊，却非从杀，宜用己土混壬。 \r\n　　总之十月丙火，木旺宜庚，水旺宜戊，火旺用壬，随宜酌用可也。 \r\n　　十一月丙火，冬至一阳生，弱中復强，壬水为最，戊土佐之。 \r\n　　壬戊两透，科甲可许，无戊见己，异路功名。或无壬水，有癸出干得金滋无伤，又有丙透以解冻，可许衣衿。 \r\n　　或一派壬，则耑用戊土，此人虽不成名，文章迈众，但名利虚浮。何也？因戊晦光，又须甲木为葯也。或无壬水，癸亦可用，但不甚显。 \r\n\r\n　　或四柱多壬无甲，乃作弃命从杀，亦有云路。 \r\n　　或水多、有甲、无戊，却非从杀，宜用己土浊壬，十一月丙火，与十月颇同。 \r\n十二月丙火，气进二阳，侮雪欺霜，喜壬为用。己土司令，土多又不可少甲。壬甲两透，科甲堪宜，甲藏则秀才而已。或无甲得一壬透，富中取贵。 \r\n\r\n　　如见一派己土，不见甲乙，名为假伤官，聪明性傲，名利虚浮。 \r\n　　或一派癸水，得己出干，必自主创业。若制伏太过，又取辛金作用。得见癸透。此人即不成名，必清雅文墨士。 \r\n ";
+
+                                qongtongbaojian += 论火 + 三冬丙火;
+                            }
+
                         }
-                        if (rtg == geng || rtg == xin)
+                        if (rtg == ding)
                         {
-                            string 论金 = "论金\r\n \r\n　　金以至阴为体，中含至阳之精，乃能坚刚，独异众物，若独阴而不坚，冰雪是也，遇火则消矣。故金无火炼，不能成器，金重火轻，执事繁难。金轻火重，煅炼消亡。金极火盛，为格最精。金火全、名曰铸印。犯丑字、即为损模。金火多名为乘轩，遇死衰、反为不利。 \r\n\r\n　　木火炼金，成名锐而退速。纯金遇水，逢富显以赢余。 \r\n　　金能生水，水旺则金沉；土能生金，金多则土贱。金无水干枯；水重、则沉沦无用。金无土则死绝；土重、则埋没不显。两金两火、最上。两金两木、才足。一金生三水，力弱难胜；一金得三木，顽钝自损。金成则火灭，故金未成器，欲得见火；金已成器，不欲见火。金到申酉巳丑，亦可谓之成也，运喜西北，不利东南。 \r\n";
-                            if (rtg == geng)
+                            if (ydz == yin || ydz == mao || ydz == chen)
                             {
-                                if (ydz == yin || ydz == mao || ydz == chen)
-                                {
-                                    string 三春庚金 = "三春庚金\r\n \r\n正月庚金，木旺之际，有土皆死，不能生金，且金之寒气未除，先用丙暖庚性，又虑土厚埋金，须甲疏泄。 丙甲两透，科甲显荣。 二者透一，亦有生监。 丙藏甲透，异路功名。\r\n\r\n　　或柱中土多，甲透者贵；甲藏者富，庚出则否。 \r\n　　或丁火出干，加以戊己而无水者，又主富贵，名官星有气，才旺生扶，故以富贵推之。 \r\n　　如火多则用土。用土者，火妻土子。 \r\n　　或支成火局，壬透、有根者，大富贵。无根者、小富贵。乏水者、残疾之人。 \r\n　　或木被金伤，无丙丁出制，支无丁火﹐此系平人。或丙遭癸困，无戊制者亦然。 \r\n　　总之，正月庚金，丙甲为上，丁火次之。春金多火，不夭则贫。阳金最喜火炼，煅炼太过，反主奔流。 \r\n　　二月庚金，柱中自然有乙，当令之乙，见庚必输情于乙，此金有暗强之势，如秋金一理，故二月庚金，专用丁火，借甲引丁，借庚噼甲。无丁用丙者，富贵多出于勉强。 \r\n\r\n　　或丁在干，甲透引丁，支下再见一庚制甲，配得中和，必然大贵。如不见庚合者，虽丁甲两透，亦属平人。 \r\n春丁不旺不衰，故用甲为佐丁之物，甲若无庚噼，则不能引丁，乙木虽多，又忌湿乙伤丁，难为丁母，故有丁甲无庚者，常人。 有丁庚、甲不出干者、常人。 或丁透无庚甲者，可许贡监。 无丁有丙者，异路功名。\r\n\r\n　　或一片甲乙，忌庚出干破才，乃从才格，反主富贵。若见一比，又主孤贫。 \r\n　　从才者，火妻土子。用丁者，取甲为妻、若有庚制，难许同偕。 \r\n　　死金嫌盖顶之泥，重见戊土，如人压伏之象，须甲透为妙。 \r\n　　三月庚金，戊土司令，无生金之理，有埋金之忧，故先甲后丁，不用庚噼甲。三月之庚，土旺金顽，顽金宜丁，旺土须甲，乏甲不能立业，乏丁焉能成名。二者少一，富贵不真。 \r\n\r\n　　庚金无火，非夭则贫。身弱才多，富贵不久。 \r\n得丁甲两透，不见比肩，科甲之命，但要好运相催。 甲透丁藏，采芹拾芥。 甲藏丁透，异路功名。 丁甲俱藏，不受庚制，富中取贵，刀笔起家。 有甲无丁，平常之辈。 有丁无甲，迂儒腐儒。 丁甲两无，下贱之流。\r\n\r\n　　或一甲、无丁、有丙，由行伍而得官职，须不见壬癸为妙。 \r\n　　或支成土局，无木，贫贱僧道；见乙、奸诈小人。 \r\n　　或支成火局，癸水透，富贵。有丙丁出干，见壬制之、方吉。无制、残疾之人。 \r\n　　用甲者，水妻、木子。用丁者，木妻、火子。\r\n ";
+                                string 三春丁火 = "三春丁火\r\n \r\n　　正月丁火，甲木当权，乃为母旺，非庚不能噼甲，何以引丁，姑用庚金。 \r\n或一派甲木，无庚制之，非贫即夭。 或只一甲木，多见乙木者，必离乡之客，焉问妻儿。 或见甲乙，生庚子时，又主妻早子早，且可采芹。\r\n\r\n得壬化木，弱极复生，合此必主大贵，但此化合，反以不见庚破格为妙。\r\n　　或有庚金壬癸，得己土出干制之，此命不由科甲，亦有异途。 \r\n　　或一派壬癸，不得寅时，又无庚金，必主穷困。 \r\n或丁年、壬月、丁日、壬时，男主大贵；女则不宜。 此格以土为妻、金为子。 但子女艰难。 女命合此，淫贱，刑夫克子。\r\n　　或支火局，无滴水解，僧道之命。见甲出略可。总不可无水。水多亦不宜。 \r\n二月丁火，湿乙伤丁，先庚后甲，非庚不能去乙，非甲不能引丁。 庚甲两透，科甲定然。 庚透甲藏，亦有生贡。 甲透庚藏，异路功名。\r\n\r\n　　或庚乙俱透，庚必输情于乙，未免贪合，运行金水，一贫彻骨。或庚透乙藏，则不能贪合，乙反引丁，即用乙亦无害，运入木火之乡，自然富贵。用乙者，水妻木子。若尽是乙木，不见一甲，此人富贵不久，因贪致祸﹐弄巧反拙。且不能承受先人之业。 \r\n\r\n　　或支成木局，有庚透、主清贵。不见庚者、常人。二月乙木司权，必须有庚，有乙无庚，主贫苦无依。用庚者、土妻金子。 \r\n\r\n　　得印旺杀高，大富大贵。或一派水，无一戊制，主贫苦无依。或乙少癸多，有戊出制﹐反吉。用土者、火妻土子。 \r\n三月丁火，戊土司令，泄弱丁气，先用甲木引丁制土，次看庚金。 庚甲两透，定主科甲。 或一藏一透，终非白丁。\r\n　　或支成木局，取庚为先。得庚透，丁癸不透，亦有异路功名。 \r\n　　或支成水局，加以壬透，名杀重身轻，必夭折天年。或遭凶死。或戊己两透，廊庙之客。若一甲破，定是常人。 \r\n　　用甲者，水妻木子。用金者，土妻金子。 \r\n ";
 
-                                    qongtongbaojian += 论金 + 三春庚金;
-                                }
-                                if (ydz == sii || ydz == wuma || ydz == wei)
-                                {
-                                    string 三夏庚金 = "三夏庚金\r\n \r\n　　四月庚金，长生于巳，巳内有戊。丙不镕金，故不畏火炎，丙亦可作用，但先壬水，方得中和，故曰群金生夏，喜用勾陈。次取戊土，丙火佐之。三者皆全，登科及第，即透一二，亦非白丁。 \r\n\r\n或一派丙火，名曰假杀为权，须不见壬制者，此人假作清高，并无仁义，刑妻克子。 有壬制者，又主荣华。 壬藏支者，有富贵之名，而无其实。\r\n\r\n　　或支成金局，变弱为强，用丙无力，用丁方妙，故丁透者吉。无丁、无用之人。或丁出三四，煅制太过，其人奔波。 \r\n四月庚金，须用壬丙戊，但非拘执先后，宜分病用药。 妻子同前。\r\n　　剑戟成功，入火乡而反害。金逢火已损，再见火必伤。庚辛火旺怕南方，逢辰巳之乡，又为荣断。 \r\n　　五月庚金，丁火旺烈，庚金败地，专用壬水，癸又次之。壬透癸藏，支见庚辛，必然科甲，切忌戊己透干制水、则否。戊藏支内，不失儒林。或壬在支，有金生助，又得金神出干，明经之贵。或癸出带辛，异路之荣。 \r\n\r\n或支成火局，乏水者，奔波之客。 有壬癸制者，捐纳之人。 又见戊己透者则吉。 无壬癸制火者，又宜戊己出干补金泄火，庶不夭折孤贫。\r\n\r\n　　总之，仲夏无水，必非上格，或一派木火，无伤、印、比劫，又作从杀而论。 \r\n　　六月庚金，三伏生寒，顽钝极矣，先用丁火，次取甲木。丁甲两透名显身荣，忌癸伤丁。有甲无丁、庸俗。有丁无甲、生员。丁甲全无，下贱之人。木虽有，丁不透，支又见水，执鞭之士。丁火无伤，贸易之流。 \r\n\r\n　　支会土局，甲先丁后。甲透者，文章显达。丁透者，刀笔扬名。或柱多金，有二丁出制，异路功名。 \r\n ";
-
-                                    qongtongbaojian += 论金 + 三夏庚金;
-                                }
-                                if (ydz == shen || ydz == you || ydz == xuu)
-                                {
-                                    string 三秋庚金 = "三秋庚金\r\n \r\n　　七月庚金，刚锐极矣。专用丁火煅炼，次取甲木引丁，故曰：秋金锐锐最为奇，壬癸相逢总不宜，如逢木火来成局，试看福寿与天齐。 \r\n\r\n　　如得丁甲两透，定步青云。若有丁无甲为俊秀。有甲无丁是平人。丁甲两无无用物，只堪门下作闲人。 \r\n　　或支成水局，乏丁用丙，柱中即有丙火，不见甲木者，必主愚懦。何也？当时金水两旺，金生水以制火，何能发达。或见甲出引丁，可云生监。甲弱者、衣食充盈。 \r\n\r\n　　或支成土局，先甲后丁。支成火局，富贵中人。金刚木明，行商坐贾之人。金备申酉戌之地，富贵无疑。金神入火乡，逢羊刃，富贵荣华。 \r\n\r\n八月庚金，刚锐未退，用丁用甲，丙不可少。 若丁甲透，又见一丙，功名显赫，且见羊刃，无刑克，丙杀藏支，名为羊刃驾杀，主出将入相，直介忠臣。\r\n\r\n　　或丙火重重，一丁高透，亦主科甲。丙出丁藏，异路功名。 \r\n　　或甲藏支，火透而水不透者，亦主清高，衣衿可望。 \r\n　　或丁藏支内，重见丙火者，此名假杀重重，虽羊刃帖身，却难从杀也。即一丙透，秀而不富。或支见重重甲乙，无用之人。 \r\n\r\n　　总之，旺金木衰，非火莫制，不见丙丁，艺术之辈。 \r\n　　九月庚金，戊土司令，最怕土厚埋金，宜先用甲疏，后用壬洗，则金自出矣。忌见己土浊壬。 \r\n　　壬甲两透，科甲相宜。或甲透壬藏，乡魁可望。甲藏壬透，廪贡堪谋。有甲无壬，犹有学问。有壬无甲，莫问衣衿。壬甲两无，则为下格。 \r\n\r\n　　或支成水局，丙透救之，此人才高迈众，名重乡闾，不见癸水，一榜可许。 \r\n　　或四柱戊多金旺，全无甲壬者，即有衣禄，亦不能久。或庚戊多而无壬甲者，愚顽之辈。\r\n ";
-
-                                    qongtongbaojian += 论金 + 三秋庚金;
-                                }
-                                if (ydz == hai || ydz == zii || ydz == chou)
-                                {
-                                    string 三冬庚金 = "三冬庚金\r\n　　十月庚金，水冷性寒，非丁莫造，非丙不暖。丁甲两透，支无水局，一榜有之。支藏丙火，桃浪之仙。支见亥子，得己出制，亦有功名。 \r\n\r\n　　若见丙透无丁者，决无显达。丁藏甲透，武职之人。以上不合者，庸俗。 \r\n　　如金水混杂，全无丙丁者，鄙夫。支成金局，无火者，僧道之命也。书曰：水冷金寒爱丙丁。 \r\n　　十一月庚金，天气严寒，仍取丁甲，次取丙火照暖。或丁甲两透，丙在支中，必主科甲。即无丙火，亦有衣衿。有丁无甲，亦可富中取贵。有甲无丁，只作常人。或丙透丁藏，异途名望。丁藏有甲，武学可许。 \r\n\r\n　　或重重丙火，可许一富，但不清高。丙戊生寅，或丙坐支寅，有一二者，富真贵假。若见癸透。一介寒儒。 \r\n　　或支成水局，二见丙丁者，此乃伤官格，为人清雅，衣禄常盈，但子息艰难耳。 \r\n　　或丙丁太多，名官杀混杂最无良。又怕身轻有损伤。如遇东南二运地，焉能挨得过时光。过于清冷，似有凄凉。柱中一派金水，不入火土之乡，主一生孤贫浪荡，难望有成也。 \r\n\r\n　　十二月庚金，寒气太重，且多湿泥，愈寒愈冻，先取丙火解冻，次取丁火炼金，甲亦不可少。 \r\n　　丙丁甲透者，即不科甲，亦有思荣。有丙无丁甲者，富中取贵。有丁甲无丙者，特达才人。有丙丁无甲者，白手成家，刀笔亨通，乏金更美。或支成金局无火，僧道之流。\r\n ";
-
-                                    qongtongbaojian += 论金 + 三冬庚金;
-                                }
-
+                                qongtongbaojian += 论火 + 三春丁火;
                             }
-                            if (rtg == xin)
+                            if (ydz == sii || ydz == wuma || ydz == wei)
                             {
-                                if (ydz == yin || ydz == mao || ydz == chen)
-                                {
-                                    string 三春辛金 = "三春辛金\r\n \r\n　　正月辛金，阳气舒而寒气未除，不知正月建寅，中有长生之丙，解去寒气，忌甲木司权，辛金失令，取己土为生身之本，欲得辛金发现，全赖壬水之功，己壬两透，支见庚制甲，科甲定然。或己土透干，支中有甲，异路恩荣。或己土不全，号曰君臣失势，富贵难全。或有丙火出干，亦主武学。或见壬、无己庚者，贫贱之徒。 \r\n\r\n或支成火局，即壬水出干，不克己土，亦寻常之人。 或庚壬两透，破局制火，必为显达之人。\r\n　　或支成水局，不见丙火，名为金弱沉寒，平常之士，书曰：金水性寒寒到底，凄凉难免少年忧。得丙照暖，反主富贵。 \r\n　　故正月辛金，先己后壬。己为君，庚为佐。如用丙火须参看。用己，火妻土子。用壬，金妻水子。 \r\n　　辛金珠玉，最怕红炉，辛逢卯日子时，名曰朝阳。 \r\n二月辛金，阳和之际，壬水为尊，见戊己为病。 得甲制伏，则辛金不致埋没，壬水不致混浊，合此者必身入玉堂。 故二月辛金，有壬甲透者贵显。 否则，乡绅。 或壬坐亥支，不见土出，可能入芥，家亦小康。 得申中之壬者，异途名望。 无壬者常人。 其生克之理，与正月辛金皆同。\r\n\r\n　　或壬戊透，甲不出干，此为病不遇葯，平常之人。得乙破戊，颇有衣衿。但假名假利，刻薄乖张。 \r\n　　或一派壬水汪洋，名金水淘洗太过，不得中和，略有衣食，全无作为。如壬水重重，得戊反吉。或支成木局，洩尽壬水，有庚富贵，无庚平人。 \r\n\r\n　　或支成火局，名官印相争，金水两伤，下流之格。得二壬出制，富贵反奇。 \r\n　　辛金生于春季，一派壬水，而无丙火，即能显达，家无宿舂。得壬丙齐透，方许大富大贵。 \r\n　　三月辛金，戊土司令，辛承正气，母旺子相，先壬后甲。壬甲两透，富贵必然。壬透甲藏，廪贡不失。甲透壬藏，富则可云。壬甲皆无，平常之格。 \r\n\r\n　　所忌者丙贪合也，如月时皆丙，名为争合，主慷慨风流，交游四海。若癸出干制丙，可许採芹。或支坐亥子之乡，支又见申，即非玉堂，亦必高增禄位。若戊出干制水，不见甲乙，清闲之人。 \r\n\r\n　　又或支见四库，名土厚金埋，不见甲制，愚顽之辈。或四柱火多，无水制伏，名火土杂乱，主作缁衣，见癸可解。 \r\n　　或比劫重重，壬癸浅弱，主夭。有甲出干，则贵，然无庚制方妙。 \r\n ";
+                                string 三夏丁火 = "三夏丁火\r\n \r\n四月丁火乘旺，虽取甲引丁，必用庚噼甲。 伐甲、方云木火通明。 甲多、又取庚为先。 但四柱忌见癸水。 癸水一见，泄金、湿甲、伤丁，故以癸为病。 或癸水藏支，壬水出干制丙，不夺丁光，自是雁塔题名，玉堂清贵。\r\n\r\n　　或有庚无甲，戊透天干，此为伤官生才，又取戊为用，必主富贵。戊土出干，不见甲乙，又不见水，是伤官伤尽。子平批八字清高，但不大贵，亦不大富。见水多木多，定是常人。 \r\n\r\n　　或四柱多丙，不见壬癸，夺了丁光，此人贫苦。或丁年、巳月、丁巳日、丙午时，一丙不夺二丁，即不显达，亦名播四邻。故书曰：丁火阴柔一烛灯，太阳相见夺光明；柱中若见甲木透，定许身安福自临。 \r\n\r\n　　五月丁火，时归建禄，不宜乱用甲木。 \r\n　　遇年透隔位之壬，不贪丁合者，忠而且厚。或支成火局，干见火出，得庚壬两透者，科甲定然。土透制壬，常人。即壬藏支中，亦非白丁，但要运行西北，方可发达。得一癸透，名独杀当权，出人头地。 \r\n\r\n　　若见寅辰亥卯字，化木生火，平常人物，丰衣足食，中年富，但刑?子息，劳而无功。或丙午月、丁未日、辛亥时，亥中有壬制丙，不致贫苦。若丙午时，则滴水难救炎火，必主僧道。若年支见子，虽不科甲，亦有衣衿。\r\n　　若干支无火局，有水透干，须用甲木，又要庚噼甲方明。木火通明，主大富贵。或木少火多，焚其木性，不能光透九霄，荣华不久。 \r\n\r\n　　或生月是禄，支皆生旺合局，加以火出，无滴水解炎，乃身旺无依，孤贫之格。女必为尼。即运北地，反主凶危。 \r\n　　用壬者，金妻水子。用甲者，水妻木子。 \r\n　　六月之丁，阴柔退气，但值三伏生寒，丁弱极矣，专取甲木，壬水次之。 \r\n　　若得甲出天干，支成木局，见亥中之壬，为木神有根，接引丁火，必然科甲。即不见木局，支见壬水，虽不大贵，亦有凌云之气，无庚不妙。 \r\n\r\n或支成水局，见水透干，则湿木性，不能引丁，必为平人，有甲透、亦有才干。 有庚透、方无刑伤。 若无甲木，假名假利，虽能生财，固执懦夫。\r\n\r\n　　或年月日时，皆一派丁未之类，此为纯阴，终无大用。 \r\n　　用甲者，水妻木子。\r\n ";
 
-                                    qongtongbaojian += 论金 + 三春辛金;
-                                }
-                                if (ydz == sii || ydz == wuma || ydz == wei)
-                                {
-                                    string 三夏辛金 = "三夏辛金\r\n \r\n　　四月辛金，时逢首夏，忌丙火之燥烈，喜壬水之洗淘。支成金局，水透出干，有木制戊，名一清澈底，科甲功名。癸透壬藏，富真贵假。若壬癸皆藏，戊己亦藏，略富。若壬癸俱无，反见火出，必主鳏独。 \r\n\r\n　　或支成火局，有制者吉，无制者凶。凡火旺无水，取土洩之。 \r\n　　若壬水藏亥，戊不出干，亦主上达。有戊常人。有一甲透，衣禄可求。若有甲无壬癸者，富贵虚浮。所谓羊质虎皮是也。壬、癸、甲、三者全无，又不合格，斯为下品。 \r\n\r\n五月辛金，丁火司权，辛金失令，阴柔之极，不宜煅炼，须己壬兼用，何也？ 己为泥沙，壬为湖海，己无壬不湿，辛无己不生，故壬己并用。 无壬、癸亦可用。 但癸力小。 或支成火局，即重见癸出亦不济，得壬透破火方可，必主生员。 若无壬，癸见戊，虽有午宫己土，燥泥成灰，金必毁镕，反遭埋没，必为僧道。 有一二重比肩，不致孤独。\r\n\r\n五月辛金，壬、癸、己、三者皆用。 或壬己两透，支见癸水，不克，定主显达。 即己藏支，亦有廪贡。 或无壬有己，须得异途。 或癸出有庚，必主衣锦，叨受恩荣。 若水土多见，见甲方妙。\r\n\r\n　　庚辛生于夏月，要壬癸得地，若木多火多，不见金水，逢金水运必败。 \r\n　　六月辛金，己土当权，辅助太多，恐掩金光，先用壬水，取庚佐之。壬庚两透，科甲功名，即不出干，藏支得所，亦有荣华。但忌戊出，得甲制之，方吉。甲须隔位，恐贪己合，反掩金光，又塞壬水之流，下贱之格。又忌庚出制甲。或只有未中一己，见了壬水，又为湿泥。不可见甲，甲出，反作平人。总以一壬一己，见庚无甲，方妙﹐与五月用己壬同。 \r\n\r\n　　或丁乙出干，又有庚壬者，显贵。无壬者、否。或支成木局，得壬透，又有庚金发水之源，可云富贵。 \r\n ";
-
-                                    qongtongbaojian += 论金 + 三夏辛金;
-                                }
-                                if (ydz == shen || ydz == you || ydz == xuu)
-                                {
-                                    string 三秋辛金 = "三秋辛金\r\n \r\n　　七月辛金，值庚司令，不旺自旺，且壬水居申，四柱不见戊土，胎元戊藏申内，为壬堤岸，人命得此，为官清正，但不富耳。 \r\n\r\n　　或有土无甲，为有病无葯，常人。有甲者，衣衿可望。或四柱金多，宜水洩之。若一派金水，得一戊土，反为辛用，又宜甲制，自然富贵。或干支水多，重见戊土，逢生得位，福寿之造。 \r\n\r\n　　七月辛金，壬不在多，故书云：水浅金多，号曰体全之象，壬水为尊，甲戊酌用可也，癸水不可为用。 \r\n　　八月辛金，当权得令，旺之极矣，专用壬水淘洗火，故云：金见水以流通。如见戊己，则生扶太过，故以土为病，见甲制土、方妙。无戊、不宜用甲。 \r\n\r\n　　或四柱一点壬水，甲多洩水，此为用神无力，奸诈之徒。得庚制者，反主仁义。或三点辛金，一重壬水，多见甲木，有庚透者，主大富贵。不见丁为美，若见一丁，此人风雅清高，衣食饶裕而已。 \r\n\r\n　　或一二比肩，壬甲皆一，无庚出干，亦有恩荣。若二三比肩，一点壬水，戊土多见，此为土厚埋金，此人愚懦，见一甲出，必为创立之人。 \r\n\r\n　　或一派辛金，一位壬水，无庚杂乱，又主富中取贵。或一派壬水洩金，无戊出制，为沙水同流，主奔波劳苦。若得支见一戊止流，其人颇有才略，艺术过人。 \r\n\r\n或支成金局，干见比肩，无壬淘洗，此宜用丁，无丁必主凶顽无赖。 若得一壬高透，以泄群金，又名一清到底，定有治国之材。\r\n\r\n　　或支成金局，戊己透干，壬透无火，名曰虎格，运行西北，富贵大显，子息艰难。或透丙火，虽有壬出，亦属平庸。 \r\n　　或一二辛金，一派己土，定为僧道。或干透己土，支见庚甲，一生安闲。或一派乙木，不见庚干，为才多身弱，一见庚制，富贵可期。 \r\n\r\n　　金生秋月土重，贫无寸铁。六辛日逢戊子时，运喜西方，阴若朝阳，切忌丙丁离位。庚辛局全巳酉丑，位高权重。 \r\n九月辛金，戊土司令，母旺子相，须甲疏土，壬泄旺金，先壬后甲。 壬甲两透，桃洞之仙。 或壬透甲藏，又见戊者，平人。 甲透、壬藏，戊在支内，异途之仕。\r\n\r\n　　或辛日甲月，壬水在支，有庚自能去浊留清，秋闱一榜。若戊戌月，即有甲在支，亦否。 \r\n　　总之土太多，甲不出干，莫问功名，得一壬出，洗土助甲，虽不发达，富而可求。 \r\n　　或土多无壬甲，时月多透丙辛者，略贵。加以辰字在支，则荣显莫及。 \r\n　　或木多土厚，无水者常人。或干上重见癸水，虽无淘洗之功，颇有清明之用。此命主贵、辛苦。 \r\n　　或己透无壬有癸，亦能滋生金力，衣衿之贵，但恐己多，不免浊富。 \r\n　　九月辛金，火土为病，水木为葯。 \r\n ";
-
-                                    qongtongbaojian += 论金 + 三秋辛金;
-                                }
-                                if (ydz == hai || ydz == zii || ydz == chou)
-                                {
-                                    string 三冬辛金 = "三冬辛金\r\n \r\n　　十月辛金，时值小阳，阳气渐升，寒气将降，先用壬水，次取丙火，壬丙两透，金榜题名，何也？盖辛金有壬水丙火，名金白水清，又在亥月故发。丙透壬藏，採芹之造。丙藏壬透，富有千金。壬丙在支，聪明之士。 \r\n\r\n　　戊壬在柱，积富之人。或壬多无戊，名辛水汪洋，反成贫贱。戊多壬少，又主成名。或甲多戊少，因艺术而蓄金。 \r\n　　若己多有戊，壬水被困，金被埋，不过诚实之人。或壬癸多无戊丙者，劳碌辛苦。十月辛金，先壬后丙，余皆参用。 \r\n　　十一月辛金，癸水司令，为寒冬雨露，切忌癸出冻金，而困丙火，壬丙两透，不见戊癸，衣锦腰金。即壬藏丙透，一榜堪图。 \r\n\r\n　　或壬多有戊，丙甲出干者，青云之客。若壬多无戊丙者，洩金太过，定主寒儒。或壬多、甲乙重重，无丙火者，贫寒。 \r\n　　或支成水局，癸水出干，有二戊制者，富贵恩荣，无戊者常人。或支见亥子丑，干出比劫，无丙、名润下格，富贵双全，运喜西北。若无庚辛，又出甲乙，无戊丙者，必主僧道。 \r\n\r\n　　或支成木局，有丁出干，又见成者，功名特达。冬月辛金，须丙温暖方妙。 \r\n　　十一月辛金，寒冻之极，先丙后壬，无丙不能解冻，无壬不能洗淘。丙壬两透，金马玉堂之客。壬丙俱藏，游庠食饩之人。有丙无壬富真贵假。有壬乏丙，贱而且贫。或丙多、无壬、有癸，市中贸易之流。 \r\n\r\n　　或水多、有戊己出干，又有丙丁，必主衣食充盈，一生安乐。十二月辛金，丙先壬后，戊己次之。\r\n ";
-
-                                    qongtongbaojian += 论金 + 三冬辛金;
-                                }
-
+                                qongtongbaojian += 论火 + 三夏丁火;
                             }
+                            if (ydz == shen || ydz == you || ydz == xuu)
+                            {
+                                string 三秋丁火 = "三秋丁火\r\n \r\n　　三秋丁火，退气柔弱，耑用甲木，金虽乘旺司权，无伤丁之理，仍取庚噼甲，为引火之物，或借丙暖金晒木，不虑丙夺丁火。凡两丙夹丁者，夏月忌之，余月不忌淤。但此格少年困苦刑剋，中年富贵，必要地支见水制丙、方妙。 \r\n\r\n　　三秋甲庚丙并用，仍分优劣，何也？七月甲丙，申中有庚，八月甲丙庚皆用，七八月或无甲木，乙亦可用，为枯草引灯，却不离丙晒也。九月耑用甲庚。大扺甲不离庚，乙不离丙，其理极明。或见甲庚丙皆透，必主科甲。无甲用乙者，富贵皆小，且富而不贵者多。 \r\n\r\n　　或一重壬水，又多见癸水，必以戊土为制，自然富贵光辉。 \r\n　　或一派庚金，名财多身弱，主富屋贫人，妻多主事。或壬多洩庚，丁壬化杀，反成富贵。若庚多无壬，奔流下贱。 \r\n　　或八月一派辛金，不见庚金，又无比劫，此弃命从财，富而且贵，虽不科甲，亦有异途。从财者水为妻。不剋。有偏正。木为子。不刑。 \r\n\r\n　　或九月一派戊土，洩丁火之气，不见甲木，为伤官伤尽，非寻常可比。或甲木透出，为文书清贵，秋闱可夺。用甲者，庚不可少。水妻木子。 \r\n";
+
+                                qongtongbaojian += 论火 + 三秋丁火;
+                            }
+                            if (ydz == hai || ydz == zii || ydz == chou)
+                            {
+                                string 三冬丁火 = "三冬丁火\r\n　　三冬丁火微寒，耑用庚甲。甲乃庚之良友。凡用甲木，庚不可少，无庚无甲，何能引丁？难云木火通明，冬丁有甲，不怕水多金多。可称上格。甲庚两透，科甲分明。见己则否。己多合甲，则为常人。 \r\n\r\n　　或一丙夺丁，必赖支内水救。若有支金发水之源，官拜乌台有准。全无癸水制丙，无用之徒。或有金无水，贫寒之士。有水无金，又主清高。 \r\n\r\n　　或时月二壬争合，取戊破之。有戊稍有富贵。无戊常人。设戊藏得所，不失衣衿。 \r\n　　或二丙夺丁，得年干有癸，支下带合，金水得所，亦必显达，纳粟奏名，必验。 \r\n　　或仲冬水多癸旺，全无比印，此作弃命从杀，亦有异途功名。见丁比出干，难合格局，常人，且主骨肉浮云，六亲流水。戊出破癸，颇有兄弟妻儿。此格用戊，火妻土子。用甲、水妻木子。 \r\n\r\n　　三冬丁火，甲木为尊，庚金佐之，癸戊权宜酌用可也。 \r\n ";
+
+                                qongtongbaojian += 论火 + 三冬丁火;
+                            }
+
                         }
-                        if (rtg == ren || rtg == gui)
+                    }
+                    if (rtg == wuu || rtg == jii)
+                    {
+                        string 论土 = "论土\r\n \r\n　　五行之土，散冠四维，故金木水火，依而成象，是四时皆有用有忌者。火、死酉也。水、旺子也。盖土赖火运，火死则土囚。土喜水才，水旺则土虚。土得金火，方成大器。土高无贵，空惹灰尘。土聚则滞，土散则轻。 \r\n\r\n　　辰戌丑未，壹心正也。分阴分阳，主则不同。辰有伏水；未有匿木，滋养万物，春夏为功；戌有藏火；丑有隐金。秋火冬金，肃杀万物。 \r\n\r\n　　土聚辰未为贵，聚丑戌不为贵。是土爱辰未、而不爱丑戌也明矣。若更五行有气，人命逢之，田产无比。晚年富贵悠悠。 \r\n　　若土太实无水，燥则不和；无木则不疏通；土见火则焦，女命多不生长。 \r\n　　土旺四季，惟戌土困弱。戌多为人好?，多瞌睡。辰未人好食，丑人清省。丑为艮土，有癸水能润而膏，人命遇此，主能卓立。 \r\n\r\n　　生于春月，其势虚浮，喜火生扶，恶木太过，忌水泛滥。喜土比助，得金而制木为祥。金太多仍盗土气。 \r\n　　夏月之土，其势燥烈，得盛水滋润成功，忌旺火煅炼焦坼。木助火炎，水?无?。金生水泛，妻才有益，见比肩蹇滞不通。如太过又宜木?。 \r\n\r\n　　秋月之土，子旺母衰，金多而秏盗其气，木盛须制伏纯良，火重重而不厌，水泛泛而不祥，得比肩则能助力，至霜降不比无妨。 \r\n\r\n　　冬月之土，外寒内温，水旺才丰，金多子秀，火盛有荣，木多无咎，再加比肩扶助为隹，更喜身主康强足寿。\r\n \r\n论四季月之土\r\n \r\n　　辰戌丑未，四土之神。惟未土为极旺，何也？辰土带木气?之，戌丑之土，带金气洩之，此三土虽旺而不旺，故土临此三位，金多作稼穑格，不失中和。若未月土则带火气也，带火气以生之，所以为极旺也。若土临此旺未月，见四柱土重，多作火炎土燥，不可作稼穑看。但临此月之土，见金结局者，不贵即富也。书曰：土逢季月见金多，终为贵论，而在未月尤甚。 \r\n";
+                        if (rtg == wuu)
                         {
-                            string 论水 = "论水\r\n \r\n天倾西北，亥为出水之方，地陷东南，辰为纳水之库，逆流到申而作声，故水不西流。 水性润下，顺则有容，顺行十二神，顺也，主有度量，有吉神扶助，乃贵格。 逆则有声，逆行十二神，逆也。 入格者，主清贵，有声誉。 忌刑克，则横流，爱自死自绝则吉。\r\n\r\n水不绝源，仗金生而流远，水流泛滥，赖土克以堤防。 水火均，则合既济之美。 水土混，则有浊源之凶。 四时皆忌火多，则水受渴。 忌见土重，则水不流。 忌见金死，金死则水困。 忌见木旺，木旺则水死。 沉芝云：水命动摇，多主浊滥，女人尤忌之。 口诀云︰阳水身弱、穷，阴水身弱、主贵。\r\n\r\n　　生于春月，性滥滔淫，再逢水助，必有崩堤之势。若加土盛，则无泛涨之忧。喜金生扶，不宜金盛，欲火既济，不要火多，见木而可施功，无土仍愁散漫。 \r\n\r\n　　夏月之水，执性归源，时当涸际，欲得比肩，喜金生而助体。忌火旺而焙干。木盛则盗其气。土旺则制其流。 \r\n　　秋月之水，母旺子相，表里晶莹，得金助则澄清。逢土旺而混浊。火多而财盛，木重而子荣，重重见水，增其泛滥之忧。叠叠逢土，始得清平之意。 \r\n\r\n　　冬月之水，司令当权，遇火、则增暖除寒，见土、则形藏归化。金多、反曰无义。木盛、是谓有情。土太过、势成涸辙。水泛滥、喜土堤防。 \r\n";
-                            if (rtg == ren)
+                            if (ydz == yin || ydz == mao || ydz == chen)
                             {
-                                if (ydz == yin || ydz == mao || ydz == chen)
-                                {
-                                    string 三春壬水 = "三春壬水\r\n \r\n　　正月壬水，汪洋之象，能并百川之流，然水性柔弱，宜用庚金之源，庶不致汪洋无度。有庚丙戊三者齐透，科甲功名。或庚戊藏支，丙坐寅支者，亦有恩诰，即一庚透，贡监有之。 \r\n\r\n　　凡壬日无比肩羊刃者，不必用戊，专用庚金，以丙为佐。 \r\n　　或见比劫，又有庚辛，此弱极復旺，又宜制伏。戊透、可云科甲。戊藏、则是秀才。然必丙透不合、为妙。 \r\n　　或支见多戊，又有甲出，名一将当关，群邪自伏，主光明磊落，名重百僚。或支成火局，惜不逢时，主名利皆虚，文章骇俗。 \r\n\r\n　　用庚者，土妻庚子。用丙者，木妻火子。用戊者，火妻土子。 \r\n　　二月壬水，寒气初除，有并流之象，不用丙暖，专取戊土辛金。二月壬水，先戊后辛，庚金次之。 \r\n　　戊辛两透，雁塔题名。戊透辛藏，亦有恩诰。或戊辛不透，有庚出干者、主富。或支成木局，有庚透者，金榜题名。庚在支者，异途之仕。 \r\n\r\n　　或木出火多，名木盛火炎，须比肩羊刃，尤宜水透，富贵恩荣。乏水者则否。 \r\n　或比肩重重，又须戊土，书曰：土止流水福寿全。若戊不见，名水泛木浮。一生辛苦，再行水运，落水而亡。 \r\n　　或甲乙重重无比肩者，此依人度日，全无作为。若见庚辛，飢寒可免。 \r\n　　三月壬水，戊土司权，恐有推山填海之患，先用甲疏季土，次取庚金。甲庚俱透，科甲定然。甲透庚藏，修齐品格。甲藏有根，可云俊秀。有癸滋甲，必主干城。独甲藏支，必富。独庚在柱，常人。无甲、刚暴之徒。乏庚、愚顽之辈。 \r\n\r\n　　或时干透丁者，此为化合，助火而不助水。见丁未一理。或支成四库，乏甲者，名杀重身轻，终身有损。 \r\n　　凡水旺多见庚金者，乃无用之人，须丙制之方妙。 \r\n ";
+                                string 三春戊土 = "三春戊土总论\r\n \r\n　　三春戊土，无丙照暖，戊土不生，无甲疏噼，戊土不灵，无癸滋润，万物不长。正二月先丙后甲，癸又次之。三月先甲后丙，癸又次之，因戊土司权故也。有甲、丙、癸，三者齐透，必主一品当朝，或二透一藏，亦登金榜，二藏一透，也可异途。 \r\n\r\n　　正二月即有甲癸，若无丙除寒，如万物生而不长，故无丙者，富贵艰辛。或有丙无甲癸者，名曰春旱，如万物生而多厄。无甲癸者，一生勤苦，劳而无功。或一派丙火，有甲欠癸，先泰后否。或支成火局，不见壬癸，僧道孤贫。癸透者贵。壬透者富。 \r\n\r\n　　用水者，要审水之多少。或一派甲木，无丙者，常人。得一庚透方妙。或支成水局，甲又出干，又有庚透，富贵双全。 \r\n　　或无庚金，又无比印，难作从杀，定主遭凶，不然，必为盗贼。若日下坐午，不得善终。 \r\n　　或一派乙木，为官杀会党，即有庚透，却难制乙，此人内奸外直，口是心非。加一甲在内，无庚，必懒惰自甘，好食无厌。或丙多甲多，宜以癸庚参用。 \r\n\r\n　　三月戊土司令，不见丙甲癸者，愚而且贱。甲癸透者，科甲。丙癸透者、生员。甲癸俱藏者，只可云富，有癸异途。 \r\n　　若丙多无癸，旱田无水，不能种苗，旧谷已没，新谷未登，此先富后贫之造。或火多有壬透者，先贫后富。癸透先贱后荣。壬藏不过食足，癸藏不过名传，即此亦须运美。或支成火局，得癸透者，富贵天然。壬透富贵辛苦，何也？癸乃天上甘霖，壬乃江河波浪，所以有劳逸之殊。 \r\n\r\n支成木局，又甲乙出干，此名官杀会党，官杀无去留之义，得一庚透，扫除官杀，亦主富贵。 无庚乃浅薄之人，宜用火泄木气。 有一命、丁未、癸卯、戊寅、乙卯。 癸丁透干，加以戊癸化火，将甲木暗焚，反得武科探花。\r\n\r\n　　或有比印，耑看癸透，取癸而成贵格。无癸、无火、无金，名为土木自战，主腹中疾病，忧愁艰苦。 \r\n　　用甲者，水妻、木子。用丙者，木妻、火子。 ";
 
-                                    qongtongbaojian += 论水 + 三春壬水;
-                                }
-                                if (ydz == sii || ydz == wuma || ydz == wei)
-                                {
-                                    string 三夏壬水 = "三夏壬水\r\n \r\n　　四月壬水，丙火司权，水弱极矣，专取壬水比肩为助，次取辛金发源，且暗合丙火，庚金为佐。壬辛两透，金榜有名，或癸辛两出，加以甲透，亦主异路之荣。无甲者、富贵门下之客。 \r\n\r\n　　如无壬，木少火多者，又作弃命从才格，因妻致富。癸透者残疾。 \r\n或四柱多金得地，则极弱复强，须用巳中戊土，亦主名利双全。 或异途之贵。 若见一甲藏寅，与巳相刑，主有暗疾，名利皆虚，不能创立。\r\n\r\n　　或多甲乙，有庚出干者、贵。无庚者，否。 \r\n　　或支成水局、大贵。 \r\n　　五月壬水，丁旺壬弱，取癸为用，取庚为佐。无庚不能发水，无癸不能伤丁。五月壬水，辛癸亦可参用，其理与四月皆同。 \r\n\r\n　　庚癸两透，科甲必然，庚壬两透，官居极品。有庚无壬癸者、常人。 \r\n　　或支成火局，全无金水，名才多身弱，富屋贫人。若又甲乙多者，僧道之命。 \r\n　　六月壬水，己土当权，丁火退气，先用辛金癸水，次用甲木噼土。六月壬水，先辛后甲，次取癸水。辛甲两透，富贵清高。甲藏辛透，贡监生员。辛藏甲透，异途武职。甲壬两透，无伤，有治国之贵。即甲藏壬出无破，是拾芥之才。或支多土火，又只清贫。 \r\n\r\n　　或一派己土，此假从杀格，为人奸诈，且主孤贫，得甲乙出制可救。凡土居生旺之地，须用木制方妙。或支成木局，洩水太过，当用金水为贵，以金为妻、水为子。\r\n三秋壬水\r\n \r\n　　七月壬水，庚金司令，壬得申之长生，源流自远，转弱为强，专用戊土，次取丁火佐戊制庚。但用辰戌之戊，不用申中受病之戊。戊丁俱透，科甲生员。戊透天干，丁藏午戌，恩封可待，特忌戊癸化合。即支见寅戌，年出丁火，可许衣衿。或丁戊两藏，富中取贵。 \r\n\r\n　　或四柱多壬，戊又透干，名假杀化权，阆苑之仙。支中见甲，亦不忌也。但太多者、常人。有庚居申，颇有衣禄。 \r\n　　或戊多而透，得一甲制，略富贵，无甲常人。或一派甲木，又见火多，无庚出者，别祖离乡，随缘度日。盖申中之庚，不能救也。 \r\n\r\n　　七月壬水，专用戊土。丁火为佐。 \r\n　　八月壬水，辛金司权，正金白水清，忌戊土为病，专用甲木。甲木一透制戊，壬水澈底澄清，名高翰苑。若甲出时干，功名显达，设见庚破，又属常人。即甲藏支、无庚，秀才可许。 \r\n\r\n　　或天干有壬，支见申亥，此非用甲，戊土作用。亥虽有甲，又有申中之金制甲，秀才一定，且富足多才。 \r\n　　或无戊、多金水者，主人清才浊，困苦寒儒。 \r\n　　无甲用金，发水之源，名独水三犯庚辛，号曰体全之象。 \r\n　　八月壬水，专用甲木，庚金次之。用甲者，水妻、木子。 \r\n　　九月壬水进气，其性特厚，若一派壬水，见一甲、制戌中之戊，戊又出干，斯用丙火。此格清贵极矣，正合一将当关，群邪自伏，或不见丙戊，亦不为妙。 \r\n\r\n　　或一派戊土，无一己庚杂乱，得一甲透时干。玉堂清贵，即甲透月上，亦主科甲。若支藏己土，一榜可图。或庚透乏丁，贫贱之人。或丁透见甲，略贵。或水多乏丙者，又用戊土，常人。 \r\n\r\n　　九月壬水，专用甲木，次用丙火。用土者，火妻土子。 \r\n ";
-
-                                    qongtongbaojian += 论水 + 三夏壬水;
-                                }
-                                if (ydz == shen || ydz == you || ydz == xuu)
-                                {
-                                    string 三秋壬水 = "三秋壬水\r\n \r\n　　七月壬水，庚金司令，壬得申之长生，源流自远，转弱为强，专用戊土，次取丁火佐戊制庚。但用辰戌之戊，不用申中受病之戊。戊丁俱透，科甲生员。戊透天干，丁藏午戌，恩封可待，特忌戊癸化合。即支见寅戌，年出丁火，可许衣衿。或丁戊两藏，富中取贵。 \r\n\r\n　　或四柱多壬，戊又透干，名假杀化权，阆苑之仙。支中见甲，亦不忌也。但太多者、常人。有庚居申，颇有衣禄。 \r\n　　或戊多而透，得一甲制，略富贵，无甲常人。或一派甲木，又见火多，无庚出者，别祖离乡，随缘度日。盖申中之庚，不能救也。 \r\n\r\n　　七月壬水，专用戊土。丁火为佐。 \r\n　　八月壬水，辛金司权，正金白水清，忌戊土为病，专用甲木。甲木一透制戊，壬水澈底澄清，名高翰苑。若甲出时干，功名显达，设见庚破，又属常人。即甲藏支、无庚，秀才可许。 \r\n\r\n　　或天干有壬，支见申亥，此非用甲，戊土作用。亥虽有甲，又有申中之金制甲，秀才一定，且富足多才。 \r\n　　或无戊、多金水者，主人清才浊，困苦寒儒。 \r\n　　无甲用金，发水之源，名独水三犯庚辛，号曰体全之象。 \r\n　　八月壬水，专用甲木，庚金次之。用甲者，水妻、木子。 \r\n　　九月壬水进气，其性特厚，若一派壬水，见一甲、制戌中之戊，戊又出干，斯用丙火。此格清贵极矣，正合一将当关，群邪自伏，或不见丙戊，亦不为妙。 \r\n\r\n　　或一派戊土，无一己庚杂乱，得一甲透时干。玉堂清贵，即甲透月上，亦主科甲。若支藏己土，一榜可图。或庚透乏丁，贫贱之人。或丁透见甲，略贵。或水多乏丙者，又用戊土，常人。 \r\n\r\n　　九月壬水，专用甲木，次用丙火。用土者，火妻土子。 \r\n ";
-
-                                    qongtongbaojian += 论水 + 三秋壬水;
-                                }
-                                if (ydz == hai || ydz == zii || ydz == chou)
-                                {
-                                    string 三冬壬水 = "三冬壬水\r\n \r\n　　十月壬水司权，至旺之极，取戊为用，若生辰日干，又见辰时，必须戊透，又须庚制甲，不伤戊土，戊庚两全，定主豋科乃第，位显权高。或甲出制戊，不见庚救者，断之贫穷。戊藏无制，可许生员。或戊庚两透无甲者，亦主荣显。 \r\n\r\n　　或支成木局，有甲乙出干，得庚透者，富贵。无庚者、平常。或支成水局，不见戊己，名润下格，运行西北，大富贵，行东南者、必危。 \r\n\r\n　　或丙戊两透，行火土运，名利双全。或有丙无戊，可云衣禄。有戊无丙，难许推盈。十月壬水、专用戊丙，次取庚金。 \r\n　　十一月壬水，阳刃帮身，较前更旺，先取戊土，次用丙火，丙戊两透，富贵荣华。有戊无丙，略可言富。有丙无戊，好谋无成。 \r\n\r\n　　或支成水局，丙不出干，即有戊土，亦是庸人。或丙透得所。即戊藏支，亦可显达，须运得用方妙。或支成火局，一富而已。 \r\n\r\n　　或比见月时，年见丁火，平常之辈。支成四库，富贵中人。或丁出时干，名为争合，主名利难成。或壬子日、丁未时，虽不能科甲，亦有恩荣，何也？盖用子中癸水为官，号曰用神得地，亦主荣华。 \r\n\r\n　　十一月壬水，丙戊并用。 \r\n　　十二月壬水，旺极復衰，何也？上半月癸辛主事，故旺，专用丙火。下半月己土主事，故衰。亦用丙火，甲木佐之。\r\n　　有丙解冻，名利双全。丙透甲出，科甲之贵，然四柱无壬方妙。无丙、单寒之士。或四柱多壬，戊透制之，衣衿可望。 \r\n　　或丁出时干，化合成木，月干又见丁火，无癸破格，亦主富贵。或支成金局，名金寒水冻，一世孤贫，见火略可。即丙透遇辛，亦不为妙，见丁颇吉。 \r\n\r\n　　腊月壬水，先取丙火，丁甲为佐，故水冷金寒爱丙丁。用火者，木妻火子。 \r\n　　水旺居垣须有智，水土混杂必愚顽。壬癸路经南域、主健、富贵堪图。又云：惟有水木伤官格，才官相见始为欢。\r\n ";
-
-                                    qongtongbaojian += 论水 + 三冬壬水;
-                                }
-
+                                qongtongbaojian += 论土 + 三春戊土;
                             }
-                            if (rtg == gui)
+                            if (ydz == sii || ydz == wuma || ydz == wei)
                             {
-                                if (ydz == yin || ydz == mao || ydz == chen)
-                                {
-                                    string 三春癸水 = "三春癸水\r\n \r\n　　正月癸水，值三阳之候，雨露之精，其性至柔，先用辛金，生癸水之源，次用丙火照暖，名阴阳和合，万物发生。辛丙两透，金榜有名。 \r\n\r\n　　或支成火局，辛金受伤，有壬出救者、富贵。无壬者、贫穷。或丙出天干，辛在酉丑，亦有衣衿。若辛丙皆无，贫寒下格。或辛透丙藏，恩荣之造。丙辛在柱，以富得官。 \r\n\r\n　　或戊透月上、坐辰时，不见比劫，丙丁出干，此为化合，定主腰金，见刑?、则否。或支成水局，宜有丙透，无壬者，衣禄不少。若见丙火重重，又作贵推。 \r\n\r\n　　正月癸水，辛金为主，庚金次之，丙亦不可少。若无庚辛，虽有丙火，无用之人。或火多土多，残疾不免。\r\n　　用辛者，土妻、金子。 \r\n二月癸水，不刚不柔，乙木司令，泄弱元神，专以庚金为用，辛金次之。 庚辛俱透，无丁出干者，贵由科甲。 无庚辛者常人。 或庚透辛藏，荣封有准。 庚藏辛透，亦有衣衿。 庚辛两藏，富中取贵，或刀笔扬名。 或庚辛重见，有己丁出干者亦贵。\r\n\r\n或支成木局，月时又见木者，为泄水太过，定主贫困多灾。 即运入西方，亦属无用。\r\n　　三月癸水，要分清明谷雨。清明后、火气未炽，专用丙火，为阴阳合谐。谷雨后，虽用丙火，尚宜辛甲佐之。如辛卯、壬辰、癸未、丙辰，生上半月，用丙火、显达。生下半月，必无伤辛金癸水、方妙。然丙亦不可少。用丙、木妻、火子。 \r\n\r\n　　三月癸水，从化者多，得化者荣禄。不化者平常。或支成水局，又见己土、无木，乃假杀格，有甲出者、常人。或支坐四库，又得甲透，可谓显达名扬。无甲者僧道孤苦。或支成木局，名伤官生财格，主聪明博学，衣禄充饶。 \r\n\r\n　　三月癸水，辛甲皆酌用。下半月、土妻、金子。 \r\n ";
+                                string 三夏戊土 = "三夏戊土\r\n \r\n　　四月戊土，阳气发升，寒气内藏，外实内虚，不畏火炎，无阳气相催，万物不长，故先用甲疏噼，次取丙癸为佐。 \r\n　　丙透甲出，廊庙之才，丙癸俱透，科甲之士，即透一位，支藏得所，终非白丁。 \r\n　　若一派丙火，为火炎土燥，僧道之流，得一癸透壬藏，功名有准。或支藏癸水衣食充足，但骨肉多刑。 \r\n　　化合成局无破，富贵非轻。 \r\n　　此用癸水，金妻水子。 \r\n　　五月戊土，仲夏火炎，先看壬水，次取甲木，丙火酌用，用癸力微。 \r\n　　壬甲两透，名君臣庆会，自然桃浪先声，权高位显，又得辛透年干，官居一品。一命、辛未、甲午、戊寅、壬子，壬甲两透。印旺杀高，出将入相，名播四夷。 \r\n\r\n　　若支成火局，即透癸水，不能大济，是一杯水难济薪火也。人命合此，即好学不倦，亦不能成名，且主目疾。若得壬水出干，则非此比。 \r\n\r\n　　又或土木重重，全无滴水，僧道孤贫之辈。 \r\n　　用壬者、金妻水子。 \r\n　　六月戊土，遇夏干枯，先看癸水，次用丙火甲木。癸丙两透，科甲中人。或有癸无丙，见甲可许秀才。无甲略富。或有丙无癸，假道斯文，衣食颇足。 \r\n\r\n　　或癸透辛出，以刀笔之才，可谋异路。 \r\n　　无癸丙者，常人。若又无甲，下贱之辈。 \r\n　　或土多得一甲出，不见庚辛，为人作事轩昂，性情谨慎，即不显扬，亦文章惊世。 \r\n　　用癸者，金妻、水子。用丙者，木妻、火子。用甲者，水妻、木子。 \r\n ";
 
-                                    qongtongbaojian += 论水 + 三春癸水;
-                                }
-                                if (ydz == sii || ydz == wuma || ydz == wei)
-                                {
-                                    string 三夏癸水 = "三夏癸水\r\n　　四月癸水，喜辛金为用，无辛用庚。若辛高透，不见丁火，加以壬透，主科名荣贵，声播四夷。若有丁破格，贫无立锥，有壬可免。辛藏无丁，贡监衣衿。 \r\n\r\n或一派火土乏辛，即有己庚，亦不能生水。 又无比肩羊刃，必至熬干癸水，损目无疑。 若庚壬两透，泄制火土，名劫印化晋，极贵之造。 有丁见干者则否。 如有庚无壬。 亦无丁破庚者，堪入儒林。 有庚无辛者，异路功名。 总之四月癸水，专用辛金方妙。\r\n\r\n　　五月癸水，至弱无根，必须庚辛为生身之本，但丁火司权，金难敌火，安能滋养癸水，宜见比劫，方得辛金之用。五月癸水，庚辛壬参酌并用可也。 \r\n\r\n　　如庚辛透干，又见壬癸者，定主钟鼎名家。或有金透，支见申子辰者，亦主金榜挂名。或无水出干，支只一水，虽有庚辛，一富之造。故曰：水源会夏，富重贵轻。又曰：金水会夏天，富贵永无边，运行火土地，快乐似神仙。 \r\n\r\n　　或支成火局，无壬出干，定主僧道。或二壬一庚同透，衣锦腰金。或一派己土，无甲出制，此作从杀而论，又主大贵。凡从杀者，切不可破格方吉。 \r\n\r\n　　六月癸水，有上下月之分。下半月庚辛有气，上半月庚辛休囚。凡六癸日、多不验者，何也？俗士不知此理。因未中有乙己同宫，破而不破，故癸水不能从杀，所以专用庚辛。如上半月金神衰弱，火气炎烈，宜比劫助身，可云富贵。与五月一理。下半月庚辛有气，即无比劫亦可，又忌丁透，即丁在支亦不吉。其生剋制化，与五月略同。 \r\n";
+                                qongtongbaojian += 论土 + 三夏戊土;
+                            }
+                            if (ydz == shen || ydz == you || ydz == xuu)
+                            {
+                                string 三秋戊土 = "三秋戊土\r\n　　七月戊土，阳气渐入，寒气渐出，先丙后癸，甲木次之。丙癸甲透者，富贵极品。癸藏丙透，不仅秀才。丙甲两透，癸水会局藏辰，亦不失富贵。无丙得癸甲透，此人清雅，家富千金。无癸甲者、常人。有丙火、妻贤子肖。若丙甲癸三者俱无，下流之命。 \r\n\r\n或支成水局，休作弃命从才，宜取甲泄之。 甲透者、稍有富贵。 用神妻子同前。\r\n八月戊土，金泄身寒，赖丙照暖，喜水滋润，先丙后癸，不必木疏。 丙癸两透，科甲中人。 丙透癸藏，可许入泮。 癸透丙藏，纳资得官。 若丙藏又无癸，即多不透，此皆常人。 丙癸全无，奔流之客。\r\n\r\n　　或四柱皆辛，无丙丁，此名伤官格，为人清秀，即不能拾芥，亦可武庠。一见癸水，富而且贵。 \r\n　　或支成水局，壬癸出干，此名才多身弱，愚懦无能。若天干有比劫，分散才神，颇言衣食。 \r\n用神妻子同前，秋土生金极弱，须丙火丁火出干方妙。\r\n　　九月戊土当权，不可专用丙，先看甲木，次取癸水，却忌化合。见金先用癸水，后取丙火，配合支干，方成有生之土，定发云程。 \r\n\r\n　　或无丙有癸，不见甲透者，衣衿小富。无癸丙、有甲者。衣食而已。若癸甲全无，虽有丙火，亦属平常，或为僧道。或支成水局，壬癸透干，用戊止流，有比透反主富。 \r\n\r\n　　支成火局，名土燥，不发。 \r\n　　得金水两透，此人清高，略可富贵。无水、一生困苦。妻子同前。 \r\n ";
 
-                                    qongtongbaojian += 论水 + 三夏癸水;
-                                }
-                                if (ydz == shen || ydz == you || ydz == xuu)
-                                {
-                                    string 三秋癸水 = "三秋癸水\r\n \r\n　　七月癸水，正母旺子相之时，癸虽死申，殊不知申中有庚生之，名死处逢生，弱中復强，即运行西北，亦不死也。但庚司令刚锐极矣，必取丁火为用。或丁透有甲，名有燄之火，必主科甲。或丁透无甲，又无壬癸，即有一二庚金，亦有生监。有二丁更妙。或金多乏丁制者，贫困之人。 \r\n\r\n　　或一丁坐午，名独才格，主金玉满堂，富中取贵。若在未戌，则是常人。或柱见二戌二未，又得丙丁藏支，干见甲出、无水，亦作富贵而推。 \r\n\r\n　　八月癸水，辛金虚灵，非顽金可比，正金白水清，故取辛金为用，丙火佐之。名水暖金温。如丙与辛隔位同透，主科甲功名。或丙透辛藏，一榜之士。或土多?水，生意中人。 \r\n\r\n　　八月癸水，丙辛皆用。 \r\n九月癸水，失令无根，戊土司权，克制太过，专用辛金发水之源，要比肩滋甲制戊方妙。 或辛甲两透，支见子癸，定主平步青云，或癸甲两透，富贵成名。 或有甲辛无癸者，亦有恩封。 或有甲癸无辛者，富大贵小。 有甲无癸辛者，常人。 二者俱无，贫贱之格。 或有甲见壬者，颇许衣衿。\r\n\r\n　　九月癸水，辛甲并用。";
+                                qongtongbaojian += 论土 + 三秋戊土;
+                            }
+                            if (ydz == hai || ydz == zii || ydz == chou)
+                            {
+                                string 三冬戊土 = "三冬戊土\r\n　　十月戊土，时值小阳，阳气略出，先用甲木，次取丙火。非甲、土不灵。非丙、土不暖，安能生发万物。甲丙两出，富贵中人。或甲得长生，遇支藏得地之水，一丙高透，亦主身贵扬名。 \r\n\r\n　　支见庚金，入泮而已。若不见庚金，甲木藏支，丙火高透，科甲有之。若有庚，丁出制，必异路功名。或为典吏。即庚丁不透，甲丙藏支，亦云富贵。 \r\n\r\n　　壬透得戊救丙，主富贵取贵。丙甲俱无，必为僧道。 \r\n　　十一二月严寒冰冻，丙火为专，甲木为佐。丙甲两透，桃浪之人，丙出甲藏，採芹食饩。丙藏甲出，佐杂前程。有丙无甲者，豪富。有甲无丙者，清贫。丙甲全无，下流之造。 \r\n\r\n　　或一派丙火，加以丙透，运值火土，弱中復强，又一壬透，主清高荣禄。乏壬、僧道孤寒。 \r\n　　或一派壬水，不见比劫，可作从才而论。即有比劫，得甲出干，又主富贵，若寒土无丙，虽有甲木，亦是内虚外实之人。 \r\n　　或二癸透月时，名为争合，终属劳碌之人。得一己出干制癸，反为忠义之士，捨己从人而论。 \r\n　　年月透辛金者，又属土金伤官，异路功名可许。以金为妻、水为子。\r\n ";
 
-                                    qongtongbaojian += 论水 + 三秋癸水;
-                                }
-                                if (ydz == hai || ydz == zii || ydz == chou)
-                                {
-                                    string 三冬癸水 = "三冬癸水\r\n \r\n十月癸水，旺中有弱，何也？ 因亥摇木，泄散元神，宜用庚辛为妙。 得庚辛两透，不见丁伤者，功名有准。\r\n　　或支成木局，有丁出干，为木旺火相，制住庚辛不生水，必主清寒。或成木局，干见丙丁，异路之荣。或一派壬水，不见戊制，名冬水汪洋，奔波到老。若得戊透，清贵堪夸。 \r\n\r\n　　或一派庚辛，得丁出制，主名利双全。若不见丁，又主贫薄。或四柱火多，名才多身弱，富屋贫人。 \r\n　　十一月癸水，值冰冻之时，金水无交欢之象，专用丙火解冻，庶不致成冰，又要辛金滋扶，无丙有辛，不妙。凡冬季癸水，有丙透解冻，则金温水暖，两两相生，要不见壬癸，自然豋科及第，紫诰金章。 \r\n\r\n　　或一派壬水，无丙出干，寒困之士。一派癸水，孤贱之流。或支成水局，得丙火重出干者，又主蟒袍玉带之荣。 \r\n　　或支成金局，丙火无剋者，芒鞋革履之流。如辛年丙月癸日。有火者、主恩荣宠锡，绕膝芝兰。无火者，捐资得贵，位重当朝。 \r\n\r\n　　或一派戊己，名杀重身轻，非贫即夭。 \r\n　　用火者，木妻、火子。用辛者，土妻、金子。 \r\n　　十二月癸水，寒极成冰，万物不能舒泰，宜丙火解冻。或丙透年时，加以壬透，支中多戊，名水辅阳光，主显达名臣，无戊者，异途之职。若有丙无壬，黉门之客。有壬无丙，戊又出干者，皂隶之流。 \r\n\r\n　　或支见子丑，比肩出干，即有丙透，不能解冻，此属平常。或无癸水，有辛与合，亦不为美。有丁出、颇吉。 \r\n　　或一片癸己会党，年透丁火，名雪后灯光，夜生者贵，日生者否。若无丁火，又主孤贫。或支成水局，无丙者，四海为家，一生劳苦。 \r\n\r\n　　或支成火局，有庚辛透者，衣食充足。无金出、孤苦零仃。或支成金局，丙透得地，名金温水暖，彼此相生，定许光大门闾，声驰翰苑。乏丙者，即文章骇世，总为孙山。 \r\n\r\n或支成木局，泄水太过，主残病呻吟，得金出干辅救，技艺之流。\r\n　　凡冬月用丙，须丙火得地方妙、不然，即重重丙火出干，安能轻许富贵哉。";
+                                qongtongbaojian += 论土 + 三冬戊土;
+                            }
 
-                                    qongtongbaojian += 论水 + 三冬癸水;
-                                }
+                        }
+                        if (rtg == jii)
+                        {
+                            if (ydz == yin || ydz == mao || ydz == chen)
+                            {
+                                string 三春己土 = "三春己土\r\n　　正月己土，田园犹冻，盖因腊气未除，余寒未退，故丙为尊。得丙照暖，万物自生，忌见壬水，反为己病，何也？壬乃江湖之水，湖水一发，则田园洗荡，变为沙土，而根苗尽没矣。须戊作堤，以保园圃。壬多要见戊制。有戊出干者，定主玉堂金马。若乏戊制，必属平常。 \r\n\r\n或一派甲木，有庚出干，加以癸丙齐透，配得中和，亦名利双全。 即丙生寅月，庚透天干，亦有俊秀。 若甲多无庚，残疾废人，宜用丁泄。\r\n\r\n或一派火，即不见水无克，何也？ 正月己土寒滋，必丙暖，反主厚禄。 加一癸透，科甲自然。 戊透、反作常人。 或一派戊土，有甲出制，又主荣显。 如见乙出，虽多不能疏土，且乙多者，奸诈小人。\r\n\r\n　　用丙者，木妻、火子。 \r\n　　二月己土，阳气渐升，虽禾稼未成，万物出土，田园未展，先取甲木疏之，忌合。次取癸水润之。甲癸出干，定主科甲，加以一丙出透，势压百僚。一见壬水，微末官职。 \r\n\r\n　　或见庚制甲，壬水出干，比劫重重，此必俗子。丙透犹有小富，丙藏衣禄无亏。 \r\n或支成木局，庚透富贵，若柱多乙木，乙又屈庚，庚必输情于乙，不能扫邪于正，此必狡诈之徒，运入东南，恐有不测。 当用丁泄之。 有丁者、小人而已，不致无良。\r\n\r\n　　无比印、从杀者贵。 \r\n　　若柱中无甲丙癸者，皆下格。 \r\n　　妻子用神同前。 \r\n　　三月己土，正栽培禾稼之时，先丙后癸，土暖而润，随用甲疏，三者俱透天干，必官居黄阁。或三者透一，科甲定然，但要得地。却以庚金为病。 \r\n\r\n　　或有甲无癸，亦可致富，但不贵显。或有癸而无甲丙，亦有衣衿。或有丙癸无甲，亦系人才。丙癸全无，流俗之辈。 \r\n　　或一派乙木，无金制伏，贫而且夭也。 \r\n　　妻子同前。 \r\n ";
 
+                                qongtongbaojian += 论土 + 三春己土;
+                            }
+                            if (ydz == sii || ydz == wuma || ydz == wei)
+                            {
+                                string 三夏己土 = "三夏己土\r\n \r\n　　三夏己土，杂气才官，禾稼在田，最喜甘沛，取癸为要，次用丙火。夏无太阳，禾稼不长，故无癸曰旱田，无丙曰孤阴。 \r\n　　或丙癸两透，又加辛金生癸，此富贵之格，名水火既济，鼎甲之人。却忌戊癸化合。 \r\n　　或有丙无癸，有壬亦可，但不大发。 \r\n　　或一派丙火烈土，加以丁火制辛，癸水无根，如七八月之间旱，则苗藁矣，此命孤苦零丁。或有甲木，又见丙火重重，无滴水解炎，亦孤贫到老。 \r\n\r\n　　如有壬水，又见庚辛，此又不作孤看，但恐目疾，心肾肝脏之灾。若壬水有根，辛金得地，又非此而论。或壬癸并出，破火润土，此人聪?特达，富中取贵，又转祸为福也。 \r\n\r\n　　用癸者、金妻水子。用丙者，木妻火子。 ";
+
+                                qongtongbaojian += 论土 + 三夏己土;
+                            }
+                            if (ydz == shen || ydz == you || ydz == xuu)
+                            {
+                                string 三秋己土 = "三秋己土\r\n \r\n三秋己土，万物收藏之际，外虚内实，寒气渐升，须丙火温之，癸水润之，不特此也，且癸能泄金，丙能制金，补土精神，则秋生之物咸茂矣。 癸先丙后。\r\n\r\n　　丙癸两透，雁塔题名。或无癸，有两丙透者，异途显达。或武职权高。或有丙火，不见壬癸，为假道斯文，终无诚实。或有壬癸无丙者，衣食充足，才能而已。 \r\n\r\n　　或支成金局，癸透有根，此人家畜万缗，富中取贵。 \r\n　　或支四库，甲透者富。乏甲者孤贫。或甲出无癸乏金，积德可全科甲。或会火局，无水救，乃大奸大恶之徒。 \r\n　　或丙透癸藏，遇金颇有选援，加一壬辅，富贵慷慨，有贤声。见戊透者，主遭凶厄且贫。 \r\n　　八月支成金局，无丙丁出救，此人零丁孤苦。如得丙透丁藏，生己元神，此人名魁天下，五福完人。 \r\n　　总之，三秋己土，先癸后丙，取辛辅癸。九月土盛，宜甲木疏之，余皆酌用。 \r\n　　勾陈全备润下，劳碌奔波之客。土凝水竭，离乡背井之流。 \r\n　　勾陈得位会才官，无剋无破必然端，甲子北方寅卯木，管教环拱戴金冠。戊己喜亥卯未为官，申子辰为才，忌刑剋杀害。 \r\n ";
+
+                                qongtongbaojian += 论土 + 三秋己土;
+                            }
+                            if (ydz == hai || ydz == zii || ydz == chou)
+                            {
+                                string 三冬己土 = "三冬己土 \r\n \r\n　　三冬己土，溼泥寒冻，非丙暖不生，取丙为尊，甲木参酌。戊土癸水不用。惟初冬壬旺，取戊制之。余皆用丙丁，但丁不能解冻除寒，不能大济。 \r\n\r\n　　或干透一丙，支藏一丙，加以甲透，科甲有准。即藏丙无制，亦主衣衿。 \r\n　　或多壬水，得戊透制之，此命安然，富中取贵。不见戊土，富屋贫人。 \r\n　　凡三冬己土，见壬水出干，为水浸湖田，此人孤苦。若见火不孤，见土不贫。 \r\n　　或一派癸，不见比劫，此为从才，反主富贵，虽不科甲，恩诰有之。若见比争，平常人物，妻子主事。从才者，木妻、火子。 \r\n\r\n　　或一派戊己，取甲制之，甲透者，富贵。 \r\n　　或一派辛庚，须用丙火，还须丁火为助。丙藏、富贵奇特之命。\r\n ";
+
+                                qongtongbaojian += 论土 + 三冬己土;
+                            }
+
+                        }
+                    }
+                    if (rtg == geng || rtg == xin)
+                    {
+                        string 论金 = "论金\r\n \r\n　　金以至阴为体，中含至阳之精，乃能坚刚，独异众物，若独阴而不坚，冰雪是也，遇火则消矣。故金无火炼，不能成器，金重火轻，执事繁难。金轻火重，煅炼消亡。金极火盛，为格最精。金火全、名曰铸印。犯丑字、即为损模。金火多名为乘轩，遇死衰、反为不利。 \r\n\r\n　　木火炼金，成名锐而退速。纯金遇水，逢富显以赢余。 \r\n　　金能生水，水旺则金沉；土能生金，金多则土贱。金无水干枯；水重、则沉沦无用。金无土则死绝；土重、则埋没不显。两金两火、最上。两金两木、才足。一金生三水，力弱难胜；一金得三木，顽钝自损。金成则火灭，故金未成器，欲得见火；金已成器，不欲见火。金到申酉巳丑，亦可谓之成也，运喜西北，不利东南。 \r\n";
+                        if (rtg == geng)
+                        {
+                            if (ydz == yin || ydz == mao || ydz == chen)
+                            {
+                                string 三春庚金 = "三春庚金\r\n \r\n正月庚金，木旺之际，有土皆死，不能生金，且金之寒气未除，先用丙暖庚性，又虑土厚埋金，须甲疏泄。 丙甲两透，科甲显荣。 二者透一，亦有生监。 丙藏甲透，异路功名。\r\n\r\n　　或柱中土多，甲透者贵；甲藏者富，庚出则否。 \r\n　　或丁火出干，加以戊己而无水者，又主富贵，名官星有气，才旺生扶，故以富贵推之。 \r\n　　如火多则用土。用土者，火妻土子。 \r\n　　或支成火局，壬透、有根者，大富贵。无根者、小富贵。乏水者、残疾之人。 \r\n　　或木被金伤，无丙丁出制，支无丁火﹐此系平人。或丙遭癸困，无戊制者亦然。 \r\n　　总之，正月庚金，丙甲为上，丁火次之。春金多火，不夭则贫。阳金最喜火炼，煅炼太过，反主奔流。 \r\n　　二月庚金，柱中自然有乙，当令之乙，见庚必输情于乙，此金有暗强之势，如秋金一理，故二月庚金，专用丁火，借甲引丁，借庚噼甲。无丁用丙者，富贵多出于勉强。 \r\n\r\n　　或丁在干，甲透引丁，支下再见一庚制甲，配得中和，必然大贵。如不见庚合者，虽丁甲两透，亦属平人。 \r\n春丁不旺不衰，故用甲为佐丁之物，甲若无庚噼，则不能引丁，乙木虽多，又忌湿乙伤丁，难为丁母，故有丁甲无庚者，常人。 有丁庚、甲不出干者、常人。 或丁透无庚甲者，可许贡监。 无丁有丙者，异路功名。\r\n\r\n　　或一片甲乙，忌庚出干破才，乃从才格，反主富贵。若见一比，又主孤贫。 \r\n　　从才者，火妻土子。用丁者，取甲为妻、若有庚制，难许同偕。 \r\n　　死金嫌盖顶之泥，重见戊土，如人压伏之象，须甲透为妙。 \r\n　　三月庚金，戊土司令，无生金之理，有埋金之忧，故先甲后丁，不用庚噼甲。三月之庚，土旺金顽，顽金宜丁，旺土须甲，乏甲不能立业，乏丁焉能成名。二者少一，富贵不真。 \r\n\r\n　　庚金无火，非夭则贫。身弱才多，富贵不久。 \r\n得丁甲两透，不见比肩，科甲之命，但要好运相催。 甲透丁藏，采芹拾芥。 甲藏丁透，异路功名。 丁甲俱藏，不受庚制，富中取贵，刀笔起家。 有甲无丁，平常之辈。 有丁无甲，迂儒腐儒。 丁甲两无，下贱之流。\r\n\r\n　　或一甲、无丁、有丙，由行伍而得官职，须不见壬癸为妙。 \r\n　　或支成土局，无木，贫贱僧道；见乙、奸诈小人。 \r\n　　或支成火局，癸水透，富贵。有丙丁出干，见壬制之、方吉。无制、残疾之人。 \r\n　　用甲者，水妻、木子。用丁者，木妻、火子。\r\n ";
+
+                                qongtongbaojian += 论金 + 三春庚金;
+                            }
+                            if (ydz == sii || ydz == wuma || ydz == wei)
+                            {
+                                string 三夏庚金 = "三夏庚金\r\n \r\n　　四月庚金，长生于巳，巳内有戊。丙不镕金，故不畏火炎，丙亦可作用，但先壬水，方得中和，故曰群金生夏，喜用勾陈。次取戊土，丙火佐之。三者皆全，登科及第，即透一二，亦非白丁。 \r\n\r\n或一派丙火，名曰假杀为权，须不见壬制者，此人假作清高，并无仁义，刑妻克子。 有壬制者，又主荣华。 壬藏支者，有富贵之名，而无其实。\r\n\r\n　　或支成金局，变弱为强，用丙无力，用丁方妙，故丁透者吉。无丁、无用之人。或丁出三四，煅制太过，其人奔波。 \r\n四月庚金，须用壬丙戊，但非拘执先后，宜分病用药。 妻子同前。\r\n　　剑戟成功，入火乡而反害。金逢火已损，再见火必伤。庚辛火旺怕南方，逢辰巳之乡，又为荣断。 \r\n　　五月庚金，丁火旺烈，庚金败地，专用壬水，癸又次之。壬透癸藏，支见庚辛，必然科甲，切忌戊己透干制水、则否。戊藏支内，不失儒林。或壬在支，有金生助，又得金神出干，明经之贵。或癸出带辛，异路之荣。 \r\n\r\n或支成火局，乏水者，奔波之客。 有壬癸制者，捐纳之人。 又见戊己透者则吉。 无壬癸制火者，又宜戊己出干补金泄火，庶不夭折孤贫。\r\n\r\n　　总之，仲夏无水，必非上格，或一派木火，无伤、印、比劫，又作从杀而论。 \r\n　　六月庚金，三伏生寒，顽钝极矣，先用丁火，次取甲木。丁甲两透名显身荣，忌癸伤丁。有甲无丁、庸俗。有丁无甲、生员。丁甲全无，下贱之人。木虽有，丁不透，支又见水，执鞭之士。丁火无伤，贸易之流。 \r\n\r\n　　支会土局，甲先丁后。甲透者，文章显达。丁透者，刀笔扬名。或柱多金，有二丁出制，异路功名。 \r\n ";
+
+                                qongtongbaojian += 论金 + 三夏庚金;
+                            }
+                            if (ydz == shen || ydz == you || ydz == xuu)
+                            {
+                                string 三秋庚金 = "三秋庚金\r\n \r\n　　七月庚金，刚锐极矣。专用丁火煅炼，次取甲木引丁，故曰：秋金锐锐最为奇，壬癸相逢总不宜，如逢木火来成局，试看福寿与天齐。 \r\n\r\n　　如得丁甲两透，定步青云。若有丁无甲为俊秀。有甲无丁是平人。丁甲两无无用物，只堪门下作闲人。 \r\n　　或支成水局，乏丁用丙，柱中即有丙火，不见甲木者，必主愚懦。何也？当时金水两旺，金生水以制火，何能发达。或见甲出引丁，可云生监。甲弱者、衣食充盈。 \r\n\r\n　　或支成土局，先甲后丁。支成火局，富贵中人。金刚木明，行商坐贾之人。金备申酉戌之地，富贵无疑。金神入火乡，逢羊刃，富贵荣华。 \r\n\r\n八月庚金，刚锐未退，用丁用甲，丙不可少。 若丁甲透，又见一丙，功名显赫，且见羊刃，无刑克，丙杀藏支，名为羊刃驾杀，主出将入相，直介忠臣。\r\n\r\n　　或丙火重重，一丁高透，亦主科甲。丙出丁藏，异路功名。 \r\n　　或甲藏支，火透而水不透者，亦主清高，衣衿可望。 \r\n　　或丁藏支内，重见丙火者，此名假杀重重，虽羊刃帖身，却难从杀也。即一丙透，秀而不富。或支见重重甲乙，无用之人。 \r\n\r\n　　总之，旺金木衰，非火莫制，不见丙丁，艺术之辈。 \r\n　　九月庚金，戊土司令，最怕土厚埋金，宜先用甲疏，后用壬洗，则金自出矣。忌见己土浊壬。 \r\n　　壬甲两透，科甲相宜。或甲透壬藏，乡魁可望。甲藏壬透，廪贡堪谋。有甲无壬，犹有学问。有壬无甲，莫问衣衿。壬甲两无，则为下格。 \r\n\r\n　　或支成水局，丙透救之，此人才高迈众，名重乡闾，不见癸水，一榜可许。 \r\n　　或四柱戊多金旺，全无甲壬者，即有衣禄，亦不能久。或庚戊多而无壬甲者，愚顽之辈。\r\n ";
+
+                                qongtongbaojian += 论金 + 三秋庚金;
+                            }
+                            if (ydz == hai || ydz == zii || ydz == chou)
+                            {
+                                string 三冬庚金 = "三冬庚金\r\n　　十月庚金，水冷性寒，非丁莫造，非丙不暖。丁甲两透，支无水局，一榜有之。支藏丙火，桃浪之仙。支见亥子，得己出制，亦有功名。 \r\n\r\n　　若见丙透无丁者，决无显达。丁藏甲透，武职之人。以上不合者，庸俗。 \r\n　　如金水混杂，全无丙丁者，鄙夫。支成金局，无火者，僧道之命也。书曰：水冷金寒爱丙丁。 \r\n　　十一月庚金，天气严寒，仍取丁甲，次取丙火照暖。或丁甲两透，丙在支中，必主科甲。即无丙火，亦有衣衿。有丁无甲，亦可富中取贵。有甲无丁，只作常人。或丙透丁藏，异途名望。丁藏有甲，武学可许。 \r\n\r\n　　或重重丙火，可许一富，但不清高。丙戊生寅，或丙坐支寅，有一二者，富真贵假。若见癸透。一介寒儒。 \r\n　　或支成水局，二见丙丁者，此乃伤官格，为人清雅，衣禄常盈，但子息艰难耳。 \r\n　　或丙丁太多，名官杀混杂最无良。又怕身轻有损伤。如遇东南二运地，焉能挨得过时光。过于清冷，似有凄凉。柱中一派金水，不入火土之乡，主一生孤贫浪荡，难望有成也。 \r\n\r\n　　十二月庚金，寒气太重，且多湿泥，愈寒愈冻，先取丙火解冻，次取丁火炼金，甲亦不可少。 \r\n　　丙丁甲透者，即不科甲，亦有思荣。有丙无丁甲者，富中取贵。有丁甲无丙者，特达才人。有丙丁无甲者，白手成家，刀笔亨通，乏金更美。或支成金局无火，僧道之流。\r\n ";
+
+                                qongtongbaojian += 论金 + 三冬庚金;
+                            }
+
+                        }
+                        if (rtg == xin)
+                        {
+                            if (ydz == yin || ydz == mao || ydz == chen)
+                            {
+                                string 三春辛金 = "三春辛金\r\n \r\n　　正月辛金，阳气舒而寒气未除，不知正月建寅，中有长生之丙，解去寒气，忌甲木司权，辛金失令，取己土为生身之本，欲得辛金发现，全赖壬水之功，己壬两透，支见庚制甲，科甲定然。或己土透干，支中有甲，异路恩荣。或己土不全，号曰君臣失势，富贵难全。或有丙火出干，亦主武学。或见壬、无己庚者，贫贱之徒。 \r\n\r\n或支成火局，即壬水出干，不克己土，亦寻常之人。 或庚壬两透，破局制火，必为显达之人。\r\n　　或支成水局，不见丙火，名为金弱沉寒，平常之士，书曰：金水性寒寒到底，凄凉难免少年忧。得丙照暖，反主富贵。 \r\n　　故正月辛金，先己后壬。己为君，庚为佐。如用丙火须参看。用己，火妻土子。用壬，金妻水子。 \r\n　　辛金珠玉，最怕红炉，辛逢卯日子时，名曰朝阳。 \r\n二月辛金，阳和之际，壬水为尊，见戊己为病。 得甲制伏，则辛金不致埋没，壬水不致混浊，合此者必身入玉堂。 故二月辛金，有壬甲透者贵显。 否则，乡绅。 或壬坐亥支，不见土出，可能入芥，家亦小康。 得申中之壬者，异途名望。 无壬者常人。 其生克之理，与正月辛金皆同。\r\n\r\n　　或壬戊透，甲不出干，此为病不遇葯，平常之人。得乙破戊，颇有衣衿。但假名假利，刻薄乖张。 \r\n　　或一派壬水汪洋，名金水淘洗太过，不得中和，略有衣食，全无作为。如壬水重重，得戊反吉。或支成木局，洩尽壬水，有庚富贵，无庚平人。 \r\n\r\n　　或支成火局，名官印相争，金水两伤，下流之格。得二壬出制，富贵反奇。 \r\n　　辛金生于春季，一派壬水，而无丙火，即能显达，家无宿舂。得壬丙齐透，方许大富大贵。 \r\n　　三月辛金，戊土司令，辛承正气，母旺子相，先壬后甲。壬甲两透，富贵必然。壬透甲藏，廪贡不失。甲透壬藏，富则可云。壬甲皆无，平常之格。 \r\n\r\n　　所忌者丙贪合也，如月时皆丙，名为争合，主慷慨风流，交游四海。若癸出干制丙，可许採芹。或支坐亥子之乡，支又见申，即非玉堂，亦必高增禄位。若戊出干制水，不见甲乙，清闲之人。 \r\n\r\n　　又或支见四库，名土厚金埋，不见甲制，愚顽之辈。或四柱火多，无水制伏，名火土杂乱，主作缁衣，见癸可解。 \r\n　　或比劫重重，壬癸浅弱，主夭。有甲出干，则贵，然无庚制方妙。 \r\n ";
+
+                                qongtongbaojian += 论金 + 三春辛金;
+                            }
+                            if (ydz == sii || ydz == wuma || ydz == wei)
+                            {
+                                string 三夏辛金 = "三夏辛金\r\n \r\n　　四月辛金，时逢首夏，忌丙火之燥烈，喜壬水之洗淘。支成金局，水透出干，有木制戊，名一清澈底，科甲功名。癸透壬藏，富真贵假。若壬癸皆藏，戊己亦藏，略富。若壬癸俱无，反见火出，必主鳏独。 \r\n\r\n　　或支成火局，有制者吉，无制者凶。凡火旺无水，取土洩之。 \r\n　　若壬水藏亥，戊不出干，亦主上达。有戊常人。有一甲透，衣禄可求。若有甲无壬癸者，富贵虚浮。所谓羊质虎皮是也。壬、癸、甲、三者全无，又不合格，斯为下品。 \r\n\r\n五月辛金，丁火司权，辛金失令，阴柔之极，不宜煅炼，须己壬兼用，何也？ 己为泥沙，壬为湖海，己无壬不湿，辛无己不生，故壬己并用。 无壬、癸亦可用。 但癸力小。 或支成火局，即重见癸出亦不济，得壬透破火方可，必主生员。 若无壬，癸见戊，虽有午宫己土，燥泥成灰，金必毁镕，反遭埋没，必为僧道。 有一二重比肩，不致孤独。\r\n\r\n五月辛金，壬、癸、己、三者皆用。 或壬己两透，支见癸水，不克，定主显达。 即己藏支，亦有廪贡。 或无壬有己，须得异途。 或癸出有庚，必主衣锦，叨受恩荣。 若水土多见，见甲方妙。\r\n\r\n　　庚辛生于夏月，要壬癸得地，若木多火多，不见金水，逢金水运必败。 \r\n　　六月辛金，己土当权，辅助太多，恐掩金光，先用壬水，取庚佐之。壬庚两透，科甲功名，即不出干，藏支得所，亦有荣华。但忌戊出，得甲制之，方吉。甲须隔位，恐贪己合，反掩金光，又塞壬水之流，下贱之格。又忌庚出制甲。或只有未中一己，见了壬水，又为湿泥。不可见甲，甲出，反作平人。总以一壬一己，见庚无甲，方妙﹐与五月用己壬同。 \r\n\r\n　　或丁乙出干，又有庚壬者，显贵。无壬者、否。或支成木局，得壬透，又有庚金发水之源，可云富贵。 \r\n ";
+
+                                qongtongbaojian += 论金 + 三夏辛金;
+                            }
+                            if (ydz == shen || ydz == you || ydz == xuu)
+                            {
+                                string 三秋辛金 = "三秋辛金\r\n \r\n　　七月辛金，值庚司令，不旺自旺，且壬水居申，四柱不见戊土，胎元戊藏申内，为壬堤岸，人命得此，为官清正，但不富耳。 \r\n\r\n　　或有土无甲，为有病无葯，常人。有甲者，衣衿可望。或四柱金多，宜水洩之。若一派金水，得一戊土，反为辛用，又宜甲制，自然富贵。或干支水多，重见戊土，逢生得位，福寿之造。 \r\n\r\n　　七月辛金，壬不在多，故书云：水浅金多，号曰体全之象，壬水为尊，甲戊酌用可也，癸水不可为用。 \r\n　　八月辛金，当权得令，旺之极矣，专用壬水淘洗火，故云：金见水以流通。如见戊己，则生扶太过，故以土为病，见甲制土、方妙。无戊、不宜用甲。 \r\n\r\n　　或四柱一点壬水，甲多洩水，此为用神无力，奸诈之徒。得庚制者，反主仁义。或三点辛金，一重壬水，多见甲木，有庚透者，主大富贵。不见丁为美，若见一丁，此人风雅清高，衣食饶裕而已。 \r\n\r\n　　或一二比肩，壬甲皆一，无庚出干，亦有恩荣。若二三比肩，一点壬水，戊土多见，此为土厚埋金，此人愚懦，见一甲出，必为创立之人。 \r\n\r\n　　或一派辛金，一位壬水，无庚杂乱，又主富中取贵。或一派壬水洩金，无戊出制，为沙水同流，主奔波劳苦。若得支见一戊止流，其人颇有才略，艺术过人。 \r\n\r\n或支成金局，干见比肩，无壬淘洗，此宜用丁，无丁必主凶顽无赖。 若得一壬高透，以泄群金，又名一清到底，定有治国之材。\r\n\r\n　　或支成金局，戊己透干，壬透无火，名曰虎格，运行西北，富贵大显，子息艰难。或透丙火，虽有壬出，亦属平庸。 \r\n　　或一二辛金，一派己土，定为僧道。或干透己土，支见庚甲，一生安闲。或一派乙木，不见庚干，为才多身弱，一见庚制，富贵可期。 \r\n\r\n　　金生秋月土重，贫无寸铁。六辛日逢戊子时，运喜西方，阴若朝阳，切忌丙丁离位。庚辛局全巳酉丑，位高权重。 \r\n九月辛金，戊土司令，母旺子相，须甲疏土，壬泄旺金，先壬后甲。 壬甲两透，桃洞之仙。 或壬透甲藏，又见戊者，平人。 甲透、壬藏，戊在支内，异途之仕。\r\n\r\n　　或辛日甲月，壬水在支，有庚自能去浊留清，秋闱一榜。若戊戌月，即有甲在支，亦否。 \r\n　　总之土太多，甲不出干，莫问功名，得一壬出，洗土助甲，虽不发达，富而可求。 \r\n　　或土多无壬甲，时月多透丙辛者，略贵。加以辰字在支，则荣显莫及。 \r\n　　或木多土厚，无水者常人。或干上重见癸水，虽无淘洗之功，颇有清明之用。此命主贵、辛苦。 \r\n　　或己透无壬有癸，亦能滋生金力，衣衿之贵，但恐己多，不免浊富。 \r\n　　九月辛金，火土为病，水木为葯。 \r\n ";
+
+                                qongtongbaojian += 论金 + 三秋辛金;
+                            }
+                            if (ydz == hai || ydz == zii || ydz == chou)
+                            {
+                                string 三冬辛金 = "三冬辛金\r\n \r\n　　十月辛金，时值小阳，阳气渐升，寒气将降，先用壬水，次取丙火，壬丙两透，金榜题名，何也？盖辛金有壬水丙火，名金白水清，又在亥月故发。丙透壬藏，採芹之造。丙藏壬透，富有千金。壬丙在支，聪明之士。 \r\n\r\n　　戊壬在柱，积富之人。或壬多无戊，名辛水汪洋，反成贫贱。戊多壬少，又主成名。或甲多戊少，因艺术而蓄金。 \r\n　　若己多有戊，壬水被困，金被埋，不过诚实之人。或壬癸多无戊丙者，劳碌辛苦。十月辛金，先壬后丙，余皆参用。 \r\n　　十一月辛金，癸水司令，为寒冬雨露，切忌癸出冻金，而困丙火，壬丙两透，不见戊癸，衣锦腰金。即壬藏丙透，一榜堪图。 \r\n\r\n　　或壬多有戊，丙甲出干者，青云之客。若壬多无戊丙者，洩金太过，定主寒儒。或壬多、甲乙重重，无丙火者，贫寒。 \r\n　　或支成水局，癸水出干，有二戊制者，富贵恩荣，无戊者常人。或支见亥子丑，干出比劫，无丙、名润下格，富贵双全，运喜西北。若无庚辛，又出甲乙，无戊丙者，必主僧道。 \r\n\r\n　　或支成木局，有丁出干，又见成者，功名特达。冬月辛金，须丙温暖方妙。 \r\n　　十一月辛金，寒冻之极，先丙后壬，无丙不能解冻，无壬不能洗淘。丙壬两透，金马玉堂之客。壬丙俱藏，游庠食饩之人。有丙无壬富真贵假。有壬乏丙，贱而且贫。或丙多、无壬、有癸，市中贸易之流。 \r\n\r\n　　或水多、有戊己出干，又有丙丁，必主衣食充盈，一生安乐。十二月辛金，丙先壬后，戊己次之。\r\n ";
+
+                                qongtongbaojian += 论金 + 三冬辛金;
+                            }
+
+                        }
+                    }
+                    if (rtg == ren || rtg == gui)
+                    {
+                        string 论水 = "论水\r\n \r\n天倾西北，亥为出水之方，地陷东南，辰为纳水之库，逆流到申而作声，故水不西流。 水性润下，顺则有容，顺行十二神，顺也，主有度量，有吉神扶助，乃贵格。 逆则有声，逆行十二神，逆也。 入格者，主清贵，有声誉。 忌刑克，则横流，爱自死自绝则吉。\r\n\r\n水不绝源，仗金生而流远，水流泛滥，赖土克以堤防。 水火均，则合既济之美。 水土混，则有浊源之凶。 四时皆忌火多，则水受渴。 忌见土重，则水不流。 忌见金死，金死则水困。 忌见木旺，木旺则水死。 沉芝云：水命动摇，多主浊滥，女人尤忌之。 口诀云︰阳水身弱、穷，阴水身弱、主贵。\r\n\r\n　　生于春月，性滥滔淫，再逢水助，必有崩堤之势。若加土盛，则无泛涨之忧。喜金生扶，不宜金盛，欲火既济，不要火多，见木而可施功，无土仍愁散漫。 \r\n\r\n　　夏月之水，执性归源，时当涸际，欲得比肩，喜金生而助体。忌火旺而焙干。木盛则盗其气。土旺则制其流。 \r\n　　秋月之水，母旺子相，表里晶莹，得金助则澄清。逢土旺而混浊。火多而财盛，木重而子荣，重重见水，增其泛滥之忧。叠叠逢土，始得清平之意。 \r\n\r\n　　冬月之水，司令当权，遇火、则增暖除寒，见土、则形藏归化。金多、反曰无义。木盛、是谓有情。土太过、势成涸辙。水泛滥、喜土堤防。 \r\n";
+                        if (rtg == ren)
+                        {
+                            if (ydz == yin || ydz == mao || ydz == chen)
+                            {
+                                string 三春壬水 = "三春壬水\r\n \r\n　　正月壬水，汪洋之象，能并百川之流，然水性柔弱，宜用庚金之源，庶不致汪洋无度。有庚丙戊三者齐透，科甲功名。或庚戊藏支，丙坐寅支者，亦有恩诰，即一庚透，贡监有之。 \r\n\r\n　　凡壬日无比肩羊刃者，不必用戊，专用庚金，以丙为佐。 \r\n　　或见比劫，又有庚辛，此弱极復旺，又宜制伏。戊透、可云科甲。戊藏、则是秀才。然必丙透不合、为妙。 \r\n　　或支见多戊，又有甲出，名一将当关，群邪自伏，主光明磊落，名重百僚。或支成火局，惜不逢时，主名利皆虚，文章骇俗。 \r\n\r\n　　用庚者，土妻庚子。用丙者，木妻火子。用戊者，火妻土子。 \r\n　　二月壬水，寒气初除，有并流之象，不用丙暖，专取戊土辛金。二月壬水，先戊后辛，庚金次之。 \r\n　　戊辛两透，雁塔题名。戊透辛藏，亦有恩诰。或戊辛不透，有庚出干者、主富。或支成木局，有庚透者，金榜题名。庚在支者，异途之仕。 \r\n\r\n　　或木出火多，名木盛火炎，须比肩羊刃，尤宜水透，富贵恩荣。乏水者则否。 \r\n　或比肩重重，又须戊土，书曰：土止流水福寿全。若戊不见，名水泛木浮。一生辛苦，再行水运，落水而亡。 \r\n　　或甲乙重重无比肩者，此依人度日，全无作为。若见庚辛，飢寒可免。 \r\n　　三月壬水，戊土司权，恐有推山填海之患，先用甲疏季土，次取庚金。甲庚俱透，科甲定然。甲透庚藏，修齐品格。甲藏有根，可云俊秀。有癸滋甲，必主干城。独甲藏支，必富。独庚在柱，常人。无甲、刚暴之徒。乏庚、愚顽之辈。 \r\n\r\n　　或时干透丁者，此为化合，助火而不助水。见丁未一理。或支成四库，乏甲者，名杀重身轻，终身有损。 \r\n　　凡水旺多见庚金者，乃无用之人，须丙制之方妙。 \r\n ";
+
+                                qongtongbaojian += 论水 + 三春壬水;
+                            }
+                            if (ydz == sii || ydz == wuma || ydz == wei)
+                            {
+                                string 三夏壬水 = "三夏壬水\r\n \r\n　　四月壬水，丙火司权，水弱极矣，专取壬水比肩为助，次取辛金发源，且暗合丙火，庚金为佐。壬辛两透，金榜有名，或癸辛两出，加以甲透，亦主异路之荣。无甲者、富贵门下之客。 \r\n\r\n　　如无壬，木少火多者，又作弃命从才格，因妻致富。癸透者残疾。 \r\n或四柱多金得地，则极弱复强，须用巳中戊土，亦主名利双全。 或异途之贵。 若见一甲藏寅，与巳相刑，主有暗疾，名利皆虚，不能创立。\r\n\r\n　　或多甲乙，有庚出干者、贵。无庚者，否。 \r\n　　或支成水局、大贵。 \r\n　　五月壬水，丁旺壬弱，取癸为用，取庚为佐。无庚不能发水，无癸不能伤丁。五月壬水，辛癸亦可参用，其理与四月皆同。 \r\n\r\n　　庚癸两透，科甲必然，庚壬两透，官居极品。有庚无壬癸者、常人。 \r\n　　或支成火局，全无金水，名才多身弱，富屋贫人。若又甲乙多者，僧道之命。 \r\n　　六月壬水，己土当权，丁火退气，先用辛金癸水，次用甲木噼土。六月壬水，先辛后甲，次取癸水。辛甲两透，富贵清高。甲藏辛透，贡监生员。辛藏甲透，异途武职。甲壬两透，无伤，有治国之贵。即甲藏壬出无破，是拾芥之才。或支多土火，又只清贫。 \r\n\r\n　　或一派己土，此假从杀格，为人奸诈，且主孤贫，得甲乙出制可救。凡土居生旺之地，须用木制方妙。或支成木局，洩水太过，当用金水为贵，以金为妻、水为子。\r\n三秋壬水\r\n \r\n　　七月壬水，庚金司令，壬得申之长生，源流自远，转弱为强，专用戊土，次取丁火佐戊制庚。但用辰戌之戊，不用申中受病之戊。戊丁俱透，科甲生员。戊透天干，丁藏午戌，恩封可待，特忌戊癸化合。即支见寅戌，年出丁火，可许衣衿。或丁戊两藏，富中取贵。 \r\n\r\n　　或四柱多壬，戊又透干，名假杀化权，阆苑之仙。支中见甲，亦不忌也。但太多者、常人。有庚居申，颇有衣禄。 \r\n　　或戊多而透，得一甲制，略富贵，无甲常人。或一派甲木，又见火多，无庚出者，别祖离乡，随缘度日。盖申中之庚，不能救也。 \r\n\r\n　　七月壬水，专用戊土。丁火为佐。 \r\n　　八月壬水，辛金司权，正金白水清，忌戊土为病，专用甲木。甲木一透制戊，壬水澈底澄清，名高翰苑。若甲出时干，功名显达，设见庚破，又属常人。即甲藏支、无庚，秀才可许。 \r\n\r\n　　或天干有壬，支见申亥，此非用甲，戊土作用。亥虽有甲，又有申中之金制甲，秀才一定，且富足多才。 \r\n　　或无戊、多金水者，主人清才浊，困苦寒儒。 \r\n　　无甲用金，发水之源，名独水三犯庚辛，号曰体全之象。 \r\n　　八月壬水，专用甲木，庚金次之。用甲者，水妻、木子。 \r\n　　九月壬水进气，其性特厚，若一派壬水，见一甲、制戌中之戊，戊又出干，斯用丙火。此格清贵极矣，正合一将当关，群邪自伏，或不见丙戊，亦不为妙。 \r\n\r\n　　或一派戊土，无一己庚杂乱，得一甲透时干。玉堂清贵，即甲透月上，亦主科甲。若支藏己土，一榜可图。或庚透乏丁，贫贱之人。或丁透见甲，略贵。或水多乏丙者，又用戊土，常人。 \r\n\r\n　　九月壬水，专用甲木，次用丙火。用土者，火妻土子。 \r\n ";
+
+                                qongtongbaojian += 论水 + 三夏壬水;
+                            }
+                            if (ydz == shen || ydz == you || ydz == xuu)
+                            {
+                                string 三秋壬水 = "三秋壬水\r\n \r\n　　七月壬水，庚金司令，壬得申之长生，源流自远，转弱为强，专用戊土，次取丁火佐戊制庚。但用辰戌之戊，不用申中受病之戊。戊丁俱透，科甲生员。戊透天干，丁藏午戌，恩封可待，特忌戊癸化合。即支见寅戌，年出丁火，可许衣衿。或丁戊两藏，富中取贵。 \r\n\r\n　　或四柱多壬，戊又透干，名假杀化权，阆苑之仙。支中见甲，亦不忌也。但太多者、常人。有庚居申，颇有衣禄。 \r\n　　或戊多而透，得一甲制，略富贵，无甲常人。或一派甲木，又见火多，无庚出者，别祖离乡，随缘度日。盖申中之庚，不能救也。 \r\n\r\n　　七月壬水，专用戊土。丁火为佐。 \r\n　　八月壬水，辛金司权，正金白水清，忌戊土为病，专用甲木。甲木一透制戊，壬水澈底澄清，名高翰苑。若甲出时干，功名显达，设见庚破，又属常人。即甲藏支、无庚，秀才可许。 \r\n\r\n　　或天干有壬，支见申亥，此非用甲，戊土作用。亥虽有甲，又有申中之金制甲，秀才一定，且富足多才。 \r\n　　或无戊、多金水者，主人清才浊，困苦寒儒。 \r\n　　无甲用金，发水之源，名独水三犯庚辛，号曰体全之象。 \r\n　　八月壬水，专用甲木，庚金次之。用甲者，水妻、木子。 \r\n　　九月壬水进气，其性特厚，若一派壬水，见一甲、制戌中之戊，戊又出干，斯用丙火。此格清贵极矣，正合一将当关，群邪自伏，或不见丙戊，亦不为妙。 \r\n\r\n　　或一派戊土，无一己庚杂乱，得一甲透时干。玉堂清贵，即甲透月上，亦主科甲。若支藏己土，一榜可图。或庚透乏丁，贫贱之人。或丁透见甲，略贵。或水多乏丙者，又用戊土，常人。 \r\n\r\n　　九月壬水，专用甲木，次用丙火。用土者，火妻土子。 \r\n ";
+
+                                qongtongbaojian += 论水 + 三秋壬水;
+                            }
+                            if (ydz == hai || ydz == zii || ydz == chou)
+                            {
+                                string 三冬壬水 = "三冬壬水\r\n \r\n　　十月壬水司权，至旺之极，取戊为用，若生辰日干，又见辰时，必须戊透，又须庚制甲，不伤戊土，戊庚两全，定主豋科乃第，位显权高。或甲出制戊，不见庚救者，断之贫穷。戊藏无制，可许生员。或戊庚两透无甲者，亦主荣显。 \r\n\r\n　　或支成木局，有甲乙出干，得庚透者，富贵。无庚者、平常。或支成水局，不见戊己，名润下格，运行西北，大富贵，行东南者、必危。 \r\n\r\n　　或丙戊两透，行火土运，名利双全。或有丙无戊，可云衣禄。有戊无丙，难许推盈。十月壬水、专用戊丙，次取庚金。 \r\n　　十一月壬水，阳刃帮身，较前更旺，先取戊土，次用丙火，丙戊两透，富贵荣华。有戊无丙，略可言富。有丙无戊，好谋无成。 \r\n\r\n　　或支成水局，丙不出干，即有戊土，亦是庸人。或丙透得所。即戊藏支，亦可显达，须运得用方妙。或支成火局，一富而已。 \r\n\r\n　　或比见月时，年见丁火，平常之辈。支成四库，富贵中人。或丁出时干，名为争合，主名利难成。或壬子日、丁未时，虽不能科甲，亦有恩荣，何也？盖用子中癸水为官，号曰用神得地，亦主荣华。 \r\n\r\n　　十一月壬水，丙戊并用。 \r\n　　十二月壬水，旺极復衰，何也？上半月癸辛主事，故旺，专用丙火。下半月己土主事，故衰。亦用丙火，甲木佐之。\r\n　　有丙解冻，名利双全。丙透甲出，科甲之贵，然四柱无壬方妙。无丙、单寒之士。或四柱多壬，戊透制之，衣衿可望。 \r\n　　或丁出时干，化合成木，月干又见丁火，无癸破格，亦主富贵。或支成金局，名金寒水冻，一世孤贫，见火略可。即丙透遇辛，亦不为妙，见丁颇吉。 \r\n\r\n　　腊月壬水，先取丙火，丁甲为佐，故水冷金寒爱丙丁。用火者，木妻火子。 \r\n　　水旺居垣须有智，水土混杂必愚顽。壬癸路经南域、主健、富贵堪图。又云：惟有水木伤官格，才官相见始为欢。\r\n ";
+
+                                qongtongbaojian += 论水 + 三冬壬水;
+                            }
+
+                        }
+                        if (rtg == gui)
+                        {
+                            if (ydz == yin || ydz == mao || ydz == chen)
+                            {
+                                string 三春癸水 = "三春癸水\r\n \r\n　　正月癸水，值三阳之候，雨露之精，其性至柔，先用辛金，生癸水之源，次用丙火照暖，名阴阳和合，万物发生。辛丙两透，金榜有名。 \r\n\r\n　　或支成火局，辛金受伤，有壬出救者、富贵。无壬者、贫穷。或丙出天干，辛在酉丑，亦有衣衿。若辛丙皆无，贫寒下格。或辛透丙藏，恩荣之造。丙辛在柱，以富得官。 \r\n\r\n　　或戊透月上、坐辰时，不见比劫，丙丁出干，此为化合，定主腰金，见刑?、则否。或支成水局，宜有丙透，无壬者，衣禄不少。若见丙火重重，又作贵推。 \r\n\r\n　　正月癸水，辛金为主，庚金次之，丙亦不可少。若无庚辛，虽有丙火，无用之人。或火多土多，残疾不免。\r\n　　用辛者，土妻、金子。 \r\n二月癸水，不刚不柔，乙木司令，泄弱元神，专以庚金为用，辛金次之。 庚辛俱透，无丁出干者，贵由科甲。 无庚辛者常人。 或庚透辛藏，荣封有准。 庚藏辛透，亦有衣衿。 庚辛两藏，富中取贵，或刀笔扬名。 或庚辛重见，有己丁出干者亦贵。\r\n\r\n或支成木局，月时又见木者，为泄水太过，定主贫困多灾。 即运入西方，亦属无用。\r\n　　三月癸水，要分清明谷雨。清明后、火气未炽，专用丙火，为阴阳合谐。谷雨后，虽用丙火，尚宜辛甲佐之。如辛卯、壬辰、癸未、丙辰，生上半月，用丙火、显达。生下半月，必无伤辛金癸水、方妙。然丙亦不可少。用丙、木妻、火子。 \r\n\r\n　　三月癸水，从化者多，得化者荣禄。不化者平常。或支成水局，又见己土、无木，乃假杀格，有甲出者、常人。或支坐四库，又得甲透，可谓显达名扬。无甲者僧道孤苦。或支成木局，名伤官生财格，主聪明博学，衣禄充饶。 \r\n\r\n　　三月癸水，辛甲皆酌用。下半月、土妻、金子。 \r\n ";
+
+                                qongtongbaojian += 论水 + 三春癸水;
+                            }
+                            if (ydz == sii || ydz == wuma || ydz == wei)
+                            {
+                                string 三夏癸水 = "三夏癸水\r\n　　四月癸水，喜辛金为用，无辛用庚。若辛高透，不见丁火，加以壬透，主科名荣贵，声播四夷。若有丁破格，贫无立锥，有壬可免。辛藏无丁，贡监衣衿。 \r\n\r\n或一派火土乏辛，即有己庚，亦不能生水。 又无比肩羊刃，必至熬干癸水，损目无疑。 若庚壬两透，泄制火土，名劫印化晋，极贵之造。 有丁见干者则否。 如有庚无壬。 亦无丁破庚者，堪入儒林。 有庚无辛者，异路功名。 总之四月癸水，专用辛金方妙。\r\n\r\n　　五月癸水，至弱无根，必须庚辛为生身之本，但丁火司权，金难敌火，安能滋养癸水，宜见比劫，方得辛金之用。五月癸水，庚辛壬参酌并用可也。 \r\n\r\n　　如庚辛透干，又见壬癸者，定主钟鼎名家。或有金透，支见申子辰者，亦主金榜挂名。或无水出干，支只一水，虽有庚辛，一富之造。故曰：水源会夏，富重贵轻。又曰：金水会夏天，富贵永无边，运行火土地，快乐似神仙。 \r\n\r\n　　或支成火局，无壬出干，定主僧道。或二壬一庚同透，衣锦腰金。或一派己土，无甲出制，此作从杀而论，又主大贵。凡从杀者，切不可破格方吉。 \r\n\r\n　　六月癸水，有上下月之分。下半月庚辛有气，上半月庚辛休囚。凡六癸日、多不验者，何也？俗士不知此理。因未中有乙己同宫，破而不破，故癸水不能从杀，所以专用庚辛。如上半月金神衰弱，火气炎烈，宜比劫助身，可云富贵。与五月一理。下半月庚辛有气，即无比劫亦可，又忌丁透，即丁在支亦不吉。其生剋制化，与五月略同。 \r\n";
+
+                                qongtongbaojian += 论水 + 三夏癸水;
+                            }
+                            if (ydz == shen || ydz == you || ydz == xuu)
+                            {
+                                string 三秋癸水 = "三秋癸水\r\n \r\n　　七月癸水，正母旺子相之时，癸虽死申，殊不知申中有庚生之，名死处逢生，弱中復强，即运行西北，亦不死也。但庚司令刚锐极矣，必取丁火为用。或丁透有甲，名有燄之火，必主科甲。或丁透无甲，又无壬癸，即有一二庚金，亦有生监。有二丁更妙。或金多乏丁制者，贫困之人。 \r\n\r\n　　或一丁坐午，名独才格，主金玉满堂，富中取贵。若在未戌，则是常人。或柱见二戌二未，又得丙丁藏支，干见甲出、无水，亦作富贵而推。 \r\n\r\n　　八月癸水，辛金虚灵，非顽金可比，正金白水清，故取辛金为用，丙火佐之。名水暖金温。如丙与辛隔位同透，主科甲功名。或丙透辛藏，一榜之士。或土多?水，生意中人。 \r\n\r\n　　八月癸水，丙辛皆用。 \r\n九月癸水，失令无根，戊土司权，克制太过，专用辛金发水之源，要比肩滋甲制戊方妙。 或辛甲两透，支见子癸，定主平步青云，或癸甲两透，富贵成名。 或有甲辛无癸者，亦有恩封。 或有甲癸无辛者，富大贵小。 有甲无癸辛者，常人。 二者俱无，贫贱之格。 或有甲见壬者，颇许衣衿。\r\n\r\n　　九月癸水，辛甲并用。";
+
+                                qongtongbaojian += 论水 + 三秋癸水;
+                            }
+                            if (ydz == hai || ydz == zii || ydz == chou)
+                            {
+                                string 三冬癸水 = "三冬癸水\r\n \r\n十月癸水，旺中有弱，何也？ 因亥摇木，泄散元神，宜用庚辛为妙。 得庚辛两透，不见丁伤者，功名有准。\r\n　　或支成木局，有丁出干，为木旺火相，制住庚辛不生水，必主清寒。或成木局，干见丙丁，异路之荣。或一派壬水，不见戊制，名冬水汪洋，奔波到老。若得戊透，清贵堪夸。 \r\n\r\n　　或一派庚辛，得丁出制，主名利双全。若不见丁，又主贫薄。或四柱火多，名才多身弱，富屋贫人。 \r\n　　十一月癸水，值冰冻之时，金水无交欢之象，专用丙火解冻，庶不致成冰，又要辛金滋扶，无丙有辛，不妙。凡冬季癸水，有丙透解冻，则金温水暖，两两相生，要不见壬癸，自然豋科及第，紫诰金章。 \r\n\r\n　　或一派壬水，无丙出干，寒困之士。一派癸水，孤贱之流。或支成水局，得丙火重出干者，又主蟒袍玉带之荣。 \r\n　　或支成金局，丙火无剋者，芒鞋革履之流。如辛年丙月癸日。有火者、主恩荣宠锡，绕膝芝兰。无火者，捐资得贵，位重当朝。 \r\n\r\n　　或一派戊己，名杀重身轻，非贫即夭。 \r\n　　用火者，木妻、火子。用辛者，土妻、金子。 \r\n　　十二月癸水，寒极成冰，万物不能舒泰，宜丙火解冻。或丙透年时，加以壬透，支中多戊，名水辅阳光，主显达名臣，无戊者，异途之职。若有丙无壬，黉门之客。有壬无丙，戊又出干者，皂隶之流。 \r\n\r\n　　或支见子丑，比肩出干，即有丙透，不能解冻，此属平常。或无癸水，有辛与合，亦不为美。有丁出、颇吉。 \r\n　　或一片癸己会党，年透丁火，名雪后灯光，夜生者贵，日生者否。若无丁火，又主孤贫。或支成水局，无丙者，四海为家，一生劳苦。 \r\n\r\n　　或支成火局，有庚辛透者，衣食充足。无金出、孤苦零仃。或支成金局，丙透得地，名金温水暖，彼此相生，定许光大门闾，声驰翰苑。乏丙者，即文章骇世，总为孙山。 \r\n\r\n或支成木局，泄水太过，主残病呻吟，得金出干辅救，技艺之流。\r\n　　凡冬月用丙，须丙火得地方妙、不然，即重重丙火出干，安能轻许富贵哉。";
+
+                                qongtongbaojian += 论水 + 三冬癸水;
                             }
 
                         }
 
                     }
+
+                }
                 //八字评分
                 if (jia == jia)
                 {
@@ -67266,7 +67265,7 @@ namespace BaZiFuZuGongJu
             string 自述文本 = "学习八字预测不用死记硬背。不用担心没时间。只要懂五行生克就可以学会。\r\n\r\n我之前的两个GITHUB号都不能登录了所以用分支更新。\r\n\r\nhttps://github.com/aaa2024-07-14/BaZiPaiPanGongJu\r\n\r\n三个小时学会看八字https://www.youtube.com/watch?v=Y1SfZ22-jPE&pp=ygUk5LiJ5Liq5bCP5pe25a2m5Lya55yL5YWr5a2X56ys5LiA6ZuG\r\n\r\n使用Lunar库实现了万年历级别的天干地支查询https://github.com/6tail/lunar-csharp\r\n\r\n新增加命局大运显示。\r\n\r\n定吉神。天干冲的喜忌变化。同柱干支暗合.地支暗合。十神否极。\r\n显示墓库运。自动识别方位和对应内脏。天干地支分阴阳五行五种颜色。\r\n自动判断,半三合.地支六冲,地支六害,地支六合,地支六破,地支三合,\r\n地支三会,地支相刑,拱合,天干冲,天干五合，拱合。流年和主命盘阴阳。\r\n半三合，地支六合,地支三合,地支三会,天干五合，拱合：五行色彩。\r\n十神：吉为红字：忌为黑字。自动判断日元强弱。十神等按钮中附注解。\r\n显示十神六亲。54个神煞显示。显示十二长生。排流年和主命盘显示强弱。\r\n天干冲的喜忌变化。十神六亲喜忌色彩与十神喜忌关联。\r\n集成了穷通宝鉴:可以显示四季五行命性。八字评分。\r\n增加四柱的五行纳音。流年副盘。四柱干支流转。 \r\n";
             if (wenben == 1)
             {
-                button56.Focus(); button56_Click(this, new EventArgs());
+
                 wenben = 0;
                 richTextBox1.Location = new Point(0, 36); richTextBox1.Text = "";
                 richTextBox1.Height = 190; richTextBox1.Width = 558;
@@ -67276,7 +67275,7 @@ namespace BaZiFuZuGongJu
             else if (wenben == 0)
             {
 
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67290,7 +67289,7 @@ namespace BaZiFuZuGongJu
         {
             if (button4.Text == "比肩")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67298,7 +67297,7 @@ namespace BaZiFuZuGongJu
             }
             if (button4.Text == "劫财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67306,7 +67305,7 @@ namespace BaZiFuZuGongJu
             }
             if (button4.Text == "食神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67314,7 +67313,7 @@ namespace BaZiFuZuGongJu
             }
             if (button4.Text == "伤官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67322,7 +67321,7 @@ namespace BaZiFuZuGongJu
             }
             if (button4.Text == "正财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67330,7 +67329,7 @@ namespace BaZiFuZuGongJu
             }
             if (button4.Text == "偏财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67338,7 +67337,7 @@ namespace BaZiFuZuGongJu
             }
             if (button4.Text == "正印")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67346,7 +67345,7 @@ namespace BaZiFuZuGongJu
             }
             if (button4.Text == "枭神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67354,7 +67353,7 @@ namespace BaZiFuZuGongJu
             }
             if (button4.Text == "正官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67362,7 +67361,7 @@ namespace BaZiFuZuGongJu
             }
             if (button4.Text == "七杀")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67375,7 +67374,7 @@ namespace BaZiFuZuGongJu
         {
             if (button16.Text == "比肩")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67383,7 +67382,7 @@ namespace BaZiFuZuGongJu
             }
             if (button16.Text == "劫财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67391,7 +67390,7 @@ namespace BaZiFuZuGongJu
             }
             if (button16.Text == "食神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67399,7 +67398,7 @@ namespace BaZiFuZuGongJu
             }
             if (button16.Text == "伤官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67407,7 +67406,7 @@ namespace BaZiFuZuGongJu
             }
             if (button16.Text == "正财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67415,7 +67414,7 @@ namespace BaZiFuZuGongJu
             }
             if (button16.Text == "偏财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67423,7 +67422,7 @@ namespace BaZiFuZuGongJu
             }
             if (button16.Text == "正印")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67431,7 +67430,7 @@ namespace BaZiFuZuGongJu
             }
             if (button16.Text == "枭神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67439,7 +67438,7 @@ namespace BaZiFuZuGongJu
             }
             if (button16.Text == "正官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67447,7 +67446,7 @@ namespace BaZiFuZuGongJu
             }
             if (button16.Text == "七杀")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67458,7 +67457,7 @@ namespace BaZiFuZuGongJu
 
         private void button7_Click(object sender, EventArgs e)
         {
-            button54.Focus(); button54_Click(this, new EventArgs());
+
             wenben = 1; buttongj.Text = "关闭文本";
             richTextBox1.Location = new Point(0, 36);
             richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67470,7 +67469,7 @@ namespace BaZiFuZuGongJu
         {
             if (button8.Text == "比肩")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67478,7 +67477,7 @@ namespace BaZiFuZuGongJu
             }
             if (button8.Text == "劫财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67486,7 +67485,7 @@ namespace BaZiFuZuGongJu
             }
             if (button8.Text == "食神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67494,7 +67493,7 @@ namespace BaZiFuZuGongJu
             }
             if (button8.Text == "伤官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67502,7 +67501,7 @@ namespace BaZiFuZuGongJu
             }
             if (button8.Text == "正财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67510,7 +67509,7 @@ namespace BaZiFuZuGongJu
             }
             if (button8.Text == "偏财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67518,7 +67517,7 @@ namespace BaZiFuZuGongJu
             }
             if (button8.Text == "正印")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67526,7 +67525,7 @@ namespace BaZiFuZuGongJu
             }
             if (button8.Text == "枭神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67534,7 +67533,7 @@ namespace BaZiFuZuGongJu
             }
             if (button8.Text == "正官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67542,7 +67541,7 @@ namespace BaZiFuZuGongJu
             }
             if (button8.Text == "七杀")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67555,7 +67554,7 @@ namespace BaZiFuZuGongJu
         {
             if (button13.Text == "比肩")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67563,7 +67562,7 @@ namespace BaZiFuZuGongJu
             }
             if (button13.Text == "劫财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67571,7 +67570,7 @@ namespace BaZiFuZuGongJu
             }
             if (button13.Text == "食神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67579,7 +67578,7 @@ namespace BaZiFuZuGongJu
             }
             if (button13.Text == "伤官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67587,7 +67586,7 @@ namespace BaZiFuZuGongJu
             }
             if (button13.Text == "正财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67595,7 +67594,7 @@ namespace BaZiFuZuGongJu
             }
             if (button13.Text == "偏财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67603,7 +67602,7 @@ namespace BaZiFuZuGongJu
             }
             if (button13.Text == "正印")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67611,7 +67610,7 @@ namespace BaZiFuZuGongJu
             }
             if (button13.Text == "枭神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67619,7 +67618,7 @@ namespace BaZiFuZuGongJu
             }
             if (button13.Text == "正官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67627,7 +67626,7 @@ namespace BaZiFuZuGongJu
             }
             if (button13.Text == "七杀")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67640,7 +67639,7 @@ namespace BaZiFuZuGongJu
         {
             if (button14.Text == "比肩")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67648,7 +67647,7 @@ namespace BaZiFuZuGongJu
             }
             if (button14.Text == "劫财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67656,7 +67655,7 @@ namespace BaZiFuZuGongJu
             }
             if (button14.Text == "食神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67664,7 +67663,7 @@ namespace BaZiFuZuGongJu
             }
             if (button14.Text == "伤官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67672,7 +67671,7 @@ namespace BaZiFuZuGongJu
             }
             if (button14.Text == "正财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67680,7 +67679,7 @@ namespace BaZiFuZuGongJu
             }
             if (button14.Text == "偏财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67688,7 +67687,7 @@ namespace BaZiFuZuGongJu
             }
             if (button14.Text == "正印")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67696,7 +67695,7 @@ namespace BaZiFuZuGongJu
             }
             if (button14.Text == "枭神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67704,7 +67703,7 @@ namespace BaZiFuZuGongJu
             }
             if (button14.Text == "正官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67712,7 +67711,7 @@ namespace BaZiFuZuGongJu
             }
             if (button14.Text == "七杀")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67725,7 +67724,7 @@ namespace BaZiFuZuGongJu
         {
             if (button15.Text == "比肩")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67733,7 +67732,7 @@ namespace BaZiFuZuGongJu
             }
             if (button15.Text == "劫财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67741,7 +67740,7 @@ namespace BaZiFuZuGongJu
             }
             if (button15.Text == "食神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67749,7 +67748,7 @@ namespace BaZiFuZuGongJu
             }
             if (button15.Text == "伤官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67757,7 +67756,7 @@ namespace BaZiFuZuGongJu
             }
             if (button15.Text == "正财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67765,7 +67764,7 @@ namespace BaZiFuZuGongJu
             }
             if (button15.Text == "偏财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67773,7 +67772,7 @@ namespace BaZiFuZuGongJu
             }
             if (button15.Text == "正印")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67781,7 +67780,7 @@ namespace BaZiFuZuGongJu
             }
             if (button15.Text == "枭神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67789,7 +67788,7 @@ namespace BaZiFuZuGongJu
             }
             if (button15.Text == "正官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67797,7 +67796,7 @@ namespace BaZiFuZuGongJu
             }
             if (button15.Text == "七杀")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67810,7 +67809,7 @@ namespace BaZiFuZuGongJu
         {
             if (button17.Text == "比肩")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67818,7 +67817,7 @@ namespace BaZiFuZuGongJu
             }
             if (button17.Text == "劫财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67826,7 +67825,7 @@ namespace BaZiFuZuGongJu
             }
             if (button17.Text == "食神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67834,7 +67833,7 @@ namespace BaZiFuZuGongJu
             }
             if (button17.Text == "伤官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67842,7 +67841,7 @@ namespace BaZiFuZuGongJu
             }
             if (button17.Text == "正财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67850,7 +67849,7 @@ namespace BaZiFuZuGongJu
             }
             if (button17.Text == "偏财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67858,7 +67857,7 @@ namespace BaZiFuZuGongJu
             }
             if (button17.Text == "正印")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67866,7 +67865,7 @@ namespace BaZiFuZuGongJu
             }
             if (button17.Text == "枭神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67874,7 +67873,7 @@ namespace BaZiFuZuGongJu
             }
             if (button17.Text == "正官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67882,7 +67881,7 @@ namespace BaZiFuZuGongJu
             }
             if (button17.Text == "七杀")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67895,7 +67894,7 @@ namespace BaZiFuZuGongJu
         {
             if (button18.Text == "比肩")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67903,7 +67902,7 @@ namespace BaZiFuZuGongJu
             }
             if (button18.Text == "劫财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67911,7 +67910,7 @@ namespace BaZiFuZuGongJu
             }
             if (button18.Text == "食神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67919,7 +67918,7 @@ namespace BaZiFuZuGongJu
             }
             if (button18.Text == "伤官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67927,7 +67926,7 @@ namespace BaZiFuZuGongJu
             }
             if (button18.Text == "正财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67935,7 +67934,7 @@ namespace BaZiFuZuGongJu
             }
             if (button18.Text == "偏财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67943,7 +67942,7 @@ namespace BaZiFuZuGongJu
             }
             if (button18.Text == "正印")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67951,7 +67950,7 @@ namespace BaZiFuZuGongJu
             }
             if (button18.Text == "枭神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67959,7 +67958,7 @@ namespace BaZiFuZuGongJu
             }
             if (button18.Text == "正官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67967,7 +67966,7 @@ namespace BaZiFuZuGongJu
             }
             if (button18.Text == "七杀")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67980,7 +67979,7 @@ namespace BaZiFuZuGongJu
         {
             if (button6.Text == "比肩")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67988,7 +67987,7 @@ namespace BaZiFuZuGongJu
             }
             if (button6.Text == "劫财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -67996,7 +67995,7 @@ namespace BaZiFuZuGongJu
             }
             if (button6.Text == "食神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68004,7 +68003,7 @@ namespace BaZiFuZuGongJu
             }
             if (button6.Text == "伤官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68012,7 +68011,7 @@ namespace BaZiFuZuGongJu
             }
             if (button6.Text == "正财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68020,7 +68019,7 @@ namespace BaZiFuZuGongJu
             }
             if (button6.Text == "偏财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68028,7 +68027,7 @@ namespace BaZiFuZuGongJu
             }
             if (button6.Text == "正印")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68036,7 +68035,7 @@ namespace BaZiFuZuGongJu
             }
             if (button6.Text == "枭神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68044,7 +68043,7 @@ namespace BaZiFuZuGongJu
             }
             if (button6.Text == "正官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68052,7 +68051,7 @@ namespace BaZiFuZuGongJu
             }
             if (button6.Text == "七杀")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68065,7 +68064,7 @@ namespace BaZiFuZuGongJu
         {
             if (button19.Text == "比肩")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68073,7 +68072,7 @@ namespace BaZiFuZuGongJu
             }
             if (button19.Text == "劫财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68081,7 +68080,7 @@ namespace BaZiFuZuGongJu
             }
             if (button19.Text == "食神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68089,7 +68088,7 @@ namespace BaZiFuZuGongJu
             }
             if (button19.Text == "伤官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68097,7 +68096,7 @@ namespace BaZiFuZuGongJu
             }
             if (button19.Text == "正财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68105,7 +68104,7 @@ namespace BaZiFuZuGongJu
             }
             if (button19.Text == "偏财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68113,7 +68112,7 @@ namespace BaZiFuZuGongJu
             }
             if (button19.Text == "正印")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68121,7 +68120,7 @@ namespace BaZiFuZuGongJu
             }
             if (button19.Text == "枭神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68129,7 +68128,7 @@ namespace BaZiFuZuGongJu
             }
             if (button19.Text == "正官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68137,7 +68136,7 @@ namespace BaZiFuZuGongJu
             }
             if (button19.Text == "七杀")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68150,7 +68149,7 @@ namespace BaZiFuZuGongJu
         {
             if (button21.Text == "比肩")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68158,7 +68157,7 @@ namespace BaZiFuZuGongJu
             }
             if (button21.Text == "劫财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68166,7 +68165,7 @@ namespace BaZiFuZuGongJu
             }
             if (button21.Text == "食神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68174,7 +68173,7 @@ namespace BaZiFuZuGongJu
             }
             if (button21.Text == "伤官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68182,7 +68181,7 @@ namespace BaZiFuZuGongJu
             }
             if (button21.Text == "正财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68190,7 +68189,7 @@ namespace BaZiFuZuGongJu
             }
             if (button21.Text == "偏财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68198,7 +68197,7 @@ namespace BaZiFuZuGongJu
             }
             if (button21.Text == "正印")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68206,7 +68205,7 @@ namespace BaZiFuZuGongJu
             }
             if (button21.Text == "枭神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68214,7 +68213,7 @@ namespace BaZiFuZuGongJu
             }
             if (button21.Text == "正官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68222,7 +68221,7 @@ namespace BaZiFuZuGongJu
             }
             if (button21.Text == "七杀")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68235,7 +68234,7 @@ namespace BaZiFuZuGongJu
         {
             if (button20.Text == "比肩")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68243,7 +68242,7 @@ namespace BaZiFuZuGongJu
             }
             if (button20.Text == "劫财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68251,7 +68250,7 @@ namespace BaZiFuZuGongJu
             }
             if (button20.Text == "食神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68259,7 +68258,7 @@ namespace BaZiFuZuGongJu
             }
             if (button20.Text == "伤官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68267,7 +68266,7 @@ namespace BaZiFuZuGongJu
             }
             if (button20.Text == "正财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68275,7 +68274,7 @@ namespace BaZiFuZuGongJu
             }
             if (button20.Text == "偏财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68283,7 +68282,7 @@ namespace BaZiFuZuGongJu
             }
             if (button20.Text == "正印")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68291,7 +68290,7 @@ namespace BaZiFuZuGongJu
             }
             if (button20.Text == "枭神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68299,7 +68298,7 @@ namespace BaZiFuZuGongJu
             }
             if (button20.Text == "正官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68307,7 +68306,7 @@ namespace BaZiFuZuGongJu
             }
             if (button20.Text == "七杀")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68320,7 +68319,7 @@ namespace BaZiFuZuGongJu
         {
             if (button22.Text == "比肩")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68328,7 +68327,7 @@ namespace BaZiFuZuGongJu
             }
             if (button22.Text == "劫财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68336,7 +68335,7 @@ namespace BaZiFuZuGongJu
             }
             if (button22.Text == "食神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68344,7 +68343,7 @@ namespace BaZiFuZuGongJu
             }
             if (button22.Text == "伤官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68352,7 +68351,7 @@ namespace BaZiFuZuGongJu
             }
             if (button22.Text == "正财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68360,7 +68359,7 @@ namespace BaZiFuZuGongJu
             }
             if (button22.Text == "偏财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68368,7 +68367,7 @@ namespace BaZiFuZuGongJu
             }
             if (button22.Text == "正印")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68376,7 +68375,7 @@ namespace BaZiFuZuGongJu
             }
             if (button22.Text == "枭神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68384,7 +68383,7 @@ namespace BaZiFuZuGongJu
             }
             if (button22.Text == "正官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68392,7 +68391,7 @@ namespace BaZiFuZuGongJu
             }
             if (button22.Text == "七杀")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68405,7 +68404,7 @@ namespace BaZiFuZuGongJu
         {
             if (button23.Text == "比肩")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68413,7 +68412,7 @@ namespace BaZiFuZuGongJu
             }
             if (button23.Text == "劫财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68421,7 +68420,7 @@ namespace BaZiFuZuGongJu
             }
             if (button23.Text == "食神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68429,7 +68428,7 @@ namespace BaZiFuZuGongJu
             }
             if (button23.Text == "伤官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68437,7 +68436,7 @@ namespace BaZiFuZuGongJu
             }
             if (button23.Text == "正财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68445,7 +68444,7 @@ namespace BaZiFuZuGongJu
             }
             if (button23.Text == "偏财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68453,7 +68452,7 @@ namespace BaZiFuZuGongJu
             }
             if (button23.Text == "正印")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68461,7 +68460,7 @@ namespace BaZiFuZuGongJu
             }
             if (button23.Text == "枭神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68469,7 +68468,7 @@ namespace BaZiFuZuGongJu
             }
             if (button23.Text == "正官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68477,7 +68476,7 @@ namespace BaZiFuZuGongJu
             }
             if (button23.Text == "七杀")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68490,7 +68489,7 @@ namespace BaZiFuZuGongJu
         {
             if (button24.Text == "比肩")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68498,7 +68497,7 @@ namespace BaZiFuZuGongJu
             }
             if (button24.Text == "劫财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68506,7 +68505,7 @@ namespace BaZiFuZuGongJu
             }
             if (button24.Text == "食神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68514,7 +68513,7 @@ namespace BaZiFuZuGongJu
             }
             if (button24.Text == "伤官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68522,7 +68521,7 @@ namespace BaZiFuZuGongJu
             }
             if (button24.Text == "正财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68530,7 +68529,7 @@ namespace BaZiFuZuGongJu
             }
             if (button24.Text == "偏财")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68538,7 +68537,7 @@ namespace BaZiFuZuGongJu
             }
             if (button24.Text == "正印")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68546,7 +68545,7 @@ namespace BaZiFuZuGongJu
             }
             if (button24.Text == "枭神")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68554,7 +68553,7 @@ namespace BaZiFuZuGongJu
             }
             if (button24.Text == "正官")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68562,7 +68561,7 @@ namespace BaZiFuZuGongJu
             }
             if (button24.Text == "七杀")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68578,7 +68577,7 @@ namespace BaZiFuZuGongJu
         {
             if (buttonng.Text == "甲")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68586,7 +68585,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonng.Text == "乙")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68594,7 +68593,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonng.Text == "丙")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68602,7 +68601,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonng.Text == "丁")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68610,7 +68609,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonng.Text == "戊")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68618,7 +68617,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonng.Text == "己")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68626,7 +68625,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonng.Text == "庚")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68634,7 +68633,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonng.Text == "辛")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68642,7 +68641,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonng.Text == "壬")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68650,7 +68649,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonng.Text == "癸")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68663,7 +68662,7 @@ namespace BaZiFuZuGongJu
         {
             if (buttonyg.Text == "甲")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68671,7 +68670,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyg.Text == "乙")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68679,7 +68678,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyg.Text == "丙")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68687,7 +68686,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyg.Text == "丁")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68695,7 +68694,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyg.Text == "戊")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68703,7 +68702,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyg.Text == "己")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68711,7 +68710,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyg.Text == "庚")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68719,7 +68718,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyg.Text == "辛")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68727,7 +68726,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyg.Text == "壬")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68735,7 +68734,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyg.Text == "癸")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68747,7 +68746,7 @@ namespace BaZiFuZuGongJu
         {
             if (buttonrg.Text == "甲")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68755,7 +68754,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrg.Text == "乙")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68763,7 +68762,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrg.Text == "丙")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68771,7 +68770,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrg.Text == "丁")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68779,7 +68778,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrg.Text == "戊")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68787,7 +68786,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrg.Text == "己")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68795,7 +68794,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrg.Text == "庚")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68803,7 +68802,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrg.Text == "辛")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68811,7 +68810,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrg.Text == "壬")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68819,7 +68818,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrg.Text == "癸")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68831,7 +68830,7 @@ namespace BaZiFuZuGongJu
         {
             if (buttonsg.Text == "甲")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68839,7 +68838,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsg.Text == "乙")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68847,7 +68846,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsg.Text == "丙")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68855,7 +68854,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsg.Text == "丁")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68863,7 +68862,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsg.Text == "戊")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68871,7 +68870,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsg.Text == "己")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68879,7 +68878,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsg.Text == "庚")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68887,7 +68886,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsg.Text == "辛")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68895,7 +68894,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsg.Text == "壬")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68903,7 +68902,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsg.Text == "癸")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68915,7 +68914,7 @@ namespace BaZiFuZuGongJu
         {
             if (buttonnz.Text == "子")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68923,7 +68922,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonnz.Text == "丑")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68931,7 +68930,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonnz.Text == "寅")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68939,7 +68938,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonnz.Text == "卯")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68947,7 +68946,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonnz.Text == "辰")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68955,7 +68954,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonnz.Text == "巳")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68963,7 +68962,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonnz.Text == "午")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68971,7 +68970,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonnz.Text == "未")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68979,7 +68978,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonnz.Text == "申")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68987,7 +68986,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonnz.Text == "酉")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -68995,7 +68994,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonnz.Text == "戌")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69003,7 +69002,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonnz.Text == "亥")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69016,7 +69015,7 @@ namespace BaZiFuZuGongJu
         {
             if (buttonyz.Text == "子")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69024,7 +69023,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyz.Text == "丑")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69032,7 +69031,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyz.Text == "寅")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69040,7 +69039,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyz.Text == "卯")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69048,7 +69047,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyz.Text == "辰")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69056,7 +69055,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyz.Text == "巳")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69064,7 +69063,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyz.Text == "午")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69072,7 +69071,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyz.Text == "未")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69080,7 +69079,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyz.Text == "申")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69088,7 +69087,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyz.Text == "酉")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69096,7 +69095,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyz.Text == "戌")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69104,7 +69103,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonyz.Text == "亥")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69117,7 +69116,7 @@ namespace BaZiFuZuGongJu
         {
             if (buttonrz.Text == "子")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69125,7 +69124,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrz.Text == "丑")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69133,7 +69132,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrz.Text == "寅")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69141,7 +69140,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrz.Text == "卯")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69149,7 +69148,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrz.Text == "辰")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69157,7 +69156,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrz.Text == "巳")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69165,7 +69164,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrz.Text == "午")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69173,7 +69172,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrz.Text == "未")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69181,7 +69180,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrz.Text == "申")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69189,7 +69188,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrz.Text == "酉")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69197,7 +69196,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrz.Text == "戌")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69205,7 +69204,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonrz.Text == "亥")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69218,7 +69217,7 @@ namespace BaZiFuZuGongJu
         {
             if (buttonsz.Text == "子")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69226,7 +69225,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsz.Text == "丑")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69234,7 +69233,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsz.Text == "寅")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69242,7 +69241,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsz.Text == "卯")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69250,7 +69249,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsz.Text == "辰")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69258,7 +69257,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsz.Text == "巳")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69266,7 +69265,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsz.Text == "午")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69274,7 +69273,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsz.Text == "未")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69282,7 +69281,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsz.Text == "申")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69290,7 +69289,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsz.Text == "酉")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69298,7 +69297,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsz.Text == "戌")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69306,7 +69305,7 @@ namespace BaZiFuZuGongJu
             }
             if (buttonsz.Text == "亥")
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69318,7 +69317,7 @@ namespace BaZiFuZuGongJu
         private void buttonjin_Click(object sender, EventArgs e)
         {
 
-            button54.Focus(); button54_Click(this, new EventArgs());
+
             wenben = 1; buttongj.Text = "关闭文本";
             richTextBox1.Location = new Point(0, 36);
             richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69328,7 +69327,7 @@ namespace BaZiFuZuGongJu
 
         private void buttonshui_Click(object sender, EventArgs e)
         {
-            button54.Focus(); button54_Click(this, new EventArgs());
+
             wenben = 1; buttongj.Text = "关闭文本";
             richTextBox1.Location = new Point(0, 36);
             richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69338,7 +69337,7 @@ namespace BaZiFuZuGongJu
 
         private void buttonmu_Click(object sender, EventArgs e)
         {
-            button54.Focus(); button54_Click(this, new EventArgs());
+
             wenben = 1; buttongj.Text = "关闭文本";
             richTextBox1.Location = new Point(0, 36);
             richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69348,7 +69347,7 @@ namespace BaZiFuZuGongJu
 
         private void buttonhuo_Click(object sender, EventArgs e)
         {
-            button54.Focus(); button54_Click(this, new EventArgs());
+
             wenben = 1; buttongj.Text = "关闭文本";
             richTextBox1.Location = new Point(0, 36);
             richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69358,7 +69357,7 @@ namespace BaZiFuZuGongJu
 
         private void buttontu_Click(object sender, EventArgs e)
         {
-            button54.Focus(); button54_Click(this, new EventArgs());
+
             wenben = 1; buttongj.Text = "关闭文本";
             richTextBox1.Location = new Point(0, 36);
             richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69372,7 +69371,7 @@ namespace BaZiFuZuGongJu
 
             if (wenben == 0)
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69390,7 +69389,7 @@ namespace BaZiFuZuGongJu
         {
             if (wenben == 0)
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69402,7 +69401,7 @@ namespace BaZiFuZuGongJu
         {
             if (wenben == 0)
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69414,7 +69413,7 @@ namespace BaZiFuZuGongJu
         {
             if (wenben == 0)
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -69426,7 +69425,7 @@ namespace BaZiFuZuGongJu
         {
             if (wenben == 0)
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -70310,76 +70309,12 @@ namespace BaZiFuZuGongJu
 
         private void button54_Click(object sender, EventArgs e)
         {
-            Labellnssn.Visible = false; Labellnssy.Visible = false; button1.Visible = false;
-            Label65.Visible = false; Label21.Visible = false; Label71.Visible = false; Label70.Visible = false;
-            Label69.Visible = false; Label68.Visible = false; Label67.Visible = false; Label66.Visible = false;
-            Label75.Visible = false; Label74.Visible = false; Label73.Visible = false; Label72.Visible = false;
-            Label64.Visible = false; Label63.Visible = false; Label62.Visible = false;
-            numericUpDownyear.Visible = false; numericUpDownmonth.Visible = false; numericUpDownday.Visible = false;
-            button59.Visible = false; checkBox1.Visible = false; LabelDayTime.Visible = false; numericUpDownhour.Visible = false;
-            buttonjishen.Visible = false;
-            buttonp.Visible = false; buttonjin.Visible = false; buttonshui.Visible = false;
-            buttonmu.Visible = false; buttonhuo.Visible = false; buttontu.Visible = false;
-            dateTimePicker1.Visible = false; Labelndzss2.Visible = false; Labelydzss2.Visible = false; Labelrdzss2.Visible = false; Labelsdzss2.Visible = false;
-            Label25.Visible = false; checkBoxln.Visible = false; radioButtonll.Visible = false; radioButtonvv.Visible = false;
-            button65.Visible = false; button61.Visible = false; button58.Visible = false;
-            button57.Visible = false; button63.Visible = false; button55.Visible = false;
-            button62.Visible = false; button52.Visible = false;
 
-            button10.Visible = false; button11.Visible = false; button12.Visible = false; button25.Visible = false;
-            Label7hff.Visible = false;
-            button31.Visible = false;
-            button37.Visible = false; button29.Visible = false; button33.Visible = false; button26.Visible = false;
-            button36.Visible = false; button28.Visible = false; button32.Visible = false; button34.Visible = false;
-            button35.Visible = false; button27.Visible = false; button30.Visible = false;
-
-            Label3.Visible = false; Label18.Visible = false; Label39.Visible = false; Label61.Visible = false;
-            Label7.Visible = false; Label16.Visible = false; Label34.Visible = false; Label57.Visible = false;
-            Label11.Visible = false; Label14.Visible = false; Label19.Visible = false; Label47.Visible = false;
-
-            buttoncs1.Visible = false; buttoncs2.Visible = false; buttoncs3.Visible = false; buttoncs4.Visible = false;
-            buttoncs5.Visible = false; buttoncs6.Visible = false; buttoncs7.Visible = false; buttoncs8.Visible = false;
-            buttoncs9.Visible = false; buttoncs10.Visible = false; buttoncs11.Visible = false; buttoncs12.Visible = false;
-            buttoncsss1.Visible = false; buttoncsss2.Visible = false; buttoncsss3.Visible = false; buttoncsss4.Visible = false;
-            buttoncsss5.Visible = false; buttoncsss6.Visible = false; buttoncsss7.Visible = false; buttoncsss8.Visible = false;
-            buttoncsss9.Visible = false; buttoncsss10.Visible = false; buttoncsss11.Visible = false; buttoncsss12.Visible = false;
-            buttoncstg1.Visible = false; buttoncstg2.Visible = false; buttoncstg3.Visible = false; buttoncstg4.Visible = false;
-            buttoncstg5.Visible = false; buttoncstg6.Visible = false; buttoncstg7.Visible = false; buttoncstg8.Visible = false;
-            buttoncstg9.Visible = false; buttoncstg10.Visible = false; buttoncstg11.Visible = false; buttoncstg12.Visible = false;
-            buttoncsdz1.Visible = false; buttoncsdz2.Visible = false; buttoncsdz3.Visible = false; buttoncsdz4.Visible = false;
-            buttoncsdz5.Visible = false; buttoncsdz6.Visible = false; buttoncsdz7.Visible = false; buttoncsdz8.Visible = false;
-            buttoncsdz9.Visible = false; buttoncsdz10.Visible = false; buttoncsdz11.Visible = false; buttoncsdz12.Visible = false;
         }
 
         private void button56_Click(object sender, EventArgs e)
         {
-            Label64.Visible = true; Label63.Visible = true; Label62.Visible = true; button1.Visible = true;
-            numericUpDownyear.Visible = true; numericUpDownmonth.Visible = true; numericUpDownday.Visible = true;
-            button59.Visible = true; checkBox1.Visible = true; LabelDayTime.Visible = true; numericUpDownhour.Visible = true;
-            Labelndzss2.Visible = true; Labelydzss2.Visible = true; Labelrdzss2.Visible = true; Labelsdzss2.Visible = true;
-            buttonp.Visible = true; buttonjin.Visible = true; buttonshui.Visible = true;
-            buttonmu.Visible = true; buttonhuo.Visible = true; buttontu.Visible = true;
-            dateTimePicker1.Visible = true; buttonjishen.Visible = true;
-            Label25.Visible = true; checkBoxln.Visible = true; radioButtonll.Visible = true; radioButtonvv.Visible = true;
-            button10.Visible = true; button11.Visible = true; button12.Visible = true; button25.Visible = true;
-            Label7hff.Visible = true;
 
-            Label3.Visible = true; Label18.Visible = true; Label39.Visible = true; Label61.Visible = true;
-            Label7.Visible = true; Label16.Visible = true; Label34.Visible = true; Label57.Visible = true;
-            Label11.Visible = true; Label14.Visible = true; Label19.Visible = true; Label47.Visible = true;
-
-            buttoncs1.Visible = true; buttoncs2.Visible = true; buttoncs3.Visible = true; buttoncs4.Visible = true;
-            buttoncs5.Visible = true; buttoncs6.Visible = true; buttoncs7.Visible = true; buttoncs8.Visible = true;
-            buttoncs9.Visible = true; buttoncs10.Visible = true; buttoncs11.Visible = true; buttoncs12.Visible = true;
-            buttoncsss1.Visible = true; buttoncsss2.Visible = true; buttoncsss3.Visible = true; buttoncsss4.Visible = true;
-            buttoncsss5.Visible = true; buttoncsss6.Visible = true; buttoncsss7.Visible = true; buttoncsss8.Visible = true;
-            buttoncsss9.Visible = true; buttoncsss10.Visible = true; buttoncsss11.Visible = true; buttoncsss12.Visible = true;
-            buttoncstg1.Visible = true; buttoncstg2.Visible = true; buttoncstg3.Visible = true; buttoncstg4.Visible = true;
-            buttoncstg5.Visible = true; buttoncstg6.Visible = true; buttoncstg7.Visible = true; buttoncstg8.Visible = true;
-            buttoncstg9.Visible = true; buttoncstg10.Visible = true; buttoncstg11.Visible = true; buttoncstg12.Visible = true;
-            buttoncsdz1.Visible = true; buttoncsdz2.Visible = true; buttoncsdz3.Visible = true; buttoncsdz4.Visible = true;
-            buttoncsdz5.Visible = true; buttoncsdz6.Visible = true; buttoncsdz7.Visible = true; buttoncsdz8.Visible = true;
-            buttoncsdz9.Visible = true; buttoncsdz10.Visible = true; buttoncsdz11.Visible = true; buttoncsdz12.Visible = true;
         }
 
         private void Labelxy_Click(object sender, EventArgs e)
@@ -71199,7 +71134,7 @@ namespace BaZiFuZuGongJu
             decimal value = numericUpDownmonth.Value;
 
             // 在这里处理数值变化后点击时间排盘
-            button59.Focus();
+            buttonshijian.Focus();
             button59_Click(this, new EventArgs());
 
         }
@@ -71237,7 +71172,7 @@ namespace BaZiFuZuGongJu
             decimal value = numericUpDownday.Value;
 
             // 在这里处理数值变化后点击时间排盘
-            button59.Focus();
+            buttonshijian.Focus();
             button59_Click(this, new EventArgs());
         }
 
@@ -71301,7 +71236,7 @@ namespace BaZiFuZuGongJu
             decimal value = numericUpDownyear.Value;
 
             // 在这里处理数值变化后点击时间排盘
-            button59.Focus();
+            buttonshijian.Focus();
             button59_Click(this, new EventArgs());
         }
 
@@ -71314,7 +71249,7 @@ namespace BaZiFuZuGongJu
         {
             if (wenben == 0)
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -71326,7 +71261,7 @@ namespace BaZiFuZuGongJu
         {
             if (wenben == 0)
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -71338,7 +71273,7 @@ namespace BaZiFuZuGongJu
         {
             if (wenben == 0)
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -71350,7 +71285,7 @@ namespace BaZiFuZuGongJu
         {
             if (wenben == 0)
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -71362,7 +71297,7 @@ namespace BaZiFuZuGongJu
         {
             if (wenben == 0)
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -71374,7 +71309,7 @@ namespace BaZiFuZuGongJu
         {
             if (wenben == 0)
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -71386,7 +71321,7 @@ namespace BaZiFuZuGongJu
         {
             if (wenben == 0)
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -71398,7 +71333,7 @@ namespace BaZiFuZuGongJu
         {
             if (wenben == 0)
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -71410,7 +71345,7 @@ namespace BaZiFuZuGongJu
         {
             if (wenben == 0)
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -71422,7 +71357,7 @@ namespace BaZiFuZuGongJu
         {
             if (wenben == 0)
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -71434,7 +71369,7 @@ namespace BaZiFuZuGongJu
         {
             if (wenben == 0)
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -71446,7 +71381,7 @@ namespace BaZiFuZuGongJu
         {
             if (wenben == 0)
             {
-                button54.Focus(); button54_Click(this, new EventArgs());
+
                 wenben = 1; buttongj.Text = "关闭文本";
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -71456,7 +71391,7 @@ namespace BaZiFuZuGongJu
 
         private void button1_Click(object sender, EventArgs e)
         {
-            button54.Focus(); button54_Click(this, new EventArgs());
+
             wenben = 1; buttongj.Text = "关闭文本";
             richTextBox1.Location = new Point(0, 36);
             richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -71474,13 +71409,13 @@ namespace BaZiFuZuGongJu
             decimal value = numericUpDownhour.Value;
 
             // 在这里处理数值变化后点击时间排盘
-            button59.Focus();
+            buttonshijian.Focus();
             button59_Click(this, new EventArgs());
         }
 
         private void buttonjishen_Click(object sender, EventArgs e)
         {
-            button54.Focus(); button54_Click(this, new EventArgs());
+
             wenben = 1; buttongj.Text = "关闭文本";
             richTextBox1.Location = new Point(0, 36);
             richTextBox1.Height = 975; richTextBox1.Width = 1920;
@@ -71490,11 +71425,16 @@ namespace BaZiFuZuGongJu
 
         private void buttonbu_Click(object sender, EventArgs e)
         {
-            button54.Focus(); button54_Click(this, new EventArgs());
+
             wenben = 1; buttongj.Text = "关闭文本";
             richTextBox1.Location = new Point(0, 36);
             richTextBox1.Height = 975; richTextBox1.Width = 1920;
             richTextBox1.Text = "数字对应的五行：\r\n\r\n根据归纳后的个位数，判断其对应的五行：\r\n\r\n1：水对应数字：1, 0, 2\r\n2：火对应数字：2, 5, 3\r\n3：木对应数字：3, 4, 9\r\n4：土对应数字：5, 8, 9\r\n5：金对应数字：6, 7, 8\r\n\r\n在五行理论中，数字0通常被视为与水相关。水代表着流动、\r\n柔和和潜力，因此0可以象征一种无形的状态或潜在的可能性。\r\n虽然0不是传统的五行之一，但它在许多文化和哲学体系中有着重要的意义，常常与水的特性相联系。\r\n\r\n示例：\r\n数字 23：\r\n\r\n归纳：2 + 3 = 5\r\n对应五行：土\r\n数字 56：\r\n\r\n归纳：5 + 6 = 11 → 1 + 1 = 2\r\n对应五行：火\r\n通过这种方法，可以对任意数字进行判断，并了解其对应的五行属性。\r\n\r\n每个五行的数字及其可能的重叠情况，连同原因说明：\r\n\r\n金：\r\n\r\n数字：6, 7, 8\r\n原因：\r\n6：象征财富和物质的稳定性。\r\n7：与反思、内省相关，代表寻找真理和内心的力量。\r\n8：象征丰盈和权力，金的特性也包含了领导和管理。\r\n木：\r\n\r\n数字：3, 4, 9\r\n原因：\r\n3：代表生长和创造，木的特性在于生命力和发展。\r\n4：象征稳定和根基，木生于土，反映了生长的基础。\r\n9：通常与完成和成熟相关，象征着木的繁荣和成果。\r\n水：\r\n\r\n数字：1, 0, 2\r\n原因：\r\n1：象征新的开始和潜力，水的流动性与变化相关。\r\n0：代表潜在和无形状态，水在静止状态下的力量。\r\n2：与和谐、适应性相关，水的性质是柔软和适应环境。\r\n火：\r\n\r\n数字：2, 5, 3\r\n原因：\r\n2：象征热情和对比，火的性质是充满活力和能量。\r\n5：代表变动和挑战，火在创造和毁灭之间的平衡。\r\n3：在某些情况下，火也与创造性和灵感相关。\r\n土：\r\n\r\n数字：5, 8, 9\r\n原因：\r\n5：象征稳定和中庸，土作为中心和基础的角色。\r\n8：代表丰盈和权力，土能够滋养万物，反映出财富的象征。\r\n9：与成熟和完善相关，土的稳定性在于其滋养和支持的能力。\r\n\r\n在传统五行理论中，数字与五行的对应关系有时会出现重叠，特别是一些数字可能在不同的五行中具有不同的象征意义。具体来说：\r\n\r\n金对应数字6、7、8，主要是因为金在文化中象征着坚固、冷静和财富，而这些数字常与这种特性相关联。\r\n土也对应数字8，土象征着稳定、滋养和中心，8在某些情况下表示丰盈、繁荣和财富。\r\n这种重叠的现象反映了数字的多元含义。在实际应用中，具体的解读可能因上下文和文化背景而异。通常情况下，重点在于理解每个数字所代表的不同方面，而不是严格分配给某一个五行。\r\n\r\n相生关系：\r\n\r\n木是火的燃料，木的生长为火的燃烧提供了基础。在五行理论中，木生火，这种相生关系体现了木与火之间的紧密联系。\r\n象征意义：\r\n\r\n木象征着生长、生命力和创造，通常与春天和繁荣相关。\r\n火则象征着热情、能量和动力，通常与夏天和活力相关。\r\n两者都与生机和动态过程有关，因此在某些情况下，它们的数字和特性会相互重叠。\r\n数字重叠：\r\n\r\n在某些文化和理论中，数字如3和2可能被同时关联到木和火。这是因为数字3代表创造和繁荣，适合木的特性；而数字2则代表对比和热情，适合火的特性。它们的重叠体现了两者之间的互动与相互影响。\r\n共同的变化性：\r\n\r\n木和火都与变化、发展和转化相关。木的生长和火的燃烧都体现了能量的释放和转变，因此在某些情况下可以共享相似的数字和象征意义。\r\n\r\n相克关系：\r\n\r\n水与火之间存在相克关系，水可以扑灭火焰，而火则可以蒸发水。这种对立关系使得两者在性质上形成鲜明的对比，同时也强调了它们在平衡中的重要性。\r\n象征意义：\r\n\r\n水象征着柔和、流动和适应，通常与冬天和智慧相关。\r\n火象征着热情、能量和动力，通常与夏天和活力相关。\r\n尽管它们在性质上相反，但两者都是变化的源泉，水的流动和火的燃烧都具有强大的能量。\r\n数字重叠：\r\n\r\n在某些文化和理论中，数字如2和0可能同时与水和火相关联。例如，数字2通常与对比、平衡和关系相关，适合描述水火的互动；而数字0则代表潜力和无形状态，象征水的柔和与隐秘。\r\n共同的动态特性：\r\n\r\n虽然水和火的特性截然不同，但两者都与变化和动能密切相关。水的流动与火的燃烧都代表着一种力量的释放，因此在某些情况下可以共享相似的象征意义和数字。\r\n\r\n\r\n\r\n总结\r\n数字的重叠反映了它们在不同语境下的多重象征意义，而五行之间的联系和互动也可以导致数字的跨界理解。在具体应用中，可以根据具体情境灵活解读。";
+
+        }
+
+        private void buttonshijian_Click(object sender, EventArgs e)
+        {
 
         }
     }

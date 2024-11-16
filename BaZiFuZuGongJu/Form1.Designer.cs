@@ -159,10 +159,8 @@
             button62 = new Button();
             button63 = new Button();
             button65 = new Button();
-            button54 = new Button();
-            button56 = new Button();
             Label25 = new Label();
-            button59 = new Button();
+            buttonshijian = new Button();
             checkBox1 = new CheckBox();
             numericUpDownyear = new NumericUpDown();
             numericUpDownmonth = new NumericUpDown();
@@ -460,7 +458,7 @@
             radioButtonvv.TabStop = true;
             radioButtonvv.Text = "女";
             radioButtonvv.UseVisualStyleBackColor = false;
-            radioButtonvv.Click += button59_Click;
+            radioButtonvv.Click += buttongz_Click;
             // 
             // radioButtonll
             // 
@@ -474,7 +472,7 @@
             radioButtonll.TabIndex = 21;
             radioButtonll.Text = "男";
             radioButtonll.UseVisualStyleBackColor = false;
-            radioButtonll.Click += button59_Click;
+            radioButtonll.Click += buttongz_Click;
             // 
             // dateTimePicker1
             // 
@@ -847,10 +845,10 @@
             Labelncsn.ForeColor = Color.Black;
             Labelncsn.Location = new Point(0, 276);
             Labelncsn.Name = "Labelncsn";
-            Labelncsn.Size = new Size(93, 31);
+            Labelncsn.Size = new Size(86, 31);
             Labelncsn.TabIndex = 56;
             Labelncsn.TabStop = true;
-            Labelncsn.Text = "正长生;";
+            Labelncsn.Text = "正长生";
             Labelncsn.Click += linkLabencs_Click;
             // 
             // Label8
@@ -939,10 +937,10 @@
             Labelncsy.ForeColor = Color.Black;
             Labelncsy.Location = new Point(90, 276);
             Labelncsy.Name = "Labelncsy";
-            Labelncsy.Size = new Size(93, 31);
+            Labelncsy.Size = new Size(86, 31);
             Labelncsy.TabIndex = 63;
             Labelncsy.TabStop = true;
-            Labelncsy.Text = "正长生;";
+            Labelncsy.Text = "正长生";
             Labelncsy.Click += Labelycs_Click;
             // 
             // Label15
@@ -1005,10 +1003,10 @@
             Labelncsr.ForeColor = Color.Black;
             Labelncsr.Location = new Point(178, 276);
             Labelncsr.Name = "Labelncsr";
-            Labelncsr.Size = new Size(93, 31);
+            Labelncsr.Size = new Size(86, 31);
             Labelncsr.TabIndex = 70;
             Labelncsr.TabStop = true;
-            Labelncsr.Text = "正长生;";
+            Labelncsr.Text = "正长生";
             Labelncsr.Click += Labelrcs_Click;
             // 
             // Label22
@@ -1103,10 +1101,10 @@
             Labelncss.ForeColor = Color.Black;
             Labelncss.Location = new Point(267, 276);
             Labelncss.Name = "Labelncss";
-            Labelncss.Size = new Size(93, 31);
+            Labelncss.Size = new Size(86, 31);
             Labelncss.TabIndex = 77;
             Labelncss.TabStop = true;
-            Labelncss.Text = "正长生;";
+            Labelncss.Text = "正长生";
             Labelncss.Click += Labelscs_Click;
             // 
             // Label29
@@ -1828,28 +1826,6 @@
             button65.Text = "正大";
             button65.UseVisualStyleBackColor = true;
             // 
-            // button54
-            // 
-            button54.Location = new Point(1812, 184);
-            button54.Name = "button54";
-            button54.Size = new Size(40, 32);
-            button54.TabIndex = 189;
-            button54.Text = "关";
-            button54.UseVisualStyleBackColor = true;
-            button54.Visible = false;
-            button54.Click += button54_Click;
-            // 
-            // button56
-            // 
-            button56.Location = new Point(1766, 184);
-            button56.Name = "button56";
-            button56.Size = new Size(40, 32);
-            button56.TabIndex = 192;
-            button56.Text = "开";
-            button56.UseVisualStyleBackColor = true;
-            button56.Visible = false;
-            button56.Click += button56_Click;
-            // 
             // Label25
             // 
             Label25.AutoSize = true;
@@ -1863,16 +1839,16 @@
             Label25.TabStop = true;
             Label25.Text = "阴阳";
             // 
-            // button59
+            // buttonshijian
             // 
-            button59.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            button59.Location = new Point(1393, 0);
-            button59.Name = "button59";
-            button59.Size = new Size(118, 38);
-            button59.TabIndex = 196;
-            button59.Text = "时间排盘";
-            button59.UseVisualStyleBackColor = true;
-            button59.Click += button59_Click;
+            buttonshijian.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttonshijian.Location = new Point(1393, 0);
+            buttonshijian.Name = "buttonshijian";
+            buttonshijian.Size = new Size(118, 38);
+            buttonshijian.TabIndex = 196;
+            buttonshijian.Text = "时间排盘";
+            buttonshijian.UseVisualStyleBackColor = true;
+            buttonshijian.Click += button59_Click;
             // 
             // checkBox1
             // 
@@ -1887,6 +1863,7 @@
             checkBox1.Text = "农历";
             checkBox1.UseVisualStyleBackColor = false;
             checkBox1.CheckedChanged += checkBox1_CheckedChanged;
+            checkBox1.Click += button59_Click;
             // 
             // numericUpDownyear
             // 
@@ -3138,13 +3115,11 @@
             panel1.Controls.Add(Label51);
             panel1.Controls.Add(checkBox1);
             panel1.Controls.Add(Label52);
-            panel1.Controls.Add(button59);
+            panel1.Controls.Add(buttonshijian);
             panel1.Controls.Add(Label53);
             panel1.Controls.Add(Label25);
             panel1.Controls.Add(Label54);
-            panel1.Controls.Add(button56);
             panel1.Controls.Add(Label55);
-            panel1.Controls.Add(button54);
             panel1.Controls.Add(Label56);
             panel1.Controls.Add(button52);
             panel1.Controls.Add(Labelsdzss1);
@@ -3190,10 +3165,10 @@
             Labelscsn.ForeColor = Color.Black;
             Labelscsn.Location = new Point(1447, 276);
             Labelscsn.Name = "Labelscsn";
-            Labelscsn.Size = new Size(93, 31);
+            Labelscsn.Size = new Size(86, 31);
             Labelscsn.TabIndex = 301;
             Labelscsn.TabStop = true;
-            Labelscsn.Text = "正长生;";
+            Labelscsn.Text = "正长生";
             // 
             // Labelscsy
             // 
@@ -3203,10 +3178,10 @@
             Labelscsy.ForeColor = Color.Black;
             Labelscsy.Location = new Point(1537, 276);
             Labelscsy.Name = "Labelscsy";
-            Labelscsy.Size = new Size(93, 31);
+            Labelscsy.Size = new Size(86, 31);
             Labelscsy.TabIndex = 302;
             Labelscsy.TabStop = true;
-            Labelscsy.Text = "正长生;";
+            Labelscsy.Text = "正长生";
             // 
             // Labelscsr
             // 
@@ -3216,10 +3191,10 @@
             Labelscsr.ForeColor = Color.Black;
             Labelscsr.Location = new Point(1625, 276);
             Labelscsr.Name = "Labelscsr";
-            Labelscsr.Size = new Size(93, 31);
+            Labelscsr.Size = new Size(86, 31);
             Labelscsr.TabIndex = 303;
             Labelscsr.TabStop = true;
-            Labelscsr.Text = "正长生;";
+            Labelscsr.Text = "正长生";
             // 
             // Labelscss
             // 
@@ -3229,10 +3204,10 @@
             Labelscss.ForeColor = Color.Black;
             Labelscss.Location = new Point(1714, 276);
             Labelscss.Name = "Labelscss";
-            Labelscss.Size = new Size(93, 31);
+            Labelscss.Size = new Size(86, 31);
             Labelscss.TabIndex = 304;
             Labelscss.TabStop = true;
-            Labelscss.Text = "正长生;";
+            Labelscss.Text = "正长生";
             // 
             // Labelrcsn
             // 
@@ -3242,10 +3217,10 @@
             Labelrcsn.ForeColor = Color.Black;
             Labelrcsn.Location = new Point(964, 276);
             Labelrcsn.Name = "Labelrcsn";
-            Labelrcsn.Size = new Size(93, 31);
+            Labelrcsn.Size = new Size(86, 31);
             Labelrcsn.TabIndex = 297;
             Labelrcsn.TabStop = true;
-            Labelrcsn.Text = "正长生;";
+            Labelrcsn.Text = "正长生";
             // 
             // Labelrcsy
             // 
@@ -3255,10 +3230,10 @@
             Labelrcsy.ForeColor = Color.Black;
             Labelrcsy.Location = new Point(1054, 276);
             Labelrcsy.Name = "Labelrcsy";
-            Labelrcsy.Size = new Size(93, 31);
+            Labelrcsy.Size = new Size(86, 31);
             Labelrcsy.TabIndex = 298;
             Labelrcsy.TabStop = true;
-            Labelrcsy.Text = "正长生;";
+            Labelrcsy.Text = "正长生";
             // 
             // Labelrcsr
             // 
@@ -3268,10 +3243,10 @@
             Labelrcsr.ForeColor = Color.Black;
             Labelrcsr.Location = new Point(1142, 276);
             Labelrcsr.Name = "Labelrcsr";
-            Labelrcsr.Size = new Size(93, 31);
+            Labelrcsr.Size = new Size(86, 31);
             Labelrcsr.TabIndex = 299;
             Labelrcsr.TabStop = true;
-            Labelrcsr.Text = "正长生;";
+            Labelrcsr.Text = "正长生";
             // 
             // Labelrcss
             // 
@@ -3281,10 +3256,10 @@
             Labelrcss.ForeColor = Color.Black;
             Labelrcss.Location = new Point(1231, 276);
             Labelrcss.Name = "Labelrcss";
-            Labelrcss.Size = new Size(93, 31);
+            Labelrcss.Size = new Size(86, 31);
             Labelrcss.TabIndex = 300;
             Labelrcss.TabStop = true;
-            Labelrcss.Text = "正长生;";
+            Labelrcss.Text = "正长生";
             // 
             // Labelycsn
             // 
@@ -3294,10 +3269,10 @@
             Labelycsn.ForeColor = Color.Black;
             Labelycsn.Location = new Point(483, 276);
             Labelycsn.Name = "Labelycsn";
-            Labelycsn.Size = new Size(93, 31);
+            Labelycsn.Size = new Size(86, 31);
             Labelycsn.TabIndex = 293;
             Labelycsn.TabStop = true;
-            Labelycsn.Text = "正长生;";
+            Labelycsn.Text = "正长生";
             // 
             // Labelycsy
             // 
@@ -3307,10 +3282,10 @@
             Labelycsy.ForeColor = Color.Black;
             Labelycsy.Location = new Point(573, 276);
             Labelycsy.Name = "Labelycsy";
-            Labelycsy.Size = new Size(93, 31);
+            Labelycsy.Size = new Size(86, 31);
             Labelycsy.TabIndex = 294;
             Labelycsy.TabStop = true;
-            Labelycsy.Text = "正长生;";
+            Labelycsy.Text = "正长生";
             // 
             // Labelycsr
             // 
@@ -3320,10 +3295,10 @@
             Labelycsr.ForeColor = Color.Black;
             Labelycsr.Location = new Point(661, 276);
             Labelycsr.Name = "Labelycsr";
-            Labelycsr.Size = new Size(93, 31);
+            Labelycsr.Size = new Size(86, 31);
             Labelycsr.TabIndex = 295;
             Labelycsr.TabStop = true;
-            Labelycsr.Text = "正长生;";
+            Labelycsr.Text = "正长生";
             // 
             // Labelycss
             // 
@@ -3333,10 +3308,10 @@
             Labelycss.ForeColor = Color.Black;
             Labelycss.Location = new Point(750, 276);
             Labelycss.Name = "Labelycss";
-            Labelycss.Size = new Size(93, 31);
+            Labelycss.Size = new Size(86, 31);
             Labelycss.TabIndex = 296;
             Labelycss.TabStop = true;
-            Labelycss.Text = "正长生;";
+            Labelycss.Text = "正长生";
             // 
             // buttonbu
             // 
@@ -3386,7 +3361,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-11-15v2";
+            Text = "八字排盘工具v2024-11-16";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).EndInit();
@@ -3530,10 +3505,8 @@
         private Button button62;
         private Button button63;
         private Button button65;
-        private Button button54;
-        private Button button56;
         private Label Label25;
-        private Button button59;
+        private Button buttonshijian;
         private CheckBox checkBox1;
         private NumericUpDown numericUpDownyear;
         private NumericUpDown numericUpDownmonth;
