@@ -37069,6 +37069,1213 @@ namespace BaZiFuZuGongJu
                     if (jia == jia)
                     {
                         int 空亡真假 = 0;
+
+                        if (ntg == jia && ndz == zii)
+                        {
+                            if (ndz == xuu || ndz == hai)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == xuu || ydz == hai)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == xuu || rdz == hai)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == xuu || sdz == hai)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == yii && ndz == chou)
+                        {
+                            if (ndz == xuu || ndz == hai)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == xuu || ydz == hai)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == xuu || rdz == hai)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == xuu || sdz == hai)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == bing && ndz == yin)
+                        {
+                            if (ndz == xuu || ndz == hai)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == xuu || ydz == hai)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == xuu || rdz == hai)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == xuu || sdz == hai)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == ding && ndz == mao)
+                        {
+                            if (ndz == xuu || ndz == hai)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == xuu || ydz == hai)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == xuu || rdz == hai)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == xuu || sdz == hai)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == wuu && ndz == chen)
+                        {
+                            if (ndz == xuu || ndz == hai)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == xuu || ydz == hai)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == xuu || rdz == hai)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == xuu || sdz == hai)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == jii && ndz == sii)
+                        {
+                            if (ndz == xuu || ndz == hai)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == xuu || ydz == hai)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == xuu || rdz == hai)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == xuu || sdz == hai)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == geng && ndz == wuma)
+                        {
+                            if (ndz == xuu || ndz == hai)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == xuu || ydz == hai)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == xuu || rdz == hai)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == xuu || sdz == hai)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == xin && ndz == wei)
+                        {
+                            if (ndz == xuu || ndz == hai)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == xuu || ydz == hai)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == xuu || rdz == hai)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == xuu || sdz == hai)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == ren && ndz == shen)
+                        {
+                            if (ndz == xuu || ndz == hai)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == xuu || ydz == hai)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == xuu || rdz == hai)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == xuu || sdz == hai)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == gui && ndz == you)
+                        {
+                            if (ndz == xuu || ndz == hai)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == xuu || ydz == hai)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == xuu || rdz == hai)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == xuu || sdz == hai)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+
+                        if (ntg == jia && ndz == xuu)
+                        {
+                            if (ndz == shen || ndz == you)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == shen || ydz == you)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == shen || rdz == you)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == shen || sdz == you)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == yii && ndz == hai)
+                        {
+                            if (ndz == shen || ndz == you)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == shen || ydz == you)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == shen || rdz == you)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == shen || sdz == you)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == bing && ndz == zii)
+                        {
+                            if (ndz == shen || ndz == you)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == shen || ydz == you)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == shen || rdz == you)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == shen || sdz == you)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == ding && ndz == chou)
+                        {
+                            if (ndz == shen || ndz == you)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == shen || ydz == you)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == shen || rdz == you)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == shen || sdz == you)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == wuu && ndz == yin)
+                        {
+                            if (ndz == shen || ndz == you)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == shen || ydz == you)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == shen || rdz == you)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == shen || sdz == you)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == jii && ndz == mao)
+                        {
+                            if (ndz == shen || ndz == you)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == shen || ydz == you)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == shen || rdz == you)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == shen || sdz == you)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == geng && ndz == chen)
+                        {
+                            if (ndz == shen || ndz == you)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == shen || ydz == you)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == shen || rdz == you)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == shen || sdz == you)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == xin && ndz == sii)
+                        {
+                            if (ndz == shen || ndz == you)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == shen || ydz == you)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == shen || rdz == you)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == shen || sdz == you)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == ren && ndz == wuma)
+                        {
+                            if (ndz == shen || ndz == you)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == shen || ydz == you)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == shen || rdz == you)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == shen || sdz == you)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == gui && ndz == wei)
+                        {
+                            if (ndz == shen || ndz == you)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == shen || ydz == you)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == shen || rdz == you)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == shen || sdz == you)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+
+                        if (ntg == jia && ndz == shen)
+                        {
+                            if (ndz == wuma || ndz == wei)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == wuma || ydz == wei)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == wuma || rdz == wei)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == wuma || sdz == wei)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == yii && ndz == you)
+                        {
+                            if (ndz == wuma || ndz == wei)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == wuma || ydz == wei)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == wuma || rdz == wei)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == wuma || sdz == wei)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == bing && ndz == xuu)
+                        {
+                            if (ndz == wuma || ndz == wei)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == wuma || ydz == wei)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == wuma || rdz == wei)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == wuma || sdz == wei)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == ding && ndz == hai)
+                        {
+                            if (ndz == wuma || ndz == wei)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == wuma || ydz == wei)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == wuma || rdz == wei)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == wuma || sdz == wei)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == wuu && ndz == zii)
+                        {
+                            if (ndz == wuma || ndz == wei)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == wuma || ydz == wei)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == wuma || rdz == wei)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == wuma || sdz == wei)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == jii && ndz == chou)
+                        {
+                            if (ndz == wuma || ndz == wei)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == wuma || ydz == wei)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == wuma || rdz == wei)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == wuma || sdz == wei)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == geng && ndz == yin)
+                        {
+                            if (ndz == wuma || ndz == wei)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == wuma || ydz == wei)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == wuma || rdz == wei)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == wuma || sdz == wei)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == xin && ndz == mao)
+                        {
+                            if (ndz == wuma || ndz == wei)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == wuma || ydz == wei)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == wuma || rdz == wei)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == wuma || sdz == wei)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == ren && ndz == chen)
+                        {
+                            if (ndz == wuma || ndz == wei)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == wuma || ydz == wei)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == wuma || rdz == wei)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == wuma || sdz == wei)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == gui && ndz == sii)
+                        {
+                            if (ndz == wuma || ndz == wei)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == wuma || ydz == wei)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == wuma || rdz == wei)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == wuma || sdz == wei)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+
+                        if (ntg == jia && ndz == wuma)
+                        {
+                            if (ndz == chen || ndz == sii)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == chen || ydz == sii)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == chen || rdz == sii)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == chen || sdz == sii)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == yii && ndz == wei)
+                        {
+                            if (ndz == chen || ndz == sii)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == chen || ydz == sii)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == chen || rdz == sii)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == chen || sdz == sii)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == bing && ndz == shen)
+                        {
+                            if (ndz == chen || ndz == sii)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == chen || ydz == sii)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == chen || rdz == sii)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == chen || sdz == sii)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == ding && ndz == you)
+                        {
+                            if (ndz == chen || ndz == sii)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == chen || ydz == sii)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == chen || rdz == sii)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == chen || sdz == sii)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == wuu && ndz == xuu)
+                        {
+                            if (ndz == chen || ndz == sii)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == chen || ydz == sii)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == chen || rdz == sii)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == chen || sdz == sii)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == jii && ndz == hai)
+                        {
+                            if (ndz == chen || ndz == sii)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == chen || ydz == sii)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == chen || rdz == sii)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == chen || sdz == sii)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == geng && ndz == zii)
+                        {
+                            if (ndz == chen || ndz == sii)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == chen || ydz == sii)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == chen || rdz == sii)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == chen || sdz == sii)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == xin && ndz == chou)
+                        {
+                            if (ndz == chen || ndz == sii)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == chen || ydz == sii)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == chen || rdz == sii)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == chen || sdz == sii)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == ren && ndz == yin)
+                        {
+                            if (ndz == chen || ndz == sii)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == chen || ydz == sii)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == chen || rdz == sii)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == chen || sdz == sii)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == gui && ndz == mao)
+                        {
+                            if (ndz == chen || ndz == sii)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == chen || ydz == sii)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == chen || rdz == sii)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == chen || sdz == sii)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+
+                        if (ntg == jia && ndz == chen)
+                        {
+                            if (ndz == yin || ndz == mao)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == yin || ydz == mao)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == yin || rdz == mao)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == yin || sdz == mao)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == yii && ndz == sii)
+                        {
+                            if (ndz == yin || ndz == mao)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == yin || ydz == mao)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == yin || rdz == mao)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == yin || sdz == mao)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == bing && ndz == wuma)
+                        {
+                            if (ndz == yin || ndz == mao)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == yin || ydz == mao)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == yin || rdz == mao)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == yin || sdz == mao)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == ding && ndz == wei)
+                        {
+                            if (ndz == yin || ndz == mao)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == yin || ydz == mao)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == yin || rdz == mao)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == yin || sdz == mao)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == wuu && ndz == shen)
+                        {
+                            if (ndz == yin || ndz == mao)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == yin || ydz == mao)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == yin || rdz == mao)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == yin || sdz == mao)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == jii && ndz == you)
+                        {
+                            if (ndz == yin || ndz == mao)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == yin || ydz == mao)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == yin || rdz == mao)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == yin || sdz == mao)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == geng && ndz == xuu)
+                        {
+                            if (ndz == yin || ndz == mao)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == yin || ydz == mao)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == yin || rdz == mao)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == yin || sdz == mao)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == xin && ndz == hai)
+                        {
+                            if (ndz == yin || ndz == mao)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == yin || ydz == mao)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == yin || rdz == mao)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == yin || sdz == mao)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == ren && ndz == zii)
+                        {
+                            if (ndz == yin || ndz == mao)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == yin || ydz == mao)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == yin || rdz == mao)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == yin || sdz == mao)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == gui && ndz == chou)
+                        {
+                            if (ndz == yin || ndz == mao)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == yin || ydz == mao)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == yin || rdz == mao)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == yin || sdz == mao)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+
+                        if (ntg == jia && ndz == yin)
+                        {
+                            if (ndz == zii || ndz == chou)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == zii || ydz == chou)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == zii || rdz == chou)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == zii || sdz == chou)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == yii && ndz == mao)
+                        {
+                            if (ndz == zii || ndz == chou)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == zii || ydz == chou)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == zii || rdz == chou)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == zii || sdz == chou)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == bing && ndz == chen)
+                        {
+                            if (ndz == zii || ndz == chou)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == zii || ydz == chou)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == zii || rdz == chou)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == zii || sdz == chou)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == ding && ndz == sii)
+                        {
+                            if (ndz == zii || ndz == chou)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == zii || ydz == chou)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == zii || rdz == chou)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == zii || sdz == chou)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == wuu && ndz == wuma)
+                        {
+                            if (ndz == zii || ndz == chou)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == zii || ydz == chou)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == zii || rdz == chou)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == zii || sdz == chou)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == jii && ndz == wei)
+                        {
+                            if (ndz == zii || ndz == chou)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == zii || ydz == chou)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == zii || rdz == chou)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == zii || sdz == chou)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == geng && ndz == shen)
+                        {
+                            if (ndz == zii || ndz == chou)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == zii || ydz == chou)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == zii || rdz == chou)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == zii || sdz == chou)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == xin && ndz == you)
+                        {
+                            if (ndz == zii || ndz == chou)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == zii || ydz == chou)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == zii || rdz == chou)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == zii || sdz == chou)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == ren && ndz == xuu)
+                        {
+                            if (ndz == zii || ndz == chou)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == zii || ydz == chou)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == zii || rdz == chou)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == zii || sdz == chou)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+                        if (ntg == gui && ndz == hai)
+                        {
+                            if (ndz == zii || ndz == chou)
+                            {
+                                ndzkongwang = 1; Labelndzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (ydz == zii || ydz == chou)
+                            {
+                                ydzkongwang = 1; Labelydzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (rdz == zii || rdz == chou)
+                            {
+                                rdzkongwang = 1; Labelrdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+                            if (sdz == zii || sdz == chou)
+                            {
+                                sdzkongwang = 1; Labelsdzss2.Text += "空亡-"; 空亡真假 = 1;
+                            }
+
+                        }
+
                         if (rtg == jia && rdz == zii)
                         {
                             if (ndz == xuu || ndz == hai)
