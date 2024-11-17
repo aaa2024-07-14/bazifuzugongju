@@ -80,9 +80,9 @@ namespace BaZiFuZuGongJu
         //天干五合引化
         int wjin = 0; int wshui = 0; int wmu = 0; int whuo = 0; int wtu = 0;
 
-        //五行归类
-        int wuxingguilei = 0;//1等于金2等于水3木4等于火5等于土
-                             //大运十二长生
+        //四柱五行归类=1等于金2等于水3木4等于火5等于土
+        int wuxingguilein = 0; int wuxingguileiy = 0; int wuxingguileir = 0; int wuxingguileis = 0;
+        //大运十二长生
         string 起大运 = "什么是大运?\r\n\r\n大运是八字预测的术语，大运是以十年为一个周期来推断一个人运势的吉凶祸福，有一句老话是这样说的：“十年河东，十年河西”,此话就是从八字算命得来的。用此话来形容人生的起伏不定，一个人何时能走好运，何时会走败运，测出之后以达到应对趋吉避凶的目的。当预知一个人财运官运亨通之时，可以放手一搏，顺风顺水，虽有曲折，但终会功成名就。当预知一个人会遭遇坎坷灾祸时，可韬光养晦，趋利避害，耐心等待时机的来临。\r\n\r\n排大运的方法：主要是看八字的年柱和月柱来排大运，看年柱的天干来确定出生这一年的阴阳，然后以月柱的天干地支起头排出来。\r\n\r\n大运排法：\r\n\r\n1、首先看年柱天干的五行是阴还是阳，看八字的年干为阳的男命、年干为阴的女命大运顺排；年干为阴的男命、年干为阳的女命逆排，在确定了顺排还是逆排的方式后，我们再看月柱，大运是以四柱中的月柱为起点来排定的。\r\n\r\n举个例子：庚戌年、己卯月、甲子日、辛亥时生，如果是男命，年干庚金在五行中是阳，为阳年生男，大运顺排，那么再以月柱己卯为起点开始顺排，月柱天干是己，在五行排列中“己”的下一个是庚，那么大运的第一个天干就是庚，月柱的地支是卯，地支“卯”的下一个五行是辰，那么大运第一个地支是辰，组合在一起就是庚辰，然后安着这个顺序继续往下排—庚辰后面是：辛已，壬午，癸未，甲申，乙酉，丙戌，丁亥，通常排八步大运，也可以继续排下去，如果寿命足够长的话。\r\n\r\n如果庚戌年、已卯月、甲子日、辛亥时，这个八字是女性的，看年柱庚为阳年生女，阳年生女逆排，也是以月柱为起点，月干“”以五行的顺序逆排(已土的上一个五行)是戊，地支卯在五行中逆排(就是倒过来排)是寅，一直这样逆排下去，其大运为：戊寅，丁丑丙子，乙亥甲戌，癸酉，壬申，辛未，也是排八步大运。\r\n\r\n说明：排大运是看八字的年干、月柱来推算，不需要看日柱、时柱。\r\n\r\n2、命主何时开始行运呢？或者说是几岁开始行运呢？命主是阴年出生的女生，其出生后的下一个节令为“立秋”。立秋是2013年8月7日16时20分，命主出生时间是2013年7月13日16时17分。其间相隔了25天0小时3分。我们按三天计1岁行大运，那么，二十五天则是8岁3个月行大运。那么，剩下的“3分”如何计算呢？方舟周易温馨提示，一个时辰按计10天计大运，那么，一小时则按5天计大运，一分自然按2小时即1个时辰计大运。因此，命主起大运的时间点是，8岁4个月0天3个时辰，即公历2021年11月13日亥时起运，后每十年一更替。\r\n\r\n需要注意的是：起运天数的计算，是以出生之日顺数或逆数碰到临近的如下节气：立春、惊蛰、清明、立夏、芒种、小暑、立秋、白露、寒露、立冬、大雪、小寒为准。\r\n\r\n命局、大运、流年三者之间的作用关系：\r\n\r\n1、八字命局为目标。\r\n\r\n2、大运决定十年运气好坏。\r\n\r\n3、流年可以直接影响八字命局，决定一年的好坏。\r\n\r\n4、大运干支间不看相互作用关系，流年干支间不看相互作用关系。\r\n\r\n5、命局、大运、流年的作用，是天干作用天干，地支作用地支，天干地支间不相互作用。\r\n\r\n6、大运天干作用命局天干，大运地支作用命局地支，决定了这十年大运的总体好坏情况。7、流年与大运首先发生作用，流年天干作用大运天干，流年地支作用大运地支，其作用结果再作用于八字命局。同时也要看流年直接作用命局的情况，要综合判断。\r\n\r\n8、大运流年不发生合、冲、刑、害关系时，大运流年分别作用与八字命局。\r\n\r\n从上面的查看方法可以看出，八字命局是内在因素，流年、大运是外面的因素，查看外围因素对八字的影响是好还是不好，就像一个人是能获得别人的帮助扶持，还是会遭到暗算打击，这就是外因，是运气了。\r\n\r\n需要注意的是，查看大运流年对命局的影响，不能像分析八字命局那样，看天干地支间发生的关系，只能天干与天干发生关系，地支与地支发生关系，大运、流年的地支再有力量，也不能作用命局的天干，大运、流年的天千再有力量，也不能去作用命局的地支。\r\n\r\n古人说，“命局没有好运，不能自达”说明运气的  重要，还说，“好命不如好运，好运不如好年。”说明  流年对八字的影响最重要也最明显，所以看运势，测流年最重要。\r\n\r\n八字命局决定了一个人先天素质的高低，起决定性作用，命贵，还是命贱；流年大运是外因，来影响命局，就是运气好坏，命贵的人也会有灾难，比如高官落马，命贱的人也会遇到好运，比如发财娶美妻。\r\n\r\n在命局、大运、流年的关系当中，要认清这样一个层次，八字命局是本人，大运是管理命局的，流年则是最高长官。所以，通常也把流年称为太岁，岁君，就是皇帝，所以太岁不可冒犯，自古有“冲犯太岁起祸端”的说法。\r\n\r\n在民间预测实际运用当中，很少使用排大运，尤其是盲派，虽然排大运并不复杂，民间更注重流年运势的影响。\r\n\r\n十二长生大运诀\r\n\r\n1、长生：这步大运走长生，好比太阳又东升，乌云散去多晴朗，花红柳绿草生情，蛟龙出海常快乐，猛虎得食在山峰，凤凰落在梧桐树，官印逐喜得长生。\r\n2、沐浴：运交沐浴不一般，如同过河又蹬山，过河走的泥洼地，蹬山道路弯又弯，七上八下受癫痫，安安稳稳没几年，心似乱麻如蒿草，总想游春在外边。\r\n3、冠带：运交冠带主吉祥，一年到比一年强，久埋珍珠出了土，多年百宝放了光，平地一声春雷响，五湖四海把名扬。\r\n4、帝旺：运交帝旺运最红，就象大海一条龙，今朝得势时运转，一步蹬高上天庭，这步运气真是好，就是泥鳅也成龙。\r\n5、衰：运交衰字不顺通，就象老虎掉进坑，天月二德能解救，天乙贵人也化凶，十年之内不可小，马虎大意可不行。\r\n6、病：要走病地时不来，生病伤财又有灾，若有吉星能解救，逢凶化吉结了灾，到时好好交交运，转危为安能解开。\r\n7、死绝：运交死绝不吉祥，卦中注意有伤亡，高堂二老不下世，本身一定也不强，车前马后要注意，克妻害子范刑伤。\r\n8、墓：运交墓字不太强，就象半阴和半阳，一半好来一半坏，一半热来一半冷，运去黄金变了色，运了废铁也增光。\r\n9、胎养、运交胎养最吉祥，一年到比一年强，家里有了摇钱树，聚宝盆里放了光，梧桐树下栓金马，上边飞来金凤凰\r\n";
 
         string dyss10 = ""; string dyss20 = ""; string dyss30 = ""; string dyss40 = ""; string dyss50 = ""; string dyss60 = "";
@@ -780,7 +780,7 @@ namespace BaZiFuZuGongJu
                     Label49.Text = ""; Label55.Text = ""; Label33.Text = ""; Label40.Text = ""; Label48.Text = ""; Label56.Text = "";
                     Labelndzss1.Text = ""; Labelydzss1.Text = ""; Labelrdzss1.Text = ""; Labelsdzss1.Text = "";
 
-                    wxjin = 0; wxshui = 0; wxmu = 0; wxhuo = 0; wxtu = 0; wangshuai = 0; wuxingguilei = 0;
+                    wxjin = 0; wxshui = 0; wxmu = 0; wxhuo = 0; wxtu = 0; wangshuai = 0; wuxingguilein = 0;
                     buttonnz.BackColor = Color.Transparent; buttonyz.BackColor = Color.Transparent; buttonrz.BackColor = Color.Transparent; buttonsz.BackColor = Color.Transparent;
                     buttonng.BackColor = Color.Transparent; buttonyg.BackColor = Color.Transparent; buttonrg.BackColor = Color.Transparent; buttonsg.BackColor = Color.Transparent;
 
@@ -25872,6 +25872,1661 @@ namespace BaZiFuZuGongJu
                         Label40.Text = "风；东南；巽"; Label40.BackColor = Color.White; Label40.ForeColor = Color.Sienna;
                     }
                 }
+                //四柱纳音
+                if (jia == jia)
+                {
+
+                    //四柱纳音五行归类
+                    if (jia == jia)
+                    {
+                        if (ntg == jia && ndz == zii)
+                        {
+                            wuxingguilein = 1;
+                        }
+                        if (ntg == yii && ndz == chou)
+                        {
+                            wuxingguilein = 1;
+                        }
+                        if (ntg == ren && ndz == shen)
+                        {
+                            wuxingguilein = 1;
+                        }
+                        if (ntg == gui && ndz == you)
+                        {
+                            wuxingguilein = 1;
+                        }
+                        if (ntg == geng && ndz == chen)
+                        {
+                            wuxingguilein = 1;
+                        }
+                        if (ntg == xin && ndz == sii)
+                        {
+                            wuxingguilein = 1;
+                        }
+                        if (ntg == jia && ndz == wuma)
+                        {
+                            wuxingguilein = 1;
+                        }
+                        if (ntg == yii && ndz == wei)
+                        {
+                            wuxingguilein = 1;
+                        }
+                        if (ntg == ren && ndz == yin)
+                        {
+                            wuxingguilein = 1;
+                        }
+                        if (ntg == gui && ndz == mao)
+                        {
+                            wuxingguilein = 1;
+                        }
+                        if (ntg == geng && ndz == xuu)
+                        {
+                            wuxingguilein = 1;
+                        }
+                        if (ntg == xin && ndz == hai)
+                        {
+                            wuxingguilein = 1;
+                        }
+                        if (ntg == bing && ndz == wuma)
+                        {
+                            wuxingguilein = 2;
+                        }
+                        if (ntg == ding && ndz == wei)
+                        {
+                            wuxingguilein = 2;
+                        }
+                        if (ntg == jia && ndz == yin)
+                        {
+                            wuxingguilein = 2;
+                        }
+                        if (ntg == yii && ndz == mao)
+                        {
+                            wuxingguilein = 2;
+                        }
+                        if (ntg == ren && ndz == xuu)
+                        {
+                            wuxingguilein = 2;
+                        }
+                        if (ntg == gui && ndz == hai)
+                        {
+                            wuxingguilein = 2;
+                        }
+                        if (ntg == bing && ndz == zii)
+                        {
+                            wuxingguilein = 2;
+                        }
+                        if (ntg == ding && ndz == chou)
+                        {
+                            wuxingguilein = 2;
+                        }
+                        if (ntg == jia && ndz == shen)
+                        {
+                            wuxingguilein = 2;
+                        }
+                        if (ntg == yii && ndz == you)
+                        {
+                            wuxingguilein = 2;
+                        }
+                        if (ntg == ren && ndz == chen)
+                        {
+                            wuxingguilein = 2;
+                        }
+                        if (ntg == gui && ndz == sii)
+                        {
+                            wuxingguilein = 2;
+                        }
+                        if (ntg == ren && ndz == zii)
+                        {
+                            wuxingguilein = 3;
+                        }
+                        if (ntg == gui && ndz == chou)
+                        {
+                            wuxingguilein = 3;
+                        }
+                        if (ntg == geng && ndz == shen)
+                        {
+                            wuxingguilein = 3;
+                        }
+                        if (ntg == xin && ndz == you)
+                        {
+                            wuxingguilein = 3;
+                        }
+                        if (ntg == wuu && ndz == chen)
+                        {
+                            wuxingguilein = 3;
+                        }
+                        if (ntg == jii && ndz == sii)
+                        {
+                            wuxingguilein = 3;
+                        }
+                        if (ntg == ren && ndz == wuma)
+                        {
+                            wuxingguilein = 3;
+                        }
+                        if (ntg == gui && ndz == wei)
+                        {
+                            wuxingguilein = 3;
+                        }
+                        if (ntg == geng && ndz == yin)
+                        {
+                            wuxingguilein = 3;
+                        }
+                        if (ntg == xin && ndz == mao)
+                        {
+                            wuxingguilein = 3;
+                        }
+                        if (ntg == wuu && ndz == xuu)
+                        {
+                            wuxingguilein = 3;
+                        }
+                        if (ntg == jii && ndz == hai)
+                        {
+                            wuxingguilein = 3;
+                        }
+                        if (ntg == wuu && ndz == zii)
+                        {
+                            wuxingguilein = 4;
+                        }
+                        if (ntg == jii && ndz == chou)
+                        {
+                            wuxingguilein = 4;
+                        }
+                        if (ntg == bing && ndz == shen)
+                        {
+                            wuxingguilein = 4;
+                        }
+                        if (ntg == ding && ndz == you)
+                        {
+                            wuxingguilein = 4;
+                        }
+                        if (ntg == bing && ndz == yin)
+                        {
+                            wuxingguilein = 4;
+                        }
+                        if (ntg == ding && ndz == mao)
+                        {
+                            wuxingguilein = 4;
+                        }
+                        if (ntg == jia && ndz == xuu)
+                        {
+                            wuxingguilein = 4;
+                        }
+                        if (ntg == yii && ndz == hai)
+                        {
+                            wuxingguilein = 4;
+                        }
+                        if (ntg == wuu && ndz == wuma)
+                        {
+                            wuxingguilein = 4;
+                        }
+                        if (ntg == jii && ndz == wei)
+                        {
+                            wuxingguilein = 4;
+                        }
+                        if (ntg == geng && ndz == zii)
+                        {
+                            wuxingguilein = 5;
+                        }
+                        if (ntg == xin && ndz == chou)
+                        {
+                            wuxingguilein = 5;
+                        }
+                        if (ntg == wuu && ndz == shen)
+                        {
+                            wuxingguilein = 5;
+                        }
+                        if (ntg == jii && ndz == you)
+                        {
+                            wuxingguilein = 5;
+                        }
+                        if (ntg == geng && ndz == wuma)
+                        {
+                            wuxingguilein = 5;
+                        }
+                        if (ntg == xin && ndz == wei)
+                        {
+                            wuxingguilein = 5;
+                        }
+                        if (ntg == wuu && ndz == yin)
+                        {
+                            wuxingguilein = 5;
+                        }
+                        if (ntg == jii && ndz == mao)
+                        {
+                            wuxingguilein = 5;
+                        }
+                        if (ntg == bing && ndz == xuu)
+                        {
+                            wuxingguilein = 5;
+                        }
+                        if (ntg == ding && ndz == hai)
+                        {
+                            wuxingguilein = 5;
+                        }
+
+                        if (ntg == jia && ndz == zii)
+                        {
+                            wuxingguileiy = 1;
+                        }
+                        if (ntg == yii && ndz == chou)
+                        {
+                            wuxingguileiy = 1;
+                        }
+                        if (ntg == ren && ndz == shen)
+                        {
+                            wuxingguileiy = 1;
+                        }
+                        if (ntg == gui && ndz == you)
+                        {
+                            wuxingguileiy = 1;
+                        }
+                        if (ntg == geng && ndz == chen)
+                        {
+                            wuxingguileiy = 1;
+                        }
+                        if (ntg == xin && ndz == sii)
+                        {
+                            wuxingguileiy = 1;
+                        }
+                        if (ntg == jia && ndz == wuma)
+                        {
+                            wuxingguileiy = 1;
+                        }
+                        if (ntg == yii && ndz == wei)
+                        {
+                            wuxingguileiy = 1;
+                        }
+                        if (ntg == ren && ndz == yin)
+                        {
+                            wuxingguileiy = 1;
+                        }
+                        if (ntg == gui && ndz == mao)
+                        {
+                            wuxingguileiy = 1;
+                        }
+                        if (ntg == geng && ndz == xuu)
+                        {
+                            wuxingguileiy = 1;
+                        }
+                        if (ntg == xin && ndz == hai)
+                        {
+                            wuxingguileiy = 1;
+                        }
+                        if (ntg == bing && ndz == wuma)
+                        {
+                            wuxingguileiy = 2;
+                        }
+                        if (ntg == ding && ndz == wei)
+                        {
+                            wuxingguileiy = 2;
+                        }
+                        if (ntg == jia && ndz == yin)
+                        {
+                            wuxingguileiy = 2;
+                        }
+                        if (ntg == yii && ndz == mao)
+                        {
+                            wuxingguileiy = 2;
+                        }
+                        if (ntg == ren && ndz == xuu)
+                        {
+                            wuxingguileiy = 2;
+                        }
+                        if (ntg == gui && ndz == hai)
+                        {
+                            wuxingguileiy = 2;
+                        }
+                        if (ntg == bing && ndz == zii)
+                        {
+                            wuxingguileiy = 2;
+                        }
+                        if (ntg == ding && ndz == chou)
+                        {
+                            wuxingguileiy = 2;
+                        }
+                        if (ntg == jia && ndz == shen)
+                        {
+                            wuxingguileiy = 2;
+                        }
+                        if (ntg == yii && ndz == you)
+                        {
+                            wuxingguileiy = 2;
+                        }
+                        if (ntg == ren && ndz == chen)
+                        {
+                            wuxingguileiy = 2;
+                        }
+                        if (ntg == gui && ndz == sii)
+                        {
+                            wuxingguileiy = 2;
+                        }
+                        if (ntg == ren && ndz == zii)
+                        {
+                            wuxingguileiy = 3;
+                        }
+                        if (ntg == gui && ndz == chou)
+                        {
+                            wuxingguileiy = 3;
+                        }
+                        if (ntg == geng && ndz == shen)
+                        {
+                            wuxingguileiy = 3;
+                        }
+                        if (ntg == xin && ndz == you)
+                        {
+                            wuxingguileiy = 3;
+                        }
+                        if (ntg == wuu && ndz == chen)
+                        {
+                            wuxingguileiy = 3;
+                        }
+                        if (ntg == jii && ndz == sii)
+                        {
+                            wuxingguileiy = 3;
+                        }
+                        if (ntg == ren && ndz == wuma)
+                        {
+                            wuxingguileiy = 3;
+                        }
+                        if (ntg == gui && ndz == wei)
+                        {
+                            wuxingguileiy = 3;
+                        }
+                        if (ntg == geng && ndz == yin)
+                        {
+                            wuxingguileiy = 3;
+                        }
+                        if (ntg == xin && ndz == mao)
+                        {
+                            wuxingguileiy = 3;
+                        }
+                        if (ntg == wuu && ndz == xuu)
+                        {
+                            wuxingguileiy = 3;
+                        }
+                        if (ntg == jii && ndz == hai)
+                        {
+                            wuxingguileiy = 3;
+                        }
+                        if (ntg == wuu && ndz == zii)
+                        {
+                            wuxingguileiy = 4;
+                        }
+                        if (ntg == jii && ndz == chou)
+                        {
+                            wuxingguileiy = 4;
+                        }
+                        if (ntg == bing && ndz == shen)
+                        {
+                            wuxingguileiy = 4;
+                        }
+                        if (ntg == ding && ndz == you)
+                        {
+                            wuxingguileiy = 4;
+                        }
+                        if (ntg == bing && ndz == yin)
+                        {
+                            wuxingguileiy = 4;
+                        }
+                        if (ntg == ding && ndz == mao)
+                        {
+                            wuxingguileiy = 4;
+                        }
+                        if (ntg == jia && ndz == xuu)
+                        {
+                            wuxingguileiy = 4;
+                        }
+                        if (ntg == yii && ndz == hai)
+                        {
+                            wuxingguileiy = 4;
+                        }
+                        if (ntg == wuu && ndz == wuma)
+                        {
+                            wuxingguileiy = 4;
+                        }
+                        if (ntg == jii && ndz == wei)
+                        {
+                            wuxingguileiy = 4;
+                        }
+                        if (ntg == geng && ndz == zii)
+                        {
+                            wuxingguileiy = 5;
+                        }
+                        if (ntg == xin && ndz == chou)
+                        {
+                            wuxingguileiy = 5;
+                        }
+                        if (ntg == wuu && ndz == shen)
+                        {
+                            wuxingguileiy = 5;
+                        }
+                        if (ntg == jii && ndz == you)
+                        {
+                            wuxingguileiy = 5;
+                        }
+                        if (ntg == geng && ndz == wuma)
+                        {
+                            wuxingguileiy = 5;
+                        }
+                        if (ntg == xin && ndz == wei)
+                        {
+                            wuxingguileiy = 5;
+                        }
+                        if (ntg == wuu && ndz == yin)
+                        {
+                            wuxingguileiy = 5;
+                        }
+                        if (ntg == jii && ndz == mao)
+                        {
+                            wuxingguileiy = 5;
+                        }
+                        if (ntg == bing && ndz == xuu)
+                        {
+                            wuxingguileiy = 5;
+                        }
+                        if (ntg == ding && ndz == hai)
+                        {
+                            wuxingguileiy = 5;
+                        }
+
+
+                        if (ntg == jia && ndz == zii)
+                        {
+                            wuxingguileir = 1;
+                        }
+                        if (ntg == yii && ndz == chou)
+                        {
+                            wuxingguileir = 1;
+                        }
+                        if (ntg == ren && ndz == shen)
+                        {
+                            wuxingguileir = 1;
+                        }
+                        if (ntg == gui && ndz == you)
+                        {
+                            wuxingguileir = 1;
+                        }
+                        if (ntg == geng && ndz == chen)
+                        {
+                            wuxingguileir = 1;
+                        }
+                        if (ntg == xin && ndz == sii)
+                        {
+                            wuxingguileir = 1;
+                        }
+                        if (ntg == jia && ndz == wuma)
+                        {
+                            wuxingguileir = 1;
+                        }
+                        if (ntg == yii && ndz == wei)
+                        {
+                            wuxingguileir = 1;
+                        }
+                        if (ntg == ren && ndz == yin)
+                        {
+                            wuxingguileir = 1;
+                        }
+                        if (ntg == gui && ndz == mao)
+                        {
+                            wuxingguileir = 1;
+                        }
+                        if (ntg == geng && ndz == xuu)
+                        {
+                            wuxingguileir = 1;
+                        }
+                        if (ntg == xin && ndz == hai)
+                        {
+                            wuxingguileir = 1;
+                        }
+                        if (ntg == bing && ndz == wuma)
+                        {
+                            wuxingguileir = 2;
+                        }
+                        if (ntg == ding && ndz == wei)
+                        {
+                            wuxingguileir = 2;
+                        }
+                        if (ntg == jia && ndz == yin)
+                        {
+                            wuxingguileir = 2;
+                        }
+                        if (ntg == yii && ndz == mao)
+                        {
+                            wuxingguileir = 2;
+                        }
+                        if (ntg == ren && ndz == xuu)
+                        {
+                            wuxingguileir = 2;
+                        }
+                        if (ntg == gui && ndz == hai)
+                        {
+                            wuxingguileir = 2;
+                        }
+                        if (ntg == bing && ndz == zii)
+                        {
+                            wuxingguileir = 2;
+                        }
+                        if (ntg == ding && ndz == chou)
+                        {
+                            wuxingguileir = 2;
+                        }
+                        if (ntg == jia && ndz == shen)
+                        {
+                            wuxingguileir = 2;
+                        }
+                        if (ntg == yii && ndz == you)
+                        {
+                            wuxingguileir = 2;
+                        }
+                        if (ntg == ren && ndz == chen)
+                        {
+                            wuxingguileir = 2;
+                        }
+                        if (ntg == gui && ndz == sii)
+                        {
+                            wuxingguileir = 2;
+                        }
+                        if (ntg == ren && ndz == zii)
+                        {
+                            wuxingguileir = 3;
+                        }
+                        if (ntg == gui && ndz == chou)
+                        {
+                            wuxingguileir = 3;
+                        }
+                        if (ntg == geng && ndz == shen)
+                        {
+                            wuxingguileir = 3;
+                        }
+                        if (ntg == xin && ndz == you)
+                        {
+                            wuxingguileir = 3;
+                        }
+                        if (ntg == wuu && ndz == chen)
+                        {
+                            wuxingguileir = 3;
+                        }
+                        if (ntg == jii && ndz == sii)
+                        {
+                            wuxingguileir = 3;
+                        }
+                        if (ntg == ren && ndz == wuma)
+                        {
+                            wuxingguileir = 3;
+                        }
+                        if (ntg == gui && ndz == wei)
+                        {
+                            wuxingguileir = 3;
+                        }
+                        if (ntg == geng && ndz == yin)
+                        {
+                            wuxingguileir = 3;
+                        }
+                        if (ntg == xin && ndz == mao)
+                        {
+                            wuxingguileir = 3;
+                        }
+                        if (ntg == wuu && ndz == xuu)
+                        {
+                            wuxingguileir = 3;
+                        }
+                        if (ntg == jii && ndz == hai)
+                        {
+                            wuxingguileir = 3;
+                        }
+                        if (ntg == wuu && ndz == zii)
+                        {
+                            wuxingguileir = 4;
+                        }
+                        if (ntg == jii && ndz == chou)
+                        {
+                            wuxingguileir = 4;
+                        }
+                        if (ntg == bing && ndz == shen)
+                        {
+                            wuxingguileir = 4;
+                        }
+                        if (ntg == ding && ndz == you)
+                        {
+                            wuxingguileir = 4;
+                        }
+                        if (ntg == bing && ndz == yin)
+                        {
+                            wuxingguileir = 4;
+                        }
+                        if (ntg == ding && ndz == mao)
+                        {
+                            wuxingguileir = 4;
+                        }
+                        if (ntg == jia && ndz == xuu)
+                        {
+                            wuxingguileir = 4;
+                        }
+                        if (ntg == yii && ndz == hai)
+                        {
+                            wuxingguileir = 4;
+                        }
+                        if (ntg == wuu && ndz == wuma)
+                        {
+                            wuxingguileir = 4;
+                        }
+                        if (ntg == jii && ndz == wei)
+                        {
+                            wuxingguileir = 4;
+                        }
+                        if (ntg == geng && ndz == zii)
+                        {
+                            wuxingguileir = 5;
+                        }
+                        if (ntg == xin && ndz == chou)
+                        {
+                            wuxingguileir = 5;
+                        }
+                        if (ntg == wuu && ndz == shen)
+                        {
+                            wuxingguileir = 5;
+                        }
+                        if (ntg == jii && ndz == you)
+                        {
+                            wuxingguileir = 5;
+                        }
+                        if (ntg == geng && ndz == wuma)
+                        {
+                            wuxingguileir = 5;
+                        }
+                        if (ntg == xin && ndz == wei)
+                        {
+                            wuxingguileir = 5;
+                        }
+                        if (ntg == wuu && ndz == yin)
+                        {
+                            wuxingguileir = 5;
+                        }
+                        if (ntg == jii && ndz == mao)
+                        {
+                            wuxingguileir = 5;
+                        }
+                        if (ntg == bing && ndz == xuu)
+                        {
+                            wuxingguileir = 5;
+                        }
+                        if (ntg == ding && ndz == hai)
+                        {
+                            wuxingguileir = 5;
+                        }
+
+
+                        if (ntg == jia && ndz == zii)
+                        {
+                            wuxingguileis = 1;
+                        }
+                        if (ntg == yii && ndz == chou)
+                        {
+                            wuxingguileis = 1;
+                        }
+                        if (ntg == ren && ndz == shen)
+                        {
+                            wuxingguileis = 1;
+                        }
+                        if (ntg == gui && ndz == you)
+                        {
+                            wuxingguileis = 1;
+                        }
+                        if (ntg == geng && ndz == chen)
+                        {
+                            wuxingguileis = 1;
+                        }
+                        if (ntg == xin && ndz == sii)
+                        {
+                            wuxingguileis = 1;
+                        }
+                        if (ntg == jia && ndz == wuma)
+                        {
+                            wuxingguileis = 1;
+                        }
+                        if (ntg == yii && ndz == wei)
+                        {
+                            wuxingguileis = 1;
+                        }
+                        if (ntg == ren && ndz == yin)
+                        {
+                            wuxingguileis = 1;
+                        }
+                        if (ntg == gui && ndz == mao)
+                        {
+                            wuxingguileis = 1;
+                        }
+                        if (ntg == geng && ndz == xuu)
+                        {
+                            wuxingguileis = 1;
+                        }
+                        if (ntg == xin && ndz == hai)
+                        {
+                            wuxingguileis = 1;
+                        }
+                        if (ntg == bing && ndz == wuma)
+                        {
+                            wuxingguileis = 2;
+                        }
+                        if (ntg == ding && ndz == wei)
+                        {
+                            wuxingguileis = 2;
+                        }
+                        if (ntg == jia && ndz == yin)
+                        {
+                            wuxingguileis = 2;
+                        }
+                        if (ntg == yii && ndz == mao)
+                        {
+                            wuxingguileis = 2;
+                        }
+                        if (ntg == ren && ndz == xuu)
+                        {
+                            wuxingguileis = 2;
+                        }
+                        if (ntg == gui && ndz == hai)
+                        {
+                            wuxingguileis = 2;
+                        }
+                        if (ntg == bing && ndz == zii)
+                        {
+                            wuxingguileis = 2;
+                        }
+                        if (ntg == ding && ndz == chou)
+                        {
+                            wuxingguileis = 2;
+                        }
+                        if (ntg == jia && ndz == shen)
+                        {
+                            wuxingguileis = 2;
+                        }
+                        if (ntg == yii && ndz == you)
+                        {
+                            wuxingguileis = 2;
+                        }
+                        if (ntg == ren && ndz == chen)
+                        {
+                            wuxingguileis = 2;
+                        }
+                        if (ntg == gui && ndz == sii)
+                        {
+                            wuxingguileis = 2;
+                        }
+                        if (ntg == ren && ndz == zii)
+                        {
+                            wuxingguileis = 3;
+                        }
+                        if (ntg == gui && ndz == chou)
+                        {
+                            wuxingguileis = 3;
+                        }
+                        if (ntg == geng && ndz == shen)
+                        {
+                            wuxingguileis = 3;
+                        }
+                        if (ntg == xin && ndz == you)
+                        {
+                            wuxingguileis = 3;
+                        }
+                        if (ntg == wuu && ndz == chen)
+                        {
+                            wuxingguileis = 3;
+                        }
+                        if (ntg == jii && ndz == sii)
+                        {
+                            wuxingguileis = 3;
+                        }
+                        if (ntg == ren && ndz == wuma)
+                        {
+                            wuxingguileis = 3;
+                        }
+                        if (ntg == gui && ndz == wei)
+                        {
+                            wuxingguileis = 3;
+                        }
+                        if (ntg == geng && ndz == yin)
+                        {
+                            wuxingguileis = 3;
+                        }
+                        if (ntg == xin && ndz == mao)
+                        {
+                            wuxingguileis = 3;
+                        }
+                        if (ntg == wuu && ndz == xuu)
+                        {
+                            wuxingguileis = 3;
+                        }
+                        if (ntg == jii && ndz == hai)
+                        {
+                            wuxingguileis = 3;
+                        }
+                        if (ntg == wuu && ndz == zii)
+                        {
+                            wuxingguileis = 4;
+                        }
+                        if (ntg == jii && ndz == chou)
+                        {
+                            wuxingguileis = 4;
+                        }
+                        if (ntg == bing && ndz == shen)
+                        {
+                            wuxingguileis = 4;
+                        }
+                        if (ntg == ding && ndz == you)
+                        {
+                            wuxingguileis = 4;
+                        }
+                        if (ntg == bing && ndz == yin)
+                        {
+                            wuxingguileis = 4;
+                        }
+                        if (ntg == ding && ndz == mao)
+                        {
+                            wuxingguileis = 4;
+                        }
+                        if (ntg == jia && ndz == xuu)
+                        {
+                            wuxingguileis = 4;
+                        }
+                        if (ntg == yii && ndz == hai)
+                        {
+                            wuxingguileis = 4;
+                        }
+                        if (ntg == wuu && ndz == wuma)
+                        {
+                            wuxingguileis = 4;
+                        }
+                        if (ntg == jii && ndz == wei)
+                        {
+                            wuxingguileis = 4;
+                        }
+                        if (ntg == geng && ndz == zii)
+                        {
+                            wuxingguileis = 5;
+                        }
+                        if (ntg == xin && ndz == chou)
+                        {
+                            wuxingguileis = 5;
+                        }
+                        if (ntg == wuu && ndz == shen)
+                        {
+                            wuxingguileis = 5;
+                        }
+                        if (ntg == jii && ndz == you)
+                        {
+                            wuxingguileis = 5;
+                        }
+                        if (ntg == geng && ndz == wuma)
+                        {
+                            wuxingguileis = 5;
+                        }
+                        if (ntg == xin && ndz == wei)
+                        {
+                            wuxingguileis = 5;
+                        }
+                        if (ntg == wuu && ndz == yin)
+                        {
+                            wuxingguileis = 5;
+                        }
+                        if (ntg == jii && ndz == mao)
+                        {
+                            wuxingguileis = 5;
+                        }
+                        if (ntg == bing && ndz == xuu)
+                        {
+                            wuxingguileis = 5;
+                        }
+                        if (ntg == ding && ndz == hai)
+                        {
+                            wuxingguileis = 5;
+                        }
+                    }
+
+                    //年纳音
+                    //金
+                    if (ntg == jia && ndz == zii || ntg == yii && ndz == chou)
+                    {
+                        button10.Text = "海中金";
+                        button10.BackColor = Color.Black;
+                        button10.ForeColor = Color.Gold;
+                    }
+                    if (ntg == jia && ndz == wuma || ntg == yii && ndz == wei)
+                    {
+                        button10.Text = "沙中金";
+                        button10.BackColor = Color.Black;
+                        button10.ForeColor = Color.Gold;
+                    }
+                    if (ntg == ren && ndz == yin || ntg == gui && ndz == mao)
+                    {
+                        button10.Text = "金箔金";
+                        button10.BackColor = Color.Black;
+                        button10.ForeColor = Color.Gold;
+                    }
+                    if (ntg == ren && ndz == shen || ntg == gui && ndz == you)
+                    {
+                        button10.Text = "剑锋金";
+                        button10.BackColor = Color.Black;
+                        button10.ForeColor = Color.Gold;
+                    }
+                    if (ntg == geng && ndz == chen || ntg == xin && ndz == sii)
+                    {
+                        button10.Text = "白蜡金";
+                        button10.BackColor = Color.Black;
+                        button10.ForeColor = Color.Gold;
+                    }
+                    if (ntg == geng && ndz == xuu || ntg == xin && ndz == hai)
+                    {
+                        button10.Text = "钗钏金";
+                        button10.BackColor = Color.Black;
+                        button10.ForeColor = Color.Gold;
+                    }
+                    //木
+                    if (ntg == ren && ndz == zii || ntg == gui && ndz == chou)
+                    {
+                        button10.Text = "桑拓木";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.Green;
+                    }
+                    if (ntg == ren && ndz == wuma || ntg == gui && ndz == wei)
+                    {
+                        button10.Text = "杨柳木";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.Green;
+                    }
+                    if (ntg == geng && ndz == yin || ntg == xin && ndz == mao)
+                    {
+                        button10.Text = "松柏木";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.Green;
+                    }
+                    if (ntg == geng && ndz == shen || ntg == xin && ndz == you)
+                    {
+                        button10.Text = "石榴木";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.Green;
+                    }
+                    if (ntg == wuu && ndz == chen || ntg == jii && ndz == sii)
+                    {
+                        button10.Text = "大林木";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.Green;
+                    }
+                    if (ntg == wuu && ndz == xuu || ntg == jii && ndz == hai)
+                    {
+                        button10.Text = "平地木";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.Green;
+                    }
+                    //土
+                    if (ntg == geng && ndz == zii || ntg == xin && ndz == chou)
+                    {
+                        button10.Text = "壁上土";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.Sienna;
+                    }
+                    if (ntg == geng && ndz == wuma || ntg == xin && ndz == wei)
+                    {
+                        button10.Text = "路旁土";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.Sienna;
+                    }
+                    if (ntg == wuu && ndz == yin || ntg == jii && ndz == mao)
+                    {
+                        button10.Text = "城头土";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.Sienna;
+                    }
+                    if (ntg == wuu && ndz == shen || ntg == jii && ndz == you)
+                    {
+                        button10.Text = "大驿土";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.Sienna;
+                    }
+                    if (ntg == bing && ndz == chen || ntg == ding && ndz == sii)
+                    {
+                        button10.Text = "沙中土";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.Sienna;
+                    }
+                    if (ntg == bing && ndz == xuu || ntg == ding && ndz == hai)
+                    {
+                        button10.Text = "屋上土";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.Sienna;
+                    }
+                    //水
+                    if (ntg == bing && ndz == zii || ntg == ding && ndz == chou)
+                    {
+                        button10.Text = "涧下水";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.DodgerBlue;
+                    }
+                    if (ntg == bing && ndz == wuma || ntg == ding && ndz == wei)
+                    {
+                        button10.Text = "天河水";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.DodgerBlue;
+                    }
+                    if (ntg == jia && ndz == yin || ntg == yii && ndz == mao)
+                    {
+                        button10.Text = "大溪水";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.DodgerBlue;
+                    }
+                    if (ntg == jia && ndz == shen || ntg == yii && ndz == you)
+                    {
+                        button10.Text = "井泉水";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.DodgerBlue;
+                    }
+                    if (ntg == ren && ndz == chen || ntg == gui && ndz == sii)
+                    {
+                        button10.Text = "长流水";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.DodgerBlue;
+                    }
+                    if (ntg == ren && ndz == xuu || ntg == gui && ndz == hai)
+                    {
+                        button10.Text = "大海水";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.DodgerBlue;
+                    }
+                    //火
+                    if (ntg == wuu && ndz == zii || ntg == jii && ndz == chou)
+                    {
+                        button10.Text = "霹雳火";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.Red;
+                    }
+                    if (ntg == wuu && ndz == wuma || ntg == jii && ndz == wei)
+                    {
+                        button10.Text = "天上火";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.Red;
+                    }
+                    if (ntg == bing && ndz == yin || ntg == ding && ndz == mao)
+                    {
+                        button10.Text = "炉中火";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.Red;
+                    }
+                    if (ntg == bing && ndz == shen || ntg == ding && ndz == you)
+                    {
+                        button10.Text = "山下火";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.Red;
+                    }
+                    if (ntg == jia && ndz == chen || ntg == yii && ndz == sii)
+                    {
+                        button10.Text = "覆灯火";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.Red;
+                    }
+                    if (ntg == jia && ndz == xuu || ntg == yii && ndz == hai)
+                    {
+                        button10.Text = "山头火";
+                        button10.BackColor = Color.White;
+                        button10.ForeColor = Color.Red;
+                    }
+                    //月纳音
+                    //金
+                    if (ytg == jia && ydz == zii || ytg == yii && ydz == chou)
+                    {
+                        button11.Text = "海中金";
+                        button11.BackColor = Color.Black;
+                        button11.ForeColor = Color.Gold;
+                    }
+                    if (ytg == jia && ydz == wuma || ytg == yii && ydz == wei)
+                    {
+                        button11.Text = "沙中金";
+                        button11.BackColor = Color.Black;
+                        button11.ForeColor = Color.Gold;
+                    }
+                    if (ytg == ren && ydz == yin || ytg == gui && ydz == mao)
+                    {
+                        button11.Text = "金箔金";
+                        button11.BackColor = Color.Black;
+                        button11.ForeColor = Color.Gold;
+                    }
+                    if (ytg == ren && ydz == shen || ytg == gui && ydz == you)
+                    {
+                        button11.Text = "剑锋金";
+                        button11.BackColor = Color.Black;
+                        button11.ForeColor = Color.Gold;
+                    }
+                    if (ytg == geng && ydz == chen || ytg == xin && ydz == sii)
+                    {
+                        button11.Text = "白蜡金";
+                        button11.BackColor = Color.Black;
+                        button11.ForeColor = Color.Gold;
+                    }
+                    if (ytg == geng && ydz == xuu || ytg == xin && ydz == hai)
+                    {
+                        button11.Text = "钗钏金";
+                        button11.BackColor = Color.Black;
+                        button11.ForeColor = Color.Gold;
+                    }
+                    //木
+                    if (ytg == ren && ydz == zii || ytg == gui && ydz == chou)
+                    {
+                        button11.Text = "桑拓木";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.Green;
+                    }
+                    if (ytg == ren && ydz == wuma || ytg == gui && ydz == wei)
+                    {
+                        button11.Text = "杨柳木";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.Green;
+                    }
+                    if (ytg == geng && ydz == yin || ytg == xin && ydz == mao)
+                    {
+                        button11.Text = "松柏木";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.Green;
+                    }
+                    if (ytg == geng && ydz == shen || ytg == xin && ydz == you)
+                    {
+                        button11.Text = "石榴木";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.Green;
+                    }
+                    if (ytg == wuu && ydz == chen || ytg == jii && ydz == sii)
+                    {
+                        button11.Text = "大林木";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.Green;
+                    }
+                    if (ytg == wuu && ydz == xuu || ytg == jii && ydz == hai)
+                    {
+                        button11.Text = "平地木";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.Green;
+                    }
+                    //土
+                    if (ytg == geng && ydz == zii || ytg == xin && ydz == chou)
+                    {
+                        button11.Text = "壁上土";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.Sienna;
+                    }
+                    if (ytg == geng && ydz == wuma || ytg == xin && ydz == wei)
+                    {
+                        button11.Text = "路旁土";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.Sienna;
+                    }
+                    if (ytg == wuu && ydz == yin || ytg == jii && ydz == mao)
+                    {
+                        button11.Text = "城头土";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.Sienna;
+                    }
+                    if (ytg == wuu && ydz == shen || ytg == jii && ydz == you)
+                    {
+                        button11.Text = "大驿土";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.Sienna;
+                    }
+                    if (ytg == bing && ydz == chen || ytg == ding && ydz == sii)
+                    {
+                        button11.Text = "沙中土";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.Sienna;
+                    }
+                    if (ytg == bing && ydz == xuu || ytg == ding && ydz == hai)
+                    {
+                        button11.Text = "屋上土";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.Sienna;
+                    }
+                    //水
+                    if (ytg == bing && ydz == zii || ytg == ding && ydz == chou)
+                    {
+                        button11.Text = "涧下水";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.DodgerBlue;
+                    }
+                    if (ytg == bing && ydz == wuma || ytg == ding && ydz == wei)
+                    {
+                        button11.Text = "天河水";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.DodgerBlue;
+                    }
+                    if (ytg == jia && ydz == yin || ytg == yii && ydz == mao)
+                    {
+                        button11.Text = "大溪水";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.DodgerBlue;
+                    }
+                    if (ytg == jia && ydz == shen || ytg == yii && ydz == you)
+                    {
+                        button11.Text = "井泉水";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.DodgerBlue;
+                    }
+                    if (ytg == ren && ydz == chen || ytg == gui && ydz == sii)
+                    {
+                        button11.Text = "长流水";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.DodgerBlue;
+                    }
+                    if (ytg == ren && ydz == xuu || ytg == gui && ydz == hai)
+                    {
+                        button11.Text = "大海水";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.DodgerBlue;
+                    }
+                    //火
+                    if (ytg == wuu && ydz == zii || ytg == jii && ydz == chou)
+                    {
+                        button11.Text = "霹雳火";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.Red;
+                    }
+                    if (ytg == wuu && ydz == wuma || ytg == jii && ydz == wei)
+                    {
+                        button11.Text = "天上火";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.Red;
+                    }
+                    if (ytg == bing && ydz == yin || ytg == ding && ydz == mao)
+                    {
+                        button11.Text = "炉中火";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.Red;
+                    }
+                    if (ytg == bing && ydz == shen || ytg == ding && ydz == you)
+                    {
+                        button11.Text = "山下火";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.Red;
+                    }
+                    if (ytg == jia && ydz == chen || ytg == yii && ydz == sii)
+                    {
+                        button11.Text = "覆灯火";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.Red;
+                    }
+                    if (ytg == jia && ydz == xuu || ytg == yii && ydz == hai)
+                    {
+                        button11.Text = "山头火";
+                        button11.BackColor = Color.White;
+                        button11.ForeColor = Color.Red;
+                    }
+                    //日纳音
+                    //金
+                    if (rtg == jia && rdz == zii || rtg == yii && rdz == chou)
+                    {
+                        button12.Text = "海中金";
+                        button12.BackColor = Color.Black;
+                        button12.ForeColor = Color.Gold;
+                    }
+                    if (rtg == jia && rdz == wuma || rtg == yii && rdz == wei)
+                    {
+                        button12.Text = "沙中金";
+                        button12.BackColor = Color.Black;
+                        button12.ForeColor = Color.Gold;
+                    }
+                    if (rtg == ren && rdz == yin || rtg == gui && rdz == mao)
+                    {
+                        button12.Text = "金箔金";
+                        button12.BackColor = Color.Black;
+                        button12.ForeColor = Color.Gold;
+                    }
+                    if (rtg == ren && rdz == shen || rtg == gui && rdz == you)
+                    {
+                        button12.Text = "剑锋金";
+                        button12.BackColor = Color.Black;
+                        button12.ForeColor = Color.Gold;
+                    }
+                    if (rtg == geng && rdz == chen || rtg == xin && rdz == sii)
+                    {
+                        button12.Text = "白蜡金";
+                        button12.BackColor = Color.Black;
+                        button12.ForeColor = Color.Gold;
+                    }
+                    if (rtg == geng && rdz == xuu || rtg == xin && rdz == hai)
+                    {
+                        button12.Text = "钗钏金";
+                        button12.BackColor = Color.Black;
+                        button12.ForeColor = Color.Gold;
+                    }
+                    //木
+                    if (rtg == ren && rdz == zii || rtg == gui && rdz == chou)
+                    {
+                        button12.Text = "桑拓木";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.Green;
+                    }
+                    if (rtg == ren && rdz == wuma || rtg == gui && rdz == wei)
+                    {
+                        button12.Text = "杨柳木";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.Green;
+                    }
+                    if (rtg == geng && rdz == yin || rtg == xin && rdz == mao)
+                    {
+                        button12.Text = "松柏木";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.Green;
+                    }
+                    if (rtg == geng && rdz == shen || rtg == xin && rdz == you)
+                    {
+                        button12.Text = "石榴木";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.Green;
+                    }
+                    if (rtg == wuu && rdz == chen || rtg == jii && rdz == sii)
+                    {
+                        button12.Text = "大林木";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.Green;
+                    }
+                    if (rtg == wuu && rdz == xuu || rtg == jii && rdz == hai)
+                    {
+                        button12.Text = "平地木";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.Green;
+                    }
+                    //土
+                    if (rtg == geng && rdz == zii || rtg == xin && rdz == chou)
+                    {
+                        button12.Text = "壁上土";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.Sienna;
+                    }
+                    if (rtg == geng && rdz == wuma || rtg == xin && rdz == wei)
+                    {
+                        button12.Text = "路旁土";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.Sienna;
+                    }
+                    if (rtg == wuu && rdz == yin || rtg == jii && rdz == mao)
+                    {
+                        button12.Text = "城头土";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.Sienna;
+                    }
+                    if (rtg == wuu && rdz == shen || rtg == jii && rdz == you)
+                    {
+                        button12.Text = "大驿土";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.Sienna;
+                    }
+                    if (rtg == bing && rdz == chen || rtg == ding && rdz == sii)
+                    {
+                        button12.Text = "沙中土";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.Sienna;
+                    }
+                    if (rtg == bing && rdz == xuu || rtg == ding && rdz == hai)
+                    {
+                        button12.Text = "屋上土";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.Sienna;
+                    }
+                    //水
+                    if (rtg == bing && rdz == zii || rtg == ding && rdz == chou)
+                    {
+                        button12.Text = "涧下水";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.DodgerBlue;
+                    }
+                    if (rtg == bing && rdz == wuma || rtg == ding && rdz == wei)
+                    {
+                        button12.Text = "天河水";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.DodgerBlue;
+                    }
+                    if (rtg == jia && rdz == yin || rtg == yii && rdz == mao)
+                    {
+                        button12.Text = "大溪水";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.DodgerBlue;
+                    }
+                    if (rtg == jia && rdz == shen || rtg == yii && rdz == you)
+                    {
+                        button12.Text = "井泉水";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.DodgerBlue;
+                    }
+                    if (rtg == ren && rdz == chen || rtg == gui && rdz == sii)
+                    {
+                        button12.Text = "长流水";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.DodgerBlue;
+                    }
+                    if (rtg == ren && rdz == xuu || rtg == gui && rdz == hai)
+                    {
+                        button12.Text = "大海水";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.DodgerBlue;
+                    }
+                    //火
+                    if (rtg == wuu && rdz == zii || rtg == jii && rdz == chou)
+                    {
+                        button12.Text = "霹雳火";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.Red;
+                    }
+                    if (rtg == wuu && rdz == wuma || rtg == jii && rdz == wei)
+                    {
+                        button12.Text = "天上火";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.Red;
+                    }
+                    if (rtg == bing && rdz == yin || rtg == ding && rdz == mao)
+                    {
+                        button12.Text = "炉中火";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.Red;
+                    }
+                    if (rtg == bing && rdz == shen || rtg == ding && rdz == you)
+                    {
+                        button12.Text = "山下火";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.Red;
+                    }
+                    if (rtg == jia && rdz == chen || rtg == yii && rdz == sii)
+                    {
+                        button12.Text = "覆灯火";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.Red;
+                    }
+                    if (rtg == jia && rdz == xuu || rtg == yii && rdz == hai)
+                    {
+                        button12.Text = "山头火";
+                        button12.BackColor = Color.White;
+                        button12.ForeColor = Color.Red;
+                    }
+                    //时纳音
+                    //金
+                    if (stg == jia && sdz == zii || stg == yii && sdz == chou)
+                    {
+                        button25.Text = "海中金";
+                        button25.BackColor = Color.Black;
+                        button25.ForeColor = Color.Gold;
+                    }
+                    if (stg == jia && sdz == wuma || stg == yii && sdz == wei)
+                    {
+                        button25.Text = "沙中金";
+                        button25.BackColor = Color.Black;
+                        button25.ForeColor = Color.Gold;
+                    }
+                    if (stg == ren && sdz == yin || stg == gui && sdz == mao)
+                    {
+                        button25.Text = "金箔金";
+                        button25.BackColor = Color.Black;
+                        button25.ForeColor = Color.Gold;
+                    }
+                    if (stg == ren && sdz == shen || stg == gui && sdz == you)
+                    {
+                        button25.Text = "剑锋金";
+                        button25.BackColor = Color.Black;
+                        button25.ForeColor = Color.Gold;
+                    }
+                    if (stg == geng && sdz == chen || stg == xin && sdz == sii)
+                    {
+                        button25.Text = "白蜡金";
+                        button25.BackColor = Color.Black;
+                        button25.ForeColor = Color.Gold;
+                    }
+                    if (stg == geng && sdz == xuu || stg == xin && sdz == hai)
+                    {
+                        button25.Text = "钗钏金";
+                        button25.BackColor = Color.Black;
+                        button25.ForeColor = Color.Gold;
+                    }
+                    //木
+                    if (stg == ren && sdz == zii || stg == gui && sdz == chou)
+                    {
+                        button25.Text = "桑拓木";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.Green;
+                    }
+                    if (stg == ren && sdz == wuma || stg == gui && sdz == wei)
+                    {
+                        button25.Text = "杨柳木";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.Green;
+                    }
+                    if (stg == geng && sdz == yin || stg == xin && sdz == mao)
+                    {
+                        button25.Text = "松柏木";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.Green;
+                    }
+                    if (stg == geng && sdz == shen || stg == xin && sdz == you)
+                    {
+                        button25.Text = "石榴木";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.Green;
+                    }
+                    if (stg == wuu && sdz == chen || stg == jii && sdz == sii)
+                    {
+                        button25.Text = "大林木";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.Green;
+                    }
+                    if (stg == wuu && sdz == xuu || stg == jii && sdz == hai)
+                    {
+                        button25.Text = "平地木";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.Green;
+                    }
+                    //土
+                    if (stg == geng && sdz == zii || stg == xin && sdz == chou)
+                    {
+                        button25.Text = "壁上土";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.Sienna;
+                    }
+                    if (stg == geng && sdz == wuma || stg == xin && sdz == wei)
+                    {
+                        button25.Text = "路旁土";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.Sienna;
+                    }
+                    if (stg == wuu && sdz == yin || stg == jii && sdz == mao)
+                    {
+                        button25.Text = "城头土";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.Sienna;
+                    }
+                    if (stg == wuu && sdz == shen || stg == jii && sdz == you)
+                    {
+                        button25.Text = "大驿土";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.Sienna;
+                    }
+                    if (stg == bing && sdz == chen || stg == ding && sdz == sii)
+                    {
+                        button25.Text = "沙中土";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.Sienna;
+                    }
+                    if (stg == bing && sdz == xuu || stg == ding && sdz == hai)
+                    {
+                        button25.Text = "屋上土";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.Sienna;
+                    }
+                    //水
+                    if (stg == bing && sdz == zii || stg == ding && sdz == chou)
+                    {
+                        button25.Text = "涧下水";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.DodgerBlue;
+                    }
+                    if (stg == bing && sdz == wuma || stg == ding && sdz == wei)
+                    {
+                        button25.Text = "天河水";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.DodgerBlue;
+                    }
+                    if (stg == jia && sdz == yin || stg == yii && sdz == mao)
+                    {
+                        button25.Text = "大溪水";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.DodgerBlue;
+                    }
+                    if (stg == jia && sdz == shen || stg == yii && sdz == you)
+                    {
+                        button25.Text = "井泉水";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.DodgerBlue;
+                    }
+                    if (stg == ren && sdz == chen || stg == gui && sdz == sii)
+                    {
+                        button25.Text = "长流水";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.DodgerBlue;
+                    }
+                    if (stg == ren && sdz == xuu || stg == gui && sdz == hai)
+                    {
+                        button25.Text = "大海水";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.DodgerBlue;
+                    }
+                    //火
+                    if (stg == wuu && sdz == zii || stg == jii && sdz == chou)
+                    {
+                        button25.Text = "霹雳火";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.Red;
+                    }
+                    if (stg == wuu && sdz == wuma || stg == jii && sdz == wei)
+                    {
+                        button25.Text = "天上火";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.Red;
+                    }
+                    if (stg == bing && sdz == yin || stg == ding && sdz == mao)
+                    {
+                        button25.Text = "炉中火";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.Red;
+                    }
+                    if (stg == bing && sdz == shen || stg == ding && sdz == you)
+                    {
+                        button25.Text = "山下火";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.Red;
+                    }
+                    if (stg == jia && sdz == chen || stg == yii && sdz == sii)
+                    {
+                        button25.Text = "覆灯火";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.Red;
+                    }
+                    if (stg == jia && sdz == xuu || stg == yii && sdz == hai)
+                    {
+                        button25.Text = "山头火";
+                        button25.BackColor = Color.White;
+                        button25.ForeColor = Color.Red;
+                    }
+                }
                 //四柱十二长生
                 if (jia == jia)
                 {
@@ -36835,240 +38490,71 @@ namespace BaZiFuZuGongJu
                 if (jia == jia)
                 {
                     //神煞查询
-
-                    //年柱纳音五行归类
-                    if (jia == jia)
-                    {
-                        if (ntg == jia && ndz == zii)
-                        {
-                            wuxingguilei = 1;
-                        }
-                        if (ntg == yii && ndz == chou)
-                        {
-                            wuxingguilei = 1;
-                        }
-                        if (ntg == ren && ndz == shen)
-                        {
-                            wuxingguilei = 1;
-                        }
-                        if (ntg == gui && ndz == you)
-                        {
-                            wuxingguilei = 1;
-                        }
-                        if (ntg == geng && ndz == chen)
-                        {
-                            wuxingguilei = 1;
-                        }
-                        if (ntg == xin && ndz == sii)
-                        {
-                            wuxingguilei = 1;
-                        }
-                        if (ntg == jia && ndz == wuma)
-                        {
-                            wuxingguilei = 1;
-                        }
-                        if (ntg == yii && ndz == wei)
-                        {
-                            wuxingguilei = 1;
-                        }
-                        if (ntg == ren && ndz == yin)
-                        {
-                            wuxingguilei = 1;
-                        }
-                        if (ntg == gui && ndz == mao)
-                        {
-                            wuxingguilei = 1;
-                        }
-                        if (ntg == geng && ndz == xuu)
-                        {
-                            wuxingguilei = 1;
-                        }
-                        if (ntg == xin && ndz == hai)
-                        {
-                            wuxingguilei = 1;
-                        }
-                        if (ntg == bing && ndz == wuma)
-                        {
-                            wuxingguilei = 2;
-                        }
-                        if (ntg == ding && ndz == wei)
-                        {
-                            wuxingguilei = 2;
-                        }
-                        if (ntg == jia && ndz == yin)
-                        {
-                            wuxingguilei = 2;
-                        }
-                        if (ntg == yii && ndz == mao)
-                        {
-                            wuxingguilei = 2;
-                        }
-                        if (ntg == ren && ndz == xuu)
-                        {
-                            wuxingguilei = 2;
-                        }
-                        if (ntg == gui && ndz == hai)
-                        {
-                            wuxingguilei = 2;
-                        }
-                        if (ntg == bing && ndz == zii)
-                        {
-                            wuxingguilei = 2;
-                        }
-                        if (ntg == ding && ndz == chou)
-                        {
-                            wuxingguilei = 2;
-                        }
-                        if (ntg == jia && ndz == shen)
-                        {
-                            wuxingguilei = 2;
-                        }
-                        if (ntg == yii && ndz == you)
-                        {
-                            wuxingguilei = 2;
-                        }
-                        if (ntg == ren && ndz == chen)
-                        {
-                            wuxingguilei = 2;
-                        }
-                        if (ntg == gui && ndz == sii)
-                        {
-                            wuxingguilei = 2;
-                        }
-                        if (ntg == ren && ndz == zii)
-                        {
-                            wuxingguilei = 3;
-                        }
-                        if (ntg == gui && ndz == chou)
-                        {
-                            wuxingguilei = 3;
-                        }
-                        if (ntg == geng && ndz == shen)
-                        {
-                            wuxingguilei = 3;
-                        }
-                        if (ntg == xin && ndz == you)
-                        {
-                            wuxingguilei = 3;
-                        }
-                        if (ntg == wuu && ndz == chen)
-                        {
-                            wuxingguilei = 3;
-                        }
-                        if (ntg == jii && ndz == sii)
-                        {
-                            wuxingguilei = 3;
-                        }
-                        if (ntg == ren && ndz == wuma)
-                        {
-                            wuxingguilei = 3;
-                        }
-                        if (ntg == gui && ndz == wei)
-                        {
-                            wuxingguilei = 3;
-                        }
-                        if (ntg == geng && ndz == yin)
-                        {
-                            wuxingguilei = 3;
-                        }
-                        if (ntg == xin && ndz == mao)
-                        {
-                            wuxingguilei = 3;
-                        }
-                        if (ntg == wuu && ndz == xuu)
-                        {
-                            wuxingguilei = 3;
-                        }
-                        if (ntg == jii && ndz == hai)
-                        {
-                            wuxingguilei = 3;
-                        }
-                        if (ntg == wuu && ndz == zii)
-                        {
-                            wuxingguilei = 4;
-                        }
-                        if (ntg == jii && ndz == chou)
-                        {
-                            wuxingguilei = 4;
-                        }
-                        if (ntg == bing && ndz == shen)
-                        {
-                            wuxingguilei = 4;
-                        }
-                        if (ntg == ding && ndz == you)
-                        {
-                            wuxingguilei = 4;
-                        }
-                        if (ntg == bing && ndz == yin)
-                        {
-                            wuxingguilei = 4;
-                        }
-                        if (ntg == ding && ndz == mao)
-                        {
-                            wuxingguilei = 4;
-                        }
-                        if (ntg == jia && ndz == xuu)
-                        {
-                            wuxingguilei = 4;
-                        }
-                        if (ntg == yii && ndz == hai)
-                        {
-                            wuxingguilei = 4;
-                        }
-                        if (ntg == wuu && ndz == wuma)
-                        {
-                            wuxingguilei = 4;
-                        }
-                        if (ntg == jii && ndz == wei)
-                        {
-                            wuxingguilei = 4;
-                        }
-                        if (ntg == geng && ndz == zii)
-                        {
-                            wuxingguilei = 5;
-                        }
-                        if (ntg == xin && ndz == chou)
-                        {
-                            wuxingguilei = 5;
-                        }
-                        if (ntg == wuu && ndz == shen)
-                        {
-                            wuxingguilei = 5;
-                        }
-                        if (ntg == jii && ndz == you)
-                        {
-                            wuxingguilei = 5;
-                        }
-                        if (ntg == geng && ndz == wuma)
-                        {
-                            wuxingguilei = 5;
-                        }
-                        if (ntg == xin && ndz == wei)
-                        {
-                            wuxingguilei = 5;
-                        }
-                        if (ntg == wuu && ndz == yin)
-                        {
-                            wuxingguilei = 5;
-                        }
-                        if (ntg == jii && ndz == mao)
-                        {
-                            wuxingguilei = 5;
-                        }
-                        if (ntg == bing && ndz == xuu)
-                        {
-                            wuxingguilei = 5;
-                        }
-                        if (ntg == ding && ndz == hai)
-                        {
-                            wuxingguilei = 5;
-                        }
-                    }
-
                     //空亡
                     if (jia == jia)
                     {
                         int 空亡真假 = 0;
+
+                        //四大空亡
+
+                        if (ntg == jia && ndz == wuma || ntg == jia && ndz == zii)
+                        {
+                            if (wuxingguileiy != 2 && wuxingguileir != 2 && wuxingguileis != 2)
+                            {
+                                Labelntgss.Text += "水空亡-"; 空亡真假 = 1;
+                            }
+                        }
+                        if (ytg == jia && ydz == wuma || ytg == jia && ydz == zii)
+                        {
+                            if (wuxingguilein != 2 && wuxingguileir != 2 && wuxingguileis != 2)
+                            {
+                                Labelytgss.Text += "水空亡-"; 空亡真假 = 1;
+                            }
+                        }
+                        if (rtg == jia && rdz == wuma || rtg == jia && rdz == zii)
+                        {
+                            if (wuxingguilein != 2 && wuxingguileiy != 2 && wuxingguileis != 2)
+                            {
+                                Labelrtgss.Text += "水空亡-"; 空亡真假 = 1;
+                            }
+                        }
+                        if (stg == jia && sdz == wuma || stg == jia && sdz == zii)
+                        {
+                            if (wuxingguilein != 2 && wuxingguileiy != 2 && wuxingguileir != 2)
+                            {
+                                Labelstgss.Text += "水空亡-"; 空亡真假 = 1;
+                            }
+                        }
+                        if (ntg == jia && ndz == yin || ntg == jia && ndz == shen)
+                        {
+                            if (wuxingguileiy != 1 && wuxingguileir != 1 && wuxingguileis != 1)
+                            {
+                                Labelntgss.Text += "金空亡-"; 空亡真假 = 1;
+                            }
+                        }
+                        if (ytg == jia && ydz == yin || ytg == jia && ydz == shen)
+                        {
+                            if (wuxingguilein != 1 && wuxingguileir != 1 && wuxingguileis != 1)
+                            {
+                                Labelytgss.Text += "金空亡-"; 空亡真假 = 1;
+                            }
+                        }
+                        if (rtg == jia && rdz == yin || rtg == jia && rdz == shen)
+                        {
+                            if (wuxingguilein != 1 && wuxingguileiy != 1 && wuxingguileis != 1)
+                            {
+                                Labelrtgss.Text += "金空亡-"; 空亡真假 = 1;
+                            }
+                        }
+                        if (stg == jia && sdz == yin || stg == jia && sdz == shen)
+                        {
+                            if (wuxingguilein != 1 && wuxingguileiy != 1 && wuxingguileir != 1)
+                            {
+                                Labelstgss.Text += "金空亡-"; 空亡真假 = 1;
+                            }
+                        }
+
+
 
                         if (ntg == jia && ndz == zii)
                         {
@@ -39484,7 +40970,7 @@ namespace BaZiFuZuGongJu
 
                         if (空亡真假 == 1)
                         {
-                            string 空亡 = "《空亡》\r\n\r\n一、什么是空亡\r\n\r\n一组干支的组合是十个天干十二个地支相互组合的，一个天干配一个地支，这样十个天干只能配十个地支，剩下的两个地支就被空出来了，没有天干相配，这就是空亡的预测学的最简单的道理，还有一种空亡是四大空亡，他的原理是 纳音 来说的，为甲子甲午不见水，甲寅 甲申 不见金，也就是说在这四个旬里面，干脆没有金水 五行 元素参与，没有就是空。空亡与四大空亡在实际预测中，作用一样，都是表示变化，没有的。    八字看爱情算命\r\n\r\n二、八字神煞空亡的查法\r\n\r\n天干有十位，地支却有十二位，这就使得天干地支无法一对一对应起来，必然有两个地支上面没有天干来配对，这两个地支就叫做空亡。以年柱和日柱为主，观他支中见者为空亡。\r\n\r\n查法口诀：“甲子旬中戌亥空，甲戌旬中申酉空，甲申旬中午未空，甲午旬中辰巳空，甲辰旬中寅卯空，甲寅旬中子丑空。”\r\n\r\n“甲子旬中戌亥空” 意为“甲子、乙丑、丙寅、丁卯、戊辰、已巳、庚午、辛未、壬申、癸酉”空亡为戌和亥。\r\n\r\n“甲戌旬中申酉空” 意为“甲戌、乙亥、丙子、丁丑、戊寅、已卯、庚辰、辛巳、壬午、癸未”的空亡为申和酉。\r\n\r\n“甲申旬中午未空”意为“甲申、乙酉、丙戌、丁亥、戊子、已丑、庚寅、辛卯、壬辰、癸巳”的空亡为午和未。\r\n\r\n“甲午旬中辰巳空”意为“甲午、乙未、丙申、丁酉、戊戌、已亥、庚子、辛丑、壬寅、癸卯”的空亡为辰和巳。\r\n\r\n“甲辰旬中寅卯空”意为“甲辰、乙巳、丙午、丁未、戊申、已酉、庚戌、辛亥、壬子、癸丑”的空亡为寅和卯。\r\n\r\n“甲寅旬中子丑空”意为“甲寅、乙卯、丙辰、丁巳、戊午、已未、庚申、辛酉、壬戌、癸亥”的空亡为子和丑。 \r\n\r\n三、八字空亡透解\r\n\r\n空亡在 四柱预测 中，既不能归于正五行中,又不能归于 神煞 之中。其作用力，比一切 神煞 的作用都大。吉空不吉，凶空亡也不凶。在没有其他的神煞组合的情况下，通常趋向于凶的成份多一些。\r\n\r\n“空”对实而言；“亡”对有而言。“空亡”就是没有，不存在，或者时间未到。因为天干是十个；而地支是十二个，在干支组合中，会有两个地支轮空。例如甲子旬中“戌、亥”空。甲戌旬中“申、酉”空；在六个旬中，每个旬，总会有两个轮空。\r\n\r\n在命理上，对空亡是有说道的。①比如甲子旬中，戌亥空。到了戌、亥这两天，就叫“出空”，“出空”则不空。②四柱虽有空亡，但有冲、有合、有刑不为空。反之，才是真空。③吉神空而喜见合；凶神空而忌见合。对“空亡”，可查命书“六甲空亡”。知空亡日在何旬。或所指旬中，何日空亡，书中有表可见。\r\n\r\n甲子旬中空戌亥、甲戌旬中空申酉；甲申旬中空午未、甲午旬中空辰已；甲辰旬中空寅卯、甲寅旬中空子丑\r\n\r\n 对空亡的认识多半集中在四句话“年柱空亡，祖宗无缘；月柱空亡，父母无缘；日柱空亡，夫妇无缘；时柱空亡，子女无缘”。\r\n\r\n四、八字空亡如何化解\r\n\r\n1、八字空亡化解法一\r\n\r\n而用姓名化解空亡之法，不论是从理论上说还是通过实践检验，都是站得住脚的。此法专用字旁。如“子”空用“子”，“卯”空用“卯”等等，此为“填实法”，其余“六合法”、“六冲法”、“三会法”、“三合法”则需辨别旺衰，依理而为。比如“子”空，“丑”合可以解空；“午”冲可以解空，等等。姓名中必须包含“丑”、“午”字或偏旁，如“好”含“子”、“纽”含“丑”------以上为日空解法。年空解法，略有不同，除了用日空之法，还需辨明空在何柱，配合三元九运，选择旺星临宫之时方可。\r\n\r\n2、八字空亡化解法一\r\n\r\n空亡逢合、会、冲可以解空亡，逢 天乙贵人 、 月德贵人 等可以解空，但相对福力因解空而锐减。也就是说此人亦有福气，然而难免有坎坷的人生，所以要多结交朋友，贵人等可以化解空亡。空亡的解法一是八字中空亡摆放相应的属相物件；二是流年空亡在进门或卧室的门头上悬卦一支葫芦，便化空为实。最好是没有切开的木葫芦，而不是人造木质或铜葫芦。 \r\n\r\n\r\n\r\n";
+                            string 空亡 = "《空亡》\r\n\r\n一、什么是空亡\r\n\r\n一组干支的组合是十个天干十二个地支相互组合的，一个天干配一个地支，这样十个天干只能配十个地支，剩下的两个地支就被空出来了，没有天干相配，这就是空亡的预测学的最简单的道理，还有一种空亡是四大空亡，他的原理是 纳音 来说的，为甲子甲午不见水，甲寅 甲申 不见金，也就是说在这四个旬里面，干脆没有金水 五行 元素参与，没有就是空。空亡与四大空亡在实际预测中，作用一样，都是表示变化，没有的。\r\n\r\n（年柱、月柱、日柱、时柱）中，某一柱的天干地支组合属于甲子、甲午、甲寅或甲申旬，且其余三柱的纳音五行中完全没有金或水，则可以视为符合“四大空亡”的条件。\r\n\r\n当四柱中的某柱（比如甲子旬）在纳音五行中缺乏某种五行（比如水）时，表示此五行力量在八字中被削弱甚至虚无，可能会对命主的某些运势或生活领域产生以下影响。\r\n\r\n二、八字神煞空亡的查法\r\n\r\n天干有十位，地支却有十二位，这就使得天干地支无法一对一对应起来，必然有两个地支上面没有天干来配对，这两个地支就叫做空亡。以年柱和日柱为主，观他支中见者为空亡。\r\n\r\n查法口诀：“甲子旬中戌亥空，甲戌旬中申酉空，甲申旬中午未空，甲午旬中辰巳空，甲辰旬中寅卯空，甲寅旬中子丑空。”\r\n\r\n“甲子旬中戌亥空” 意为“甲子、乙丑、丙寅、丁卯、戊辰、已巳、庚午、辛未、壬申、癸酉”空亡为戌和亥。\r\n\r\n“甲戌旬中申酉空” 意为“甲戌、乙亥、丙子、丁丑、戊寅、已卯、庚辰、辛巳、壬午、癸未”的空亡为申和酉。\r\n\r\n“甲申旬中午未空”意为“甲申、乙酉、丙戌、丁亥、戊子、已丑、庚寅、辛卯、壬辰、癸巳”的空亡为午和未。\r\n\r\n“甲午旬中辰巳空”意为“甲午、乙未、丙申、丁酉、戊戌、已亥、庚子、辛丑、壬寅、癸卯”的空亡为辰和巳。\r\n\r\n“甲辰旬中寅卯空”意为“甲辰、乙巳、丙午、丁未、戊申、已酉、庚戌、辛亥、壬子、癸丑”的空亡为寅和卯。\r\n\r\n“甲寅旬中子丑空”意为“甲寅、乙卯、丙辰、丁巳、戊午、已未、庚申、辛酉、壬戌、癸亥”的空亡为子和丑。 \r\n\r\n三、八字空亡透解\r\n\r\n空亡在 四柱预测 中，既不能归于正五行中,又不能归于 神煞 之中。其作用力，比一切 神煞 的作用都大。吉空不吉，凶空亡也不凶。在没有其他的神煞组合的情况下，通常趋向于凶的成份多一些。\r\n\r\n“空”对实而言；“亡”对有而言。“空亡”就是没有，不存在，或者时间未到。因为天干是十个；而地支是十二个，在干支组合中，会有两个地支轮空。例如甲子旬中“戌、亥”空。甲戌旬中“申、酉”空；在六个旬中，每个旬，总会有两个轮空。\r\n\r\n在命理上，对空亡是有说道的。比如甲子旬中，戌亥空。到了戌、亥这两天，就叫“出空”，“出空”则不空。四柱虽有空亡，但有冲、有合、有刑不为空。反之，才是真空。吉神空而喜见合；凶神空而忌见合。对“空亡”，可查命书“六甲空亡”。知空亡日在何旬。或所指旬中，何日空亡，书中有表可见。\r\n\r\n甲子旬中空戌亥、甲戌旬中空申酉；甲申旬中空午未、甲午旬中空辰已；甲辰旬中空寅卯、甲寅旬中空子丑\r\n\r\n 对空亡的认识多半集中在四句话“年柱空亡，祖宗无缘；月柱空亡，父母无缘；日柱空亡，夫妇无缘；时柱空亡，子女无缘”。\r\n\r\n四、八字空亡如何化解\r\n\r\n1、八字空亡化解法一\r\n\r\n而用姓名化解空亡之法，不论是从理论上说还是通过实践检验，都是站得住脚的。此法专用字旁。如“子”空用“子”，“卯”空用“卯”等等，此为“填实法”，其余“六合法”、“六冲法”、“三会法”、“三合法”则需辨别旺衰，依理而为。比如“子”空，“丑”合可以解空；“午”冲可以解空，等等。姓名中必须包含“丑”、“午”字或偏旁，如“好”含“子”、“纽”含“丑”------以上为日空解法。年空解法，略有不同，除了用日空之法，还需辨明空在何柱，配合三元九运，选择旺星临宫之时方可。\r\n\r\n2、八字空亡化解法一\r\n\r\n空亡逢合、会、冲可以解空亡，逢 天乙贵人 、 月德贵人 等可以解空，但相对福力因解空而锐减。也就是说此人亦有福气，然而难免有坎坷的人生，所以要多结交朋友，贵人等可以化解空亡。空亡的解法一是八字中空亡摆放相应的属相物件；二是流年空亡在进门或卧室的门头上悬卦一支葫芦，便化空为实。最好是没有切开的木葫芦，而不是人造木质或铜葫芦。 \r\n";
 
                             命局神煞 += 空亡;
                         }
@@ -41748,14 +43234,14 @@ namespace BaZiFuZuGongJu
                     if (jia == jia)
                     {
                         int 天罗地网真假 = 0;
-                        if (wuxingguilei == 4)
+                        if (wuxingguilein == 4)
                         {
                             if (rdz == xuu || rdz == hai)
                             {
                                 rdztianluodiwang = 1; Labelndzss2.Text += "天罗-"; 天罗地网真假 = 1;
                             }
                         }
-                        if (wuxingguilei == 2 || wuxingguilei == 5)
+                        if (wuxingguilein == 2 || wuxingguilein == 5)
                         {
                             if (rdz == chen || rdz == sii)
                             {
@@ -41978,7 +43464,7 @@ namespace BaZiFuZuGongJu
                     {
                         int 学堂真假 = 0;
 
-                        if (wuxingguilei == 1)
+                        if (wuxingguilein == 1)
                         {
                             if (ydz == sii)
                             {
@@ -41993,7 +43479,7 @@ namespace BaZiFuZuGongJu
                                 sdzxuetang = 1; Labelsdzss1.Text += "学堂-"; 学堂真假 = 1;
                             }
                         }
-                        if (wuxingguilei == 2)
+                        if (wuxingguilein == 2)
                         {
                             if (ydz == shen)
                             {
@@ -42008,7 +43494,7 @@ namespace BaZiFuZuGongJu
                                 sdzxuetang = 1; Labelsdzss1.Text += "学堂-"; 学堂真假 = 1;
                             }
                         }
-                        if (wuxingguilei == 3)
+                        if (wuxingguilein == 3)
                         {
                             if (ydz == hai)
                             {
@@ -42023,7 +43509,7 @@ namespace BaZiFuZuGongJu
                                 sdzxuetang = 1; Labelsdzss1.Text += "学堂-"; 学堂真假 = 1;
                             }
                         }
-                        if (wuxingguilei == 4)
+                        if (wuxingguilein == 4)
                         {
                             if (ydz == yin)
                             {
@@ -42038,7 +43524,7 @@ namespace BaZiFuZuGongJu
                                 sdzxuetang = 1; Labelsdzss1.Text += "学堂-"; 学堂真假 = 1;
                             }
                         }
-                        if (wuxingguilei == 5)
+                        if (wuxingguilein == 5)
                         {
                             if (ydz == shen)
                             {
@@ -49540,7 +51026,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (wuxingguilei == 1 || wuxingguilei == 3)
+                        if (wuxingguilein == 1 || wuxingguilein == 3)
                         {
                             if (rdz == wuma || rdz == mao)
                             {
@@ -49552,7 +51038,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (wuxingguilei == 2 || wuxingguilei == 4)
+                        if (wuxingguilein == 2 || wuxingguilein == 4)
                         {
                             if (rdz == you || rdz == xuu)
                             {
@@ -49564,7 +51050,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (wuxingguilei == 5)
+                        if (wuxingguilein == 5)
                         {
                             if (rdz == chen || rdz == sii)
                             {
@@ -49586,754 +51072,7 @@ namespace BaZiFuZuGongJu
                     }
 
                 }
-                //四柱纳音
-                if (jia == jia)
-                {
-                    //年纳音
-                    //金
-                    if (ntg == jia && ndz == zii || ntg == yii && ndz == chou)
-                    {
-                        button10.Text = "海中金";
-                        button10.BackColor = Color.Black;
-                        button10.ForeColor = Color.Gold;
-                    }
-                    if (ntg == jia && ndz == wuma || ntg == yii && ndz == wei)
-                    {
-                        button10.Text = "沙中金";
-                        button10.BackColor = Color.Black;
-                        button10.ForeColor = Color.Gold;
-                    }
-                    if (ntg == ren && ndz == yin || ntg == gui && ndz == mao)
-                    {
-                        button10.Text = "金箔金";
-                        button10.BackColor = Color.Black;
-                        button10.ForeColor = Color.Gold;
-                    }
-                    if (ntg == ren && ndz == shen || ntg == gui && ndz == you)
-                    {
-                        button10.Text = "剑锋金";
-                        button10.BackColor = Color.Black;
-                        button10.ForeColor = Color.Gold;
-                    }
-                    if (ntg == geng && ndz == chen || ntg == xin && ndz == sii)
-                    {
-                        button10.Text = "白蜡金";
-                        button10.BackColor = Color.Black;
-                        button10.ForeColor = Color.Gold;
-                    }
-                    if (ntg == geng && ndz == xuu || ntg == xin && ndz == hai)
-                    {
-                        button10.Text = "钗钏金";
-                        button10.BackColor = Color.Black;
-                        button10.ForeColor = Color.Gold;
-                    }
-                    //木
-                    if (ntg == ren && ndz == zii || ntg == gui && ndz == chou)
-                    {
-                        button10.Text = "桑拓木";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.Green;
-                    }
-                    if (ntg == ren && ndz == wuma || ntg == gui && ndz == wei)
-                    {
-                        button10.Text = "杨柳木";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.Green;
-                    }
-                    if (ntg == geng && ndz == yin || ntg == xin && ndz == mao)
-                    {
-                        button10.Text = "松柏木";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.Green;
-                    }
-                    if (ntg == geng && ndz == shen || ntg == xin && ndz == you)
-                    {
-                        button10.Text = "石榴木";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.Green;
-                    }
-                    if (ntg == wuu && ndz == chen || ntg == jii && ndz == sii)
-                    {
-                        button10.Text = "大林木";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.Green;
-                    }
-                    if (ntg == wuu && ndz == xuu || ntg == jii && ndz == hai)
-                    {
-                        button10.Text = "平地木";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.Green;
-                    }
-                    //土
-                    if (ntg == geng && ndz == zii || ntg == xin && ndz == chou)
-                    {
-                        button10.Text = "壁上土";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.Sienna;
-                    }
-                    if (ntg == geng && ndz == wuma || ntg == xin && ndz == wei)
-                    {
-                        button10.Text = "路旁土";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.Sienna;
-                    }
-                    if (ntg == wuu && ndz == yin || ntg == jii && ndz == mao)
-                    {
-                        button10.Text = "城头土";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.Sienna;
-                    }
-                    if (ntg == wuu && ndz == shen || ntg == jii && ndz == you)
-                    {
-                        button10.Text = "大驿土";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.Sienna;
-                    }
-                    if (ntg == bing && ndz == chen || ntg == ding && ndz == sii)
-                    {
-                        button10.Text = "沙中土";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.Sienna;
-                    }
-                    if (ntg == bing && ndz == xuu || ntg == ding && ndz == hai)
-                    {
-                        button10.Text = "屋上土";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.Sienna;
-                    }
-                    //水
-                    if (ntg == bing && ndz == zii || ntg == ding && ndz == chou)
-                    {
-                        button10.Text = "涧下水";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.DodgerBlue;
-                    }
-                    if (ntg == bing && ndz == wuma || ntg == ding && ndz == wei)
-                    {
-                        button10.Text = "天河水";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.DodgerBlue;
-                    }
-                    if (ntg == jia && ndz == yin || ntg == yii && ndz == mao)
-                    {
-                        button10.Text = "大溪水";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.DodgerBlue;
-                    }
-                    if (ntg == jia && ndz == shen || ntg == yii && ndz == you)
-                    {
-                        button10.Text = "井泉水";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.DodgerBlue;
-                    }
-                    if (ntg == ren && ndz == chen || ntg == gui && ndz == sii)
-                    {
-                        button10.Text = "长流水";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.DodgerBlue;
-                    }
-                    if (ntg == ren && ndz == xuu || ntg == gui && ndz == hai)
-                    {
-                        button10.Text = "大海水";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.DodgerBlue;
-                    }
-                    //火
-                    if (ntg == wuu && ndz == zii || ntg == jii && ndz == chou)
-                    {
-                        button10.Text = "霹雳火";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.Red;
-                    }
-                    if (ntg == wuu && ndz == wuma || ntg == jii && ndz == wei)
-                    {
-                        button10.Text = "天上火";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.Red;
-                    }
-                    if (ntg == bing && ndz == yin || ntg == ding && ndz == mao)
-                    {
-                        button10.Text = "炉中火";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.Red;
-                    }
-                    if (ntg == bing && ndz == shen || ntg == ding && ndz == you)
-                    {
-                        button10.Text = "山下火";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.Red;
-                    }
-                    if (ntg == jia && ndz == chen || ntg == yii && ndz == sii)
-                    {
-                        button10.Text = "覆灯火";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.Red;
-                    }
-                    if (ntg == jia && ndz == xuu || ntg == yii && ndz == hai)
-                    {
-                        button10.Text = "山头火";
-                        button10.BackColor = Color.White;
-                        button10.ForeColor = Color.Red;
-                    }
-                    //月纳音
-                    //金
-                    if (ytg == jia && ydz == zii || ytg == yii && ydz == chou)
-                    {
-                        button11.Text = "海中金";
-                        button11.BackColor = Color.Black;
-                        button11.ForeColor = Color.Gold;
-                    }
-                    if (ytg == jia && ydz == wuma || ytg == yii && ydz == wei)
-                    {
-                        button11.Text = "沙中金";
-                        button11.BackColor = Color.Black;
-                        button11.ForeColor = Color.Gold;
-                    }
-                    if (ytg == ren && ydz == yin || ytg == gui && ydz == mao)
-                    {
-                        button11.Text = "金箔金";
-                        button11.BackColor = Color.Black;
-                        button11.ForeColor = Color.Gold;
-                    }
-                    if (ytg == ren && ydz == shen || ytg == gui && ydz == you)
-                    {
-                        button11.Text = "剑锋金";
-                        button11.BackColor = Color.Black;
-                        button11.ForeColor = Color.Gold;
-                    }
-                    if (ytg == geng && ydz == chen || ytg == xin && ydz == sii)
-                    {
-                        button11.Text = "白蜡金";
-                        button11.BackColor = Color.Black;
-                        button11.ForeColor = Color.Gold;
-                    }
-                    if (ytg == geng && ydz == xuu || ytg == xin && ydz == hai)
-                    {
-                        button11.Text = "钗钏金";
-                        button11.BackColor = Color.Black;
-                        button11.ForeColor = Color.Gold;
-                    }
-                    //木
-                    if (ytg == ren && ydz == zii || ytg == gui && ydz == chou)
-                    {
-                        button11.Text = "桑拓木";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.Green;
-                    }
-                    if (ytg == ren && ydz == wuma || ytg == gui && ydz == wei)
-                    {
-                        button11.Text = "杨柳木";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.Green;
-                    }
-                    if (ytg == geng && ydz == yin || ytg == xin && ydz == mao)
-                    {
-                        button11.Text = "松柏木";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.Green;
-                    }
-                    if (ytg == geng && ydz == shen || ytg == xin && ydz == you)
-                    {
-                        button11.Text = "石榴木";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.Green;
-                    }
-                    if (ytg == wuu && ydz == chen || ytg == jii && ydz == sii)
-                    {
-                        button11.Text = "大林木";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.Green;
-                    }
-                    if (ytg == wuu && ydz == xuu || ytg == jii && ydz == hai)
-                    {
-                        button11.Text = "平地木";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.Green;
-                    }
-                    //土
-                    if (ytg == geng && ydz == zii || ytg == xin && ydz == chou)
-                    {
-                        button11.Text = "壁上土";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.Sienna;
-                    }
-                    if (ytg == geng && ydz == wuma || ytg == xin && ydz == wei)
-                    {
-                        button11.Text = "路旁土";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.Sienna;
-                    }
-                    if (ytg == wuu && ydz == yin || ytg == jii && ydz == mao)
-                    {
-                        button11.Text = "城头土";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.Sienna;
-                    }
-                    if (ytg == wuu && ydz == shen || ytg == jii && ydz == you)
-                    {
-                        button11.Text = "大驿土";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.Sienna;
-                    }
-                    if (ytg == bing && ydz == chen || ytg == ding && ydz == sii)
-                    {
-                        button11.Text = "沙中土";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.Sienna;
-                    }
-                    if (ytg == bing && ydz == xuu || ytg == ding && ydz == hai)
-                    {
-                        button11.Text = "屋上土";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.Sienna;
-                    }
-                    //水
-                    if (ytg == bing && ydz == zii || ytg == ding && ydz == chou)
-                    {
-                        button11.Text = "涧下水";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.DodgerBlue;
-                    }
-                    if (ytg == bing && ydz == wuma || ytg == ding && ydz == wei)
-                    {
-                        button11.Text = "天河水";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.DodgerBlue;
-                    }
-                    if (ytg == jia && ydz == yin || ytg == yii && ydz == mao)
-                    {
-                        button11.Text = "大溪水";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.DodgerBlue;
-                    }
-                    if (ytg == jia && ydz == shen || ytg == yii && ydz == you)
-                    {
-                        button11.Text = "井泉水";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.DodgerBlue;
-                    }
-                    if (ytg == ren && ydz == chen || ytg == gui && ydz == sii)
-                    {
-                        button11.Text = "长流水";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.DodgerBlue;
-                    }
-                    if (ytg == ren && ydz == xuu || ytg == gui && ydz == hai)
-                    {
-                        button11.Text = "大海水";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.DodgerBlue;
-                    }
-                    //火
-                    if (ytg == wuu && ydz == zii || ytg == jii && ydz == chou)
-                    {
-                        button11.Text = "霹雳火";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.Red;
-                    }
-                    if (ytg == wuu && ydz == wuma || ytg == jii && ydz == wei)
-                    {
-                        button11.Text = "天上火";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.Red;
-                    }
-                    if (ytg == bing && ydz == yin || ytg == ding && ydz == mao)
-                    {
-                        button11.Text = "炉中火";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.Red;
-                    }
-                    if (ytg == bing && ydz == shen || ytg == ding && ydz == you)
-                    {
-                        button11.Text = "山下火";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.Red;
-                    }
-                    if (ytg == jia && ydz == chen || ytg == yii && ydz == sii)
-                    {
-                        button11.Text = "覆灯火";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.Red;
-                    }
-                    if (ytg == jia && ydz == xuu || ytg == yii && ydz == hai)
-                    {
-                        button11.Text = "山头火";
-                        button11.BackColor = Color.White;
-                        button11.ForeColor = Color.Red;
-                    }
-                    //日纳音
-                    //金
-                    if (rtg == jia && rdz == zii || rtg == yii && rdz == chou)
-                    {
-                        button12.Text = "海中金";
-                        button12.BackColor = Color.Black;
-                        button12.ForeColor = Color.Gold;
-                    }
-                    if (rtg == jia && rdz == wuma || rtg == yii && rdz == wei)
-                    {
-                        button12.Text = "沙中金";
-                        button12.BackColor = Color.Black;
-                        button12.ForeColor = Color.Gold;
-                    }
-                    if (rtg == ren && rdz == yin || rtg == gui && rdz == mao)
-                    {
-                        button12.Text = "金箔金";
-                        button12.BackColor = Color.Black;
-                        button12.ForeColor = Color.Gold;
-                    }
-                    if (rtg == ren && rdz == shen || rtg == gui && rdz == you)
-                    {
-                        button12.Text = "剑锋金";
-                        button12.BackColor = Color.Black;
-                        button12.ForeColor = Color.Gold;
-                    }
-                    if (rtg == geng && rdz == chen || rtg == xin && rdz == sii)
-                    {
-                        button12.Text = "白蜡金";
-                        button12.BackColor = Color.Black;
-                        button12.ForeColor = Color.Gold;
-                    }
-                    if (rtg == geng && rdz == xuu || rtg == xin && rdz == hai)
-                    {
-                        button12.Text = "钗钏金";
-                        button12.BackColor = Color.Black;
-                        button12.ForeColor = Color.Gold;
-                    }
-                    //木
-                    if (rtg == ren && rdz == zii || rtg == gui && rdz == chou)
-                    {
-                        button12.Text = "桑拓木";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.Green;
-                    }
-                    if (rtg == ren && rdz == wuma || rtg == gui && rdz == wei)
-                    {
-                        button12.Text = "杨柳木";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.Green;
-                    }
-                    if (rtg == geng && rdz == yin || rtg == xin && rdz == mao)
-                    {
-                        button12.Text = "松柏木";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.Green;
-                    }
-                    if (rtg == geng && rdz == shen || rtg == xin && rdz == you)
-                    {
-                        button12.Text = "石榴木";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.Green;
-                    }
-                    if (rtg == wuu && rdz == chen || rtg == jii && rdz == sii)
-                    {
-                        button12.Text = "大林木";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.Green;
-                    }
-                    if (rtg == wuu && rdz == xuu || rtg == jii && rdz == hai)
-                    {
-                        button12.Text = "平地木";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.Green;
-                    }
-                    //土
-                    if (rtg == geng && rdz == zii || rtg == xin && rdz == chou)
-                    {
-                        button12.Text = "壁上土";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.Sienna;
-                    }
-                    if (rtg == geng && rdz == wuma || rtg == xin && rdz == wei)
-                    {
-                        button12.Text = "路旁土";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.Sienna;
-                    }
-                    if (rtg == wuu && rdz == yin || rtg == jii && rdz == mao)
-                    {
-                        button12.Text = "城头土";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.Sienna;
-                    }
-                    if (rtg == wuu && rdz == shen || rtg == jii && rdz == you)
-                    {
-                        button12.Text = "大驿土";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.Sienna;
-                    }
-                    if (rtg == bing && rdz == chen || rtg == ding && rdz == sii)
-                    {
-                        button12.Text = "沙中土";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.Sienna;
-                    }
-                    if (rtg == bing && rdz == xuu || rtg == ding && rdz == hai)
-                    {
-                        button12.Text = "屋上土";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.Sienna;
-                    }
-                    //水
-                    if (rtg == bing && rdz == zii || rtg == ding && rdz == chou)
-                    {
-                        button12.Text = "涧下水";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.DodgerBlue;
-                    }
-                    if (rtg == bing && rdz == wuma || rtg == ding && rdz == wei)
-                    {
-                        button12.Text = "天河水";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.DodgerBlue;
-                    }
-                    if (rtg == jia && rdz == yin || rtg == yii && rdz == mao)
-                    {
-                        button12.Text = "大溪水";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.DodgerBlue;
-                    }
-                    if (rtg == jia && rdz == shen || rtg == yii && rdz == you)
-                    {
-                        button12.Text = "井泉水";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.DodgerBlue;
-                    }
-                    if (rtg == ren && rdz == chen || rtg == gui && rdz == sii)
-                    {
-                        button12.Text = "长流水";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.DodgerBlue;
-                    }
-                    if (rtg == ren && rdz == xuu || rtg == gui && rdz == hai)
-                    {
-                        button12.Text = "大海水";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.DodgerBlue;
-                    }
-                    //火
-                    if (rtg == wuu && rdz == zii || rtg == jii && rdz == chou)
-                    {
-                        button12.Text = "霹雳火";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.Red;
-                    }
-                    if (rtg == wuu && rdz == wuma || rtg == jii && rdz == wei)
-                    {
-                        button12.Text = "天上火";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.Red;
-                    }
-                    if (rtg == bing && rdz == yin || rtg == ding && rdz == mao)
-                    {
-                        button12.Text = "炉中火";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.Red;
-                    }
-                    if (rtg == bing && rdz == shen || rtg == ding && rdz == you)
-                    {
-                        button12.Text = "山下火";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.Red;
-                    }
-                    if (rtg == jia && rdz == chen || rtg == yii && rdz == sii)
-                    {
-                        button12.Text = "覆灯火";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.Red;
-                    }
-                    if (rtg == jia && rdz == xuu || rtg == yii && rdz == hai)
-                    {
-                        button12.Text = "山头火";
-                        button12.BackColor = Color.White;
-                        button12.ForeColor = Color.Red;
-                    }
-                    //时纳音
-                    //金
-                    if (stg == jia && sdz == zii || stg == yii && sdz == chou)
-                    {
-                        button25.Text = "海中金";
-                        button25.BackColor = Color.Black;
-                        button25.ForeColor = Color.Gold;
-                    }
-                    if (stg == jia && sdz == wuma || stg == yii && sdz == wei)
-                    {
-                        button25.Text = "沙中金";
-                        button25.BackColor = Color.Black;
-                        button25.ForeColor = Color.Gold;
-                    }
-                    if (stg == ren && sdz == yin || stg == gui && sdz == mao)
-                    {
-                        button25.Text = "金箔金";
-                        button25.BackColor = Color.Black;
-                        button25.ForeColor = Color.Gold;
-                    }
-                    if (stg == ren && sdz == shen || stg == gui && sdz == you)
-                    {
-                        button25.Text = "剑锋金";
-                        button25.BackColor = Color.Black;
-                        button25.ForeColor = Color.Gold;
-                    }
-                    if (stg == geng && sdz == chen || stg == xin && sdz == sii)
-                    {
-                        button25.Text = "白蜡金";
-                        button25.BackColor = Color.Black;
-                        button25.ForeColor = Color.Gold;
-                    }
-                    if (stg == geng && sdz == xuu || stg == xin && sdz == hai)
-                    {
-                        button25.Text = "钗钏金";
-                        button25.BackColor = Color.Black;
-                        button25.ForeColor = Color.Gold;
-                    }
-                    //木
-                    if (stg == ren && sdz == zii || stg == gui && sdz == chou)
-                    {
-                        button25.Text = "桑拓木";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.Green;
-                    }
-                    if (stg == ren && sdz == wuma || stg == gui && sdz == wei)
-                    {
-                        button25.Text = "杨柳木";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.Green;
-                    }
-                    if (stg == geng && sdz == yin || stg == xin && sdz == mao)
-                    {
-                        button25.Text = "松柏木";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.Green;
-                    }
-                    if (stg == geng && sdz == shen || stg == xin && sdz == you)
-                    {
-                        button25.Text = "石榴木";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.Green;
-                    }
-                    if (stg == wuu && sdz == chen || stg == jii && sdz == sii)
-                    {
-                        button25.Text = "大林木";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.Green;
-                    }
-                    if (stg == wuu && sdz == xuu || stg == jii && sdz == hai)
-                    {
-                        button25.Text = "平地木";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.Green;
-                    }
-                    //土
-                    if (stg == geng && sdz == zii || stg == xin && sdz == chou)
-                    {
-                        button25.Text = "壁上土";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.Sienna;
-                    }
-                    if (stg == geng && sdz == wuma || stg == xin && sdz == wei)
-                    {
-                        button25.Text = "路旁土";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.Sienna;
-                    }
-                    if (stg == wuu && sdz == yin || stg == jii && sdz == mao)
-                    {
-                        button25.Text = "城头土";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.Sienna;
-                    }
-                    if (stg == wuu && sdz == shen || stg == jii && sdz == you)
-                    {
-                        button25.Text = "大驿土";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.Sienna;
-                    }
-                    if (stg == bing && sdz == chen || stg == ding && sdz == sii)
-                    {
-                        button25.Text = "沙中土";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.Sienna;
-                    }
-                    if (stg == bing && sdz == xuu || stg == ding && sdz == hai)
-                    {
-                        button25.Text = "屋上土";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.Sienna;
-                    }
-                    //水
-                    if (stg == bing && sdz == zii || stg == ding && sdz == chou)
-                    {
-                        button25.Text = "涧下水";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.DodgerBlue;
-                    }
-                    if (stg == bing && sdz == wuma || stg == ding && sdz == wei)
-                    {
-                        button25.Text = "天河水";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.DodgerBlue;
-                    }
-                    if (stg == jia && sdz == yin || stg == yii && sdz == mao)
-                    {
-                        button25.Text = "大溪水";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.DodgerBlue;
-                    }
-                    if (stg == jia && sdz == shen || stg == yii && sdz == you)
-                    {
-                        button25.Text = "井泉水";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.DodgerBlue;
-                    }
-                    if (stg == ren && sdz == chen || stg == gui && sdz == sii)
-                    {
-                        button25.Text = "长流水";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.DodgerBlue;
-                    }
-                    if (stg == ren && sdz == xuu || stg == gui && sdz == hai)
-                    {
-                        button25.Text = "大海水";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.DodgerBlue;
-                    }
-                    //火
-                    if (stg == wuu && sdz == zii || stg == jii && sdz == chou)
-                    {
-                        button25.Text = "霹雳火";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.Red;
-                    }
-                    if (stg == wuu && sdz == wuma || stg == jii && sdz == wei)
-                    {
-                        button25.Text = "天上火";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.Red;
-                    }
-                    if (stg == bing && sdz == yin || stg == ding && sdz == mao)
-                    {
-                        button25.Text = "炉中火";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.Red;
-                    }
-                    if (stg == bing && sdz == shen || stg == ding && sdz == you)
-                    {
-                        button25.Text = "山下火";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.Red;
-                    }
-                    if (stg == jia && sdz == chen || stg == yii && sdz == sii)
-                    {
-                        button25.Text = "覆灯火";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.Red;
-                    }
-                    if (stg == jia && sdz == xuu || stg == yii && sdz == hai)
-                    {
-                        button25.Text = "山头火";
-                        button25.BackColor = Color.White;
-                        button25.ForeColor = Color.Red;
-                    }
-                }
+
                 //命盘阴阳
                 if (jia == jia)
                 {
