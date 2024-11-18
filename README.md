@@ -6,8 +6,8 @@
 
 
 
-![Snipaste_2024-11-16_16-22-36](https://github.com/user-attachments/assets/a57a3f3a-48e3-4534-9b69-7764f0486d8a)
 
+![Snipaste_2024-11-18_11-23-25](https://github.com/user-attachments/assets/7e177e40-4279-496c-9cfb-15f42eafdc43)
 
 
 
