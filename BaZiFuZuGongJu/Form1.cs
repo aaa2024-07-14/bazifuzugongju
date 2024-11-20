@@ -759,16 +759,16 @@ namespace BaZiFuZuGongJu
                     Label7.Text = ""; Label16.Text = ""; Label34.Text = ""; Label57.Text = "";
                     Label11.Text = ""; Label14.Text = ""; Label19.Text = ""; Label47.Text = "";
                     Label75.Visible = false; Label74.Visible = false; Label73.Visible = false; Label72.Visible = false;
-                    buttonlnssng.Visible = false; buttonlnssnz.Visible = false; buttonlnssyg.Visible = false;
-                    buttonlnssyz.Visible = false; buttonlnssrg.Visible = false; buttonlnssrz.Visible = false;
-                    buttonlnsssg.Visible = false; buttonlnsssz.Visible = false; bazipingfen = 0;
+                    labellnssng.Visible = false; labellnssnz.Visible = false; labellnssyg.Visible = false;
+                    labellnssyz.Visible = false; labellnssrg.Visible = false; labellnssrz.Visible = false;
+                    labellnsssg.Visible = false; labellnsssz.Visible = false; bazipingfen = 0;
                     Label20.Visible = false; qiangro3 = 0; yinyang = 0;
                     Labelndzss2.Text = ""; Labelydzss2.Text = ""; Labelrdzss2.Text = ""; Labelsdzss2.Text = "";
-                    buttonng.Visible = false; buttonng.Text = ""; buttonnz.Visible = false; buttonnz.Text = "";
-                    buttonyg.Visible = false; buttonyg.Text = ""; buttonyz.Visible = false; buttonyz.Text = "";
+                    labellnng.Visible = false; labellnng.Text = ""; labellnnz.Visible = false; labellnnz.Text = "";
+                    labellnyg.Visible = false; labellnyg.Text = ""; labellnyz.Visible = false; labellnyz.Text = "";
 
-                    buttonrg.Visible = false; buttonrg.Text = ""; buttonrz.Visible = false; buttonrz.Text = "";
-                    buttonsg.Visible = false; buttonsg.Text = ""; buttonsz.Visible = false; buttonsz.Text = "";
+                    labellnrg.Visible = false; labellnrg.Text = ""; labellnrz.Visible = false; labellnrz.Text = "";
+                    labellnsg.Visible = false; labellnsg.Text = ""; labellnsz.Visible = false; labellnsz.Text = "";
                     Label65.Visible = false; Label21.Visible = false; Label71.Visible = false; Label70.Visible = false;
                     Labellnnhs.Visible = false; Label68.Visible = false; Label67.Visible = false; Label66.Visible = false;
                     ; Labelncsn.Text = ""; Labelncsy.Text = ""; 命局神煞 = "";
@@ -56001,209 +56001,209 @@ namespace BaZiFuZuGongJu
                     Label11.Text = ""; Label14.Text = ""; Label19.Text = ""; Label47.Text = "";
                     Label65.Text = ""; Label21.Text = ""; Label71.Text = ""; Label70.Text = "";
                     Labellnnhs.Text = ""; Label68.Text = ""; Label67.Text = ""; Label66.Text = "";
-                    buttonng.BackColor = Color.White; buttonyg.BackColor = Color.White; buttonrg.BackColor = Color.White; buttonsg.BackColor = Color.White;
-                    buttonnz.BackColor = Color.White; buttonyz.BackColor = Color.White; buttonrz.BackColor = Color.White; buttonsz.BackColor = Color.White;
+                    labellnng.BackColor = Color.White; labellnyg.BackColor = Color.White; labellnrg.BackColor = Color.White; labellnsg.BackColor = Color.White;
+                    labellnnz.BackColor = Color.White; labellnyz.BackColor = Color.White; labellnrz.BackColor = Color.White; labellnsz.BackColor = Color.White;
 
                     Label75.Visible = true; Label74.Visible = true; Label73.Visible = true; Label72.Visible = true;
-                    buttonlnssng.Visible = true; buttonlnssnz.Visible = true; buttonlnssyg.Visible = true;
-                    buttonlnssyz.Visible = true; buttonlnssrg.Visible = true; buttonlnssrz.Visible = true;
-                    buttonlnsssg.Visible = true; buttonlnsssz.Visible = true;
+                    labellnssng.Visible = true; labellnssnz.Visible = true; labellnssyg.Visible = true;
+                    labellnssyz.Visible = true; labellnssrg.Visible = true; labellnssrz.Visible = true;
+                    labellnsssg.Visible = true; labellnsssz.Visible = true;
 
                     Label20.Visible = true;
-                    buttonng.Visible = true; buttonng.Text = ""; buttonnz.Visible = true; buttonnz.Text = "";
-                    buttonyg.Visible = true; buttonyg.Text = ""; buttonyz.Visible = true; buttonyz.Text = "";
+                    labellnng.Visible = true; labellnng.Text = ""; labellnnz.Visible = true; labellnnz.Text = "";
+                    labellnyg.Visible = true; labellnyg.Text = ""; labellnyz.Visible = true; labellnyz.Text = "";
                     Label65.Visible = true; Label21.Visible = true; Label71.Visible = true; Label70.Visible = true;
                     Labellnnhs.Visible = true; Label68.Visible = true; Label67.Visible = true; Label66.Visible = true;
-                    buttonrg.Visible = true; buttonrg.Text = ""; buttonrz.Visible = true; buttonrz.Text = "";
-                    buttonsg.Visible = true; buttonsg.Text = ""; buttonsz.Visible = true; buttonsz.Text = "";
+                    labellnrg.Visible = true; labellnrg.Text = ""; labellnrz.Visible = true; labellnrz.Text = "";
+                    labellnsg.Visible = true; labellnsg.Text = ""; labellnsz.Visible = true; labellnsz.Text = "";
 
                 }
                 //排盘
                 if (jia == jia)
                 {
-                    buttonng.Text = comboBoxng.Text; lnntg = buttonng.Text; buttonnz.Text = comboBoxnz.Text; lnndz = buttonnz.Text;
-                    buttonyg.Text = comboBoxyg.Text; lnytg = buttonyg.Text; buttonyz.Text = comboBoxyz.Text; lnydz = buttonyz.Text;
-                    buttonrg.Text = comboBoxrg.Text; lnrtg = buttonrg.Text; buttonrz.Text = comboBoxrz.Text; lnrdz = buttonrz.Text;
-                    buttonsg.Text = comboBoxsg.Text; lnstg = buttonsg.Text; buttonsz.Text = comboBoxsz.Text; lnsdz = buttonsz.Text;
+                    labellnng.Text = comboBoxng.Text; lnntg = labellnng.Text; labellnnz.Text = comboBoxnz.Text; lnndz = labellnnz.Text;
+                    labellnyg.Text = comboBoxyg.Text; lnytg = labellnyg.Text; labellnyz.Text = comboBoxyz.Text; lnydz = labellnyz.Text;
+                    labellnrg.Text = comboBoxrg.Text; lnrtg = labellnrg.Text; labellnrz.Text = comboBoxrz.Text; lnrdz = labellnrz.Text;
+                    labellnsg.Text = comboBoxsg.Text; lnstg = labellnsg.Text; labellnsz.Text = comboBoxsz.Text; lnsdz = labellnsz.Text;
                 }
                 //干支色彩
                 if (jia == jia)
                 {
                     if (lnntg == jia || lnntg == yii)
                     {
-                        buttonng.ForeColor = Color.Green;
+                        labellnng.ForeColor = Color.Green;
                     }
                     if (lnntg == bing || lnntg == ding)
                     {
-                        buttonng.ForeColor = Color.Red;
+                        labellnng.ForeColor = Color.Red;
                     }
                     if (lnntg == wuu || lnntg == jii)
                     {
-                        buttonng.ForeColor = Color.Sienna;
+                        labellnng.ForeColor = Color.Sienna;
                     }
                     if (lnntg == geng || lnntg == xin)
                     {
-                        buttonng.ForeColor = Color.Gold; buttonng.BackColor = Color.Black;
+                        labellnng.ForeColor = Color.Gold; labellnng.BackColor = Color.Black;
                     }
                     if (lnntg == ren || lnntg == gui)
                     {
-                        buttonng.ForeColor = Color.DodgerBlue;
+                        labellnng.ForeColor = Color.DodgerBlue;
                     }
                     if (lnytg == jia || lnytg == yii)
                     {
-                        buttonyg.ForeColor = Color.Green;
+                        labellnyg.ForeColor = Color.Green;
                     }
                     if (lnytg == bing || lnytg == ding)
                     {
-                        buttonyg.ForeColor = Color.Red;
+                        labellnyg.ForeColor = Color.Red;
                     }
                     if (lnytg == wuu || lnytg == jii)
                     {
-                        buttonyg.ForeColor = Color.Sienna;
+                        labellnyg.ForeColor = Color.Sienna;
                     }
                     if (lnytg == geng || lnytg == xin)
                     {
-                        buttonyg.ForeColor = Color.Gold; buttonyg.BackColor = Color.Black;
+                        labellnyg.ForeColor = Color.Gold; labellnyg.BackColor = Color.Black;
                     }
                     if (lnytg == ren || lnytg == gui)
                     {
-                        buttonyg.ForeColor = Color.DodgerBlue;
+                        labellnyg.ForeColor = Color.DodgerBlue;
                     }
                     if (lnrtg == jia || lnrtg == yii)
                     {
-                        buttonrg.ForeColor = Color.Green;
+                        labellnrg.ForeColor = Color.Green;
                     }
                     if (lnrtg == bing || lnrtg == ding)
                     {
-                        buttonrg.ForeColor = Color.Red;
+                        labellnrg.ForeColor = Color.Red;
                     }
                     if (lnrtg == wuu || lnrtg == jii)
                     {
-                        buttonrg.ForeColor = Color.Sienna;
+                        labellnrg.ForeColor = Color.Sienna;
                     }
                     if (lnrtg == geng || lnrtg == xin)
                     {
-                        buttonrg.ForeColor = Color.Gold; buttonrg.BackColor = Color.Black;
+                        labellnrg.ForeColor = Color.Gold; labellnrg.BackColor = Color.Black;
                     }
                     if (lnrtg == ren || lnrtg == gui)
                     {
-                        buttonrg.ForeColor = Color.DodgerBlue;
+                        labellnrg.ForeColor = Color.DodgerBlue;
                     }
                     if (lnstg == jia || lnstg == yii)
                     {
-                        buttonsg.ForeColor = Color.Green;
+                        labellnsg.ForeColor = Color.Green;
                     }
                     if (lnstg == bing || lnstg == ding)
                     {
-                        buttonsg.ForeColor = Color.Red;
+                        labellnsg.ForeColor = Color.Red;
                     }
                     if (lnstg == wuu || lnstg == jii)
                     {
-                        buttonsg.ForeColor = Color.Sienna;
+                        labellnsg.ForeColor = Color.Sienna;
                     }
                     if (lnstg == geng || lnstg == xin)
                     {
-                        buttonsg.ForeColor = Color.Gold; buttonsg.BackColor = Color.Black;
+                        labellnsg.ForeColor = Color.Gold; labellnsg.BackColor = Color.Black;
                     }
                     if (lnstg == ren || lnstg == gui)
                     {
-                        buttonsg.ForeColor = Color.DodgerBlue;
+                        labellnsg.ForeColor = Color.DodgerBlue;
                     }
                     if (lnndz == yin || lnndz == mao)
                     {
-                        buttonnz.ForeColor = Color.Green;
+                        labellnnz.ForeColor = Color.Green;
                     }
                     if (lnndz == wuma || lnndz == sii)
                     {
-                        buttonnz.ForeColor = Color.Red;
+                        labellnnz.ForeColor = Color.Red;
                     }
                     if (lnndz == chen || lnndz == wei)
                     {
-                        buttonnz.ForeColor = Color.Sienna;
+                        labellnnz.ForeColor = Color.Sienna;
                     }
                     if (lnndz == chou || lnndz == xuu)
                     {
-                        buttonnz.ForeColor = Color.Sienna;
+                        labellnnz.ForeColor = Color.Sienna;
                     }
                     if (lnndz == shen || lnndz == you)
                     {
-                        buttonnz.ForeColor = Color.Gold; buttonnz.BackColor = Color.Black;
+                        labellnnz.ForeColor = Color.Gold; labellnnz.BackColor = Color.Black;
                     }
                     if (lnndz == hai || lnndz == zii)
                     {
-                        buttonnz.ForeColor = Color.DodgerBlue;
+                        labellnnz.ForeColor = Color.DodgerBlue;
                     }
                     if (lnydz == yin || lnydz == mao)
                     {
-                        buttonyz.ForeColor = Color.Green;
+                        labellnyz.ForeColor = Color.Green;
                     }
                     if (lnydz == wuma || lnydz == sii)
                     {
-                        buttonyz.ForeColor = Color.Red;
+                        labellnyz.ForeColor = Color.Red;
                     }
                     if (lnydz == chen || lnydz == wei)
                     {
-                        buttonyz.ForeColor = Color.Sienna;
+                        labellnyz.ForeColor = Color.Sienna;
                     }
                     if (lnydz == chou || lnydz == xuu)
                     {
-                        buttonyz.ForeColor = Color.Sienna;
+                        labellnyz.ForeColor = Color.Sienna;
                     }
                     if (lnydz == shen || lnydz == you)
                     {
-                        buttonyz.ForeColor = Color.Gold; buttonyz.BackColor = Color.Black;
+                        labellnyz.ForeColor = Color.Gold; labellnyz.BackColor = Color.Black;
                     }
                     if (lnydz == hai || lnydz == zii)
                     {
-                        buttonyz.ForeColor = Color.DodgerBlue;
+                        labellnyz.ForeColor = Color.DodgerBlue;
                     }
                     if (lnrdz == yin || lnrdz == mao)
                     {
-                        buttonrz.ForeColor = Color.Green;
+                        labellnrz.ForeColor = Color.Green;
                     }
                     if (lnrdz == wuma || lnrdz == sii)
                     {
-                        buttonrz.ForeColor = Color.Red;
+                        labellnrz.ForeColor = Color.Red;
                     }
                     if (lnrdz == chen || lnrdz == wei)
                     {
-                        buttonrz.ForeColor = Color.Sienna;
+                        labellnrz.ForeColor = Color.Sienna;
                     }
                     if (lnrdz == chou || lnrdz == xuu)
                     {
-                        buttonrz.ForeColor = Color.Sienna;
+                        labellnrz.ForeColor = Color.Sienna;
                     }
                     if (lnrdz == shen || lnrdz == you)
                     {
-                        buttonrz.ForeColor = Color.Gold; buttonrz.BackColor = Color.Black;
+                        labellnrz.ForeColor = Color.Gold; labellnrz.BackColor = Color.Black;
                     }
                     if (lnrdz == hai || lnrdz == zii)
                     {
-                        buttonrz.ForeColor = Color.DodgerBlue;
+                        labellnrz.ForeColor = Color.DodgerBlue;
                     }
                     if (lnsdz == yin || lnsdz == mao)
                     {
-                        buttonsz.ForeColor = Color.Green;
+                        labellnsz.ForeColor = Color.Green;
                     }
                     if (lnsdz == wuma || lnsdz == sii)
                     {
-                        buttonsz.ForeColor = Color.Red;
+                        labellnsz.ForeColor = Color.Red;
                     }
                     if (lnsdz == chen || lnsdz == wei)
                     {
-                        buttonsz.ForeColor = Color.Sienna;
+                        labellnsz.ForeColor = Color.Sienna;
                     }
                     if (lnsdz == chou || lnsdz == xuu)
                     {
-                        buttonsz.ForeColor = Color.Sienna;
+                        labellnsz.ForeColor = Color.Sienna;
                     }
                     if (lnsdz == shen || lnsdz == you)
                     {
-                        buttonsz.ForeColor = Color.Gold; buttonsz.BackColor = Color.Black;
+                        labellnsz.ForeColor = Color.Gold; labellnsz.BackColor = Color.Black;
                     }
                     if (lnsdz == hai || lnsdz == zii)
                     {
-                        buttonsz.ForeColor = Color.DodgerBlue;
+                        labellnsz.ForeColor = Color.DodgerBlue;
                     }
                 }
                 //十神判断
@@ -56214,434 +56214,434 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jia)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == yii)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
 
                         }
                         if (labelrg.Text == bing)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == ding)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == wuu)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == jii)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == geng)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == xin)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == ren)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
                         }
 
                         if (labelrg.Text == gui)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -56649,434 +56649,434 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jia)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == yii)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
 
                         }
                         if (labelrg.Text == bing)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == ding)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == wuu)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == jii)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == geng)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == xin)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == ren)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
                         }
 
                         if (labelrg.Text == gui)
                         {
-                            if (buttonrg.Text == jia)
+                            if (labellnrg.Text == jia)
                             {
-                                buttonlnssrg.Text = shangguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shangguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == yii)
+                            if (labellnrg.Text == yii)
                             {
-                                buttonlnssrg.Text = shishen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = shishen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == bing)
+                            if (labellnrg.Text == bing)
                             {
-                                buttonlnssrg.Text = zhengcai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengcai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == ding)
+                            if (labellnrg.Text == ding)
                             {
-                                buttonlnssrg.Text = piancai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = piancai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == wuu)
+                            if (labellnrg.Text == wuu)
                             {
-                                buttonlnssrg.Text = zhengguan; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = zhengguan; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == jii)
+                            if (labellnrg.Text == jii)
                             {
-                                buttonlnssrg.Text = qisha; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Black;
+                                labellnssrg.Text = qisha; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Black;
                             }
-                            if (buttonrg.Text == geng)
+                            if (labellnrg.Text == geng)
                             {
-                                buttonlnssrg.Text = zhengyin; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = zhengyin; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == xin)
+                            if (labellnrg.Text == xin)
                             {
-                                buttonlnssrg.Text = xiaoshen; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = xiaoshen; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == ren)
+                            if (labellnrg.Text == ren)
                             {
-                                buttonlnssrg.Text = jiecai; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = jiecai; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
-                            if (buttonrg.Text == gui)
+                            if (labellnrg.Text == gui)
                             {
-                                buttonlnssrg.Text = bijian; buttonlnssrg.BackColor = Color.White; buttonlnssrg.ForeColor = Color.Red;
+                                labellnssrg.Text = bijian; labellnssrg.BackColor = Color.White; labellnssrg.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -57084,434 +57084,434 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jia)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == yii)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
 
                         }
                         if (labelrg.Text == bing)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == ding)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == wuu)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == jii)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == geng)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == xin)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == ren)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
                         }
 
                         if (labelrg.Text == gui)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -57519,434 +57519,434 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jia)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == yii)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
 
                         }
                         if (labelrg.Text == bing)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == ding)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == wuu)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == jii)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == geng)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == xin)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == ren)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
                         }
 
                         if (labelrg.Text == gui)
                         {
-                            if (buttonng.Text == jia)
+                            if (labellnng.Text == jia)
                             {
-                                buttonlnssng.Text = shangguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shangguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == yii)
+                            if (labellnng.Text == yii)
                             {
-                                buttonlnssng.Text = shishen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = shishen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == bing)
+                            if (labellnng.Text == bing)
                             {
-                                buttonlnssng.Text = zhengcai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengcai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == ding)
+                            if (labellnng.Text == ding)
                             {
-                                buttonlnssng.Text = piancai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = piancai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == wuu)
+                            if (labellnng.Text == wuu)
                             {
-                                buttonlnssng.Text = zhengguan; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = zhengguan; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == jii)
+                            if (labellnng.Text == jii)
                             {
-                                buttonlnssng.Text = qisha; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Black;
+                                labellnssng.Text = qisha; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Black;
                             }
-                            if (buttonng.Text == geng)
+                            if (labellnng.Text == geng)
                             {
-                                buttonlnssng.Text = zhengyin; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = zhengyin; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == xin)
+                            if (labellnng.Text == xin)
                             {
-                                buttonlnssng.Text = xiaoshen; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = xiaoshen; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == ren)
+                            if (labellnng.Text == ren)
                             {
-                                buttonlnssng.Text = jiecai; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = jiecai; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
-                            if (buttonng.Text == gui)
+                            if (labellnng.Text == gui)
                             {
-                                buttonlnssng.Text = bijian; buttonlnssng.BackColor = Color.White; buttonlnssng.ForeColor = Color.Red;
+                                labellnssng.Text = bijian; labellnssng.BackColor = Color.White; labellnssng.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -57954,434 +57954,434 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jia)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == yii)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
 
                         }
                         if (labelrg.Text == bing)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == ding)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == wuu)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == jii)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == geng)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == xin)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == ren)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
                         }
 
                         if (labelrg.Text == gui)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -58389,434 +58389,434 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jia)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == yii)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
 
                         }
                         if (labelrg.Text == bing)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == ding)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == wuu)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == jii)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == geng)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == xin)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == ren)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
                         }
 
                         if (labelrg.Text == gui)
                         {
-                            if (buttonyg.Text == jia)
+                            if (labellnyg.Text == jia)
                             {
-                                buttonlnssyg.Text = shangguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shangguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == yii)
+                            if (labellnyg.Text == yii)
                             {
-                                buttonlnssyg.Text = shishen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = shishen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == bing)
+                            if (labellnyg.Text == bing)
                             {
-                                buttonlnssyg.Text = zhengcai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengcai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == ding)
+                            if (labellnyg.Text == ding)
                             {
-                                buttonlnssyg.Text = piancai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = piancai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == wuu)
+                            if (labellnyg.Text == wuu)
                             {
-                                buttonlnssyg.Text = zhengguan; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = zhengguan; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == jii)
+                            if (labellnyg.Text == jii)
                             {
-                                buttonlnssyg.Text = qisha; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Black;
+                                labellnssyg.Text = qisha; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Black;
                             }
-                            if (buttonyg.Text == geng)
+                            if (labellnyg.Text == geng)
                             {
-                                buttonlnssyg.Text = zhengyin; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = zhengyin; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == xin)
+                            if (labellnyg.Text == xin)
                             {
-                                buttonlnssyg.Text = xiaoshen; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = xiaoshen; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == ren)
+                            if (labellnyg.Text == ren)
                             {
-                                buttonlnssyg.Text = jiecai; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = jiecai; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
-                            if (buttonyg.Text == gui)
+                            if (labellnyg.Text == gui)
                             {
-                                buttonlnssyg.Text = bijian; buttonlnssyg.BackColor = Color.White; buttonlnssyg.ForeColor = Color.Red;
+                                labellnssyg.Text = bijian; labellnssyg.BackColor = Color.White; labellnssyg.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -58824,434 +58824,434 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jia)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == yii)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
 
                         }
                         if (labelrg.Text == bing)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == ding)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == wuu)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == jii)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == geng)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == xin)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == ren)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
                         }
 
                         if (labelrg.Text == gui)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -59259,434 +59259,434 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jia)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
                         }
                         if (labelrg.Text == yii)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
 
                         }
                         if (labelrg.Text == bing)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == ding)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == wuu)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == jii)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == geng)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == xin)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
                         }
                         if (labelrg.Text == ren)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
                         }
 
                         if (labelrg.Text == gui)
                         {
-                            if (buttonsg.Text == jia)
+                            if (labellnsg.Text == jia)
                             {
-                                buttonlnsssg.Text = shangguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shangguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == yii)
+                            if (labellnsg.Text == yii)
                             {
-                                buttonlnsssg.Text = shishen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = shishen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == bing)
+                            if (labellnsg.Text == bing)
                             {
-                                buttonlnsssg.Text = zhengcai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengcai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == ding)
+                            if (labellnsg.Text == ding)
                             {
-                                buttonlnsssg.Text = piancai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = piancai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == wuu)
+                            if (labellnsg.Text == wuu)
                             {
-                                buttonlnsssg.Text = zhengguan; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = zhengguan; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == jii)
+                            if (labellnsg.Text == jii)
                             {
-                                buttonlnsssg.Text = qisha; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Black;
+                                labellnsssg.Text = qisha; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Black;
                             }
-                            if (buttonsg.Text == geng)
+                            if (labellnsg.Text == geng)
                             {
-                                buttonlnsssg.Text = zhengyin; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = zhengyin; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == xin)
+                            if (labellnsg.Text == xin)
                             {
-                                buttonlnsssg.Text = xiaoshen; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = xiaoshen; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == ren)
+                            if (labellnsg.Text == ren)
                             {
-                                buttonlnsssg.Text = jiecai; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = jiecai; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
-                            if (buttonsg.Text == gui)
+                            if (labellnsg.Text == gui)
                             {
-                                buttonlnsssg.Text = bijian; buttonlnsssg.BackColor = Color.White; buttonlnsssg.ForeColor = Color.Red;
+                                labellnsssg.Text = bijian; labellnsssg.BackColor = Color.White; labellnsssg.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -59695,60 +59695,60 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jia)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
 
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
 
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
 
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
 
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
 
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
 
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
 
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -59756,53 +59756,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == yii)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -59810,53 +59810,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == bing)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -59864,53 +59864,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == ding)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -59918,53 +59918,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == wuu)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -59972,53 +59972,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jii)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -60026,53 +60026,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == geng)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -60080,53 +60080,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == xin)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -60134,53 +60134,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == ren)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -60188,53 +60188,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == gui)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -60242,53 +60242,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jia)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -60296,53 +60296,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == yii)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -60350,53 +60350,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == bing)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -60404,53 +60404,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == ding)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -60458,53 +60458,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == wuu)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -60512,53 +60512,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jii)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -60566,53 +60566,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == geng)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -60620,53 +60620,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == xin)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -60674,53 +60674,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == ren)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -60728,53 +60728,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == gui)
                         {
-                            if (buttonnz.Text == yin)
+                            if (labellnnz.Text == yin)
                             {
-                                buttonlnssnz.Text = shangguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shangguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == mao)
+                            if (labellnnz.Text == mao)
                             {
-                                buttonlnssnz.Text = shishen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = shishen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chen)
+                            if (labellnnz.Text == chen)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == xuu)
+                            if (labellnnz.Text == xuu)
                             {
-                                buttonlnssnz.Text = zhengguan; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengguan; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == chou)
+                            if (labellnnz.Text == chou)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wei)
+                            if (labellnnz.Text == wei)
                             {
-                                buttonlnssnz.Text = qisha; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = qisha; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == hai)
+                            if (labellnnz.Text == hai)
                             {
-                                buttonlnssnz.Text = jiecai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = jiecai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == zii)
+                            if (labellnnz.Text == zii)
                             {
-                                buttonlnssnz.Text = bijian; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = bijian; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == sii)
+                            if (labellnnz.Text == sii)
                             {
-                                buttonlnssnz.Text = zhengcai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = zhengcai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == wuma)
+                            if (labellnnz.Text == wuma)
                             {
-                                buttonlnssnz.Text = piancai; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Black;
+                                labellnssnz.Text = piancai; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Black;
                             }
-                            if (buttonnz.Text == shen)
+                            if (labellnnz.Text == shen)
                             {
-                                buttonlnssnz.Text = zhengyin; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = zhengyin; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
-                            if (buttonnz.Text == you)
+                            if (labellnnz.Text == you)
                             {
-                                buttonlnssnz.Text = xiaoshen; buttonlnssnz.BackColor = Color.White; buttonlnssnz.ForeColor = Color.Red;
+                                labellnssnz.Text = xiaoshen; labellnssnz.BackColor = Color.White; labellnssnz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -60782,53 +60782,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jia)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -60836,53 +60836,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == yii)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -60890,53 +60890,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == bing)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -60944,53 +60944,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == ding)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -60998,53 +60998,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == wuu)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -61052,53 +61052,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jii)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -61106,53 +61106,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == geng)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -61160,53 +61160,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == xin)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -61214,53 +61214,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == ren)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -61268,53 +61268,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == gui)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -61322,53 +61322,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jia)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -61376,53 +61376,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == yii)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -61430,53 +61430,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == bing)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -61484,53 +61484,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == ding)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -61538,53 +61538,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == wuu)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -61592,53 +61592,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jii)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -61646,53 +61646,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == geng)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -61700,53 +61700,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == xin)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -61754,53 +61754,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == ren)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -61808,53 +61808,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == gui)
                         {
-                            if (buttonyz.Text == yin)
+                            if (labellnyz.Text == yin)
                             {
-                                buttonlnssyz.Text = shangguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shangguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == mao)
+                            if (labellnyz.Text == mao)
                             {
-                                buttonlnssyz.Text = shishen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = shishen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chen)
+                            if (labellnyz.Text == chen)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == xuu)
+                            if (labellnyz.Text == xuu)
                             {
-                                buttonlnssyz.Text = zhengguan; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengguan; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == chou)
+                            if (labellnyz.Text == chou)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wei)
+                            if (labellnyz.Text == wei)
                             {
-                                buttonlnssyz.Text = qisha; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = qisha; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == hai)
+                            if (labellnyz.Text == hai)
                             {
-                                buttonlnssyz.Text = jiecai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = jiecai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == zii)
+                            if (labellnyz.Text == zii)
                             {
-                                buttonlnssyz.Text = bijian; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = bijian; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == sii)
+                            if (labellnyz.Text == sii)
                             {
-                                buttonlnssyz.Text = zhengcai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = zhengcai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == wuma)
+                            if (labellnyz.Text == wuma)
                             {
-                                buttonlnssyz.Text = piancai; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Black;
+                                labellnssyz.Text = piancai; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Black;
                             }
-                            if (buttonyz.Text == shen)
+                            if (labellnyz.Text == shen)
                             {
-                                buttonlnssyz.Text = zhengyin; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = zhengyin; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
-                            if (buttonyz.Text == you)
+                            if (labellnyz.Text == you)
                             {
-                                buttonlnssyz.Text = xiaoshen; buttonlnssyz.BackColor = Color.White; buttonlnssyz.ForeColor = Color.Red;
+                                labellnssyz.Text = xiaoshen; labellnssyz.BackColor = Color.White; labellnssyz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -61862,53 +61862,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jia)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -61916,53 +61916,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == yii)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -61970,53 +61970,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == bing)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -62024,53 +62024,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == ding)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -62078,53 +62078,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == wuu)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -62132,53 +62132,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jii)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -62186,53 +62186,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == geng)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -62240,53 +62240,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == xin)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -62294,53 +62294,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == ren)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -62348,53 +62348,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == gui)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -62402,53 +62402,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jia)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -62456,53 +62456,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == yii)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -62510,53 +62510,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == bing)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -62564,53 +62564,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == ding)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -62618,53 +62618,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == wuu)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -62672,53 +62672,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jii)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -62726,53 +62726,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == geng)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -62780,53 +62780,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == xin)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -62834,53 +62834,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == ren)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -62888,53 +62888,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == gui)
                         {
-                            if (buttonrz.Text == yin)
+                            if (labellnrz.Text == yin)
                             {
-                                buttonlnssrz.Text = shangguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shangguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == mao)
+                            if (labellnrz.Text == mao)
                             {
-                                buttonlnssrz.Text = shishen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = shishen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chen)
+                            if (labellnrz.Text == chen)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == xuu)
+                            if (labellnrz.Text == xuu)
                             {
-                                buttonlnssrz.Text = zhengguan; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengguan; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == chou)
+                            if (labellnrz.Text == chou)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wei)
+                            if (labellnrz.Text == wei)
                             {
-                                buttonlnssrz.Text = qisha; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = qisha; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == hai)
+                            if (labellnrz.Text == hai)
                             {
-                                buttonlnssrz.Text = jiecai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = jiecai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == zii)
+                            if (labellnrz.Text == zii)
                             {
-                                buttonlnssrz.Text = bijian; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = bijian; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == sii)
+                            if (labellnrz.Text == sii)
                             {
-                                buttonlnssrz.Text = zhengcai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = zhengcai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == wuma)
+                            if (labellnrz.Text == wuma)
                             {
-                                buttonlnssrz.Text = piancai; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Black;
+                                labellnssrz.Text = piancai; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Black;
                             }
-                            if (buttonrz.Text == shen)
+                            if (labellnrz.Text == shen)
                             {
-                                buttonlnssrz.Text = zhengyin; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = zhengyin; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
-                            if (buttonrz.Text == you)
+                            if (labellnrz.Text == you)
                             {
-                                buttonlnssrz.Text = xiaoshen; buttonlnssrz.BackColor = Color.White; buttonlnssrz.ForeColor = Color.Red;
+                                labellnssrz.Text = xiaoshen; labellnssrz.BackColor = Color.White; labellnssrz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -62942,53 +62942,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jia)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -62996,54 +62996,54 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == yii)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
 
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -63051,53 +63051,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == bing)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -63105,53 +63105,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == ding)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -63159,53 +63159,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == wuu)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -63213,53 +63213,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jii)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -63267,53 +63267,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == geng)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -63321,53 +63321,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == xin)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -63375,53 +63375,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == ren)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -63429,53 +63429,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == gui)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -63483,53 +63483,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jia)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -63537,53 +63537,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == yii)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -63591,53 +63591,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == bing)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -63645,53 +63645,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == ding)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -63699,53 +63699,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == wuu)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -63753,53 +63753,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == jii)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
                         }
                     }
@@ -63807,53 +63807,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == geng)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -63861,53 +63861,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == xin)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -63915,53 +63915,53 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == ren)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -63969,59 +63969,59 @@ namespace BaZiFuZuGongJu
                     {
                         if (labelrg.Text == gui)
                         {
-                            if (buttonsz.Text == yin)
+                            if (labellnsz.Text == yin)
                             {
-                                buttonlnsssz.Text = shangguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shangguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == mao)
+                            if (labellnsz.Text == mao)
                             {
-                                buttonlnsssz.Text = shishen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = shishen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chen)
+                            if (labellnsz.Text == chen)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == xuu)
+                            if (labellnsz.Text == xuu)
                             {
-                                buttonlnsssz.Text = zhengguan; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengguan; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
                             }
-                            if (buttonsz.Text == chou)
+                            if (labellnsz.Text == chou)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
 
                             }
-                            if (buttonsz.Text == wei)
+                            if (labellnsz.Text == wei)
                             {
-                                buttonlnsssz.Text = qisha; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = qisha; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
 
                             }
-                            if (buttonsz.Text == hai)
+                            if (labellnsz.Text == hai)
                             {
-                                buttonlnsssz.Text = jiecai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = jiecai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
 
                             }
-                            if (buttonsz.Text == zii)
+                            if (labellnsz.Text == zii)
                             {
-                                buttonlnsssz.Text = bijian; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = bijian; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
-                            if (buttonsz.Text == sii)
+                            if (labellnsz.Text == sii)
                             {
-                                buttonlnsssz.Text = zhengcai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = zhengcai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
 
                             }
-                            if (buttonsz.Text == wuma)
+                            if (labellnsz.Text == wuma)
                             {
-                                buttonlnsssz.Text = piancai; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Black;
+                                labellnsssz.Text = piancai; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Black;
 
                             }
-                            if (buttonsz.Text == shen)
+                            if (labellnsz.Text == shen)
                             {
-                                buttonlnsssz.Text = zhengyin; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = zhengyin; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
 
                             }
-                            if (buttonsz.Text == you)
+                            if (labellnsz.Text == you)
                             {
-                                buttonlnsssz.Text = xiaoshen; buttonlnsssz.BackColor = Color.White; buttonlnsssz.ForeColor = Color.Red;
+                                labellnsssz.Text = xiaoshen; labellnsssz.BackColor = Color.White; labellnsssz.ForeColor = Color.Red;
                             }
                         }
                     }
@@ -67098,7 +67098,6 @@ namespace BaZiFuZuGongJu
 
         }
 
-
         private void labelguanyu_Click(object sender, EventArgs e)
         {
             //自述文本
@@ -67120,1292 +67119,6 @@ namespace BaZiFuZuGongJu
                 richTextBox1.Location = new Point(0, 36);
                 richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 自述文本;
-            }
-
-        }
-
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-            if (labelngss.Text == "比肩")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 比肩;
-            }
-            if (labelngss.Text == "劫财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 劫财;
-            }
-            if (labelngss.Text == "食神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 食神;
-            }
-            if (labelngss.Text == "伤官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 伤官;
-            }
-            if (labelngss.Text == "正财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正财;
-            }
-            if (labelngss.Text == "偏财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 偏财;
-            }
-            if (labelngss.Text == "正印")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正印;
-            }
-            if (labelngss.Text == "枭神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 枭神;
-            }
-            if (labelngss.Text == "正官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正官;
-            }
-            if (labelngss.Text == "七杀")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 七杀;
-            }
-
-        }
-
-        private void button16_Click(object sender, EventArgs e)
-        {
-            if (labelygss.Text == "比肩")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 比肩;
-            }
-            if (labelygss.Text == "劫财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 劫财;
-            }
-            if (labelygss.Text == "食神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 食神;
-            }
-            if (labelygss.Text == "伤官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 伤官;
-            }
-            if (labelygss.Text == "正财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正财;
-            }
-            if (labelygss.Text == "偏财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 偏财;
-            }
-            if (labelygss.Text == "正印")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正印;
-            }
-            if (labelygss.Text == "枭神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 枭神;
-            }
-            if (labelygss.Text == "正官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正官;
-            }
-            if (labelygss.Text == "七杀")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 七杀;
-            }
-
-        }
-
-        private void button7_Click(object sender, EventArgs e)
-        {
-
-            wenben = 1; labelguanyu.Text = "关闭文本";
-            richTextBox1.Location = new Point(0, 36);
-            richTextBox1.Height = 975; richTextBox1.Width = 1920;
-            richTextBox1.Text = "太极两仪生四象，四象生八卦。\r\n\r\n太极是万物的根本也就是一，一生二就是阴阳也就是一和零。\r\n\r\n在理论上太极分为一种不同的性质也就是五行：木，火，土，金，水。\r\n\r\n五行相生：木，火，土，金，水。水生木。\r\n\r\n五行相克：木，土，水，火，金。金克木。\r\n\r\n由于太极分两仪也就是五行分阴阳，为了高效的表达就叫它们为十天干。\r\n\r\n五行中十天干：木为甲、乙。火为丙、丁。土为戊、己。金为庚、辛。水为壬、癸。\r\n\r\n每个五行的第一个为阳次为阴。\r\n\r\n八字算命就是五行的混合搭配共振产生的表象。\r\n\r\n\r\n日元旺衰算法：\r\n\r\n以50分为强弱分水岭，干支为同日干的生扶者加分。\r\n\r\n年干=8分，年支=4分，月支=40分，日支=12分，日干不记分。\r\n\r\n月干12分，时干12分，时支12分。\r\n\r\n其中如果月支为子，午，卯，酉又生扶日干直接以绝对身旺论。\r\n\r\n相加后50或50以上为身旺。\r\n\r\n身旺与身弱与身体好坏无关，也与吉凶无关，\r\n\r\n旺衰是用于判断吉神的方法：\r\n\r\n以甲木日干为例身旺吉神为土，火，金。\r\n\r\n身弱吉神为木，水。其它五行的日干以此类推。\r\n\r\n吉神应为八字中最少的喜用五行补短板。\r\n\r\n在身旺的情况下优先为，我克，我生，克我。\r\n\r\n身弱为同我，生我。因为生我有能量转换的间隔。\r\n\r\n有些情况比较特殊，例如以甲木日干为例\r\n\r\n仅月支为寅为生扶，其它干支为泄耗日干之五行。\r\n\r\n假设此八字中火气全无则吉神在火。\r\n\r\n此命虽然身弱但出于春季木气当旺如果五行全则以正常身弱定吉神。\r\n\r\n五行生克的理想状态是均衡的，如果缺少某种五行则不可循环制衡。\r\n\r\n吉神的优先顺序：冬春季火优先，夏季水优先，秋季木优先。\r\n\r\n\r\n\r\n实际上十天干就是数字。\r\n\r\n1为甲，2为乙。3为丙，4为丁。5为戊，6为己。7为庚，8为辛。9为壬，0-10为癸。\r\n\r\n\r\n十二地支就是包含了不同天干的函数。\r\n\r\n子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥。\r\n\r\n子=0-10为癸。\r\n\r\n丑=6为己，8为辛，0-10为癸。\r\n\r\n寅=1为甲，3为丙，5为戊。\r\n\r\n卯=2为乙。\r\n\r\n辰=5为戊，2为乙，0-10为癸。\r\n\r\n巳=3为丙，5为戊，7为庚。\r\n\r\n午=4为丁，6为己。\r\n\r\n未=6为己，4为丁，2为乙。\r\n\r\n申=7为庚，9为壬，5为戊。\r\n\r\n酉=8为辛。\r\n\r\n戌=5为戊，8为辛，4为丁。\r\n\r\n亥=9为壬，1为甲。\r\n\r\n地支中包含的第一个天干为本气=100%的能量，次为中气约60%，末为余气约30%。\r\n\r\n其中子，午，卯，酉代表了地球磁极的四个方位故称子，午，卯，酉为四正。\r\n\r\n\r\n方位。\r\n\r\n\t\t水\r\n\t\t北\r\n\r\n金西 \t\t中\t\t东木\r\n\r\n\t\t南\r\n\t\t火\r\n\r\n由于火生土故午中含土，其它四正都对土有泄耗之能所以不论含土。\r\n\r\n要背十二地支，最容易的是以季节划分：\r\n\r\n春季为木：寅、卯、辰。夏季为火：巳、午、未。\r\n\r\n秋季为金：申、酉、戌。冬季为水：亥、子、丑。\r\n\r\n每个季度的最后一个月都是土的本气被称作四墓库。\r\n\r\n每季的第一个月包含阳干，第二个月为阴干，第三个月的杂气也为阴干。";
-
-        }
-
-        private void button8_Click(object sender, EventArgs e)
-        {
-            if (labelsgss.Text == "比肩")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 比肩;
-            }
-            if (labelsgss.Text == "劫财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 劫财;
-            }
-            if (labelsgss.Text == "食神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 食神;
-            }
-            if (labelsgss.Text == "伤官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 伤官;
-            }
-            if (labelsgss.Text == "正财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正财;
-            }
-            if (labelsgss.Text == "偏财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 偏财;
-            }
-            if (labelsgss.Text == "正印")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正印;
-            }
-            if (labelsgss.Text == "枭神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 枭神;
-            }
-            if (labelsgss.Text == "正官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正官;
-            }
-            if (labelsgss.Text == "七杀")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 七杀;
-            }
-
-        }
-
-        private void button13_Click(object sender, EventArgs e)
-        {
-            if (labelnzssbq.Text == "比肩")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 比肩;
-            }
-            if (labelnzssbq.Text == "劫财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 劫财;
-            }
-            if (labelnzssbq.Text == "食神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 食神;
-            }
-            if (labelnzssbq.Text == "伤官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 伤官;
-            }
-            if (labelnzssbq.Text == "正财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正财;
-            }
-            if (labelnzssbq.Text == "偏财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 偏财;
-            }
-            if (labelnzssbq.Text == "正印")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正印;
-            }
-            if (labelnzssbq.Text == "枭神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 枭神;
-            }
-            if (labelnzssbq.Text == "正官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正官;
-            }
-            if (labelnzssbq.Text == "七杀")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 七杀;
-            }
-
-        }
-
-        private void button14_Click(object sender, EventArgs e)
-        {
-            if (labelnzsszq.Text == "比肩")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 比肩;
-            }
-            if (labelnzsszq.Text == "劫财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 劫财;
-            }
-            if (labelnzsszq.Text == "食神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 食神;
-            }
-            if (labelnzsszq.Text == "伤官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 伤官;
-            }
-            if (labelnzsszq.Text == "正财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正财;
-            }
-            if (labelnzsszq.Text == "偏财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 偏财;
-            }
-            if (labelnzsszq.Text == "正印")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正印;
-            }
-            if (labelnzsszq.Text == "枭神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 枭神;
-            }
-            if (labelnzsszq.Text == "正官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正官;
-            }
-            if (labelnzsszq.Text == "七杀")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 七杀;
-            }
-
-        }
-
-        private void button15_Click(object sender, EventArgs e)
-        {
-            if (labelnzssyq.Text == "比肩")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 比肩;
-            }
-            if (labelnzssyq.Text == "劫财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 劫财;
-            }
-            if (labelnzssyq.Text == "食神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 食神;
-            }
-            if (labelnzssyq.Text == "伤官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 伤官;
-            }
-            if (labelnzssyq.Text == "正财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正财;
-            }
-            if (labelnzssyq.Text == "偏财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 偏财;
-            }
-            if (labelnzssyq.Text == "正印")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正印;
-            }
-            if (labelnzssyq.Text == "枭神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 枭神;
-            }
-            if (labelnzssyq.Text == "正官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正官;
-            }
-            if (labelnzssyq.Text == "七杀")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 七杀;
-            }
-
-        }
-
-        private void button17_Click(object sender, EventArgs e)
-        {
-            if (labelyzssbq.Text == "比肩")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 比肩;
-            }
-            if (labelyzssbq.Text == "劫财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 劫财;
-            }
-            if (labelyzssbq.Text == "食神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 食神;
-            }
-            if (labelyzssbq.Text == "伤官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 伤官;
-            }
-            if (labelyzssbq.Text == "正财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正财;
-            }
-            if (labelyzssbq.Text == "偏财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 偏财;
-            }
-            if (labelyzssbq.Text == "正印")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正印;
-            }
-            if (labelyzssbq.Text == "枭神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 枭神;
-            }
-            if (labelyzssbq.Text == "正官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正官;
-            }
-            if (labelyzssbq.Text == "七杀")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 七杀;
-            }
-
-        }
-
-        private void button18_Click(object sender, EventArgs e)
-        {
-            if (labelyzsszq.Text == "比肩")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 比肩;
-            }
-            if (labelyzsszq.Text == "劫财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 劫财;
-            }
-            if (labelyzsszq.Text == "食神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 食神;
-            }
-            if (labelyzsszq.Text == "伤官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 伤官;
-            }
-            if (labelyzsszq.Text == "正财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正财;
-            }
-            if (labelyzsszq.Text == "偏财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 偏财;
-            }
-            if (labelyzsszq.Text == "正印")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正印;
-            }
-            if (labelyzsszq.Text == "枭神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 枭神;
-            }
-            if (labelyzsszq.Text == "正官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正官;
-            }
-            if (labelyzsszq.Text == "七杀")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 七杀;
-            }
-
-        }
-
-        private void button6_Click(object sender, EventArgs e)
-        {
-            if (labelyzssyq.Text == "比肩")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 比肩;
-            }
-            if (labelyzssyq.Text == "劫财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 劫财;
-            }
-            if (labelyzssyq.Text == "食神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 食神;
-            }
-            if (labelyzssyq.Text == "伤官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 伤官;
-            }
-            if (labelyzssyq.Text == "正财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正财;
-            }
-            if (labelyzssyq.Text == "偏财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 偏财;
-            }
-            if (labelyzssyq.Text == "正印")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正印;
-            }
-            if (labelyzssyq.Text == "枭神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 枭神;
-            }
-            if (labelyzssyq.Text == "正官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正官;
-            }
-            if (labelyzssyq.Text == "七杀")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 七杀;
-            }
-
-        }
-
-        private void button19_Click(object sender, EventArgs e)
-        {
-            if (labelrzssbq.Text == "比肩")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 比肩;
-            }
-            if (labelrzssbq.Text == "劫财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 劫财;
-            }
-            if (labelrzssbq.Text == "食神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 食神;
-            }
-            if (labelrzssbq.Text == "伤官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 伤官;
-            }
-            if (labelrzssbq.Text == "正财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正财;
-            }
-            if (labelrzssbq.Text == "偏财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 偏财;
-            }
-            if (labelrzssbq.Text == "正印")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正印;
-            }
-            if (labelrzssbq.Text == "枭神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 枭神;
-            }
-            if (labelrzssbq.Text == "正官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正官;
-            }
-            if (labelrzssbq.Text == "七杀")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 七杀;
-            }
-
-        }
-
-        private void button21_Click(object sender, EventArgs e)
-        {
-            if (labelrzsszq.Text == "比肩")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 比肩;
-            }
-            if (labelrzsszq.Text == "劫财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 劫财;
-            }
-            if (labelrzsszq.Text == "食神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 食神;
-            }
-            if (labelrzsszq.Text == "伤官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 伤官;
-            }
-            if (labelrzsszq.Text == "正财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正财;
-            }
-            if (labelrzsszq.Text == "偏财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 偏财;
-            }
-            if (labelrzsszq.Text == "正印")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正印;
-            }
-            if (labelrzsszq.Text == "枭神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 枭神;
-            }
-            if (labelrzsszq.Text == "正官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正官;
-            }
-            if (labelrzsszq.Text == "七杀")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 七杀;
-            }
-
-        }
-
-        private void button20_Click(object sender, EventArgs e)
-        {
-            if (labelrzssyq.Text == "比肩")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 比肩;
-            }
-            if (labelrzssyq.Text == "劫财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 劫财;
-            }
-            if (labelrzssyq.Text == "食神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 食神;
-            }
-            if (labelrzssyq.Text == "伤官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 伤官;
-            }
-            if (labelrzssyq.Text == "正财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正财;
-            }
-            if (labelrzssyq.Text == "偏财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 偏财;
-            }
-            if (labelrzssyq.Text == "正印")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正印;
-            }
-            if (labelrzssyq.Text == "枭神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 枭神;
-            }
-            if (labelrzssyq.Text == "正官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正官;
-            }
-            if (labelrzssyq.Text == "七杀")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 七杀;
-            }
-
-        }
-
-        private void button22_Click(object sender, EventArgs e)
-        {
-            if (labelszssbq.Text == "比肩")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 比肩;
-            }
-            if (labelszssbq.Text == "劫财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 劫财;
-            }
-            if (labelszssbq.Text == "食神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 食神;
-            }
-            if (labelszssbq.Text == "伤官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 伤官;
-            }
-            if (labelszssbq.Text == "正财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正财;
-            }
-            if (labelszssbq.Text == "偏财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 偏财;
-            }
-            if (labelszssbq.Text == "正印")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正印;
-            }
-            if (labelszssbq.Text == "枭神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 枭神;
-            }
-            if (labelszssbq.Text == "正官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正官;
-            }
-            if (labelszssbq.Text == "七杀")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 七杀;
-            }
-
-        }
-
-        private void button23_Click(object sender, EventArgs e)
-        {
-            if (labelszsszq.Text == "比肩")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 比肩;
-            }
-            if (labelszsszq.Text == "劫财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 劫财;
-            }
-            if (labelszsszq.Text == "食神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 食神;
-            }
-            if (labelszsszq.Text == "伤官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 伤官;
-            }
-            if (labelszsszq.Text == "正财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正财;
-            }
-            if (labelszsszq.Text == "偏财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 偏财;
-            }
-            if (labelszsszq.Text == "正印")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正印;
-            }
-            if (labelszsszq.Text == "枭神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 枭神;
-            }
-            if (labelszsszq.Text == "正官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正官;
-            }
-            if (labelszsszq.Text == "七杀")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 七杀;
-            }
-
-        }
-
-        private void button24_Click(object sender, EventArgs e)
-        {
-            if (labelszssyq.Text == "比肩")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 比肩;
-            }
-            if (labelszssyq.Text == "劫财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 劫财;
-            }
-            if (labelszssyq.Text == "食神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 食神;
-            }
-            if (labelszssyq.Text == "伤官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 伤官;
-            }
-            if (labelszssyq.Text == "正财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正财;
-            }
-            if (labelszssyq.Text == "偏财")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 偏财;
-            }
-            if (labelszssyq.Text == "正印")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正印;
-            }
-            if (labelszssyq.Text == "枭神")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 枭神;
-            }
-            if (labelszssyq.Text == "正官")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 正官;
-            }
-            if (labelszssyq.Text == "七杀")
-            {
-
-                wenben = 1; labelguanyu.Text = "关闭文本";
-                richTextBox1.Location = new Point(0, 36);
-                richTextBox1.Height = 975; richTextBox1.Width = 1920;
-                richTextBox1.Text = 七杀;
             }
 
         }
@@ -69300,845 +68013,6 @@ namespace BaZiFuZuGongJu
 
         }
 
-        private void button38_Click(object sender, EventArgs e)
-        {
-            //干支循环
-            //干
-            if (comboBoxng.Text == jia)
-            {
-                comboBoxng.Text = yii;
-            }
-            else if (comboBoxng.Text == yii)
-            {
-                comboBoxng.Text = bing;
-            }
-            else if (comboBoxng.Text == bing)
-            {
-                comboBoxng.Text = ding;
-            }
-            else if (comboBoxng.Text == ding)
-            {
-                comboBoxng.Text = wuu;
-            }
-            else if (comboBoxng.Text == wuu)
-            {
-                comboBoxng.Text = jii;
-            }
-            else if (comboBoxng.Text == jii)
-            {
-                comboBoxng.Text = geng;
-            }
-            else if (comboBoxng.Text == geng)
-            {
-                comboBoxng.Text = xin;
-            }
-            else if (comboBoxng.Text == xin)
-            {
-                comboBoxng.Text = ren;
-            }
-            else if (comboBoxng.Text == ren)
-            {
-                comboBoxng.Text = gui;
-            }
-            else if (comboBoxng.Text == gui)
-            {
-                comboBoxng.Text = jia;
-            }
-
-            //支
-            if (comboBoxnz.Text == yin)
-            {
-                comboBoxnz.Text = mao;
-            }
-            else if (comboBoxnz.Text == mao)
-            {
-                comboBoxnz.Text = chen;
-            }
-            else if (comboBoxnz.Text == chen)
-            {
-                comboBoxnz.Text = sii;
-            }
-            else if (comboBoxnz.Text == sii)
-            {
-                comboBoxnz.Text = wuma;
-            }
-            else if (comboBoxnz.Text == wuma)
-            {
-                comboBoxnz.Text = wei;
-            }
-            else if (comboBoxnz.Text == wei)
-            {
-                comboBoxnz.Text = shen;
-            }
-            else if (comboBoxnz.Text == shen)
-            {
-                comboBoxnz.Text = you;
-            }
-            else if (comboBoxnz.Text == you)
-            {
-                comboBoxnz.Text = xuu;
-            }
-            else if (comboBoxnz.Text == xuu)
-            {
-                comboBoxnz.Text = hai;
-            }
-            else if (comboBoxnz.Text == hai)
-            {
-                comboBoxnz.Text = zii;
-            }
-            else if (comboBoxnz.Text == zii)
-            {
-                comboBoxnz.Text = chou;
-            }
-            else if (comboBoxnz.Text == chou)
-            {
-                comboBoxnz.Text = yin;
-            }
-
-
-
-        }
-
-        private void button46_Click(object sender, EventArgs e)
-        {
-            //干支循环
-
-            //支
-            if (comboBoxsz.Text == yin)
-            {
-                comboBoxsz.Text = mao;
-            }
-            else if (comboBoxsz.Text == mao)
-            {
-                comboBoxsz.Text = chen;
-            }
-            else if (comboBoxsz.Text == chen)
-            {
-                comboBoxsz.Text = sii;
-            }
-            else if (comboBoxsz.Text == sii)
-            {
-                comboBoxsz.Text = wuma;
-            }
-            else if (comboBoxsz.Text == wuma)
-            {
-                comboBoxsz.Text = wei;
-            }
-            else if (comboBoxsz.Text == wei)
-            {
-                comboBoxsz.Text = shen;
-            }
-            else if (comboBoxsz.Text == shen)
-            {
-                comboBoxsz.Text = you;
-            }
-            else if (comboBoxsz.Text == you)
-            {
-                comboBoxsz.Text = xuu;
-            }
-            else if (comboBoxsz.Text == xuu)
-            {
-                comboBoxsz.Text = hai;
-            }
-            else if (comboBoxsz.Text == hai)
-            {
-                comboBoxsz.Text = zii;
-            }
-            else if (comboBoxsz.Text == zii)
-            {
-                comboBoxsz.Text = chou;
-            }
-            else if (comboBoxsz.Text == chou)
-            {
-                comboBoxsz.Text = yin;
-            }
-            //干
-
-            if (comboBoxrg.Text == jia || comboBoxrg.Text == jii)
-            {
-                if (comboBoxsz.Text == zii)
-                {
-                    comboBoxsg.Text = jia;
-                }
-                if (comboBoxsz.Text == chou)
-                {
-                    comboBoxsg.Text = yii;
-                }
-                if (comboBoxsz.Text == yin)
-                {
-                    comboBoxsg.Text = bing;
-                }
-                if (comboBoxsz.Text == mao)
-                {
-                    comboBoxsg.Text = ding;
-                }
-                if (comboBoxsz.Text == chen)
-                {
-                    comboBoxsg.Text = wuu;
-                }
-                if (comboBoxsz.Text == sii)
-                {
-                    comboBoxsg.Text = jii;
-                }
-                if (comboBoxsz.Text == wuma)
-                {
-                    comboBoxsg.Text = geng;
-                }
-                if (comboBoxsz.Text == wei)
-                {
-                    comboBoxsg.Text = xin;
-                }
-                if (comboBoxsz.Text == shen)
-                {
-                    comboBoxsg.Text = ren;
-                }
-                if (comboBoxsz.Text == you)
-                {
-                    comboBoxsg.Text = gui;
-                }
-                if (comboBoxsz.Text == xuu)
-                {
-                    comboBoxsg.Text = jia;
-                }
-                if (comboBoxsz.Text == hai)
-                {
-                    comboBoxsg.Text = yii;
-                }
-            }
-            if (comboBoxrg.Text == yii || comboBoxrg.Text == geng)
-            {
-                if (comboBoxsz.Text == zii)
-                {
-                    comboBoxsg.Text = bing;
-                }
-                if (comboBoxsz.Text == chou)
-                {
-                    comboBoxsg.Text = ding;
-                }
-                if (comboBoxsz.Text == yin)
-                {
-                    comboBoxsg.Text = wuu;
-                }
-                if (comboBoxsz.Text == mao)
-                {
-                    comboBoxsg.Text = jii;
-                }
-                if (comboBoxsz.Text == chen)
-                {
-                    comboBoxsg.Text = geng;
-                }
-                if (comboBoxsz.Text == sii)
-                {
-                    comboBoxsg.Text = xin;
-                }
-                if (comboBoxsz.Text == wuma)
-                {
-                    comboBoxsg.Text = ren;
-                }
-                if (comboBoxsz.Text == wei)
-                {
-                    comboBoxsg.Text = gui;
-                }
-                if (comboBoxsz.Text == shen)
-                {
-                    comboBoxsg.Text = jia;
-                }
-                if (comboBoxsz.Text == you)
-                {
-                    comboBoxsg.Text = yii;
-                }
-                if (comboBoxsz.Text == xuu)
-                {
-                    comboBoxsg.Text = bing;
-                }
-                if (comboBoxsz.Text == hai)
-                {
-                    comboBoxsg.Text = ding;
-                }
-            }
-            if (comboBoxrg.Text == bing || comboBoxrg.Text == xin)
-            {
-                if (comboBoxsz.Text == zii)
-                {
-                    comboBoxsg.Text = wuu;
-                }
-                if (comboBoxsz.Text == chou)
-                {
-                    comboBoxsg.Text = jii;
-                }
-                if (comboBoxsz.Text == yin)
-                {
-                    comboBoxsg.Text = geng;
-                }
-                if (comboBoxsz.Text == mao)
-                {
-                    comboBoxsg.Text = xin;
-                }
-                if (comboBoxsz.Text == chen)
-                {
-                    comboBoxsg.Text = ren;
-                }
-                if (comboBoxsz.Text == sii)
-                {
-                    comboBoxsg.Text = gui;
-                }
-                if (comboBoxsz.Text == wuma)
-                {
-                    comboBoxsg.Text = jia;
-                }
-                if (comboBoxsz.Text == wei)
-                {
-                    comboBoxsg.Text = yii;
-                }
-                if (comboBoxsz.Text == shen)
-                {
-                    comboBoxsg.Text = bing;
-                }
-                if (comboBoxsz.Text == you)
-                {
-                    comboBoxsg.Text = ding;
-                }
-                if (comboBoxsz.Text == xuu)
-                {
-                    comboBoxsg.Text = wuu;
-                }
-                if (comboBoxsz.Text == hai)
-                {
-                    comboBoxsg.Text = jii;
-                }
-            }
-            if (comboBoxrg.Text == ding || comboBoxrg.Text == ren)
-            {
-                if (comboBoxsz.Text == zii)
-                {
-                    comboBoxsg.Text = geng;
-                }
-                if (comboBoxsz.Text == chou)
-                {
-                    comboBoxsg.Text = xin;
-                }
-                if (comboBoxsz.Text == yin)
-                {
-                    comboBoxsg.Text = ren;
-                }
-                if (comboBoxsz.Text == mao)
-                {
-                    comboBoxsg.Text = gui;
-                }
-                if (comboBoxsz.Text == chen)
-                {
-                    comboBoxsg.Text = jia;
-                }
-                if (comboBoxsz.Text == sii)
-                {
-                    comboBoxsg.Text = yii;
-                }
-                if (comboBoxsz.Text == wuma)
-                {
-                    comboBoxsg.Text = bing;
-                }
-                if (comboBoxsz.Text == wei)
-                {
-                    comboBoxsg.Text = ding;
-                }
-                if (comboBoxsz.Text == shen)
-                {
-                    comboBoxsg.Text = wuu;
-                }
-                if (comboBoxsz.Text == you)
-                {
-                    comboBoxsg.Text = jii;
-                }
-                if (comboBoxsz.Text == xuu)
-                {
-                    comboBoxsg.Text = geng;
-                }
-                if (comboBoxsz.Text == hai)
-                {
-                    comboBoxsg.Text = xin;
-                }
-            }
-            if (comboBoxrg.Text == wuu || comboBoxrg.Text == gui)
-            {
-                if (comboBoxsz.Text == zii)
-                {
-                    comboBoxsg.Text = ren;
-                }
-                if (comboBoxsz.Text == chou)
-                {
-                    comboBoxsg.Text = gui;
-                }
-                if (comboBoxsz.Text == yin)
-                {
-                    comboBoxsg.Text = jia;
-                }
-                if (comboBoxsz.Text == mao)
-                {
-                    comboBoxsg.Text = yii;
-                }
-                if (comboBoxsz.Text == chen)
-                {
-                    comboBoxsg.Text = bing;
-                }
-                if (comboBoxsz.Text == sii)
-                {
-                    comboBoxsg.Text = ding;
-                }
-                if (comboBoxsz.Text == wuma)
-                {
-                    comboBoxsg.Text = wuu;
-                }
-                if (comboBoxsz.Text == wei)
-                {
-                    comboBoxsg.Text = jii;
-                }
-                if (comboBoxsz.Text == shen)
-                {
-                    comboBoxsg.Text = geng;
-                }
-                if (comboBoxsz.Text == you)
-                {
-                    comboBoxsg.Text = xin;
-                }
-                if (comboBoxsz.Text == xuu)
-                {
-                    comboBoxsg.Text = ren;
-                }
-                if (comboBoxsz.Text == hai)
-                {
-                    comboBoxsg.Text = gui;
-                }
-            }
-
-
-        }
-
-        private void button51_Click(object sender, EventArgs e)
-        {
-            //干支循环
-            //干
-            if (comboBoxrg.Text == jia)
-            {
-                comboBoxrg.Text = yii;
-            }
-            else if (comboBoxrg.Text == yii)
-            {
-                comboBoxrg.Text = bing;
-            }
-            else if (comboBoxrg.Text == bing)
-            {
-                comboBoxrg.Text = ding;
-            }
-            else if (comboBoxrg.Text == ding)
-            {
-                comboBoxrg.Text = wuu;
-            }
-            else if (comboBoxrg.Text == wuu)
-            {
-                comboBoxrg.Text = jii;
-            }
-            else if (comboBoxrg.Text == jii)
-            {
-                comboBoxrg.Text = geng;
-            }
-            else if (comboBoxrg.Text == geng)
-            {
-                comboBoxrg.Text = xin;
-            }
-            else if (comboBoxrg.Text == xin)
-            {
-                comboBoxrg.Text = ren;
-            }
-            else if (comboBoxrg.Text == ren)
-            {
-                comboBoxrg.Text = gui;
-            }
-            else if (comboBoxrg.Text == gui)
-            {
-                comboBoxrg.Text = jia;
-            }
-
-            //支
-            if (comboBoxrz.Text == yin)
-            {
-                comboBoxrz.Text = mao;
-            }
-            else if (comboBoxrz.Text == mao)
-            {
-                comboBoxrz.Text = chen;
-            }
-            else if (comboBoxrz.Text == chen)
-            {
-                comboBoxrz.Text = sii;
-            }
-            else if (comboBoxrz.Text == sii)
-            {
-                comboBoxrz.Text = wuma;
-            }
-            else if (comboBoxrz.Text == wuma)
-            {
-                comboBoxrz.Text = wei;
-            }
-            else if (comboBoxrz.Text == wei)
-            {
-                comboBoxrz.Text = shen;
-            }
-            else if (comboBoxrz.Text == shen)
-            {
-                comboBoxrz.Text = you;
-            }
-            else if (comboBoxrz.Text == you)
-            {
-                comboBoxrz.Text = xuu;
-            }
-            else if (comboBoxrz.Text == xuu)
-            {
-                comboBoxrz.Text = hai;
-            }
-            else if (comboBoxrz.Text == hai)
-            {
-                comboBoxrz.Text = zii;
-            }
-            else if (comboBoxrz.Text == zii)
-            {
-                comboBoxrz.Text = chou;
-            }
-            else if (comboBoxrz.Text == chou)
-            {
-                comboBoxrz.Text = yin;
-            }
-
-
-
-        }
-
-        private void button40_Click(object sender, EventArgs e)
-        {
-            //干支循环
-
-            //支
-            if (comboBoxyz.Text == yin)
-            {
-                comboBoxyz.Text = mao;
-            }
-            else if (comboBoxyz.Text == mao)
-            {
-                comboBoxyz.Text = chen;
-            }
-            else if (comboBoxyz.Text == chen)
-            {
-                comboBoxyz.Text = sii;
-            }
-            else if (comboBoxyz.Text == sii)
-            {
-                comboBoxyz.Text = wuma;
-            }
-            else if (comboBoxyz.Text == wuma)
-            {
-                comboBoxyz.Text = wei;
-            }
-            else if (comboBoxyz.Text == wei)
-            {
-                comboBoxyz.Text = shen;
-            }
-            else if (comboBoxyz.Text == shen)
-            {
-                comboBoxyz.Text = you;
-            }
-            else if (comboBoxyz.Text == you)
-            {
-                comboBoxyz.Text = xuu;
-            }
-            else if (comboBoxyz.Text == xuu)
-            {
-                comboBoxyz.Text = hai;
-            }
-            else if (comboBoxyz.Text == hai)
-            {
-                comboBoxyz.Text = zii;
-            }
-            else if (comboBoxyz.Text == zii)
-            {
-                comboBoxyz.Text = chou;
-            }
-            else if (comboBoxyz.Text == chou)
-            {
-                comboBoxyz.Text = yin;
-            }
-
-
-            //月天干
-            if (comboBoxng.Text == jia || comboBoxng.Text == jii)
-            {
-                if (comboBoxyz.Text == yin)
-                {
-                    comboBoxyg.Text = bing;
-                }
-                if (comboBoxyz.Text == mao)
-                {
-                    comboBoxyg.Text = ding;
-                }
-                if (comboBoxyz.Text == chen)
-                {
-                    comboBoxyg.Text = wuu;
-                }
-                if (comboBoxyz.Text == sii)
-                {
-                    comboBoxyg.Text = jii;
-                }
-                if (comboBoxyz.Text == wuma)
-                {
-                    comboBoxyg.Text = geng;
-                }
-                if (comboBoxyz.Text == wei)
-                {
-                    comboBoxyg.Text = xin;
-                }
-                if (comboBoxyz.Text == shen)
-                {
-                    comboBoxyg.Text = ren;
-                }
-                if (comboBoxyz.Text == you)
-                {
-                    comboBoxyg.Text = gui;
-                }
-                if (comboBoxyz.Text == xuu)
-                {
-                    comboBoxyg.Text = jia;
-                }
-                if (comboBoxyz.Text == hai)
-                {
-                    comboBoxyg.Text = yii;
-                }
-                if (comboBoxyz.Text == zii)
-                {
-                    comboBoxyg.Text = bing;
-                }
-                if (comboBoxyz.Text == chou)
-                {
-                    comboBoxyg.Text = ding;
-                }
-            }
-            if (comboBoxng.Text == yii || comboBoxng.Text == geng)
-            {
-                if (comboBoxyz.Text == yin)
-                {
-                    comboBoxyg.Text = wuu;
-                }
-                if (comboBoxyz.Text == mao)
-                {
-                    comboBoxyg.Text = jii;
-                }
-                if (comboBoxyz.Text == chen)
-                {
-                    comboBoxyg.Text = geng;
-                }
-                if (comboBoxyz.Text == sii)
-                {
-                    comboBoxyg.Text = xin;
-                }
-                if (comboBoxyz.Text == wuma)
-                {
-                    comboBoxyg.Text = ren;
-                }
-                if (comboBoxyz.Text == wei)
-                {
-                    comboBoxyg.Text = gui;
-                }
-                if (comboBoxyz.Text == shen)
-                {
-                    comboBoxyg.Text = jia;
-                }
-                if (comboBoxyz.Text == you)
-                {
-                    comboBoxyg.Text = yii;
-                }
-                if (comboBoxyz.Text == xuu)
-                {
-                    comboBoxyg.Text = bing;
-                }
-                if (comboBoxyz.Text == hai)
-                {
-                    comboBoxyg.Text = ding;
-                }
-                if (comboBoxyz.Text == zii)
-                {
-                    comboBoxyg.Text = wuu;
-                }
-                if (comboBoxyz.Text == chou)
-                {
-                    comboBoxyg.Text = jii;
-                }
-            }
-            if (comboBoxng.Text == bing || comboBoxng.Text == xin)
-            {
-                if (comboBoxyz.Text == yin)
-                {
-                    comboBoxyg.Text = geng;
-                }
-                if (comboBoxyz.Text == mao)
-                {
-                    comboBoxyg.Text = xin;
-                }
-                if (comboBoxyz.Text == chen)
-                {
-                    comboBoxyg.Text = ren;
-                }
-                if (comboBoxyz.Text == sii)
-                {
-                    comboBoxyg.Text = gui;
-                }
-                if (comboBoxyz.Text == wuma)
-                {
-                    comboBoxyg.Text = jia;
-                }
-                if (comboBoxyz.Text == wei)
-                {
-                    comboBoxyg.Text = yii;
-                }
-                if (comboBoxyz.Text == shen)
-                {
-                    comboBoxyg.Text = bing;
-                }
-                if (comboBoxyz.Text == you)
-                {
-                    comboBoxyg.Text = ding;
-                }
-                if (comboBoxyz.Text == xuu)
-                {
-                    comboBoxyg.Text = wuu;
-                }
-                if (comboBoxyz.Text == hai)
-                {
-                    comboBoxyg.Text = jii;
-                }
-                if (comboBoxyz.Text == zii)
-                {
-                    comboBoxyg.Text = geng;
-                }
-                if (comboBoxyz.Text == chou)
-                {
-                    comboBoxyg.Text = xin;
-                }
-            }
-            if (comboBoxng.Text == ding || comboBoxng.Text == ren)
-            {
-                if (comboBoxyz.Text == yin)
-                {
-                    comboBoxyg.Text = ren;
-                }
-                if (comboBoxyz.Text == mao)
-                {
-                    comboBoxyg.Text = gui;
-                }
-                if (comboBoxyz.Text == chen)
-                {
-                    comboBoxyg.Text = jia;
-                }
-                if (comboBoxyz.Text == sii)
-                {
-                    comboBoxyg.Text = yii;
-                }
-                if (comboBoxyz.Text == wuma)
-                {
-                    comboBoxyg.Text = bing;
-                }
-                if (comboBoxyz.Text == wei)
-                {
-                    comboBoxyg.Text = ding;
-                }
-                if (comboBoxyz.Text == shen)
-                {
-                    comboBoxyg.Text = wuu;
-                }
-                if (comboBoxyz.Text == you)
-                {
-                    comboBoxyg.Text = jii;
-                }
-                if (comboBoxyz.Text == xuu)
-                {
-                    comboBoxyg.Text = geng;
-                }
-                if (comboBoxyz.Text == hai)
-                {
-                    comboBoxyg.Text = xin;
-                }
-                if (comboBoxyz.Text == zii)
-                {
-                    comboBoxyg.Text = ren;
-                }
-                if (comboBoxyz.Text == chou)
-                {
-                    comboBoxyg.Text = gui;
-                }
-            }
-            if (comboBoxng.Text == wuu || comboBoxng.Text == gui)
-            {
-                if (comboBoxyz.Text == yin)
-                {
-                    comboBoxyg.Text = jia;
-                }
-                if (comboBoxyz.Text == mao)
-                {
-                    comboBoxyg.Text = yii;
-                }
-                if (comboBoxyz.Text == chen)
-                {
-                    comboBoxyg.Text = bing;
-                }
-                if (comboBoxyz.Text == sii)
-                {
-                    comboBoxyg.Text = ding;
-                }
-                if (comboBoxyz.Text == wuma)
-                {
-                    comboBoxyg.Text = wuu;
-                }
-                if (comboBoxyz.Text == wei)
-                {
-                    comboBoxyg.Text = jii;
-                }
-                if (comboBoxyz.Text == shen)
-                {
-                    comboBoxyg.Text = geng;
-                }
-                if (comboBoxyz.Text == you)
-                {
-                    comboBoxyg.Text = xin;
-                }
-                if (comboBoxyz.Text == xuu)
-                {
-                    comboBoxyg.Text = ren;
-                }
-                if (comboBoxyz.Text == hai)
-                {
-                    comboBoxyg.Text = gui;
-                }
-                if (comboBoxyz.Text == zii)
-                {
-                    comboBoxyg.Text = jia;
-                }
-                if (comboBoxyz.Text == chou)
-                {
-                    comboBoxyg.Text = yii;
-                }
-            }
-
-
-
-
-        }
-
-        private void button54_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button56_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void Labelxy_Click(object sender, EventArgs e)
         {
 
@@ -70180,11 +68054,6 @@ namespace BaZiFuZuGongJu
         }
 
         private void Label23_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button59_Click(object sender, EventArgs e)
         {
 
         }
@@ -70321,11 +68190,6 @@ namespace BaZiFuZuGongJu
             // 在这里处理数值变化后点击时间排盘
             labelshijian.Focus();
             labelshijian_Click(this, new EventArgs());
-        }
-
-        private void button58_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void labelcs1_Click(object sender, EventArgs e)
@@ -70479,11 +68343,6 @@ namespace BaZiFuZuGongJu
             richTextBox1.Location = new Point(0, 36);
             richTextBox1.Height = 975; richTextBox1.Width = 1920;
             richTextBox1.Text = "前言，\r\n\r\n看到很多人给小宝宝起名被骗钱所以写此教程，本人懂起名原理借助软件实现专业起名。\r\n\r\n好的八字就像房子在的地段，八字五行平衡就像房子的格局好，名字就是装修了。\r\n\r\n现在有了AI就不需要请大师了，输入关键词就行，先说结论再讲理论。\r\n\r\n下面以给金命需要补充木和火的男性起名为例。\r\n\r\n（依据三才五格，给生于9999年99月99日99时姓张的男性起名，五格要全吉，\r\n\r\n寓意要好，第二个字的五行笔顺为木，第三个字的五行笔顺为火，\r\n\r\n名字中不要X字和A字，不要容易重名的组合）\r\n\r\n以上是作者在软件BING上用的词，其中日期是为了让AI运算用，\r\n\r\n实际上填什么时间都可以，BING的万年历不是农历的所以要自己定吉神。\r\n\r\n因为在用此方法前我们要先用软件看看此八字中需要补充的五行是什么。\r\n\r\n在此基础上用AI找出五格全吉之数的字。\r\n\r\n上面不要的X和A是用于屏蔽不想要之字用可以删除。\r\n\r\n如果你没看懂请不要实际操作以免弄巧成拙。\r\n\r\n如需助人起名需要收取费用，因为你给别人起名就等于在改写这个人的命运，\r\n\r\n无论好坏都要消耗你，除非是你的直系亲属。\r\n\r\n一命二相三风水，名字是人的第二张脸面，其作用与人的脸相当。\r\n\r\n不过名字是数术，也就可以拼合八字，对于人的发展也大于风水很多。\r\n\r\n起名是一个涉及到文化、历史和语言的重要过程。周易中的三才五格理论是中国传统名字学的核心思想之一，它认为人的命运与出生时五行的相对强度和三才之间的协调有关。在这部教材中，我们将介绍三才五格的基本概念、原理和应用方法，帮助读者更好地理解和运用这一理论。\r\n\r\n第一章 三才五格的基本概念\r\n\r\n三才：指天、地、人三个方面的素质。\r\n天格：指出生年的天干地支，代表着先天的气质和能力。\r\n人格：指出生日的天干地支，代表着性格和才华。\r\n地格：指姓名的笔画数目，代表着后天的环境和条件。\r\n总格：指天格、人格、地格三者之和，代表着个人的命运和发展。\r\n第二章 三才五格的原理\r\n\r\n五行相生相克：金生水，水生木，木生火，火生土，土生金；金克木，木克土，土克水，水克火，火克金。\r\n喜用神和忌神：根据个人的命局和需要，选择适合的五行作为喜用神，避免忌神的影响。\r\n三才协调：天、地、人三才之间相互协调，可以增强个人的命运和发展。\r\n笔画数和五行：每个汉字都有固定的笔画数和对应的五行属性，根据姓名的笔画数和五行配比，可以评估地格的优劣。\r\n第三章 三才五格的应用方法\r\n\r\n查看命盘：根据出生日期和时间，结合农历、时辰等因素，查看个人的命盘和五行属性。\r\n确定天格和地格：根据出生年份和姓名的笔画数，在专业的起名书籍或网站上确定天格和地格。\r\n计算人格和总格：根据出生日期确定人格，然后将天格、人格、地格相加得到总格。\r\n确定喜用神和忌神：根据命盘和总格的五行属性，确定适合的喜用神和需要避免的忌神。\r\n综合评估：综合考虑天格、人格、地格、总格、喜用神和忌神等因素，进行综合评估，并选取合适的名字。\r\n以上是三才五格起名的基本概念、原理和应用方法，希望读者能够通过学习更好地了解和运用这一传统文化。\r\n\r\n\r\n-----------------\r\n\r\n\r\n起名第一步就是要排出这个人的八字，这是专业的步骤。\r\n\r\n如果给你起名的人不排八字和你扯字意，说什么大人物用这个字怎么好，那他绝对是骗子。\r\n\r\n排出八字就是要知道这个人生来所带的五行属性，金木土水火。\r\n\r\n然后给人补缺填平，五行哪个太多都不好，缺少就更不好了。\r\n\r\n然后在根据生肖避开忌用的偏旁。\r\n\r\n\r\n--------------------------------------\r\n\r\n\r\n\r\n\r\n三才五格吉凶配置\r\n\r\n一、起源\r\n\r\n在公元1918年初，由日本人熊崎健翁根据中国易学数理学开创，因此五格剖象法也称作“熊崎氏姓名学”，其核心就是将人的姓名按五格剖象法来解释。\r\n\r\n1936年由台湾留学日本的白玉光（又叫白惠文）带回台湾翻译推广，后来流行于韩国，东南亚，中国台湾、香港等地 在中国大陆，五格剖象法通过和中国传统易学原理的结合，上世纪九十年代由中国命运分析学者方晨等规范总结和实践，以康熙字典笔画作为姓名学笔画基准，形成完善的符合中国姓名传统的姓名分析方法，结合中国传统姓名学，成为中华姓名学的一个重要组成部分\r\n\r\n二、五格计算方法\r\n\r\n1、天格：单姓的天格是“单姓笔画+1”，复姓的天格是“复姓笔画数相加” 2、人格：单姓的人格是“姓的笔画数+名（第一字）的笔画数”，；复姓的人格数理是“复姓的第二个字笔画+名的第一个字笔画”\r\n\r\n3、地格：双名的地格是“名字的笔画数相加”，单名的地格是“名的笔画数+1”。\r\n\r\n4、总格：总格是“姓名笔画数的总和”。\r\n\r\n5、外格：单姓双姓名“总格数理-人格数理+1”；复姓双将姓名总格减去人格之差”即为外格。复姓单名的外格为“总格数理-人格数理+1”。注：单姓单名的外格为2，\r\n\r\n三、五格的分数\r\n\r\n五格是：天格、人格、地格、总格、外格。\r\n\r\n其中天格代表父母的命运；地格代表自己38岁以前的命运（又称前运）；人格是自己的主运； 外格是副运；总格是后运，通常在人38岁以后才称后运。\r\n\r\n首先，作者将81个数定义了吉凶： 列为吉数的有1、3、5、6、7、8、11、13、15、16、17、18、21、23、24、25、29、31、32、33、35、37、39、41、45、47、48、52、55、57、61、63、65、67、68、81共计36个。\r\n\r\n列为凶数的有2、4、9、10、12、14、19、20、22、26、27、28、30、34、36、38、40、42、43、44、46、49、50、51、53、54、56、58、59、60、62、64、66、69、70、71、72、73、74、75、76、77、78、79、80 合计45个。\r\n\r\n四、三才的计算\r\n\r\n三才是：指天、人、地格的五行属性，取相生吉，相克凶。\r\n\r\n对“数”定义五行是套用十天干的五行顺序而定，即1、2甲乙木，3、4丙丁火，5、6戊己土，7、8庚辛金，9、10壬癸水。计算出了姓名的五格后，就是给五格配上阴、阳。数字超过十的只留个位数计算。如：15为还原成5，属阳土；52还原成2，属阴木，此类推。得出阴阳关系后，再分辩五行的相生相克关系：木生火、火生土、土生金、金生水、水生木；木克土、土克水、水克火、火克金、金克木。\r\n\r\n五、举例\r\n\r\n李世民\r\n\r\n李7 天格：08(金)7+1\r\n\r\n世5 人格：12(木)7+5\r\n\r\n民5 地格：10(水)5+5\r\n\r\n总格：17(金) 7+5+5\r\n\r\n外格：6 (土)17-12+1\r\n\r\n三才是：金木水\r\n\r\n\r\n----------------------------------------------\r\n\r\n用字的划数来区别五行的方法：\r\n\r\n1、2、11、12、21、22、31、32划属木\r\n\r\n3、4、13、14、23、24、33、34划属火\r\n\r\n5、6、15、16、25、26、35、36划属土\r\n\r\n7、8、17、18、27、28、37、38划属金\r\n\r\n9、10、19．20、29、30、39、40划属水\r\n\r\n其中奇数为阳，偶数为阴。\r\n\r\n这里需要注意的重点是笔画的数量以繁体字书写的笔画为准。\r\n\r\n----------------------------------------------\r\n\r\n凡取名字的部首，最好配合生肖宜忌选用\r\n\r\n1、鼠年出生的人\r\n\r\n取名应有：宀、米、豆、魚、艸、金、玉、亻、木、月、田、等部位为吉\r\n\r\n取名忌用：山、刀、力、弓、土、欠、石、皮、氵、马、酉、才、火、车等部首\r\n\r\n2、牛年出生的人\r\n\r\n取名应有：氵、艸、豆、米、金、玉、宀、亻、木等部首为吉\r\n\r\n取名忌用：月、火、田、车、马、石、山、血、糸、刀、力等部首\r\n\r\n3、虎年出生的人\r\n\r\n取名应有：山、玉、金、木、示、氵、月、犬、马等部首为吉\r\n\r\n取名忌用：日、火、田、口、糸、石、马、刀、力、血、弓、父、足等部首\r\n\r\n4、兔年出生的人\r\n\r\n取名应有：月、艸、山、田、亻、禾、木、宀、金、白、玉、豆、犬等部首为吉\r\n\r\n取名忌用：马、石、刀、皮、氵、川等部首\r\n\r\n5、龙年出生的人\r\n\r\n取名应有：氵、金、玉、白、赤、月、魚、酉、亻等部位为吉\r\n\r\n取名忌用：土、田、木、禾、示、忄、日、石、艸、力、刀、糸、犬、火等部首\r\n\r\n6、蛇年出生的人\r\n\r\n取名应有：艸、蟲、豆、魚、酉、木、禾、田、山、金、玉、月、土等部首为吉\r\n\r\n取名忌用：小、石、刀、血、弓、火、亻、犬、父等部首\r\n\r\n7、马年出生的人\r\n\r\n取名应有：艸、金、玉、木、禾、蟲、豆、米、亻、月、土、才等部首为吉\r\n\r\n取名忌用：田、日、火、氵、车、石、刀、力、酉、马等部首\r\n\r\n8、羊年出生的人\r\n\r\n取名应有：金、白、玉、艸、月、田、豆、米、马、禾、木、亻、魚等部首为吉\r\n\r\n取名忌用：小、犬、糸、车、氵、山、日、火等部首\r\n\r\n9、猴年出生的人\r\n\r\n取名应有：木、禾、金、玉、豆、米、田、山、月、氵、亻等部首为吉\r\n\r\n取名忌用：火、石、口、冖、糸、刀、力、皮、犬等部首\r\n\r\n10、鸡年出生的人\r\n\r\n取名应有：米、豆、蟲、木、禾、玉、田、月、冖、山、艸、金的部首为吉\r\n\r\n取名忌用：石、犬、刀、力、日、酉、血、弓、才、糸、车、马等部首\r\n\r\n11、狗年出生的人\r\n\r\n取名应有：魚、豆、米、冖、马、金、艸、田、木、月、禾、氵、亻等部首为吉\r\n\r\n取名忌用：火、石、糸、山、才、木、车、刀、父、言等部首\r\n\r\n12、猪年出生的人\r\n\r\n取名应有：豆、米、魚、氵、金、玉、月、木、禾、亻、山、土、艸等部首为吉\r\n\r\n取名忌用：糸、石、刀、力、血、弓、皮、父等部首\r\n\r\n---------------------------------------------\r\n\r\n\r\n取名的技巧\r\n\r\n1、考虑书写习惯，平时写字，大家都有简单化的倾向，故用字不宜太复杂或难写。注意轻重，平衡字形要有美感。\r\n\r\n2、不宜用生僻字，这样易造成被人难以认识、被人拒绝，妨碍人际沟通。\r\n\r\n3、学名不宜带稚气，当小孩长大后，易被人小看。\r\n\r\n4、避免使用相同或相近部首的字。避免声母，韵母相策。\r\n\r\n5、避免声调相同，无语音之美。分清阴阳，阳盛取阴名，阴盛取阳名。\r\n\r\n6、根据具体要求，调整特殊用字，诱导其广播方向。\r\n\r\n7、创意新颖，含义丰富。\r\n\r\n8、用易经的组合方法，校正全名的卦象，以辨吉凶。\r\n\r\n9、根据小孩的出生年月，即古谓“生辰八字”确定用码的五行。\r\n\r\n10、结合五格数理，选定名字的笔画数。\r\n\r\n\r\n----------------------------------------\r\n\r\n生辰八字\r\n根据宝宝出生的时辰，转换成对应的五行，看看是缺了哪一种，用名字去补。\r\n比如五行缺「金」，名字里面就用带金字旁的字来补。\r\n更具体的我也没有深入研究了，因为用生辰来起名的前提是知道宝宝的出生时间。如果想在宝宝出生前把名字取好，我们可以了解一下「五格剖象法」。\r\n\r\n五格剖象法\r\n五格剖象法，也叫三才五格，是比较流行的一种取名法，也是很多起名打分应用的依据。它将名字的笔画数拆分为天格、地格、人格、外格、总格。\r\n五格各自包含的意义如下：\r\n\r\n天格为根 - 天格乃祖先留下来的，为父母运势，其数理对个人影响不大。\r\n人格为苗 - 又称「主运」，是整个姓名的中心点，人一生的命运之好坏主要由此格推断。\r\n地格为花 - 又称为「前运」，主 38 岁以前，主管人中年以前的活动力。\r\n外格为叶 - 主管命运之灵力，一般指贵人或外来助力。为一个人外界和谐与否，可由此格看出。\r\n总格为果 - 主中年至晚年的命运，又称后运，主 38 岁以后。\r\n\r\n它们计算方法是这样的：\r\n\r\n天格：姓的笔画数?+ 1\r\n人格：姓的笔画数 + 名第一字的笔画数\r\n地格：名字的笔画数相加\r\n总格：姓名笔画数的总和\r\n外格：总格 - 人格 + 1?\r\n\r\n这里的笔画数是按康熙字典里的笔画，也就是要按繁体字计算。此外还有一些部首会影响笔画数计算：\r\n\r\n（1）“氵”三点水算四画。如：清、洁等；（2）“扌”手旁算四画。如挑、拨等；（3）“月”算肉旁六画。如服、肪、脉等；（4）“艹”算六画。如英、苹、蓉等；（5）“辶”算七画。如达、迈、迅、过等；（6）左“阝”算八画，阳、阴、陈、陆等；（7）右“卩”算七画，如即、邓、邝等；（8）“王”算五画，如琬、珀、玫、瑰等；（9）礻（示），以示字计为五画；（10）衤（衣），以衣字计为六画；（11）“犭”算四画。如狄、猛、独等；（12）忄（心），竖心旁，以心字计为四画；（13）名字中有“一、二、三、四、五、六、七、八、九、十”的字要分别按1、2、3、4、5、6、7、8、9、10画。\r\n\r\n最后算出来的五格笔画数，被划分为吉、半吉、凶三组：\r\n\r\n属于吉的数字：1、3、5、8、11、13、15、16、21、23、24、25、29、31、32、33、35、37、38、39、41、45、47、48、52、57、63、65、67、68、81\r\n属于半吉的数字：6、7、17、18、27、30、40、51、52、55、61、75\r\n属于凶的数字：2、4、9、10、12、14、19、20、22、26、28、34、36、42、43、44、46、49、50、53、54、56、58、59、60、62、64、66、69、70、71、72、73、74、76、77、78、79、80\r\n\r\n\r\n----------------------------------------------\r\n\r\n\r\n简而言之就是：\r\n\r\n1，用字的五行补缺少的五行，笔画数以康熙字典为准。\r\n\r\n2，五格要全为吉数，最好是其它格的五行为生人格或被人格克，禁克制人格（此与八字五行分开论。\r\n\r\n3，用字的寓意吉祥没有不好的暗示。\r\n\r\n\r\n\r\n--------------------------------------------\r\n\r\n\r\n最主要的还是积德行善。\r\n\r\n多行善事，才是好运的根本，否则一切都是徒劳的。";
-        }
-
-        private void button59_Click(object sender, MouseEventArgs e)
-        {
-
         }
 
         private void numericUpDownhour_ValueChanged(object sender, EventArgs e)

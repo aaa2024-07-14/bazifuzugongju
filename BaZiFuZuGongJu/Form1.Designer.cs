@@ -33,6 +33,23 @@
             timer1 = new System.Windows.Forms.Timer(components);
             tableLayoutPanel1 = new TableLayoutPanel();
             panel1 = new Panel();
+            richTextBox1 = new RichTextBox();
+            labellnssnz = new Label();
+            labellnssyz = new Label();
+            labellnssrz = new Label();
+            labellnsssz = new Label();
+            labellnssng = new Label();
+            labellnssyg = new Label();
+            labellnssrg = new Label();
+            labellnsssg = new Label();
+            labellnng = new Label();
+            labellnyg = new Label();
+            labellnsz = new Label();
+            labellnrz = new Label();
+            labellnyz = new Label();
+            labellnnz = new Label();
+            labellnrg = new Label();
+            labellnsg = new Label();
             labelcs9 = new Label();
             labelnzssbq = new Label();
             labelcs10 = new Label();
@@ -100,7 +117,6 @@
             labelcstg1 = new Label();
             labelxiangxi = new Label();
             labelcstg2 = new Label();
-            richTextBox1 = new RichTextBox();
             labelcstg3 = new Label();
             labeltu = new Label();
             labelcstg4 = new Label();
@@ -238,28 +254,12 @@
             Label54 = new Label();
             Label55 = new Label();
             Label56 = new Label();
-            buttonlnsssz = new Button();
             Labelsdzss1 = new Label();
-            buttonlnssrz = new Button();
             Label58 = new Label();
-            buttonlnssyz = new Button();
             Label59 = new Label();
-            buttonlnssyg = new Button();
             Label60 = new Label();
-            buttonlnssnz = new Button();
             Label7hff = new Label();
-            buttonlnsssg = new Button();
             labelTime = new Label();
-            buttonlnssrg = new Button();
-            buttonlnssng = new Button();
-            buttonnz = new Button();
-            buttonyz = new Button();
-            buttonsg = new Button();
-            buttonsz = new Button();
-            buttonrg = new Button();
-            buttonrz = new Button();
-            buttonyg = new Button();
-            buttonng = new Button();
             tableLayoutPanel1.SuspendLayout();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)numericUpDownhour).BeginInit();
@@ -293,6 +293,22 @@
             // 
             panel1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             panel1.Controls.Add(richTextBox1);
+            panel1.Controls.Add(labellnssnz);
+            panel1.Controls.Add(labellnssyz);
+            panel1.Controls.Add(labellnssrz);
+            panel1.Controls.Add(labellnsssz);
+            panel1.Controls.Add(labellnssng);
+            panel1.Controls.Add(labellnssyg);
+            panel1.Controls.Add(labellnssrg);
+            panel1.Controls.Add(labellnsssg);
+            panel1.Controls.Add(labellnng);
+            panel1.Controls.Add(labellnyg);
+            panel1.Controls.Add(labellnsz);
+            panel1.Controls.Add(labellnrz);
+            panel1.Controls.Add(labellnyz);
+            panel1.Controls.Add(labellnnz);
+            panel1.Controls.Add(labellnrg);
+            panel1.Controls.Add(labellnsg);
             panel1.Controls.Add(labelcs9);
             panel1.Controls.Add(labelnzssbq);
             panel1.Controls.Add(labelcs10);
@@ -497,33 +513,236 @@
             panel1.Controls.Add(Label54);
             panel1.Controls.Add(Label55);
             panel1.Controls.Add(Label56);
-            panel1.Controls.Add(buttonlnsssz);
             panel1.Controls.Add(Labelsdzss1);
-            panel1.Controls.Add(buttonlnssrz);
             panel1.Controls.Add(Label58);
-            panel1.Controls.Add(buttonlnssyz);
             panel1.Controls.Add(Label59);
-            panel1.Controls.Add(buttonlnssyg);
             panel1.Controls.Add(Label60);
-            panel1.Controls.Add(buttonlnssnz);
             panel1.Controls.Add(Label7hff);
-            panel1.Controls.Add(buttonlnsssg);
             panel1.Controls.Add(labelTime);
-            panel1.Controls.Add(buttonlnssrg);
-            panel1.Controls.Add(buttonlnssng);
-            panel1.Controls.Add(buttonnz);
-            panel1.Controls.Add(buttonyz);
-            panel1.Controls.Add(buttonsg);
-            panel1.Controls.Add(buttonsz);
-            panel1.Controls.Add(buttonrg);
-            panel1.Controls.Add(buttonrz);
-            panel1.Controls.Add(buttonyg);
-            panel1.Controls.Add(buttonng);
             panel1.Location = new Point(0, 0);
             panel1.Margin = new Padding(0);
             panel1.Name = "panel1";
             panel1.Size = new Size(1920, 1080);
             panel1.TabIndex = 289;
+            // 
+            // richTextBox1
+            // 
+            richTextBox1.BackColor = Color.DimGray;
+            richTextBox1.Font = new Font("微软雅黑", 21.75F, FontStyle.Bold);
+            richTextBox1.ForeColor = Color.GreenYellow;
+            richTextBox1.Location = new Point(8, 39);
+            richTextBox1.Name = "richTextBox1";
+            richTextBox1.Size = new Size(558, 190);
+            richTextBox1.TabIndex = 122;
+            richTextBox1.Text = "";
+            // 
+            // labellnssnz
+            // 
+            labellnssnz.AutoSize = true;
+            labellnssnz.BackColor = Color.White;
+            labellnssnz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            labellnssnz.ForeColor = Color.Black;
+            labellnssnz.Location = new Point(136, 646);
+            labellnssnz.Name = "labellnssnz";
+            labellnssnz.Size = new Size(62, 31);
+            labellnssnz.TabIndex = 453;
+            labellnssnz.TabStop = true;
+            labellnssnz.Text = "十神";
+            // 
+            // labellnssyz
+            // 
+            labellnssyz.AutoSize = true;
+            labellnssyz.BackColor = Color.White;
+            labellnssyz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            labellnssyz.ForeColor = Color.Black;
+            labellnssyz.Location = new Point(619, 646);
+            labellnssyz.Name = "labellnssyz";
+            labellnssyz.Size = new Size(62, 31);
+            labellnssyz.TabIndex = 454;
+            labellnssyz.TabStop = true;
+            labellnssyz.Text = "十神";
+            // 
+            // labellnssrz
+            // 
+            labellnssrz.AutoSize = true;
+            labellnssrz.BackColor = Color.White;
+            labellnssrz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            labellnssrz.ForeColor = Color.Black;
+            labellnssrz.Location = new Point(1098, 646);
+            labellnssrz.Name = "labellnssrz";
+            labellnssrz.Size = new Size(62, 31);
+            labellnssrz.TabIndex = 455;
+            labellnssrz.TabStop = true;
+            labellnssrz.Text = "十神";
+            // 
+            // labellnsssz
+            // 
+            labellnsssz.AutoSize = true;
+            labellnsssz.BackColor = Color.White;
+            labellnsssz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            labellnsssz.ForeColor = Color.Black;
+            labellnsssz.Location = new Point(1581, 646);
+            labellnsssz.Name = "labellnsssz";
+            labellnsssz.Size = new Size(62, 31);
+            labellnsssz.TabIndex = 456;
+            labellnsssz.TabStop = true;
+            labellnsssz.Text = "十神";
+            // 
+            // labellnssng
+            // 
+            labellnssng.AutoSize = true;
+            labellnssng.BackColor = Color.White;
+            labellnssng.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            labellnssng.ForeColor = Color.Black;
+            labellnssng.Location = new Point(136, 528);
+            labellnssng.Name = "labellnssng";
+            labellnssng.Size = new Size(62, 31);
+            labellnssng.TabIndex = 449;
+            labellnssng.TabStop = true;
+            labellnssng.Text = "十神";
+            // 
+            // labellnssyg
+            // 
+            labellnssyg.AutoSize = true;
+            labellnssyg.BackColor = Color.White;
+            labellnssyg.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            labellnssyg.ForeColor = Color.Black;
+            labellnssyg.Location = new Point(619, 528);
+            labellnssyg.Name = "labellnssyg";
+            labellnssyg.Size = new Size(62, 31);
+            labellnssyg.TabIndex = 450;
+            labellnssyg.TabStop = true;
+            labellnssyg.Text = "十神";
+            // 
+            // labellnssrg
+            // 
+            labellnssrg.AutoSize = true;
+            labellnssrg.BackColor = Color.White;
+            labellnssrg.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            labellnssrg.ForeColor = Color.Black;
+            labellnssrg.Location = new Point(1098, 528);
+            labellnssrg.Name = "labellnssrg";
+            labellnssrg.Size = new Size(62, 31);
+            labellnssrg.TabIndex = 451;
+            labellnssrg.TabStop = true;
+            labellnssrg.Text = "十神";
+            // 
+            // labellnsssg
+            // 
+            labellnsssg.AutoSize = true;
+            labellnsssg.BackColor = Color.White;
+            labellnsssg.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            labellnsssg.ForeColor = Color.Black;
+            labellnsssg.Location = new Point(1581, 528);
+            labellnsssg.Name = "labellnsssg";
+            labellnsssg.Size = new Size(62, 31);
+            labellnsssg.TabIndex = 452;
+            labellnsssg.TabStop = true;
+            labellnsssg.Text = "十神";
+            // 
+            // labellnng
+            // 
+            labellnng.AutoSize = true;
+            labellnng.BackColor = Color.Green;
+            labellnng.Font = new Font("微软雅黑", 24F, FontStyle.Bold);
+            labellnng.ForeColor = Color.Yellow;
+            labellnng.Location = new Point(142, 559);
+            labellnng.Name = "labellnng";
+            labellnng.Size = new Size(50, 42);
+            labellnng.TabIndex = 441;
+            labellnng.TabStop = true;
+            labellnng.Text = "正";
+            // 
+            // labellnyg
+            // 
+            labellnyg.AutoSize = true;
+            labellnyg.BackColor = Color.Green;
+            labellnyg.Font = new Font("微软雅黑", 24F, FontStyle.Bold);
+            labellnyg.ForeColor = Color.Yellow;
+            labellnyg.Location = new Point(625, 559);
+            labellnyg.Name = "labellnyg";
+            labellnyg.Size = new Size(50, 42);
+            labellnyg.TabIndex = 442;
+            labellnyg.TabStop = true;
+            labellnyg.Text = "正";
+            // 
+            // labellnsz
+            // 
+            labellnsz.AutoSize = true;
+            labellnsz.BackColor = Color.Green;
+            labellnsz.Font = new Font("微软雅黑", 24F, FontStyle.Bold);
+            labellnsz.ForeColor = Color.Yellow;
+            labellnsz.Location = new Point(1587, 604);
+            labellnsz.Name = "labellnsz";
+            labellnsz.Size = new Size(50, 42);
+            labellnsz.TabIndex = 448;
+            labellnsz.TabStop = true;
+            labellnsz.Text = "正";
+            // 
+            // labellnrz
+            // 
+            labellnrz.AutoSize = true;
+            labellnrz.BackColor = Color.Green;
+            labellnrz.Font = new Font("微软雅黑", 24F, FontStyle.Bold);
+            labellnrz.ForeColor = Color.Yellow;
+            labellnrz.Location = new Point(1104, 604);
+            labellnrz.Name = "labellnrz";
+            labellnrz.Size = new Size(50, 42);
+            labellnrz.TabIndex = 447;
+            labellnrz.TabStop = true;
+            labellnrz.Text = "正";
+            // 
+            // labellnyz
+            // 
+            labellnyz.AutoSize = true;
+            labellnyz.BackColor = Color.Green;
+            labellnyz.Font = new Font("微软雅黑", 24F, FontStyle.Bold);
+            labellnyz.ForeColor = Color.Yellow;
+            labellnyz.Location = new Point(625, 604);
+            labellnyz.Name = "labellnyz";
+            labellnyz.Size = new Size(50, 42);
+            labellnyz.TabIndex = 446;
+            labellnyz.TabStop = true;
+            labellnyz.Text = "正";
+            // 
+            // labellnnz
+            // 
+            labellnnz.AutoSize = true;
+            labellnnz.BackColor = Color.Green;
+            labellnnz.Font = new Font("微软雅黑", 24F, FontStyle.Bold);
+            labellnnz.ForeColor = Color.Yellow;
+            labellnnz.Location = new Point(142, 604);
+            labellnnz.Name = "labellnnz";
+            labellnnz.Size = new Size(50, 42);
+            labellnnz.TabIndex = 445;
+            labellnnz.TabStop = true;
+            labellnnz.Text = "正";
+            // 
+            // labellnrg
+            // 
+            labellnrg.AutoSize = true;
+            labellnrg.BackColor = Color.Green;
+            labellnrg.Font = new Font("微软雅黑", 24F, FontStyle.Bold);
+            labellnrg.ForeColor = Color.Yellow;
+            labellnrg.Location = new Point(1104, 559);
+            labellnrg.Name = "labellnrg";
+            labellnrg.Size = new Size(50, 42);
+            labellnrg.TabIndex = 443;
+            labellnrg.TabStop = true;
+            labellnrg.Text = "正";
+            // 
+            // labellnsg
+            // 
+            labellnsg.AutoSize = true;
+            labellnsg.BackColor = Color.Green;
+            labellnsg.Font = new Font("微软雅黑", 24F, FontStyle.Bold);
+            labellnsg.ForeColor = Color.Yellow;
+            labellnsg.Location = new Point(1587, 559);
+            labellnsg.Name = "labellnsg";
+            labellnsg.Size = new Size(50, 42);
+            labellnsg.TabIndex = 444;
+            labellnsg.TabStop = true;
+            labellnsg.Text = "正";
             // 
             // labelcs9
             // 
@@ -1432,17 +1651,6 @@
             labelcstg2.TabIndex = 406;
             labelcstg2.TabStop = true;
             labelcstg2.Text = "正";
-            // 
-            // richTextBox1
-            // 
-            richTextBox1.BackColor = Color.DimGray;
-            richTextBox1.Font = new Font("微软雅黑", 21.75F, FontStyle.Bold);
-            richTextBox1.ForeColor = Color.GreenYellow;
-            richTextBox1.Location = new Point(8, 39);
-            richTextBox1.Name = "richTextBox1";
-            richTextBox1.Size = new Size(558, 190);
-            richTextBox1.TabIndex = 122;
-            richTextBox1.Text = "";
             // 
             // labelcstg3
             // 
@@ -3228,16 +3436,6 @@
             Label56.TabStop = true;
             Label56.Text = "方位";
             // 
-            // buttonlnsssz
-            // 
-            buttonlnsssz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttonlnsssz.Location = new Point(1565, 655);
-            buttonlnsssz.Name = "buttonlnsssz";
-            buttonlnsssz.Size = new Size(75, 36);
-            buttonlnsssz.TabIndex = 172;
-            buttonlnsssz.Text = "正大";
-            buttonlnsssz.UseVisualStyleBackColor = true;
-            // 
             // Labelsdzss1
             // 
             Labelsdzss1.AutoSize = true;
@@ -3250,16 +3448,6 @@
             Labelsdzss1.TabIndex = 106;
             Labelsdzss1.TabStop = true;
             Labelsdzss1.Text = "神煞";
-            // 
-            // buttonlnssrz
-            // 
-            buttonlnssrz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttonlnssrz.Location = new Point(1084, 657);
-            buttonlnssrz.Name = "buttonlnssrz";
-            buttonlnssrz.Size = new Size(75, 36);
-            buttonlnssrz.TabIndex = 169;
-            buttonlnssrz.Text = "正大";
-            buttonlnssrz.UseVisualStyleBackColor = true;
             // 
             // Label58
             // 
@@ -3274,16 +3462,6 @@
             Label58.TabStop = true;
             Label58.Text = "终点-次子或次女";
             // 
-            // buttonlnssyz
-            // 
-            buttonlnssyz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttonlnssyz.Location = new Point(607, 655);
-            buttonlnssyz.Name = "buttonlnssyz";
-            buttonlnssyz.Size = new Size(75, 36);
-            buttonlnssyz.TabIndex = 167;
-            buttonlnssyz.Text = "正大";
-            buttonlnssyz.UseVisualStyleBackColor = true;
-            // 
             // Label59
             // 
             Label59.AutoSize = true;
@@ -3296,17 +3474,6 @@
             Label59.TabIndex = 108;
             Label59.TabStop = true;
             Label59.Text = "六亲";
-            // 
-            // buttonlnssyg
-            // 
-            buttonlnssyg.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttonlnssyg.Location = new Point(607, 537);
-            buttonlnssyg.Name = "buttonlnssyg";
-            buttonlnssyg.Size = new Size(75, 36);
-            buttonlnssyg.TabIndex = 166;
-            buttonlnssyg.Text = "正大";
-            buttonlnssyg.UseVisualStyleBackColor = true;
-            buttonlnssyg.Click += button58_Click;
             // 
             // Label60
             // 
@@ -3321,16 +3488,6 @@
             Label60.TabStop = true;
             Label60.Text = "晚年期约55岁以后或更晚";
             // 
-            // buttonlnssnz
-            // 
-            buttonlnssnz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttonlnssnz.Location = new Point(123, 657);
-            buttonlnssnz.Name = "buttonlnssnz";
-            buttonlnssnz.Size = new Size(75, 36);
-            buttonlnssnz.TabIndex = 163;
-            buttonlnssnz.Text = "正大";
-            buttonlnssnz.UseVisualStyleBackColor = true;
-            // 
             // Label7hff
             // 
             Label7hff.AutoSize = true;
@@ -3343,16 +3500,6 @@
             Label7hff.TabIndex = 128;
             Label7hff.TabStop = true;
             Label7hff.Text = "主盘强弱";
-            // 
-            // buttonlnsssg
-            // 
-            buttonlnsssg.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttonlnsssg.Location = new Point(1565, 537);
-            buttonlnsssg.Name = "buttonlnsssg";
-            buttonlnsssg.Size = new Size(75, 36);
-            buttonlnsssg.TabIndex = 162;
-            buttonlnsssg.Text = "正大";
-            buttonlnsssg.UseVisualStyleBackColor = true;
             // 
             // labelTime
             // 
@@ -3367,114 +3514,6 @@
             labelTime.TabIndex = 130;
             labelTime.Text = "99:99:99";
             // 
-            // buttonlnssrg
-            // 
-            buttonlnssrg.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttonlnssrg.Location = new Point(1084, 539);
-            buttonlnssrg.Name = "buttonlnssrg";
-            buttonlnssrg.Size = new Size(75, 36);
-            buttonlnssrg.TabIndex = 161;
-            buttonlnssrg.Text = "旺衰";
-            buttonlnssrg.UseVisualStyleBackColor = true;
-            // 
-            // buttonlnssng
-            // 
-            buttonlnssng.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttonlnssng.Location = new Point(123, 539);
-            buttonlnssng.Name = "buttonlnssng";
-            buttonlnssng.Size = new Size(75, 36);
-            buttonlnssng.TabIndex = 159;
-            buttonlnssng.Text = "正大";
-            buttonlnssng.UseVisualStyleBackColor = true;
-            // 
-            // buttonnz
-            // 
-            buttonnz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttonnz.Location = new Point(142, 617);
-            buttonnz.Name = "buttonnz";
-            buttonnz.Size = new Size(36, 36);
-            buttonnz.TabIndex = 135;
-            buttonnz.Text = "正";
-            buttonnz.UseVisualStyleBackColor = true;
-            buttonnz.Visible = false;
-            // 
-            // buttonyz
-            // 
-            buttonyz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttonyz.Location = new Point(626, 615);
-            buttonyz.Name = "buttonyz";
-            buttonyz.Size = new Size(36, 36);
-            buttonyz.TabIndex = 136;
-            buttonyz.Text = "正";
-            buttonyz.UseVisualStyleBackColor = true;
-            buttonyz.Visible = false;
-            // 
-            // buttonsg
-            // 
-            buttonsg.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttonsg.Location = new Point(1584, 579);
-            buttonsg.Name = "buttonsg";
-            buttonsg.Size = new Size(36, 36);
-            buttonsg.TabIndex = 142;
-            buttonsg.Text = "正";
-            buttonsg.UseVisualStyleBackColor = true;
-            buttonsg.Visible = false;
-            // 
-            // buttonsz
-            // 
-            buttonsz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttonsz.Location = new Point(1584, 615);
-            buttonsz.Name = "buttonsz";
-            buttonsz.Size = new Size(36, 36);
-            buttonsz.TabIndex = 137;
-            buttonsz.Text = "正";
-            buttonsz.UseVisualStyleBackColor = true;
-            buttonsz.Visible = false;
-            // 
-            // buttonrg
-            // 
-            buttonrg.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttonrg.Location = new Point(1103, 581);
-            buttonrg.Name = "buttonrg";
-            buttonrg.Size = new Size(36, 36);
-            buttonrg.TabIndex = 141;
-            buttonrg.Text = "正";
-            buttonrg.UseVisualStyleBackColor = true;
-            buttonrg.Visible = false;
-            // 
-            // buttonrz
-            // 
-            buttonrz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttonrz.Location = new Point(1103, 617);
-            buttonrz.Name = "buttonrz";
-            buttonrz.Size = new Size(36, 36);
-            buttonrz.TabIndex = 138;
-            buttonrz.Text = "正";
-            buttonrz.UseVisualStyleBackColor = true;
-            buttonrz.Visible = false;
-            // 
-            // buttonyg
-            // 
-            buttonyg.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttonyg.Location = new Point(626, 579);
-            buttonyg.Name = "buttonyg";
-            buttonyg.Size = new Size(36, 36);
-            buttonyg.TabIndex = 140;
-            buttonyg.Text = "正";
-            buttonyg.UseVisualStyleBackColor = true;
-            buttonyg.Visible = false;
-            // 
-            // buttonng
-            // 
-            buttonng.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttonng.Location = new Point(142, 581);
-            buttonng.Name = "buttonng";
-            buttonng.Size = new Size(36, 36);
-            buttonng.TabIndex = 139;
-            buttonng.Text = "正";
-            buttonng.UseVisualStyleBackColor = true;
-            buttonng.Visible = false;
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(96F, 96F);
@@ -3486,7 +3525,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-11-19";
+            Text = "八字排盘工具v2024-11-20";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             tableLayoutPanel1.ResumeLayout(false);
@@ -3623,28 +3662,12 @@
         private Label Label54;
         private Label Label55;
         private Label Label56;
-        private Button buttonlnsssz;
         private Label Labelsdzss1;
-        private Button buttonlnssrz;
         private Label Label58;
-        private Button buttonlnssyz;
         private Label Label59;
-        private Button buttonlnssyg;
         private Label Label60;
-        private Button buttonlnssnz;
         private Label Label7hff;
-        private Button buttonlnsssg;
         private Label labelTime;
-        private Button buttonlnssrg;
-        private Button buttonlnssng;
-        private Button buttonnz;
-        private Button buttonyz;
-        private Button buttonsg;
-        private Button buttonsz;
-        private Button buttonrg;
-        private Button buttonrz;
-        private Button buttonyg;
-        private Button buttonng;
         private Label labelguanyu;
         private Label labelxiangxi;
         private Label labelzhuoyi;
@@ -3730,5 +3753,21 @@
         private RadioButton radioButtonll;
         private CheckBox checkBoxln;
         private CheckBox checkBox1;
+        private Label labellnssnz;
+        private Label labellnssyz;
+        private Label labellnssrz;
+        private Label labellnsssz;
+        private Label labellnssng;
+        private Label labellnssyg;
+        private Label labellnssrg;
+        private Label labellnsssg;
+        private Label labellnng;
+        private Label labellnyg;
+        private Label labellnsz;
+        private Label labellnrz;
+        private Label labellnyz;
+        private Label labellnnz;
+        private Label labellnrg;
+        private Label labellnsg;
     }
 }
