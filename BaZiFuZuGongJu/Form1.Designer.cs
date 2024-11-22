@@ -542,7 +542,7 @@
             labellnssnz.BackColor = Color.White;
             labellnssnz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labellnssnz.ForeColor = Color.Black;
-            labellnssnz.Location = new Point(136, 646);
+            labellnssnz.Location = new Point(136, 643);
             labellnssnz.Name = "labellnssnz";
             labellnssnz.Size = new Size(62, 31);
             labellnssnz.TabIndex = 453;
@@ -555,7 +555,7 @@
             labellnssyz.BackColor = Color.White;
             labellnssyz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labellnssyz.ForeColor = Color.Black;
-            labellnssyz.Location = new Point(619, 646);
+            labellnssyz.Location = new Point(619, 643);
             labellnssyz.Name = "labellnssyz";
             labellnssyz.Size = new Size(62, 31);
             labellnssyz.TabIndex = 454;
@@ -568,7 +568,7 @@
             labellnssrz.BackColor = Color.White;
             labellnssrz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labellnssrz.ForeColor = Color.Black;
-            labellnssrz.Location = new Point(1098, 646);
+            labellnssrz.Location = new Point(1098, 643);
             labellnssrz.Name = "labellnssrz";
             labellnssrz.Size = new Size(62, 31);
             labellnssrz.TabIndex = 455;
@@ -581,7 +581,7 @@
             labellnsssz.BackColor = Color.White;
             labellnsssz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labellnsssz.ForeColor = Color.Black;
-            labellnsssz.Location = new Point(1581, 646);
+            labellnsssz.Location = new Point(1581, 643);
             labellnsssz.Name = "labellnsssz";
             labellnsssz.Size = new Size(62, 31);
             labellnsssz.TabIndex = 456;
@@ -672,7 +672,7 @@
             labellnsz.BackColor = Color.Green;
             labellnsz.Font = new Font("微软雅黑", 24F, FontStyle.Bold);
             labellnsz.ForeColor = Color.Yellow;
-            labellnsz.Location = new Point(1587, 604);
+            labellnsz.Location = new Point(1587, 601);
             labellnsz.Name = "labellnsz";
             labellnsz.Size = new Size(50, 42);
             labellnsz.TabIndex = 448;
@@ -685,7 +685,7 @@
             labellnrz.BackColor = Color.Green;
             labellnrz.Font = new Font("微软雅黑", 24F, FontStyle.Bold);
             labellnrz.ForeColor = Color.Yellow;
-            labellnrz.Location = new Point(1104, 604);
+            labellnrz.Location = new Point(1104, 601);
             labellnrz.Name = "labellnrz";
             labellnrz.Size = new Size(50, 42);
             labellnrz.TabIndex = 447;
@@ -698,7 +698,7 @@
             labellnyz.BackColor = Color.Green;
             labellnyz.Font = new Font("微软雅黑", 24F, FontStyle.Bold);
             labellnyz.ForeColor = Color.Yellow;
-            labellnyz.Location = new Point(625, 604);
+            labellnyz.Location = new Point(625, 601);
             labellnyz.Name = "labellnyz";
             labellnyz.Size = new Size(50, 42);
             labellnyz.TabIndex = 446;
@@ -711,7 +711,7 @@
             labellnnz.BackColor = Color.Green;
             labellnnz.Font = new Font("微软雅黑", 24F, FontStyle.Bold);
             labellnnz.ForeColor = Color.Yellow;
-            labellnnz.Location = new Point(142, 604);
+            labellnnz.Location = new Point(142, 601);
             labellnnz.Name = "labellnnz";
             labellnnz.Size = new Size(50, 42);
             labellnnz.TabIndex = 445;
@@ -3525,7 +3525,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-11-20";
+            Text = "八字排盘工具v2024-11-22";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             tableLayoutPanel1.ResumeLayout(false);
