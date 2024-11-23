@@ -1199,7 +1199,7 @@
             labelng.BackColor = Color.Green;
             labelng.Font = new Font("微软雅黑", 26.25F, FontStyle.Bold);
             labelng.ForeColor = Color.Yellow;
-            labelng.Location = new Point(2, 539);
+            labelng.Location = new Point(4, 534);
             labelng.Name = "labelng";
             labelng.Size = new Size(55, 46);
             labelng.TabIndex = 321;
@@ -1226,7 +1226,7 @@
             labelyg.BackColor = Color.Green;
             labelyg.Font = new Font("微软雅黑", 26.25F, FontStyle.Bold);
             labelyg.ForeColor = Color.Yellow;
-            labelyg.Location = new Point(485, 539);
+            labelyg.Location = new Point(487, 534);
             labelyg.Name = "labelyg";
             labelyg.Size = new Size(55, 46);
             labelyg.TabIndex = 322;
@@ -1253,7 +1253,7 @@
             labelsz.BackColor = Color.Green;
             labelsz.Font = new Font("微软雅黑", 26.25F, FontStyle.Bold);
             labelsz.ForeColor = Color.Yellow;
-            labelsz.Location = new Point(1447, 584);
+            labelsz.Location = new Point(1449, 579);
             labelsz.Name = "labelsz";
             labelsz.Size = new Size(55, 46);
             labelsz.TabIndex = 328;
@@ -1280,7 +1280,7 @@
             labelrz.BackColor = Color.Green;
             labelrz.Font = new Font("微软雅黑", 26.25F, FontStyle.Bold);
             labelrz.ForeColor = Color.Yellow;
-            labelrz.Location = new Point(964, 584);
+            labelrz.Location = new Point(966, 579);
             labelrz.Name = "labelrz";
             labelrz.Size = new Size(55, 46);
             labelrz.TabIndex = 327;
@@ -1307,7 +1307,7 @@
             labelyz.BackColor = Color.Green;
             labelyz.Font = new Font("微软雅黑", 26.25F, FontStyle.Bold);
             labelyz.ForeColor = Color.Yellow;
-            labelyz.Location = new Point(485, 584);
+            labelyz.Location = new Point(487, 579);
             labelyz.Name = "labelyz";
             labelyz.Size = new Size(55, 46);
             labelyz.TabIndex = 326;
@@ -1334,7 +1334,7 @@
             labelnz.BackColor = Color.Green;
             labelnz.Font = new Font("微软雅黑", 26.25F, FontStyle.Bold);
             labelnz.ForeColor = Color.Yellow;
-            labelnz.Location = new Point(2, 584);
+            labelnz.Location = new Point(4, 579);
             labelnz.Name = "labelnz";
             labelnz.Size = new Size(55, 46);
             labelnz.TabIndex = 325;
@@ -1361,7 +1361,7 @@
             labelrg.BackColor = Color.Green;
             labelrg.Font = new Font("微软雅黑", 26.25F, FontStyle.Bold);
             labelrg.ForeColor = Color.Yellow;
-            labelrg.Location = new Point(964, 539);
+            labelrg.Location = new Point(966, 534);
             labelrg.Name = "labelrg";
             labelrg.Size = new Size(55, 46);
             labelrg.TabIndex = 323;
@@ -1388,7 +1388,7 @@
             labelsg.BackColor = Color.Green;
             labelsg.Font = new Font("微软雅黑", 26.25F, FontStyle.Bold);
             labelsg.ForeColor = Color.Yellow;
-            labelsg.Location = new Point(1447, 539);
+            labelsg.Location = new Point(1449, 534);
             labelsg.Name = "labelsg";
             labelsg.Size = new Size(55, 46);
             labelsg.TabIndex = 324;
@@ -1866,6 +1866,7 @@
             Labelscsn.TabIndex = 301;
             Labelscsn.TabStop = true;
             Labelscsn.Text = "正长生";
+            Labelscsn.Click += Labelscsn_Click;
             // 
             // labelcsss7
             // 
@@ -1892,6 +1893,7 @@
             Labelscsy.TabIndex = 302;
             Labelscsy.TabStop = true;
             Labelscsy.Text = "正长生";
+            Labelscsy.Click += Labelscsy_Click;
             // 
             // labelcsss8
             // 
@@ -1918,6 +1920,7 @@
             Labelscsr.TabIndex = 303;
             Labelscsr.TabStop = true;
             Labelscsr.Text = "正长生";
+            Labelscsr.Click += Labelscsr_Click;
             // 
             // labelcsss1
             // 
@@ -1957,6 +1960,7 @@
             Labelscss.TabIndex = 304;
             Labelscss.TabStop = true;
             Labelscss.Text = "正长生";
+            Labelscss.Click += Labelscss_Click;
             // 
             // labelcsss3
             // 
@@ -1983,6 +1987,7 @@
             Labelrcsn.TabIndex = 297;
             Labelrcsn.TabStop = true;
             Labelrcsn.Text = "正长生";
+            Labelrcsn.Click += Labelrcsn_Click;
             // 
             // labelcsss4
             // 
@@ -2009,6 +2014,7 @@
             Labelrcsy.TabIndex = 298;
             Labelrcsy.TabStop = true;
             Labelrcsy.Text = "正长生";
+            Labelrcsy.Click += Labelrcsy_Click;
             // 
             // Labelrcsr
             // 
@@ -2022,6 +2028,7 @@
             Labelrcsr.TabIndex = 299;
             Labelrcsr.TabStop = true;
             Labelrcsr.Text = "正长生";
+            Labelrcsr.Click += Labelrcsr_Click;
             // 
             // Labelrcss
             // 
@@ -2035,6 +2042,7 @@
             Labelrcss.TabIndex = 300;
             Labelrcss.TabStop = true;
             Labelrcss.Text = "正长生";
+            Labelrcss.Click += Labelrcss_Click;
             // 
             // Labelycsn
             // 
@@ -2048,6 +2056,7 @@
             Labelycsn.TabIndex = 293;
             Labelycsn.TabStop = true;
             Labelycsn.Text = "正长生";
+            Labelycsn.Click += Labelycsn_Click;
             // 
             // Labelycsy
             // 
@@ -2061,6 +2070,7 @@
             Labelycsy.TabIndex = 294;
             Labelycsy.TabStop = true;
             Labelycsy.Text = "正长生";
+            Labelycsy.Click += Labelycsy_Click;
             // 
             // Labelycsr
             // 
@@ -2074,6 +2084,7 @@
             Labelycsr.TabIndex = 295;
             Labelycsr.TabStop = true;
             Labelycsr.Text = "正长生";
+            Labelycsr.Click += Labelycsr_Click;
             // 
             // Labelycss
             // 
@@ -2087,6 +2098,7 @@
             Labelycss.TabIndex = 296;
             Labelycss.TabStop = true;
             Labelycss.Text = "正长生";
+            Labelycss.Click += Labelycss_Click;
             // 
             // comboBoxsz
             // 
@@ -2273,6 +2285,7 @@
             Label5.TabIndex = 54;
             Label5.TabStop = true;
             Label5.Text = "祖先宫父系家族";
+            Label5.Click += Label5_Click;
             // 
             // Label6
             // 
@@ -2286,6 +2299,7 @@
             Label6.TabIndex = 55;
             Label6.TabStop = true;
             Label6.Text = "婴幼儿期约1-9岁";
+            Label6.Click += Label6_Click;
             // 
             // Labelncsn
             // 
@@ -2421,6 +2435,7 @@
             Label12.TabIndex = 61;
             Label12.TabStop = true;
             Label12.Text = "社会宫-父亲；哥；姐；包括社会上的";
+            Label12.Click += Label12_Click;
             // 
             // Label70
             // 
@@ -2448,6 +2463,7 @@
             Label13.TabIndex = 62;
             Label13.TabStop = true;
             Label13.Text = "青年期约19-27岁";
+            Label13.Click += Label13_Click;
             // 
             // Label71
             // 
@@ -2788,6 +2804,7 @@
             Label61.TabIndex = 221;
             Label61.TabStop = true;
             Label61.Text = "合";
+            Label61.Click += Label61_Click;
             // 
             // Labelncss
             // 
@@ -2984,6 +3001,7 @@
             Label35.TabIndex = 84;
             Label35.TabStop = true;
             Label35.Text = "祖先宫母系家族";
+            Label35.Click += Label35_Click;
             // 
             // Label7
             // 
@@ -3010,6 +3028,7 @@
             Label36.TabIndex = 85;
             Label36.TabStop = true;
             Label36.Text = "青少年期约10-18岁";
+            Label36.Click += Label36_Click;
             // 
             // Label3
             // 
@@ -3036,6 +3055,7 @@
             Label37.TabIndex = 86;
             Label37.TabStop = true;
             Label37.Text = "中青年期约28-36岁";
+            Label37.Click += Label37_Click;
             // 
             // Label38
             // 
@@ -3049,6 +3069,7 @@
             Label38.TabIndex = 87;
             Label38.TabStop = true;
             Label38.Text = "社会宫-母亲；弟；妹；包括社会上的";
+            Label38.Click += Label38_Click;
             // 
             // Labelydzss1
             // 
@@ -3192,6 +3213,7 @@
             Label45.TabIndex = 94;
             Label45.TabStop = true;
             Label45.Text = "壮年期约37-45岁";
+            Label45.Click += Label45_Click;
             // 
             // checkBoxln
             // 
@@ -3218,6 +3240,7 @@
             Label46.TabIndex = 95;
             Label46.TabStop = true;
             Label46.Text = "配偶宫-和配偶的家族";
+            Label46.Click += Label46_Click;
             // 
             // LabelDayTime
             // 
@@ -3396,6 +3419,7 @@
             Label25.TabIndex = 195;
             Label25.TabStop = true;
             Label25.Text = "阴阳";
+            Label25.Click += Label25_Click;
             // 
             // Label54
             // 
@@ -3461,6 +3485,7 @@
             Label58.TabIndex = 107;
             Label58.TabStop = true;
             Label58.Text = "终点-次子或次女";
+            Label58.Click += Label58_Click;
             // 
             // Label59
             // 
@@ -3487,6 +3512,7 @@
             Label60.TabIndex = 109;
             Label60.TabStop = true;
             Label60.Text = "晚年期约55岁以后或更晚";
+            Label60.Click += Label60_Click;
             // 
             // Label7hff
             // 
@@ -3500,6 +3526,7 @@
             Label7hff.TabIndex = 128;
             Label7hff.TabStop = true;
             Label7hff.Text = "主盘强弱";
+            Label7hff.Click += Label7hff_Click;
             // 
             // labelTime
             // 
@@ -3525,7 +3552,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-11-23";
+            Text = "八字排盘工具v2024-11-23v2";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             tableLayoutPanel1.ResumeLayout(false);
