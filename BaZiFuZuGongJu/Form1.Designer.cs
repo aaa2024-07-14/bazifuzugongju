@@ -1806,7 +1806,7 @@
             labeldingjishen.BackColor = Color.White;
             labeldingjishen.Font = new Font("微软雅黑", 21.75F, FontStyle.Bold);
             labeldingjishen.ForeColor = Color.Black;
-            labeldingjishen.Location = new Point(572, 177);
+            labeldingjishen.Location = new Point(575, 164);
             labeldingjishen.Name = "labeldingjishen";
             labeldingjishen.Size = new Size(396, 39);
             labeldingjishen.TabIndex = 306;
@@ -1833,7 +1833,7 @@
             labelwuxingbu.BackColor = Color.White;
             labelwuxingbu.Font = new Font("微软雅黑", 21.75F, FontStyle.Bold);
             labelwuxingbu.ForeColor = Color.Black;
-            labelwuxingbu.Location = new Point(977, 177);
+            labelwuxingbu.Location = new Point(980, 164);
             labelwuxingbu.Name = "labelwuxingbu";
             labelwuxingbu.Size = new Size(512, 39);
             labelwuxingbu.TabIndex = 305;
@@ -3525,7 +3525,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-11-22";
+            Text = "八字排盘工具v2024-11-23";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             tableLayoutPanel1.ResumeLayout(false);
