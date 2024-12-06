@@ -33,11 +33,11 @@
             timer1 = new System.Windows.Forms.Timer(components);
             tableLayoutPanel1 = new TableLayoutPanel();
             panel1 = new Panel();
+            richTextBox1 = new RichTextBox();
             Labelsdzss3 = new Label();
             Labelrdzss3 = new Label();
             Labelydzss3 = new Label();
             Labelndzss3 = new Label();
-            richTextBox1 = new RichTextBox();
             labellnssnz = new Label();
             labellnssyz = new Label();
             labellnssrz = new Label();
@@ -296,11 +296,11 @@
             // panel1
             // 
             panel1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            panel1.Controls.Add(richTextBox1);
             panel1.Controls.Add(Labelsdzss3);
             panel1.Controls.Add(Labelrdzss3);
             panel1.Controls.Add(Labelydzss3);
             panel1.Controls.Add(Labelndzss3);
-            panel1.Controls.Add(richTextBox1);
             panel1.Controls.Add(labellnssnz);
             panel1.Controls.Add(labellnssyz);
             panel1.Controls.Add(labellnssrz);
@@ -533,6 +533,17 @@
             panel1.Size = new Size(1920, 1080);
             panel1.TabIndex = 289;
             // 
+            // richTextBox1
+            // 
+            richTextBox1.BackColor = Color.DimGray;
+            richTextBox1.Font = new Font("微软雅黑", 21.75F, FontStyle.Bold);
+            richTextBox1.ForeColor = Color.GreenYellow;
+            richTextBox1.Location = new Point(8, 39);
+            richTextBox1.Name = "richTextBox1";
+            richTextBox1.Size = new Size(558, 190);
+            richTextBox1.TabIndex = 122;
+            richTextBox1.Text = "";
+            // 
             // Labelsdzss3
             // 
             Labelsdzss3.AutoSize = true;
@@ -584,17 +595,6 @@
             Labelndzss3.TabIndex = 457;
             Labelndzss3.TabStop = true;
             Labelndzss3.Text = "神煞";
-            // 
-            // richTextBox1
-            // 
-            richTextBox1.BackColor = Color.DimGray;
-            richTextBox1.Font = new Font("微软雅黑", 21.75F, FontStyle.Bold);
-            richTextBox1.ForeColor = Color.GreenYellow;
-            richTextBox1.Location = new Point(8, 39);
-            richTextBox1.Name = "richTextBox1";
-            richTextBox1.Size = new Size(558, 190);
-            richTextBox1.TabIndex = 122;
-            richTextBox1.Text = "";
             // 
             // labellnssnz
             // 
@@ -3612,7 +3612,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-12-06v2";
+            Text = "八字排盘工具v2024-12-06v3";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             tableLayoutPanel1.ResumeLayout(false);
