@@ -43036,7 +43036,8 @@ namespace BaZiFuZuGongJu
                     if (jia == jia)
                     {
                         int 驿马真假 = 0;
-                        if (ndz == yin || ndz == wuma || ndz == xuu || rdz == yin || rdz == wuma || rdz == xuu)
+
+                        if (ndz == yin || ndz == wuma || ndz == xuu)
                         {
                             if (ntg == bing || ytg == bing || rtg == bing || stg == bing)
                             {
@@ -43062,7 +43063,7 @@ namespace BaZiFuZuGongJu
                         }
                         if (ntg != bing && ytg != bing && rtg != bing && stg != bing)
                         {
-                            if (ndz == yin || ndz == wuma || ndz == xuu || rdz == yin || rdz == wuma || rdz == xuu)
+                            if (ndz == yin || ndz == wuma || ndz == xuu)
                             {
                                 if (ndz == shen)
                                 {
@@ -43082,7 +43083,7 @@ namespace BaZiFuZuGongJu
                                 }
                             }
                         }
-                        if (ndz == shen || ndz == zii || ndz == chen || rdz == shen || rdz == zii || rdz == chen)
+                        if (ndz == shen || ndz == zii || ndz == chen)
                         {
                             if (ntg == ren || ytg == ren || rtg == ren || stg == ren)
                             {
@@ -43108,7 +43109,7 @@ namespace BaZiFuZuGongJu
                         }
                         if (ntg != ren && ytg != ren && rtg != ren && stg != ren)
                         {
-                            if (ndz == shen || ndz == zii || ndz == chen || rdz == shen || rdz == zii || rdz == chen)
+                            if (ndz == shen || ndz == zii || ndz == chen)
                             {
                                 if (ndz == yin)
                                 {
@@ -43130,7 +43131,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ndz == sii || ndz == you || ndz == chou || rdz == sii || rdz == you || rdz == chou)
+                        if (ndz == sii || ndz == you || ndz == chou)
                         {
                             if (ntg == xin || ytg == xin || rtg == xin || stg == xin)
                             {
@@ -43156,7 +43157,7 @@ namespace BaZiFuZuGongJu
                         }
                         if (ntg != xin && ytg != xin && rtg != xin && stg != xin)
                         {
-                            if (ndz == sii || ndz == you || ndz == chou || rdz == sii || rdz == you || rdz == chou)
+                            if (ndz == sii || ndz == you || ndz == chou)
                             {
                                 if (ndz == hai)
                                 {
@@ -43178,7 +43179,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ndz == hai || ndz == mao || ndz == wei || rdz == hai || rdz == mao || rdz == wei)
+                        if (ndz == hai || ndz == mao || ndz == wei)
                         {
                             if (ntg == yii || ytg == yii || rtg == yii || stg == yii)
                             {
@@ -43204,7 +43205,7 @@ namespace BaZiFuZuGongJu
                         }
                         if (ntg != yii && ytg != yii && rtg != yii && stg != yii)
                         {
-                            if (ndz == hai || ndz == mao || ndz == wei || rdz == hai || rdz == mao || rdz == wei)
+                            if (ndz == hai || ndz == mao || ndz == wei)
                             {
                                 if (ndz == sii)
                                 {
@@ -43227,9 +43228,202 @@ namespace BaZiFuZuGongJu
 
                         }
 
+
+                        if (rdz == yin || rdz == wuma || rdz == xuu)
+                        {
+                            if (ntg == bing || ytg == bing || rtg == bing || stg == bing)
+                            {
+                                if (ndz == shen)
+                                {
+                                    ndztianma = 1; Labelndzss1.Text += "天马-"; 驿马真假 = 1;
+                                }
+                                if (ydz == shen)
+                                {
+                                    ydztianma = 1; Labelydzss1.Text += "天马-"; 驿马真假 = 1;
+                                }
+                                if (rdz == shen)
+                                {
+                                    rdztianma = 1; Labelrdzss1.Text += "天马-"; 驿马真假 = 1;
+                                }
+                                if (sdz == shen)
+                                {
+                                    sdztianma = 1; Labelsdzss1.Text += "天马-"; 驿马真假 = 1;
+                                }
+
+                            }
+
+                        }
+                        if (ntg != bing && ytg != bing && rtg != bing && stg != bing)
+                        {
+                            if (rdz == yin || rdz == wuma || rdz == xuu)
+                            {
+                                if (ndz == shen)
+                                {
+                                    ndztianma = 1; Labelndzss1.Text += "驿马-"; 驿马真假 = 1;
+                                }
+                                if (ydz == shen)
+                                {
+                                    ydztianma = 1; Labelydzss1.Text += "驿马-"; 驿马真假 = 1;
+                                }
+                                if (rdz == shen)
+                                {
+                                    rdztianma = 1; Labelrdzss1.Text += "驿马-"; 驿马真假 = 1;
+                                }
+                                if (sdz == shen)
+                                {
+                                    sdztianma = 1; Labelsdzss1.Text += "驿马-"; 驿马真假 = 1;
+                                }
+                            }
+                        }
+                        if (rdz == shen || rdz == zii || rdz == chen)
+                        {
+                            if (ntg == ren || ytg == ren || rtg == ren || stg == ren)
+                            {
+                                if (ndz == yin)
+                                {
+                                    ndztianma = 1; Labelndzss1.Text += "天马-"; 驿马真假 = 1;
+                                }
+                                if (ydz == yin)
+                                {
+                                    ydztianma = 1; Labelydzss1.Text += "天马-"; 驿马真假 = 1;
+                                }
+                                if (rdz == yin)
+                                {
+                                    rdztianma = 1; Labelrdzss1.Text += "天马-"; 驿马真假 = 1;
+                                }
+                                if (sdz == yin)
+                                {
+                                    sdztianma = 1; Labelsdzss1.Text += "天马-"; 驿马真假 = 1;
+                                }
+
+                            }
+
+                        }
+                        if (ntg != ren && ytg != ren && rtg != ren && stg != ren)
+                        {
+                            if (rdz == shen || rdz == zii || rdz == chen)
+                            {
+                                if (ndz == yin)
+                                {
+                                    ndzyima = 1; Labelndzss1.Text += "驿马-"; 驿马真假 = 1;
+                                }
+                                if (ydz == yin)
+                                {
+                                    ydzyima = 1; Labelydzss1.Text += "驿马-"; 驿马真假 = 1;
+                                }
+                                if (rdz == yin)
+                                {
+                                    rdzyima = 1; Labelrdzss1.Text += "驿马-"; 驿马真假 = 1;
+                                }
+                                if (sdz == yin)
+                                {
+                                    sdzyima = 1; Labelsdzss1.Text += "驿马-"; 驿马真假 = 1;
+                                }
+
+                            }
+
+                        }
+                        if (rdz == sii || rdz == you || rdz == chou)
+                        {
+                            if (ntg == xin || ytg == xin || rtg == xin || stg == xin)
+                            {
+                                if (ndz == hai)
+                                {
+                                    ndztianma = 1; Labelndzss1.Text += "天马-"; 驿马真假 = 1;
+                                }
+                                if (ydz == hai)
+                                {
+                                    ydztianma = 1; Labelydzss1.Text += "天马-"; 驿马真假 = 1;
+                                }
+                                if (rdz == hai)
+                                {
+                                    rdztianma = 1; Labelrdzss1.Text += "天马-"; 驿马真假 = 1;
+                                }
+                                if (sdz == hai)
+                                {
+                                    sdztianma = 1; Labelsdzss1.Text += "天马-"; 驿马真假 = 1;
+                                }
+
+                            }
+
+                        }
+                        if (ntg != xin && ytg != xin && rtg != xin && stg != xin)
+                        {
+                            if (rdz == sii || rdz == you || rdz == chou)
+                            {
+                                if (ndz == hai)
+                                {
+                                    ndzyima = 1; Labelndzss1.Text += "驿马-"; 驿马真假 = 1;
+                                }
+                                if (ydz == hai)
+                                {
+                                    ydzyima = 1; Labelydzss1.Text += "驿马-"; 驿马真假 = 1;
+                                }
+                                if (rdz == hai)
+                                {
+                                    rdzyima = 1; Labelrdzss1.Text += "驿马-"; 驿马真假 = 1;
+                                }
+                                if (sdz == hai)
+                                {
+                                    sdzyima = 1; Labelsdzss1.Text += "驿马-"; 驿马真假 = 1;
+                                }
+
+                            }
+
+                        }
+                        if (rdz == hai || rdz == mao || rdz == wei)
+                        {
+                            if (ntg == yii || ytg == yii || rtg == yii || stg == yii)
+                            {
+                                if (ndz == sii)
+                                {
+                                    ndztianma = 1; Labelndzss1.Text += "天马-"; 驿马真假 = 1;
+                                }
+                                if (ydz == sii)
+                                {
+                                    ydztianma = 1; Labelydzss1.Text += "天马-"; 驿马真假 = 1;
+                                }
+                                if (rdz == sii)
+                                {
+                                    rdztianma = 1; Labelrdzss1.Text += "天马-"; 驿马真假 = 1;
+                                }
+                                if (sdz == sii)
+                                {
+                                    sdztianma = 1; Labelsdzss1.Text += "天马-"; 驿马真假 = 1;
+                                }
+
+                            }
+
+                        }
+                        if (ntg != yii && ytg != yii && rtg != yii && stg != yii)
+                        {
+                            if (rdz == hai || rdz == mao || rdz == wei)
+                            {
+                                if (ndz == sii)
+                                {
+                                    ndzyima = 1; Labelndzss1.Text += "驿马-"; 驿马真假 = 1;
+                                }
+                                if (ydz == sii)
+                                {
+                                    ydzyima = 1; Labelydzss1.Text += "驿马-"; 驿马真假 = 1;
+                                }
+                                if (rdz == sii)
+                                {
+                                    rdzyima = 1; Labelrdzss1.Text += "驿马-"; 驿马真假 = 1;
+                                }
+                                if (sdz == sii)
+                                {
+                                    sdzyima = 1; Labelsdzss1.Text += "驿马-"; 驿马真假 = 1;
+                                }
+
+                            }
+
+                        }
+
+
                         if (驿马真假 == 1)
                         {
-                            string 驿马 = "驿马星详解\r\n驿马星概述\r\n命带驿马，一生多变动，古语云：“驿马入命，心不安闲。”驿马主迁徙、变动，常见于搬家、调动、出差、旅行或远行。\r\n\r\n驿马的查法\r\n驿马以四柱地支推算，其分布如下：\r\n\r\n申子辰：驿马在寅\r\n寅午戌：驿马在申\r\n巳酉丑：驿马在亥\r\n亥卯未：驿马在巳\r\n驿马的性质与作用\r\n\r\n旺与衰：\r\n\r\n驿马生旺者，主声名显赫，气韵非凡。\r\n驿马死绝者，性格漂泊不定，事业少成。\r\n天马与贵人：\r\n驿马若与天干三合旺神（天马）同柱，主显贵。如：\r\n\r\n寅午戌见丙申\r\n申子辰见壬寅\r\n巳酉丑见辛亥\r\n亥卯未见乙巳\r\n逢冲与合：\r\n\r\n驿马逢冲：大动之象，如“鞭策马”，主事业突破或灾祸频繁。\r\n驿马逢合：为“合绊马”，动而难行，事业受阻。\r\n其他特殊组合：\r\n\r\n驿马与咸池同柱：为“桃花马”，主因美色远走或遭祸。\r\n驿马与七杀、阳刃同柱：主灾难或血光之灾。\r\n驿马与命运解析\r\n\r\n命局中驿马的影响：\r\n\r\n男命：驿马天干为财星，主远方之妻，或因财奔波。\r\n女命：驿马多见或逢冲，主劳碌奔波，甚至婚姻不顺。\r\n原局与岁运关系：\r\n\r\n原局无驿马，岁运遇驿马：主有迁动，如搬家或调动。\r\n岁运驿马与财星同柱：主因财而发，称“马奔财乡”。\r\n不同柱位的驿马：\r\n\r\n年柱驿马：祖上离乡或从商。\r\n月柱驿马：一生适合经商，变动频繁。\r\n日柱驿马：早年辛苦，中年荣昌。\r\n时柱驿马：晚年漂泊，或因子女而变动。\r\n特殊格局与寓意\r\n\r\n禄马同乡：驿马天干为日主禄神，主大贵。\r\n财马：驿马地支为财星，岁运逢之，财运亨通。\r\n桃花马：主因感情问题导致远行或灾祸。\r\n驮宝马：主富商之命，多积财富。\r\n驿马的吉凶提示\r\n\r\n吉：\r\n驿马若与贵人、财星、禄神同柱，为吉兆，主富贵、迁升。\r\n\r\n凶：\r\n驿马逢空亡，主居无定所；驿马与凶星并临，如七杀、阳刃，主灾难、血光之祸。";
+                            string 驿马 = "驿马星详解\r\n驿马星概述\r\n命带驿马，一生多变动，古语云：“驿马入命，心不安闲。”驿马主迁徙、变动，常见于搬家、调动、出差、旅行或远行。\r\n\r\n驿马以年柱地支或日柱地支为主来推算\r\n\r\n申子辰：驿马在寅\r\n寅午戌：驿马在申\r\n巳酉丑：驿马在亥\r\n亥卯未：驿马在巳\r\n驿马的性质与作用\r\n\r\n旺与衰：\r\n\r\n驿马生旺者，主声名显赫，气韵非凡。\r\n驿马死绝者，性格漂泊不定，事业少成。\r\n天马与贵人：\r\n驿马若与天干三合旺神（天马）同柱，主显贵。如：\r\n\r\n寅午戌见丙申\r\n申子辰见壬寅\r\n巳酉丑见辛亥\r\n亥卯未见乙巳\r\n逢冲与合：\r\n\r\n驿马逢冲：大动之象，如“鞭策马”，主事业突破或灾祸频繁。\r\n驿马逢合：为“合绊马”，动而难行，事业受阻。\r\n其他特殊组合：\r\n\r\n驿马与咸池同柱：为“桃花马”，主因美色远走或遭祸。\r\n驿马与七杀、阳刃同柱：主灾难或血光之灾。\r\n驿马与命运解析\r\n\r\n命局中驿马的影响：\r\n\r\n男命：驿马天干为财星，主远方之妻，或因财奔波。\r\n女命：驿马多见或逢冲，主劳碌奔波，甚至婚姻不顺。\r\n原局与岁运关系：\r\n\r\n原局无驿马，岁运遇驿马：主有迁动，如搬家或调动。\r\n岁运驿马与财星同柱：主因财而发，称“马奔财乡”。\r\n不同柱位的驿马：\r\n\r\n年柱驿马：祖上离乡或从商。\r\n月柱驿马：一生适合经商，变动频繁。\r\n日柱驿马：早年辛苦，中年荣昌。\r\n时柱驿马：晚年漂泊，或因子女而变动。\r\n特殊格局与寓意\r\n\r\n禄马同乡：驿马天干为日主禄神，主大贵。\r\n财马：驿马地支为财星，岁运逢之，财运亨通。\r\n桃花马：主因感情问题导致远行或灾祸。\r\n驮宝马：主富商之命，多积财富。\r\n驿马的吉凶提示\r\n\r\n吉：\r\n驿马若与贵人、财星、禄神同柱，为吉兆，主富贵、迁升。\r\n\r\n凶：\r\n驿马逢空亡，主居无定所；驿马与凶星并临，如七杀、阳刃，主灾难、血光之祸。";
 
                             命局神煞 += 驿马;
                         }
@@ -44730,7 +44924,7 @@ namespace BaZiFuZuGongJu
 
                         if (将星真假 == 1)
                         {
-                            string 将星 = "将星：权力与统领之象\r\n一、什么是将星？\r\n将星是八字命理中的吉神之一，寓意统领、管理与权柄。顾名思义，“将”意指统帅之人。命中带将星者通常具有较强的组织管理能力与控制欲，无论在工作还是生活中，都倾向于主导他人与事务。\r\n\r\n需要注意的是，将星并非专指武职，文武皆可适用，其影响力更多体现为领导才能与团队协调能力。\r\n\r\n二、将星的查法\r\n将星的确定以年支或日支为主，其余地支中见对应地支即为将星：\r\n\r\n寅、午、戌见午；\r\n申、子、辰见子；\r\n巳、酉、丑见酉；\r\n亥、卯、未见卯。\r\n通俗理解：\r\n\r\n如果年支或日支是寅、午、戌，其余地支出现午，即为将星；\r\n如果年支或日支是申、子、辰，其余地支出现子，即为将星；\r\n如果年支或日支是巳、酉、丑，其余地支出现酉，即为将星；\r\n如果年支或日支是亥、卯、未，其余地支出现卯，即为将星。\r\n三、流年中的将星\r\n将星不仅可以出现在八字命局中，也可能在流年中出现。例如，年支为申，遇子年（鼠年），即为流年逢将星。\r\n\r\n流年逢将星的影响：\r\n\r\n若原命局已有将星，流年再遇将星，多主提升运势，可能升职或扩大事业规模。\r\n若命局无将星，流年逢将星，则多主有机遇参与领导或管理事务，需善加把握。\r\n四、将星的本质与三合局的关系\r\n将星来源于三合局的“中位”之支：\r\n\r\n寅午戌三合火局，午为中位；\r\n申子辰三合水局，子为中位；\r\n巳酉丑三合金局，酉为中位；\r\n亥卯未三合木局，卯为中位。\r\n三合局的特性：\r\n三合局代表协力合作，象征较强的人际关系与团队力量。将星作为三合局的核心，其作用如团队中的协调者，能有效整合资源，黏合团队成员，使整体力量倍增。因此，将星本质上是一种象征组织、统领能力的吉神，尤其适合从事管理、领导等相关工作。\r\n\r\n五、将星的特点与影响\r\n组织管理与控制欲强\r\n\r\n将星的核心特性是统领与管理。命带将星者往往具有较强的领导天赋，表现出对环境和人群的掌控欲望。\r\n将星在不同柱位的表现：\r\n年柱：从小展现领导才能，可能在学生时代便成为班干部或团队领袖；\r\n月柱：管理能力在青年时逐渐显现；\r\n日、时柱：更多在中年或晚年体现出管理特质。\r\n注意：有将星并不必然意味着能当官或成为管理者，需结合命局其他星神综合判断。\r\n将星与其他神煞的组合\r\n\r\n将星坐正官：若为喜用神，且无冲破，命主易在政治或公务领域有较高成就；地位显赫。\r\n将星坐七杀或阳刃：主命主掌握生死大权，适合从事武职或司法类工作，如军官、法官。\r\n将星坐财星：若为喜神，命主可能掌管财政大权，如财务官员或银行高管。\r\n将星与亡神同现：主命主才智过人、富有谋略，多为栋梁之才。\r\n将星逢死绝或冲破：权利与事业易受挫折或变动，需防凶星的影响。若将星会合凶星（如劫财），则主劳碌奔波，一生多劳少成。";
+                            string 将星 = "神煞：将星\r\n一、什么是将星？\r\n将星是八字命理中的一种吉利神煞，象征权威、统率力、以及优秀的管理和组织能力。它代表命主具有过人的领导才能和影响力，适合担任统筹大局的角色，如领导、管理者、或统帅。\r\n\r\n“将星”的名字源于古代的军事象征，意指统兵之将，因此在现代也延伸为事业中的权力和成就，适合描述那些在团体或组织中担任重要职位的人物。\r\n\r\n需要注意的是，将星并不特指某一职业，而是对命主性格与能力的一个整体描述，主要体现为责任心强、组织能力出众和影响力广泛。\r\n\r\n将星查法\r\n以年支或日支为基准，配合其他地支寻找将星：\r\n\r\n寅午戌年或日——将星在 午\r\n申子辰年或日——将星在 子\r\n亥卯未年或日——将星在 卯\r\n巳酉丑年或日——将星在 酉\r\n\r\n解读：\r\n\r\n如果命主的年支或日支是寅、午、戌，那么八字中出现申就是将星。\r\n同理，若年支或日支是亥、卯、未，八字中出现酉就是将星。\r\n举例：\r\n某人八字：庚申年、甲寅月、丁酉日、壬辰时。\r\n\r\n日支为酉，而根据查法，亥卯未年或日的将星在酉，因此此人命带将星。\r\n三、将星的象征意义\r\n权威与领导力\r\n将星是命主权威和领导能力的象征，适合担任管理、领导或统筹职务。命带将星者往往能够统领他人，得到团队的支持和信赖。\r\n\r\n事业成就\r\n将星为吉星，常与事业成功、职位晋升、威望提升等有关。尤其在组织结构中，命主易于脱颖而出，成为团队中的核心人物。\r\n\r\n责任与担当\r\n带将星的人通常有强烈的责任感和使命感，他们愿意承担重任，并能在关键时刻发挥主导作用。\r\n\r\n四、将星的作用与影响\r\n带将星而无刑冲\r\n将星若不受刑冲或克害，其影响更为积极，命主往往能顺利发展事业，权力稳固，受人拥戴。\r\n\r\n带将星但受冲克\r\n若将星受冲克，则命主的权威可能受到挑战，或在事业发展中遇到波折，需要更加谨慎地处理人际关系和组织事务。\r\n\r\n流年遇将星\r\n若命主本命有将星，流年再逢将星之年，则可能是晋升、拓展事业的重要时机。若本命无将星，但流年遇之，则需关注是否有承担新责任或权力转移的机会。\r\n\r\n五、将星的性格特点与职业倾向\r\n性格特点\r\n权威：自然流露的领导气质。\r\n果断：善于决策和承担责任。\r\n外向：具有较强的社交能力和影响力。\r\n职业倾向\r\n适合从事管理、统筹、领导等工作。\r\n职业领域包括军政界、企业高管、项目负责人等需要组织协调能力的岗位。\r\n六、将星与其他神煞的关系\r\n将星与文昌\r\n若命主既带将星，又有文昌，则更具智慧与谋略，适合文武双全的角色，如高级管理人员或智囊型领导者。\r\n\r\n将星与驿马\r\n将星与驿马同现，表示命主可能因公差、迁移、或扩展事业版图而提升权力和影响力。\r\n\r\n将星与七杀\r\n若八字中七杀强而将星护，则命主可能在事业或军警岗位上大展拳脚，但需注意权力的正当使用，避免过于强势。\r\n\r\n将星是八字命理中权力、领导能力的重要标志，对命主的事业发展和性格形成具有深远的影响。命带将星者，若能善用自身的权威与影响力，将能成就一番事业，赢得社会的尊重与认可。";
 
                             命局神煞 += 将星;
                         }
@@ -45250,7 +45444,7 @@ namespace BaZiFuZuGongJu
                     if (jia == jia)
                     {
                         int 太极贵人真假 = 0;
-                        if (ntg == jia || ntg == yii || rtg == jia || rtg == yii)
+                        if (ntg == jia || ntg == yii)
                         {
                             if (ndz == zii || ndz == wuma)
                             {
@@ -45270,7 +45464,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ntg == bing || ntg == ding || rtg == bing || rtg == ding)
+                        if (ntg == bing || ntg == ding)
                         {
                             if (ndz == you || ndz == mao)
                             {
@@ -45290,7 +45484,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ntg == geng || ntg == xin || rtg == geng || rtg == xin)
+                        if (ntg == geng || ntg == xin)
                         {
                             if (ndz == yin || ndz == hai)
                             {
@@ -45310,7 +45504,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ntg == ren || ntg == gui || rtg == ren || rtg == gui)
+                        if (ntg == ren || ntg == gui)
                         {
                             if (ndz == sii || ndz == shen)
                             {
@@ -45330,7 +45524,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ntg == wuu || ntg == jii || rtg == wuu || rtg == jii)
+                        if (ntg == wuu || ntg == jii)
                         {
                             if (ndz == chen || ndz == wei || ndz == xuu || ndz == chou)
                             {
@@ -45351,6 +45545,108 @@ namespace BaZiFuZuGongJu
 
                         }
 
+                        if (ntg == jia || ntg == yii)
+                        {
+                            if (rdz == zii || rdz == wuma)
+                            {
+                                Labelndzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+                            if (ydz == zii || ydz == wuma)
+                            {
+                                Labelydzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+                            if (rdz == zii || rdz == wuma)
+                            {
+                                Labelrdzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+                            if (sdz == zii || sdz == wuma)
+                            {
+                                Labelsdzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+
+                        }
+                        if (ntg == bing || ntg == ding)
+                        {
+                            if (rdz == you || rdz == mao)
+                            {
+                                Labelndzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+                            if (ydz == you || ydz == mao)
+                            {
+                                Labelydzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+                            if (rdz == you || rdz == mao)
+                            {
+                                Labelrdzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+                            if (sdz == you || sdz == mao)
+                            {
+                                Labelsdzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+
+                        }
+                        if (ntg == geng || ntg == xin)
+                        {
+                            if (rdz == yin || rdz == hai)
+                            {
+                                Labelndzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+                            if (ydz == yin || ydz == hai)
+                            {
+                                Labelydzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+                            if (rdz == yin || rdz == hai)
+                            {
+                                Labelrdzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+                            if (sdz == yin || sdz == hai)
+                            {
+                                Labelsdzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+
+                        }
+                        if (ntg == ren || ntg == gui)
+                        {
+                            if (rdz == sii || rdz == shen)
+                            {
+                                Labelndzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+                            if (ydz == sii || ydz == shen)
+                            {
+                                Labelydzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+                            if (rdz == sii || rdz == shen)
+                            {
+                                Labelrdzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+                            if (sdz == sii || sdz == shen)
+                            {
+                                Labelsdzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+
+                        }
+                        if (ntg == wuu || ntg == jii)
+                        {
+                            if (rdz == chen || rdz == wei || rdz == xuu || rdz == chou)
+                            {
+                                Labelndzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+                            if (ydz == chen || ydz == wei || ydz == xuu || ydz == chou)
+                            {
+                                Labelydzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+                            if (rdz == chen || rdz == wei || rdz == xuu || rdz == chou)
+                            {
+                                Labelrdzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+                            if (sdz == chen || sdz == wei || sdz == xuu || sdz == chou)
+                            {
+                                Labelsdzss2.Text += "太极-"; 太极贵人真假 = 1;
+                            }
+
+                        }
+
+
                         if (太极贵人真假 == 1)
                         {
                             string 太极贵人 = "《太极贵人》\r\n1、太极贵人的定义\r\n“太极贵人”是八字命理中的一种吉神，属于四柱神煞之一。它象征着人的聪明、好学和智慧，能够带来好运和贵人相助。太极贵人源自古代的哲学思想和神话传说，传说中，太极是宇宙初始的状态，所有事物的起源和归宿。命中带有太极贵人的人，通常具有较高的智慧和对事物的洞察力，能够在适当的时机获得贵人的帮助。\r\n\r\n《三命通会》中描述道：“太极者，太初也，始也，物造于初为太极，成也，收也。物有归曰极，造化始终相保，乃曰太极贵人也。”\r\n\r\n2、太极贵人的查法\r\n查找是否命带太极贵人，通常是依据年干或日干与四柱地支的配合。具体方法如下：\r\n\r\n甲乙木：年干或日干为甲乙，四柱地支中见子午。\r\n丙丁火：年干或日干为丙丁，四柱地支中见卯酉。\r\n戊己土：年干或日干为戊己，四柱地支中见辰戌丑未。\r\n庚辛金：年干或日干为庚辛，四柱地支中见寅亥。\r\n壬癸水：年干或日干为壬癸，四柱地支中见巳申。\r\n简单来说，太极贵人是通过日干或年干来确定的，具体是根据日柱或年柱干支与四柱地支的搭配来判定的。如果符合上述组合，即为命中有太极贵人。\r\n\r\n口诀：\r\n\r\n复制代码\r\n甲乙生人子午中，丙丁鸡兔定亨通，\r\n戊己两干临四季，庚辛寅亥禄丰隆，\r\n壬癸巳申偏喜美，值此应当福气钟，\r\n更须贵格来相扶，候封万户到三公。\r\n3、太极贵人的象征意义\r\n命带太极贵人的人通常是聪明、好学、思维敏捷的，他们具有较高的悟性，尤其对哲学、天文、地理、宗教等领域表现出浓厚的兴趣。这些人性格正直，有钻劲，做事有始有终。他们往往对神秘的事物和玄学感兴趣，与佛道、宗教等领域有着天然的联系。\r\n\r\n如果命中带有多个太极贵人，这些人可能在命理学、风水、术数等方面具有天赋，并有可能在这些领域取得成就。比如，他们可能会从事相关的研究工作，最终在这一领域获得大的成就和荣誉。\r\n\r\n4、太极贵人与福祉\r\n太极贵人的作用不仅限于智慧和学术才能的提升，命中带有太极贵人的人，若遇到生旺之时或有其他吉星的辅助，通常能获得好运和福气，享有长寿和富贵。特别是那些具备良好命局的人，不一定从事官职，但也能获得极大的财富和社会地位，成为富贵之人。";
@@ -45362,7 +45658,7 @@ namespace BaZiFuZuGongJu
                     if (jia == jia)
                     {
                         int 国印真假 = 0;
-                        if (ntg == jia || rtg == jia)
+                        if (ntg == jia)
                         {
                             if (ndz == xuu)
                             {
@@ -45382,7 +45678,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ntg == yii || rtg == yii)
+                        if (ntg == yii)
                         {
                             if (ndz == hai)
                             {
@@ -45402,7 +45698,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ntg == bing || rtg == bing)
+                        if (ntg == bing)
                         {
                             if (ndz == chou)
                             {
@@ -45422,7 +45718,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ntg == ding || rtg == ding)
+                        if (ntg == ding)
                         {
                             if (ndz == yin)
                             {
@@ -45442,7 +45738,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ntg == wuu || rtg == wuu)
+                        if (ntg == wuu)
                         {
                             if (ndz == chou)
                             {
@@ -45462,7 +45758,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ntg == jii || rtg == jii)
+                        if (ntg == jii)
                         {
                             if (ndz == yin)
                             {
@@ -45482,7 +45778,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ntg == geng || rtg == geng)
+                        if (ntg == geng)
                         {
                             if (ndz == chen)
                             {
@@ -45502,7 +45798,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ntg == xin || rtg == xin)
+                        if (ntg == xin)
                         {
                             if (ndz == sii)
                             {
@@ -45522,7 +45818,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ntg == ren || rtg == ren)
+                        if (ntg == ren)
                         {
                             if (ndz == wei)
                             {
@@ -45542,7 +45838,7 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
-                        if (ntg == gui || rtg == gui)
+                        if (ntg == gui)
                         {
                             if (ndz == shen)
                             {
@@ -45562,6 +45858,208 @@ namespace BaZiFuZuGongJu
                             }
 
                         }
+
+                        if (rtg == jia)
+                        {
+                            if (ndz == xuu)
+                            {
+                                ndzguoyin += 1; Labelndzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (ydz == xuu)
+                            {
+                                ydzguoyin += 1; Labelydzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (rdz == xuu)
+                            {
+                                rdzguoyin += 1; Labelrdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (sdz == xuu)
+                            {
+                                sdzguoyin += 1; Labelsdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+
+                        }
+                        if (rtg == yii)
+                        {
+                            if (ndz == hai)
+                            {
+                                ndzguoyin += 1; Labelndzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (ydz == hai)
+                            {
+                                ydzguoyin += 1; Labelydzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (rdz == hai)
+                            {
+                                rdzguoyin += 1; Labelrdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (sdz == hai)
+                            {
+                                sdzguoyin += 1; Labelsdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+
+                        }
+                        if (rtg == bing)
+                        {
+                            if (ndz == chou)
+                            {
+                                ndzguoyin += 1; Labelndzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (ydz == chou)
+                            {
+                                ydzguoyin += 1; Labelydzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (rdz == chou)
+                            {
+                                rdzguoyin += 1; Labelrdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (sdz == chou)
+                            {
+                                sdzguoyin += 1; Labelsdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+
+                        }
+                        if (rtg == ding)
+                        {
+                            if (ndz == yin)
+                            {
+                                ndzguoyin += 1; Labelndzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (ydz == yin)
+                            {
+                                ydzguoyin += 1; Labelydzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (rdz == yin)
+                            {
+                                rdzguoyin += 1; Labelrdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (sdz == yin)
+                            {
+                                sdzguoyin += 1; Labelsdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+
+                        }
+                        if (rtg == wuu)
+                        {
+                            if (ndz == chou)
+                            {
+                                ndzguoyin += 1; Labelndzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (ydz == chou)
+                            {
+                                ydzguoyin += 1; Labelydzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (rdz == chou)
+                            {
+                                rdzguoyin += 1; Labelrdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (sdz == chou)
+                            {
+                                sdzguoyin += 1; Labelsdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+
+                        }
+                        if (rtg == jii)
+                        {
+                            if (ndz == yin)
+                            {
+                                ndzguoyin += 1; Labelndzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (ydz == yin)
+                            {
+                                ydzguoyin += 1; Labelydzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (rdz == yin)
+                            {
+                                rdzguoyin += 1; Labelrdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (sdz == yin)
+                            {
+                                sdzguoyin += 1; Labelsdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+
+                        }
+                        if (rtg == geng)
+                        {
+                            if (ndz == chen)
+                            {
+                                ndzguoyin += 1; Labelndzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (ydz == chen)
+                            {
+                                ydzguoyin += 1; Labelydzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (rdz == chen)
+                            {
+                                rdzguoyin += 1; Labelrdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (sdz == chen)
+                            {
+                                sdzguoyin += 1; Labelsdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+
+                        }
+                        if (rtg == xin)
+                        {
+                            if (ndz == sii)
+                            {
+                                ndzguoyin += 1; Labelndzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (ydz == sii)
+                            {
+                                ydzguoyin += 1; Labelydzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (rdz == sii)
+                            {
+                                rdzguoyin += 1; Labelrdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (sdz == sii)
+                            {
+                                sdzguoyin += 1; Labelsdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+
+                        }
+                        if (rtg == ren)
+                        {
+                            if (ndz == wei)
+                            {
+                                ndzguoyin += 1; Labelndzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (ydz == wei)
+                            {
+                                ydzguoyin += 1; Labelydzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (rdz == wei)
+                            {
+                                rdzguoyin += 1; Labelrdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (sdz == wei)
+                            {
+                                sdzguoyin += 1; Labelsdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+
+                        }
+                        if (rtg == gui)
+                        {
+                            if (ndz == shen)
+                            {
+                                ndzguoyin += 1; Labelndzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (ydz == shen)
+                            {
+                                ydzguoyin += 1; Labelydzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (rdz == shen)
+                            {
+                                rdzguoyin += 1; Labelrdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+                            if (sdz == shen)
+                            {
+                                sdzguoyin += 1; Labelsdzss2.Text += "国印-"; 国印真假 = 1;
+                            }
+
+                        }
+
 
                         if (国印真假 == 1)
                         {
@@ -46985,7 +47483,7 @@ namespace BaZiFuZuGongJu
 
                         if (破碎真假 == 1)
                         {
-                            string 破碎 = "破碎煞：财运难聚的命理现象\r\n破碎煞是命理学中一个较为特殊的神煞，主要影响命主的财运，通常意味着一生难以积累财富，事业难以稳定发展。这一神煞的出现往往预示着命主在财务上存在波动，财富来得快去得也快，难以长期聚财。\r\n\r\n破碎煞的查法\r\n破碎煞的查法可以通过天干地支与月令（即命主的出生月份）相结合来确定。常见的查法口诀如下：\r\n\r\n子、午、卯、酉月出生的人，命中若出现在巳月，则为破碎煞；\r\n寅、申、巳、亥月出生的人，命中若出现在酉月，则为破碎煞；\r\n辰、戌、丑、未月出生的人，命中若出现在丑月，则为破碎煞。\r\n这个查法主要依赖于月令，即出生的农历月份。破碎煞的出现，表示命主财运上的不顺或波动。\r\n\r\n破碎煞的影响\r\n破碎煞在命理上被认为是“破财”的象征。它的主要表现是命主一生中财运多变，难以稳定积累财富，往往处于赚多花多、财富易得难存的状态。\r\n\r\n破碎煞分为两种情况：\r\n\r\n流年大运犯破碎煞：这是指在某个特定的流年或大运中，某一月份与命主出生的月份相冲、相破。例如：\r\n\r\n2013年为癸巳年，若某人出生在子月、午月、卯月或酉月，则在2013年会犯破碎煞，财运出现波动，可能经历财务损失或事业上的反复。\r\n命带破碎煞：这是指命主的八字本身包含破碎煞。例如：\r\n\r\n如果某人出生于癸巳年、戊午月（即农历五月），而流年也与此月发生冲合，则命主本命带有破碎煞。其财运可能呈现聚散无常的特点，一生较难积累大笔财富。\r\n破碎煞的财运表现\r\n命带破碎煞的人，其财运通常有以下特点：\r\n\r\n财来财去：命主的财富常常是“来得快，去得也快”，有赚有花，难以积累财富。\r\n事业难成：事业上往往难以得到稳定的进展，可能经历起伏不定的情况，且容易遇到阻碍和挫折。\r\n财富不聚：命主可能在生活中有赚钱的机会，但总是难以长久维持，财富经常流失。\r\n破碎煞与其他神煞的关系\r\n破碎煞属于一种“月煞”，与流年、日煞等其他神煞不同。命理中的月煞较为罕见，相比流年煞和日煞，月煞的影响更加持久和深远。\r\n\r\n流年煞和日煞更多是与特定年份和日子的天干地支相互作用，短期内影响较大。相比之下，月煞则是由命主出生时的月份所决定，因此其影响持续性较强，对一生的财运有长远的影响。\r\n\r\n破碎煞的化解\r\n避免重复犯破碎煞的月份：可以通过调整大运流年来避免破碎煞的再次出现，从而减轻其对财运的负面影响。\r\n积累理财知识：对于命带破碎煞的人来说，虽然难以积累财富，但通过良好的财务规划和理财知识，可以在一定程度上改善财务状况，避免大规模的财富损失。\r\n加强心态调整：破碎煞也提醒命主，财富的获得并非一蹴而就，适当的心态调整和稳健的财富管理可能帮助命主逐步改善财务状况。";
+                            string 破碎 = "破碎煞：财运难聚的命理现象\r\n破碎煞是命理学中一个较为特殊的神煞，主要影响命主的财运，通常意味着一生难以积累财富，事业难以稳定发展。这一神煞的出现往往预示着命主在财务上存在波动，财富来得快去得也快，难以长期聚财。\r\n\r\n破碎煞的查法\r\n破碎煞的查法可以通过天干地支与月令（即命主的出生月份）相结合来确定。常见的查法口诀如下：\r\n\r\n子、午、卯、酉月出生的人，命中若出现在巳，则为破碎煞；\r\n寅、申、巳、亥月出生的人，命中若出现在酉，则为破碎煞；\r\n辰、戌、丑、未月出生的人，命中若出现在丑，则为破碎煞。\r\n这个查法主要依赖于月令，即出生的农历月份。破碎煞的出现，表示命主财运上的不顺或波动。\r\n\r\n破碎煞的影响\r\n破碎煞在命理上被认为是“破财”的象征。它的主要表现是命主一生中财运多变，难以稳定积累财富，往往处于赚多花多、财富易得难存的状态。\r\n\r\n破碎煞分为两种情况：\r\n\r\n流年大运犯破碎煞：这是指在某个特定的流年或大运中，某一月份与命主出生的月份相冲、相破。例如：\r\n\r\n2013年为癸巳年，若某人出生在子月、午月、卯月或酉月，则在2013年会犯破碎煞，财运出现波动，可能经历财务损失或事业上的反复。\r\n命带破碎煞：这是指命主的八字本身包含破碎煞。例如：\r\n\r\n如果某人出生于癸巳年、戊午月（即农历五月），而流年也与此月发生冲合，则命主本命带有破碎煞。其财运可能呈现聚散无常的特点，一生较难积累大笔财富。\r\n破碎煞的财运表现\r\n命带破碎煞的人，其财运通常有以下特点：\r\n\r\n财来财去：命主的财富常常是“来得快，去得也快”，有赚有花，难以积累财富。\r\n事业难成：事业上往往难以得到稳定的进展，可能经历起伏不定的情况，且容易遇到阻碍和挫折。\r\n财富不聚：命主可能在生活中有赚钱的机会，但总是难以长久维持，财富经常流失。\r\n破碎煞与其他神煞的关系\r\n破碎煞属于一种“月煞”，与流年、日煞等其他神煞不同。命理中的月煞较为罕见，相比流年煞和日煞，月煞的影响更加持久和深远。\r\n\r\n流年煞和日煞更多是与特定年份和日子的天干地支相互作用，短期内影响较大。相比之下，月煞则是由命主出生时的月份所决定，因此其影响持续性较强，对一生的财运有长远的影响。\r\n\r\n破碎煞的化解\r\n避免重复犯破碎煞的月份：可以通过调整大运流年来避免破碎煞的再次出现，从而减轻其对财运的负面影响。\r\n积累理财知识：对于命带破碎煞的人来说，虽然难以积累财富，但通过良好的财务规划和理财知识，可以在一定程度上改善财务状况，避免大规模的财富损失。\r\n加强心态调整：破碎煞也提醒命主，财富的获得并非一蹴而就，适当的心态调整和稳健的财富管理可能帮助命主逐步改善财务状况。";
 
                             命局神煞 += 破碎;
                         }
@@ -48605,14 +49103,7 @@ namespace BaZiFuZuGongJu
                         int 天狗真假 = 0;
                         if (ndz == zii)
                         {
-                            if (ydz == xuu)
-                            {
-                                ydztiangou += 1; Labelydzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
-                            if (rdz == xuu)
-                            {
-                                rdztiangou += 1; Labelrdzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
+         
                             if (sdz == xuu)
                             {
                                 sdztiangou += 1; Labelsdzss1.Text += "天狗-"; 天狗真假 = 1;
@@ -48621,14 +49112,7 @@ namespace BaZiFuZuGongJu
                         }
                         if (ndz == chou)
                         {
-                            if (ydz == hai)
-                            {
-                                ydztiangou += 1; Labelydzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
-                            if (rdz == hai)
-                            {
-                                rdztiangou += 1; Labelrdzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
+       
                             if (sdz == hai)
                             {
                                 sdztiangou += 1; Labelsdzss1.Text += "天狗-"; 天狗真假 = 1;
@@ -48637,14 +49121,7 @@ namespace BaZiFuZuGongJu
                         }
                         if (ndz == yin)
                         {
-                            if (ydz == zii)
-                            {
-                                ydztiangou += 1; Labelydzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
-                            if (rdz == zii)
-                            {
-                                rdztiangou += 1; Labelrdzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
+          
                             if (sdz == zii)
                             {
                                 sdztiangou += 1; Labelsdzss1.Text += "天狗-"; 天狗真假 = 1;
@@ -48653,14 +49130,7 @@ namespace BaZiFuZuGongJu
                         }
                         if (ndz == mao)
                         {
-                            if (ydz == chou)
-                            {
-                                ydztiangou += 1; Labelydzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
-                            if (rdz == chou)
-                            {
-                                rdztiangou += 1; Labelrdzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
+         
                             if (sdz == chou)
                             {
                                 sdztiangou += 1; Labelsdzss1.Text += "天狗-"; 天狗真假 = 1;
@@ -48669,14 +49139,7 @@ namespace BaZiFuZuGongJu
                         }
                         if (ndz == chen)
                         {
-                            if (ydz == yin)
-                            {
-                                ydztiangou += 1; Labelydzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
-                            if (rdz == yin)
-                            {
-                                rdztiangou += 1; Labelrdzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
+          
                             if (sdz == yin)
                             {
                                 sdztiangou += 1; Labelsdzss1.Text += "天狗-"; 天狗真假 = 1;
@@ -48685,14 +49148,7 @@ namespace BaZiFuZuGongJu
                         }
                         if (ndz == sii)
                         {
-                            if (ydz == mao)
-                            {
-                                ydztiangou += 1; Labelydzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
-                            if (rdz == mao)
-                            {
-                                rdztiangou += 1; Labelrdzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
+       
                             if (sdz == mao)
                             {
                                 sdztiangou += 1; Labelsdzss1.Text += "天狗-"; 天狗真假 = 1;
@@ -48702,14 +49158,7 @@ namespace BaZiFuZuGongJu
 
                         if (ndz == wuma)
                         {
-                            if (ydz == chen)
-                            {
-                                ydztiangou += 1; Labelydzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
-                            if (rdz == chen)
-                            {
-                                rdztiangou += 1; Labelrdzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
+            
                             if (sdz == chen)
                             {
                                 sdztiangou += 1; Labelsdzss1.Text += "天狗-"; 天狗真假 = 1;
@@ -48718,14 +49167,7 @@ namespace BaZiFuZuGongJu
                         }
                         if (ndz == wei)
                         {
-                            if (ydz == sii)
-                            {
-                                ydztiangou += 1; Labelydzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
-                            if (rdz == sii)
-                            {
-                                rdztiangou += 1; Labelrdzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
+  
                             if (sdz == sii)
                             {
                                 sdztiangou += 1; Labelsdzss1.Text += "天狗-"; 天狗真假 = 1;
@@ -48734,14 +49176,7 @@ namespace BaZiFuZuGongJu
                         }
                         if (ndz == shen)
                         {
-                            if (ydz == wuma)
-                            {
-                                ydztiangou += 1; Labelydzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
-                            if (rdz == wuma)
-                            {
-                                rdztiangou += 1; Labelrdzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
+              
                             if (sdz == wuma)
                             {
                                 sdztiangou += 1; Labelsdzss1.Text += "天狗-"; 天狗真假 = 1;
@@ -48750,14 +49185,7 @@ namespace BaZiFuZuGongJu
                         }
                         if (ndz == you)
                         {
-                            if (ydz == wei)
-                            {
-                                ydztiangou += 1; Labelydzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
-                            if (rdz == wei)
-                            {
-                                rdztiangou += 1; Labelrdzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
+      
                             if (sdz == wei)
                             {
                                 sdztiangou += 1; Labelsdzss1.Text += "天狗-"; 天狗真假 = 1;
@@ -48766,14 +49194,7 @@ namespace BaZiFuZuGongJu
                         }
                         if (ndz == xuu)
                         {
-                            if (ydz == shen)
-                            {
-                                ydztiangou += 1; Labelydzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
-                            if (rdz == shen)
-                            {
-                                rdztiangou += 1; Labelrdzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
+            
                             if (sdz == shen)
                             {
                                 sdztiangou += 1; Labelsdzss1.Text += "天狗-"; 天狗真假 = 1;
@@ -48782,14 +49203,7 @@ namespace BaZiFuZuGongJu
                         }
                         if (ndz == hai)
                         {
-                            if (ydz == you)
-                            {
-                                ydztiangou += 1; Labelydzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
-                            if (rdz == you)
-                            {
-                                rdztiangou += 1; Labelrdzss1.Text += "天狗-"; 天狗真假 = 1;
-                            }
+     
                             if (sdz == you)
                             {
                                 sdztiangou += 1; Labelsdzss1.Text += "天狗-"; 天狗真假 = 1;
@@ -49205,8 +49619,8 @@ namespace BaZiFuZuGongJu
 
                         if (孤辰寡宿真假 == 1)
                         {
-                            string 孤辰寡宿 = "孤辰寡宿：命理中的孤独之煞\r\n\r\n孤辰和寡宿是八字命理中的两种神煞，分别代表男性和女性在情感、婚姻中的孤独困扰。命带孤辰寡宿者通常在感情、家庭中遇到阻碍，甚至可能表现出与六亲缘分淡薄的特点。\r\n\r\n孤辰与寡宿的含义\r\n孤辰：男性命中的不利煞星，常与感情波折、婚姻不顺相关。古语云“男怕孤”，意指孤辰煞会给男命带来婚配困难。\r\n寡宿：女性命中的孤煞，主克夫或婚姻问题。传统认为“女怕寡”，即寡宿对女命的婚姻影响尤为显著。\r\n孤辰与寡宿常被合称为“隔角煞”或“绝情煞”，在八字中若同时出现，可能导致人际和感情上的诸多波折​\r\n易师汇六爻网\r\n​\r\nZHOUYI\r\n。\r\n\r\n孤辰寡宿的位置影响\r\n孤辰寡宿出现的位置不同，其影响也有所区别：\r\n\r\n年柱：与长辈和家族缘分浅薄，性格早熟独立。\r\n月柱：兄弟姐妹间关系冷淡。\r\n日柱：夫妻之间感情较为淡薄。\r\n时柱：与子孙关系疏离。\r\n命中孤辰寡宿的表现\r\n孤辰寡宿常与性格孤僻、清心寡欲相伴，尤其是八字中同时出现华盖、空亡等煞星时，命主可能更偏向于从事艺术、哲学或修道职业。这种命格的人往往内心孤独，但可能因此更加专注于研究或技艺的提升​\r\nZHOUYI\r\n。\r\n\r\n化解方法\r\n命犯孤辰寡宿并非不可化解。以下方法有助于缓解其负面影响：\r\n\r\n调整居住环境：男性可选择离乡发展，女性远嫁他乡，以化解“孤”“寡”的煞气。\r\n风水物件助运：如在卧室摆放对应生肖的吉祥物，或悬挂“情缘三宝袋”等。\r\n提升自身五行能量：佩戴五行平衡的护身符以调和八字气场。\r\n心态调整：主动培养社交能力，减少独处时间，也有助于缓解孤煞带来的负面心理效应";
-
+                            string 孤辰寡宿 = "孤辰的查法\r\n\r\n孤辰的查法是以日支为主，分别对应特定的地支：\r\n\r\n日支 子，看年、月、时支是否有 寅。\r\n日支 午，看年、月、时支是否有 戌。\r\n日支 卯，看年、月、时支是否有 丑。\r\n日支 酉，看年、月、时支是否有 未。\r\n换句话说，孤辰的地支关系为：\r\n子见寅，午见戌，卯见丑，酉见未。\r\n\r\n寡宿的查法\r\n寡宿的查法是以日支为主，也对应特定的地支：\r\n\r\n日支 子，看年、月、时支是否有 戌。\r\n日支 午，看年、月、时支是否有 寅。\r\n日支 卯，看年、月、时支是否有 未。\r\n日支 酉，看年、月、时支是否有 丑。\r\n换句话说，寡宿的地支关系为：\r\n子见戌，午见寅，卯见未，酉见丑。\r\n\r\n孤辰寡宿：命理中的孤独之煞\r\n\r\n孤辰和寡宿是八字命理中的两种神煞，分别代表男性和女性在情感、婚姻中的孤独困扰。命带孤辰寡宿者通常在感情、家庭中遇到阻碍，甚至可能表现出与六亲缘分淡薄的特点。\r\n\r\n孤辰与寡宿的含义\r\n孤辰：男性命中的不利煞星，常与感情波折、婚姻不顺相关。古语云“男怕孤”，意指孤辰煞会给男命带来婚配困难。\r\n寡宿：女性命中的孤煞，主克夫或婚姻问题。传统认为“女怕寡”，即寡宿对女命的婚姻影响尤为显著。\r\n孤辰与寡宿常被合称为“隔角煞”或“绝情煞”，在八字中若同时出现，可能导致人际和感情上的诸多波折​\r\n易师汇六爻网\r\n​\r\nZHOUYI\r\n。\r\n\r\n孤辰寡宿的位置影响\r\n孤辰寡宿出现的位置不同，其影响也有所区别：\r\n\r\n年柱：与长辈和家族缘分浅薄，性格早熟独立。\r\n月柱：兄弟姐妹间关系冷淡。\r\n日柱：夫妻之间感情较为淡薄。\r\n时柱：与子孙关系疏离。\r\n命中孤辰寡宿的表现\r\n孤辰寡宿常与性格孤僻、清心寡欲相伴，尤其是八字中同时出现华盖、空亡等煞星时，命主可能更偏向于从事艺术、哲学或修道职业。这种命格的人往往内心孤独，但可能因此更加专注于研究或技艺的提升​\r\nZHOUYI\r\n。\r\n\r\n化解方法\r\n命犯孤辰寡宿并非不可化解。以下方法有助于缓解其负面影响：\r\n\r\n调整居住环境：男性可选择离乡发展，女性远嫁他乡，以化解“孤”“寡”的煞气。\r\n风水物件助运：如在卧室摆放对应生肖的吉祥物，或悬挂“情缘三宝袋”等。\r\n提升自身五行能量：佩戴五行平衡的护身符以调和八字气场。\r\n心态调整：主动培养社交能力，减少独处时间，也有助于缓解孤煞带来的负面心理效应";
+                            
                             命局神煞 += 孤辰寡宿;
                         }
                     }
