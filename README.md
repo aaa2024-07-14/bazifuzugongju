@@ -5,8 +5,7 @@
 使用Lunar库实现了万年历级别的天干地支查询https://github.com/6tail/lunar-csharp
 
 
-![Snipaste_2024-12-06_18-40-31](https://github.com/user-attachments/assets/b56ce07b-0a18-465e-bd5d-4e53f76b1ec2)
-
+![Snipaste_2024-12-06_19-52-13](https://github.com/user-attachments/assets/f67b6441-3de5-4196-8cd5-c553c199b886)
 
 
 
