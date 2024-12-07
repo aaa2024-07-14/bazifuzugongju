@@ -1151,7 +1151,7 @@
             labelngss.BackColor = Color.White;
             labelngss.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labelngss.ForeColor = Color.Black;
-            labelngss.Location = new Point(1, 493);
+            labelngss.Location = new Point(2, 493);
             labelngss.Name = "labelngss";
             labelngss.Size = new Size(62, 31);
             labelngss.TabIndex = 329;
@@ -1178,7 +1178,7 @@
             labelygss.BackColor = Color.White;
             labelygss.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labelygss.ForeColor = Color.Black;
-            labelygss.Location = new Point(483, 493);
+            labelygss.Location = new Point(485, 493);
             labelygss.Name = "labelygss";
             labelygss.Size = new Size(62, 31);
             labelygss.TabIndex = 330;
@@ -1286,7 +1286,7 @@
             labelyg.BackColor = Color.Green;
             labelyg.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labelyg.ForeColor = Color.Yellow;
-            labelyg.Location = new Point(496, 524);
+            labelyg.Location = new Point(497, 524);
             labelyg.Name = "labelyg";
             labelyg.Size = new Size(38, 31);
             labelyg.TabIndex = 322;
@@ -1313,7 +1313,7 @@
             labelsz.BackColor = Color.Green;
             labelsz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labelsz.ForeColor = Color.Yellow;
-            labelsz.Location = new Point(1458, 555);
+            labelsz.Location = new Point(1459, 555);
             labelsz.Name = "labelsz";
             labelsz.Size = new Size(38, 31);
             labelsz.TabIndex = 328;
@@ -1340,7 +1340,7 @@
             labelrz.BackColor = Color.Green;
             labelrz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labelrz.ForeColor = Color.Yellow;
-            labelrz.Location = new Point(977, 555);
+            labelrz.Location = new Point(976, 555);
             labelrz.Name = "labelrz";
             labelrz.Size = new Size(38, 31);
             labelrz.TabIndex = 327;
@@ -1367,7 +1367,7 @@
             labelyz.BackColor = Color.Green;
             labelyz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labelyz.ForeColor = Color.Yellow;
-            labelyz.Location = new Point(496, 555);
+            labelyz.Location = new Point(497, 555);
             labelyz.Name = "labelyz";
             labelyz.Size = new Size(38, 31);
             labelyz.TabIndex = 326;
@@ -1421,7 +1421,7 @@
             labelrg.BackColor = Color.Green;
             labelrg.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labelrg.ForeColor = Color.Yellow;
-            labelrg.Location = new Point(977, 524);
+            labelrg.Location = new Point(976, 524);
             labelrg.Name = "labelrg";
             labelrg.Size = new Size(38, 31);
             labelrg.TabIndex = 323;
@@ -1448,7 +1448,7 @@
             labelsg.BackColor = Color.Green;
             labelsg.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labelsg.ForeColor = Color.Yellow;
-            labelsg.Location = new Point(1458, 524);
+            labelsg.Location = new Point(1459, 524);
             labelsg.Name = "labelsg";
             labelsg.Size = new Size(38, 31);
             labelsg.TabIndex = 324;
@@ -1475,7 +1475,7 @@
             labelnny.BackColor = Color.White;
             labelnny.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labelnny.ForeColor = Color.Black;
-            labelnny.Location = new Point(0, 245);
+            labelnny.Location = new Point(1, 245);
             labelnny.Name = "labelnny";
             labelnny.Size = new Size(86, 31);
             labelnny.TabIndex = 317;
@@ -1502,7 +1502,7 @@
             labelyny.BackColor = Color.White;
             labelyny.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labelyny.ForeColor = Color.Black;
-            labelyny.Location = new Point(483, 245);
+            labelyny.Location = new Point(485, 245);
             labelyny.Name = "labelyny";
             labelyny.Size = new Size(86, 31);
             labelyny.TabIndex = 318;
@@ -1610,7 +1610,7 @@
             labelganzhi.BackColor = Color.DarkViolet;
             labelganzhi.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labelganzhi.ForeColor = Color.White;
-            labelganzhi.Location = new Point(1574, 74);
+            labelganzhi.Location = new Point(1565, 71);
             labelganzhi.Name = "labelganzhi";
             labelganzhi.Size = new Size(110, 31);
             labelganzhi.TabIndex = 316;
@@ -1864,11 +1864,11 @@
             // 
             labeldingjishen.AutoSize = true;
             labeldingjishen.BackColor = Color.White;
-            labeldingjishen.Font = new Font("微软雅黑", 21.75F, FontStyle.Bold);
+            labeldingjishen.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labeldingjishen.ForeColor = Color.Black;
             labeldingjishen.Location = new Point(575, 164);
             labeldingjishen.Name = "labeldingjishen";
-            labeldingjishen.Size = new Size(396, 39);
+            labeldingjishen.Size = new Size(328, 31);
             labeldingjishen.TabIndex = 306;
             labeldingjishen.TabStop = true;
             labeldingjishen.Text = "定吉神=金;对应数字：6, 7, 8";
@@ -1891,11 +1891,11 @@
             // 
             labelwuxingbu.AutoSize = true;
             labelwuxingbu.BackColor = Color.White;
-            labelwuxingbu.Font = new Font("微软雅黑", 21.75F, FontStyle.Bold);
+            labelwuxingbu.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labelwuxingbu.ForeColor = Color.Black;
-            labelwuxingbu.Location = new Point(980, 164);
+            labelwuxingbu.Location = new Point(909, 164);
             labelwuxingbu.Name = "labelwuxingbu";
-            labelwuxingbu.Size = new Size(512, 39);
+            labelwuxingbu.Size = new Size(424, 31);
             labelwuxingbu.TabIndex = 305;
             labelwuxingbu.TabStop = true;
             labelwuxingbu.Text = "五行不足的吉神=木;对应数字：3, 4, 9";
@@ -2110,7 +2110,7 @@
             Labelycsn.BackColor = Color.White;
             Labelycsn.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Labelycsn.ForeColor = Color.Black;
-            Labelycsn.Location = new Point(483, 276);
+            Labelycsn.Location = new Point(485, 276);
             Labelycsn.Name = "Labelycsn";
             Labelycsn.Size = new Size(86, 31);
             Labelycsn.TabIndex = 293;
@@ -2165,7 +2165,7 @@
             comboBoxsz.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBoxsz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             comboBoxsz.FormattingEnabled = true;
-            comboBoxsz.Location = new Point(1858, 116);
+            comboBoxsz.Location = new Point(1849, 113);
             comboBoxsz.Name = "comboBoxsz";
             comboBoxsz.Size = new Size(50, 39);
             comboBoxsz.TabIndex = 8;
@@ -2175,7 +2175,7 @@
             comboBoxrz.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBoxrz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             comboBoxrz.FormattingEnabled = true;
-            comboBoxrz.Location = new Point(1802, 116);
+            comboBoxrz.Location = new Point(1793, 113);
             comboBoxrz.Name = "comboBoxrz";
             comboBoxrz.Size = new Size(50, 39);
             comboBoxrz.TabIndex = 9;
@@ -2185,7 +2185,7 @@
             comboBoxyz.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBoxyz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             comboBoxyz.FormattingEnabled = true;
-            comboBoxyz.Location = new Point(1746, 116);
+            comboBoxyz.Location = new Point(1737, 113);
             comboBoxyz.Name = "comboBoxyz";
             comboBoxyz.Size = new Size(50, 39);
             comboBoxyz.TabIndex = 10;
@@ -2195,7 +2195,7 @@
             comboBoxnz.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBoxnz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             comboBoxnz.FormattingEnabled = true;
-            comboBoxnz.Location = new Point(1690, 116);
+            comboBoxnz.Location = new Point(1681, 113);
             comboBoxnz.Name = "comboBoxnz";
             comboBoxnz.Size = new Size(50, 39);
             comboBoxnz.TabIndex = 11;
@@ -2205,7 +2205,7 @@
             comboBoxsg.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBoxsg.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             comboBoxsg.FormattingEnabled = true;
-            comboBoxsg.Location = new Point(1858, 71);
+            comboBoxsg.Location = new Point(1849, 68);
             comboBoxsg.Name = "comboBoxsg";
             comboBoxsg.Size = new Size(50, 39);
             comboBoxsg.TabIndex = 12;
@@ -2215,7 +2215,7 @@
             comboBoxrg.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBoxrg.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             comboBoxrg.FormattingEnabled = true;
-            comboBoxrg.Location = new Point(1802, 71);
+            comboBoxrg.Location = new Point(1793, 68);
             comboBoxrg.Name = "comboBoxrg";
             comboBoxrg.Size = new Size(50, 39);
             comboBoxrg.TabIndex = 13;
@@ -2225,7 +2225,7 @@
             comboBoxyg.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBoxyg.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             comboBoxyg.FormattingEnabled = true;
-            comboBoxyg.Location = new Point(1746, 71);
+            comboBoxyg.Location = new Point(1737, 68);
             comboBoxyg.Name = "comboBoxyg";
             comboBoxyg.Size = new Size(50, 39);
             comboBoxyg.TabIndex = 14;
@@ -2235,7 +2235,7 @@
             comboBoxng.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBoxng.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             comboBoxng.FormattingEnabled = true;
-            comboBoxng.Location = new Point(1690, 71);
+            comboBoxng.Location = new Point(1681, 68);
             comboBoxng.Name = "comboBoxng";
             comboBoxng.Size = new Size(50, 39);
             comboBoxng.TabIndex = 15;
@@ -2287,7 +2287,7 @@
             Label1.BackColor = Color.DimGray;
             Label1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label1.ForeColor = Color.Maroon;
-            Label1.Location = new Point(1, 431);
+            Label1.Location = new Point(2, 431);
             Label1.Name = "Label1";
             Label1.Size = new Size(62, 31);
             Label1.TabIndex = 50;
@@ -2300,7 +2300,7 @@
             Label2.BackColor = Color.DimGray;
             Label2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label2.ForeColor = Color.Cyan;
-            Label2.Location = new Point(1, 400);
+            Label2.Location = new Point(2, 400);
             Label2.Name = "Label2";
             Label2.Size = new Size(62, 31);
             Label2.TabIndex = 51;
@@ -2313,7 +2313,7 @@
             Labelntgss.BackColor = Color.Green;
             Labelntgss.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Labelntgss.ForeColor = Color.Yellow;
-            Labelntgss.Location = new Point(1, 369);
+            Labelntgss.Location = new Point(2, 369);
             Labelntgss.Name = "Labelntgss";
             Labelntgss.Size = new Size(62, 31);
             Labelntgss.TabIndex = 52;
@@ -2326,7 +2326,7 @@
             Label4.BackColor = Color.White;
             Label4.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label4.ForeColor = Color.BlueViolet;
-            Label4.Location = new Point(1, 462);
+            Label4.Location = new Point(2, 462);
             Label4.Name = "Label4";
             Label4.Size = new Size(62, 31);
             Label4.TabIndex = 53;
@@ -2339,7 +2339,7 @@
             Label5.BackColor = Color.Black;
             Label5.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label5.ForeColor = Color.White;
-            Label5.Location = new Point(1, 338);
+            Label5.Location = new Point(2, 338);
             Label5.Name = "Label5";
             Label5.Size = new Size(182, 31);
             Label5.TabIndex = 54;
@@ -2353,7 +2353,7 @@
             Label6.BackColor = Color.White;
             Label6.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label6.ForeColor = Color.Black;
-            Label6.Location = new Point(1, 307);
+            Label6.Location = new Point(2, 307);
             Label6.Name = "Label6";
             Label6.Size = new Size(198, 31);
             Label6.TabIndex = 55;
@@ -2367,7 +2367,7 @@
             Labelncsn.BackColor = Color.White;
             Labelncsn.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Labelncsn.ForeColor = Color.Black;
-            Labelncsn.Location = new Point(0, 276);
+            Labelncsn.Location = new Point(1, 276);
             Labelncsn.Name = "Labelncsn";
             Labelncsn.Size = new Size(86, 31);
             Labelncsn.TabIndex = 56;
@@ -2381,7 +2381,7 @@
             Label8.BackColor = Color.White;
             Label8.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label8.ForeColor = Color.BlueViolet;
-            Label8.Location = new Point(483, 462);
+            Label8.Location = new Point(485, 462);
             Label8.Name = "Label8";
             Label8.Size = new Size(62, 31);
             Label8.TabIndex = 57;
@@ -2408,7 +2408,7 @@
             Label9.BackColor = Color.DimGray;
             Label9.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label9.ForeColor = Color.Maroon;
-            Label9.Location = new Point(483, 431);
+            Label9.Location = new Point(485, 431);
             Label9.Name = "Label9";
             Label9.Size = new Size(62, 31);
             Label9.TabIndex = 58;
@@ -2435,7 +2435,7 @@
             Label10.BackColor = Color.DimGray;
             Label10.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label10.ForeColor = Color.Cyan;
-            Label10.Location = new Point(483, 400);
+            Label10.Location = new Point(485, 400);
             Label10.Name = "Label10";
             Label10.Size = new Size(62, 31);
             Label10.TabIndex = 59;
@@ -2462,7 +2462,7 @@
             Labelytgss.BackColor = Color.Green;
             Labelytgss.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Labelytgss.ForeColor = Color.Yellow;
-            Labelytgss.Location = new Point(483, 369);
+            Labelytgss.Location = new Point(485, 369);
             Labelytgss.Name = "Labelytgss";
             Labelytgss.Size = new Size(62, 31);
             Labelytgss.TabIndex = 60;
@@ -2489,7 +2489,7 @@
             Label12.BackColor = Color.Black;
             Label12.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label12.ForeColor = Color.White;
-            Label12.Location = new Point(483, 338);
+            Label12.Location = new Point(485, 338);
             Label12.Name = "Label12";
             Label12.Size = new Size(408, 31);
             Label12.TabIndex = 61;
@@ -2517,7 +2517,7 @@
             Label13.BackColor = Color.White;
             Label13.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             Label13.ForeColor = Color.Black;
-            Label13.Location = new Point(483, 307);
+            Label13.Location = new Point(485, 307);
             Label13.Name = "Label13";
             Label13.Size = new Size(204, 31);
             Label13.TabIndex = 62;
@@ -3612,7 +3612,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-12-06v3";
+            Text = "八字排盘工具v2024-12-07";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             tableLayoutPanel1.ResumeLayout(false);

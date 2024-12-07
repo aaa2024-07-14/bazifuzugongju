@@ -40517,19 +40517,19 @@ namespace BaZiFuZuGongJu
                         {
                             if (ndz == mao || ndz == hai)
                             {
-                                ndzzhengtaohua = 1; Labelndzss3.Text += "正桃-"; 正桃花真假 = 1;
+                                ndzzhengtaohua = 1; Labelndzss1.Text += "正桃-"; 正桃花真假 = 1;
                             }
                             if (ydz == mao || ydz == hai)
                             {
-                                ydzzhengtaohua = 1; Labelydzss3.Text += "正桃-"; 正桃花真假 = 1;
+                                ydzzhengtaohua = 1; Labelydzss1.Text += "正桃-"; 正桃花真假 = 1;
                             }
                             if (rdz == mao || rdz == hai)
                             {
-                                rdzzhengtaohua = 1; Labelrdzss3.Text += "正桃-"; 正桃花真假 = 1;
+                                rdzzhengtaohua = 1; Labelrdzss1.Text += "正桃-"; 正桃花真假 = 1;
                             }
                             if (sdz == mao || sdz == hai)
                             {
-                                sdzzhengtaohua = 1; Labelsdzss3.Text += "正桃-"; 正桃花真假 = 1;
+                                sdzzhengtaohua = 1; Labelsdzss1.Text += "正桃-"; 正桃花真假 = 1;
                             }
 
                         }
@@ -40537,19 +40537,19 @@ namespace BaZiFuZuGongJu
                         {
                             if (ndz == shen || ndz == zii)
                             {
-                                ndzzhengtaohua = 1; Labelndzss3.Text += "正桃-"; 正桃花真假 = 1;
+                                ndzzhengtaohua = 1; Labelndzss1.Text += "正桃-"; 正桃花真假 = 1;
                             }
                             if (ydz == shen || ydz == zii)
                             {
-                                ydzzhengtaohua = 1; Labelydzss3.Text += "正桃-"; 正桃花真假 = 1;
+                                ydzzhengtaohua = 1; Labelydzss1.Text += "正桃-"; 正桃花真假 = 1;
                             }
                             if (rdz == shen || rdz == zii)
                             {
-                                rdzzhengtaohua = 1; Labelrdzss3.Text += "正桃-"; 正桃花真假 = 1;
+                                rdzzhengtaohua = 1; Labelrdzss1.Text += "正桃-"; 正桃花真假 = 1;
                             }
                             if (sdz == shen || sdz == zii)
                             {
-                                sdzzhengtaohua = 1; Labelsdzss3.Text += "正桃-"; 正桃花真假 = 1;
+                                sdzzhengtaohua = 1; Labelsdzss1.Text += "正桃-"; 正桃花真假 = 1;
                             }
 
                         }
@@ -40557,19 +40557,19 @@ namespace BaZiFuZuGongJu
                         {
                             if (ndz == sii || ndz == hai)
                             {
-                                ndzzhengtaohua = 1; Labelndzss3.Text += "正桃-"; 正桃花真假 = 1;
+                                ndzzhengtaohua = 1; Labelndzss1.Text += "正桃-"; 正桃花真假 = 1;
                             }
                             if (ydz == sii || ydz == hai)
                             {
-                                ydzzhengtaohua = 1; Labelydzss3.Text += "正桃-"; 正桃花真假 = 1;
+                                ydzzhengtaohua = 1; Labelydzss1.Text += "正桃-"; 正桃花真假 = 1;
                             }
                             if (rdz == sii || rdz == hai)
                             {
-                                rdzzhengtaohua = 1; Labelrdzss3.Text += "正桃-"; 正桃花真假 = 1;
+                                rdzzhengtaohua = 1; Labelrdzss1.Text += "正桃-"; 正桃花真假 = 1;
                             }
                             if (sdz == sii || sdz == hai)
                             {
-                                sdzzhengtaohua = 1; Labelsdzss3.Text += "正桃-"; 正桃花真假 = 1;
+                                sdzzhengtaohua = 1; Labelsdzss1.Text += "正桃-"; 正桃花真假 = 1;
                             }
 
                         }
@@ -40577,19 +40577,19 @@ namespace BaZiFuZuGongJu
                         {
                             if (ndz == wuma || ndz == xuu)
                             {
-                                ndzzhengtaohua = 1; Labelndzss3.Text += "正桃-"; 正桃花真假 = 1;
+                                ndzzhengtaohua = 1; Labelndzss1.Text += "正桃-"; 正桃花真假 = 1;
                             }
                             if (ydz == wuma || ydz == xuu)
                             {
-                                ydzzhengtaohua = 1; Labelydzss3.Text += "正桃-"; 正桃花真假 = 1;
+                                ydzzhengtaohua = 1; Labelydzss1.Text += "正桃-"; 正桃花真假 = 1;
                             }
                             if (rdz == wuma || rdz == xuu)
                             {
-                                rdzzhengtaohua = 1; Labelrdzss3.Text += "正桃-"; 正桃花真假 = 1;
+                                rdzzhengtaohua = 1; Labelrdzss1.Text += "正桃-"; 正桃花真假 = 1;
                             }
                             if (sdz == wuma || sdz == xuu)
                             {
-                                sdzzhengtaohua = 1; Labelsdzss3.Text += "正桃-"; 正桃花真假 = 1;
+                                sdzzhengtaohua = 1; Labelsdzss1.Text += "正桃-"; 正桃花真假 = 1;
                             }
 
                         }
@@ -44407,19 +44407,19 @@ namespace BaZiFuZuGongJu
                         {
                             if (ndz == yin)
                             {
-                                ndzlushen = 1; Labelndzss3.Text += "禄神-"; 禄神真假 = 1;
+                                ndzlushen = 1; Labelndzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (ydz == yin)
                             {
-                                ydzlushen = 1; Labelydzss3.Text += "禄神-"; 禄神真假 = 1;
+                                ydzlushen = 1; Labelydzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (rdz == yin)
                             {
-                                rdzlushen = 1; Labelrdzss3.Text += "禄神-"; 禄神真假 = 1;
+                                rdzlushen = 1; Labelrdzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (sdz == yin)
                             {
-                                sdzlushen = 1; Labelsdzss3.Text += "禄神-"; 禄神真假 = 1;
+                                sdzlushen = 1; Labelsdzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
 
                         }
@@ -44427,19 +44427,19 @@ namespace BaZiFuZuGongJu
                         {
                             if (ndz == mao)
                             {
-                                ndzlushen = 1; Labelndzss3.Text += "禄神-"; 禄神真假 = 1;
+                                ndzlushen = 1; Labelndzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (ydz == mao)
                             {
-                                ydzlushen = 1; Labelydzss3.Text += "禄神-"; 禄神真假 = 1;
+                                ydzlushen = 1; Labelydzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (rdz == mao)
                             {
-                                rdzlushen = 1; Labelrdzss3.Text += "禄神-"; 禄神真假 = 1;
+                                rdzlushen = 1; Labelrdzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (sdz == mao)
                             {
-                                sdzlushen = 1; Labelsdzss3.Text += "禄神-"; 禄神真假 = 1;
+                                sdzlushen = 1; Labelsdzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
 
                         }
@@ -44447,19 +44447,19 @@ namespace BaZiFuZuGongJu
                         {
                             if (ndz == sii)
                             {
-                                ndzlushen = 1; Labelndzss3.Text += "禄神-"; 禄神真假 = 1;
+                                ndzlushen = 1; Labelndzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (ydz == sii)
                             {
-                                ydzlushen = 1; Labelydzss3.Text += "禄神-"; 禄神真假 = 1;
+                                ydzlushen = 1; Labelydzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (rdz == sii)
                             {
-                                rdzlushen = 1; Labelrdzss3.Text += "禄神-"; 禄神真假 = 1;
+                                rdzlushen = 1; Labelrdzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (sdz == sii)
                             {
-                                sdzlushen = 1; Labelsdzss3.Text += "禄神-"; 禄神真假 = 1;
+                                sdzlushen = 1; Labelsdzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
 
                         }
@@ -44467,19 +44467,19 @@ namespace BaZiFuZuGongJu
                         {
                             if (ndz == wuma)
                             {
-                                ndzlushen = 1; Labelndzss3.Text += "禄神-"; 禄神真假 = 1;
+                                ndzlushen = 1; Labelndzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (ydz == wuma)
                             {
-                                ydzlushen = 1; Labelydzss3.Text += "禄神-"; 禄神真假 = 1;
+                                ydzlushen = 1; Labelydzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (rdz == wuma)
                             {
-                                rdzlushen = 1; Labelrdzss3.Text += "禄神-"; 禄神真假 = 1;
+                                rdzlushen = 1; Labelrdzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (sdz == wuma)
                             {
-                                sdzlushen = 1; Labelsdzss3.Text += "禄神-"; 禄神真假 = 1;
+                                sdzlushen = 1; Labelsdzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
 
                         }
@@ -44487,19 +44487,19 @@ namespace BaZiFuZuGongJu
                         {
                             if (ndz == shen)
                             {
-                                ndzlushen = 1; Labelndzss3.Text += "禄神-"; 禄神真假 = 1;
+                                ndzlushen = 1; Labelndzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (ydz == shen)
                             {
-                                ydzlushen = 1; Labelydzss3.Text += "禄神-"; 禄神真假 = 1;
+                                ydzlushen = 1; Labelydzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (rdz == shen)
                             {
-                                rdzlushen = 1; Labelrdzss3.Text += "禄神-"; 禄神真假 = 1;
+                                rdzlushen = 1; Labelrdzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (sdz == shen)
                             {
-                                sdzlushen = 1; Labelsdzss3.Text += "禄神-"; 禄神真假 = 1;
+                                sdzlushen = 1; Labelsdzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
 
                         }
@@ -44507,19 +44507,19 @@ namespace BaZiFuZuGongJu
                         {
                             if (ndz == you)
                             {
-                                ndzlushen = 1; Labelndzss3.Text += "禄神-"; 禄神真假 = 1;
+                                ndzlushen = 1; Labelndzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (ydz == you)
                             {
-                                ydzlushen = 1; Labelydzss3.Text += "禄神-"; 禄神真假 = 1;
+                                ydzlushen = 1; Labelydzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (rdz == you)
                             {
-                                rdzlushen = 1; Labelrdzss3.Text += "禄神-"; 禄神真假 = 1;
+                                rdzlushen = 1; Labelrdzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (sdz == you)
                             {
-                                sdzlushen = 1; Labelsdzss3.Text += "禄神-"; 禄神真假 = 1;
+                                sdzlushen = 1; Labelsdzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
 
                         }
@@ -44527,19 +44527,19 @@ namespace BaZiFuZuGongJu
                         {
                             if (ndz == hai)
                             {
-                                ndzlushen = 1; Labelndzss3.Text += "禄神-"; 禄神真假 = 1;
+                                ndzlushen = 1; Labelndzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (ydz == hai)
                             {
-                                ydzlushen = 1; Labelydzss3.Text += "禄神-"; 禄神真假 = 1;
+                                ydzlushen = 1; Labelydzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (rdz == hai)
                             {
-                                rdzlushen = 1; Labelrdzss3.Text += "禄神-"; 禄神真假 = 1;
+                                rdzlushen = 1; Labelrdzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (sdz == hai)
                             {
-                                sdzlushen = 1; Labelsdzss3.Text += "禄神-"; 禄神真假 = 1;
+                                sdzlushen = 1; Labelsdzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
 
                         }
@@ -44547,22 +44547,23 @@ namespace BaZiFuZuGongJu
                         {
                             if (ndz == zii)
                             {
-                                ndzlushen = 1; Labelndzss3.Text += "禄神-"; 禄神真假 = 1;
+                                ndzlushen = 1; Labelndzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (ydz == zii)
                             {
-                                ydzlushen = 1; Labelydzss3.Text += "禄神-"; 禄神真假 = 1;
+                                ydzlushen = 1; Labelydzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (rdz == zii)
                             {
-                                rdzlushen = 1; Labelrdzss3.Text += "禄神-"; 禄神真假 = 1;
+                                rdzlushen = 1; Labelrdzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
                             if (sdz == zii)
                             {
-                                sdzlushen = 1; Labelsdzss3.Text += "禄神-"; 禄神真假 = 1;
+                                sdzlushen = 1; Labelsdzss1.Text += "禄神-"; 禄神真假 = 1;
                             }
 
                         }
+
                         if (禄神真假 == 1)
                         {
                             string 禄神 = "禄神详解\r\n一、什么是禄神？\r\n禄神是八字命理中的神煞之一，代表福气、禄位和物质保障。从精神层面而言，禄象征天赋的恩泽和福报；从物质层面看，则指“食禄”，即经济上的安稳和丰衣足食。命中带禄神者，往往预示生活富足、事业顺利。\r\n\r\n二、禄神的查法\r\n口诀：\r\n甲禄在寅，乙禄在卯，丙戊禄在巳，丁己禄在午，\r\n庚禄在申，辛禄在酉，壬禄在亥，癸禄在子。\r\n\r\n查法说明：\r\n以八字命局中的日干或年干为依据，对照口诀，查四柱的地支是否出现对应位置的地支。\r\n\r\n若年支见禄神，称为“岁禄”；\r\n若月支见禄神，称为“建禄”；\r\n若日支见禄神，称为“专禄”；\r\n若时支见禄神，称为“归禄”。\r\n示例：\r\n日干为“甲”，若四柱地支中出现“寅”，则命带禄神。如“寅”在年支，则为岁禄；若在时支，则为归禄。\r\n\r\n三、命逢禄神的特征\r\n岁禄（年支见禄神）\r\n主祖荫深厚，得祖产，身体健康，性格自信，工作勤奋，但性急易得罪人。若透出财星或官星，多主富贵；若遇偏印或空亡，易破禄，家道中落。\r\n\r\n建禄（月支见禄神）\r\n主性格务实，适合中年创业或远离家乡发展。若月支禄神犯空亡或冲破，则生活多艰，事业难成。\r\n\r\n专禄（日支见禄神）\r\n主生活讲究，喜欢奢华享受。若有羊刃相伴，则财运较好；被合去则失禄，夫妻关系易受影响。\r\n\r\n归禄（时支见禄神）\r\n主晚年生活安稳，为子孙操劳。归禄忌官星合入，喜身旺、财星助力。若遭冲破，则对子女或健康有不利影响。\r\n\r\n破禄\r\n若禄神落空亡或逢冲克，则易出现劳而无功的情况，财运破败，甚至遭遇灾厄。如月支建禄被冲，则事业破败，衣食不足，需格外注意。\r\n\r\n四、禄神的吉凶喜忌\r\n1. 吉象\r\n\r\n禄星临财官：财星透干主富，官星透干主贵。\r\n长生禄位：如甲寅为长生禄，大吉。\r\n福星助力：若逢福星或贵人相助，事业和生活多有保障。\r\n2. 凶象\r\n\r\n空亡破禄：禄神落空亡，多主劳而无功，难以积累财富。\r\n冲克破禄：禄神逢冲或刑，事业、财运不稳，易有波折。\r\n被合失禄：禄神被合走，多主机会被抢，运势受阻。\r\n五、十天干禄神详解\r\n甲禄在寅\r\n\r\n吉：丙寅为福星禄，戊寅为伏马禄，壬寅为正禄。\r\n凶：庚寅为破禄，遇空亡则难以积福。\r\n乙禄在卯\r\n\r\n吉：卯为喜神旺禄，己卯为进神禄。\r\n凶：丁卯为截路空亡，辛卯破禄，主起伏不定。\r\n丙禄在巳 / 戊禄在巳\r\n\r\n吉：己巳为九天库禄，乙巳为马禄，丁巳为旺库禄。\r\n凶：辛巳为截路空亡，易破财或招灾。\r\n丁禄在午 / 己禄在午\r\n\r\n吉：丙午为喜神禄，甲午为进神禄。\r\n凶：庚午为截路空亡，壬午主虚劳，戊午伏羊刃多凶。\r\n庚禄在申\r\n\r\n吉：庚申为长生禄，带福星主大吉。\r\n凶：壬申为大败禄，甲申为截路空亡禄。\r\n辛禄在酉\r\n\r\n吉：己酉为进神禄，辛酉为正禄。\r\n凶：癸酉为伏神禄，乙酉破禄，丁酉空亡禄多凶。\r\n壬禄在亥\r\n\r\n吉：乙亥为天德禄，丁亥贵神合禄，辛亥马乡禄俱吉。\r\n凶：癸亥为大败禄，主贫薄或事业挫败。\r\n癸禄在子\r\n\r\n吉：甲子为进神禄，主事业通达。庚子为印禄，吉。\r\n凶：壬子为正羊刃禄，多主劳苦或官灾。";
