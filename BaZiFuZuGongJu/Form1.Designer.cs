@@ -536,13 +536,13 @@
             // richTextBox1
             // 
             richTextBox1.BackColor = Color.DimGray;
-            richTextBox1.Font = new Font("微软雅黑", 21.75F, FontStyle.Bold);
+            richTextBox1.Font = new Font("微软雅黑", 18F, FontStyle.Bold, GraphicsUnit.Point, 134);
             richTextBox1.ForeColor = Color.GreenYellow;
             richTextBox1.Location = new Point(8, 39);
             richTextBox1.Name = "richTextBox1";
-            richTextBox1.Size = new Size(558, 190);
+            richTextBox1.Size = new Size(360, 45);
             richTextBox1.TabIndex = 122;
-            richTextBox1.Text = "";
+            richTextBox1.Text = "当前八字评分为 负-99999分。";
             // 
             // Labelsdzss3
             // 
@@ -1637,7 +1637,7 @@
             labelzhuoyi.BackColor = Color.White;
             labelzhuoyi.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labelzhuoyi.ForeColor = Color.Red;
-            labelzhuoyi.Location = new Point(688, 1);
+            labelzhuoyi.Location = new Point(637, 1);
             labelzhuoyi.Name = "labelzhuoyi";
             labelzhuoyi.Size = new Size(110, 31);
             labelzhuoyi.TabIndex = 314;
@@ -1731,12 +1731,12 @@
             labeltu.BackColor = Color.White;
             labeltu.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labeltu.ForeColor = Color.Sienna;
-            labeltu.Location = new Point(592, 1);
+            labeltu.Location = new Point(557, 1);
             labeltu.Name = "labeltu";
-            labeltu.Size = new Size(96, 31);
+            labeltu.Size = new Size(75, 31);
             labeltu.TabIndex = 311;
             labeltu.TabStop = true;
-            labeltu.Text = "9.9999";
+            labeltu.Text = "正9.9";
             labeltu.Click += labeltu_Click;
             // 
             // labelcstg4
@@ -1760,10 +1760,10 @@
             labeljin.ForeColor = Color.Gold;
             labeljin.Location = new Point(233, 1);
             labeljin.Name = "labeljin";
-            labeljin.Size = new Size(96, 31);
+            labeljin.Size = new Size(75, 31);
             labeljin.TabIndex = 307;
             labeljin.TabStop = true;
-            labeljin.Text = "9.9999";
+            labeljin.Text = "正9.9";
             labeljin.Click += labeljin_Click;
             // 
             // labelcsss9
@@ -1785,12 +1785,12 @@
             labelshui.BackColor = Color.White;
             labelshui.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labelshui.ForeColor = Color.DodgerBlue;
-            labelshui.Location = new Point(322, 1);
+            labelshui.Location = new Point(314, 1);
             labelshui.Name = "labelshui";
-            labelshui.Size = new Size(96, 31);
+            labelshui.Size = new Size(75, 31);
             labelshui.TabIndex = 308;
             labelshui.TabStop = true;
-            labelshui.Text = "9.9999";
+            labelshui.Text = "正9.9";
             labelshui.Click += labelshui_Click;
             // 
             // labelcsss10
@@ -1812,12 +1812,12 @@
             labelmu.BackColor = Color.White;
             labelmu.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labelmu.ForeColor = Color.Green;
-            labelmu.Location = new Point(411, 1);
+            labelmu.Location = new Point(395, 1);
             labelmu.Name = "labelmu";
-            labelmu.Size = new Size(96, 31);
+            labelmu.Size = new Size(75, 31);
             labelmu.TabIndex = 309;
             labelmu.TabStop = true;
-            labelmu.Text = "9.9999";
+            labelmu.Text = "正9.9";
             labelmu.Click += labelmu_Click;
             // 
             // labelcsss11
@@ -1839,12 +1839,12 @@
             labelhuo.BackColor = Color.White;
             labelhuo.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labelhuo.ForeColor = Color.Red;
-            labelhuo.Location = new Point(500, 1);
+            labelhuo.Location = new Point(476, 1);
             labelhuo.Name = "labelhuo";
-            labelhuo.Size = new Size(96, 31);
+            labelhuo.Size = new Size(75, 31);
             labelhuo.TabIndex = 310;
             labelhuo.TabStop = true;
-            labelhuo.Text = "9.9999";
+            labelhuo.Text = "正9.9";
             labelhuo.Click += labelhuo_Click;
             // 
             // labelcsss12
@@ -1866,7 +1866,7 @@
             labeldingjishen.BackColor = Color.White;
             labeldingjishen.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labeldingjishen.ForeColor = Color.Black;
-            labeldingjishen.Location = new Point(575, 164);
+            labeldingjishen.Location = new Point(3, 87);
             labeldingjishen.Name = "labeldingjishen";
             labeldingjishen.Size = new Size(328, 31);
             labeldingjishen.TabIndex = 306;
@@ -1893,7 +1893,7 @@
             labelwuxingbu.BackColor = Color.White;
             labelwuxingbu.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             labelwuxingbu.ForeColor = Color.Black;
-            labelwuxingbu.Location = new Point(909, 164);
+            labelwuxingbu.Location = new Point(3, 116);
             labelwuxingbu.Name = "labelwuxingbu";
             labelwuxingbu.Size = new Size(424, 31);
             labelwuxingbu.TabIndex = 305;
@@ -2165,7 +2165,7 @@
             comboBoxsz.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBoxsz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             comboBoxsz.FormattingEnabled = true;
-            comboBoxsz.Location = new Point(1849, 113);
+            comboBoxsz.Location = new Point(1849, 116);
             comboBoxsz.Name = "comboBoxsz";
             comboBoxsz.Size = new Size(50, 39);
             comboBoxsz.TabIndex = 8;
@@ -2175,7 +2175,7 @@
             comboBoxrz.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBoxrz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             comboBoxrz.FormattingEnabled = true;
-            comboBoxrz.Location = new Point(1793, 113);
+            comboBoxrz.Location = new Point(1793, 116);
             comboBoxrz.Name = "comboBoxrz";
             comboBoxrz.Size = new Size(50, 39);
             comboBoxrz.TabIndex = 9;
@@ -2185,7 +2185,7 @@
             comboBoxyz.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBoxyz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             comboBoxyz.FormattingEnabled = true;
-            comboBoxyz.Location = new Point(1737, 113);
+            comboBoxyz.Location = new Point(1737, 116);
             comboBoxyz.Name = "comboBoxyz";
             comboBoxyz.Size = new Size(50, 39);
             comboBoxyz.TabIndex = 10;
@@ -2195,7 +2195,7 @@
             comboBoxnz.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBoxnz.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             comboBoxnz.FormattingEnabled = true;
-            comboBoxnz.Location = new Point(1681, 113);
+            comboBoxnz.Location = new Point(1681, 116);
             comboBoxnz.Name = "comboBoxnz";
             comboBoxnz.Size = new Size(50, 39);
             comboBoxnz.TabIndex = 11;
@@ -2205,7 +2205,7 @@
             comboBoxsg.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBoxsg.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             comboBoxsg.FormattingEnabled = true;
-            comboBoxsg.Location = new Point(1849, 68);
+            comboBoxsg.Location = new Point(1849, 71);
             comboBoxsg.Name = "comboBoxsg";
             comboBoxsg.Size = new Size(50, 39);
             comboBoxsg.TabIndex = 12;
@@ -2215,7 +2215,7 @@
             comboBoxrg.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBoxrg.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             comboBoxrg.FormattingEnabled = true;
-            comboBoxrg.Location = new Point(1793, 68);
+            comboBoxrg.Location = new Point(1793, 71);
             comboBoxrg.Name = "comboBoxrg";
             comboBoxrg.Size = new Size(50, 39);
             comboBoxrg.TabIndex = 13;
@@ -2225,7 +2225,7 @@
             comboBoxyg.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBoxyg.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             comboBoxyg.FormattingEnabled = true;
-            comboBoxyg.Location = new Point(1737, 68);
+            comboBoxyg.Location = new Point(1737, 71);
             comboBoxyg.Name = "comboBoxyg";
             comboBoxyg.Size = new Size(50, 39);
             comboBoxyg.TabIndex = 14;
@@ -2235,7 +2235,7 @@
             comboBoxng.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBoxng.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             comboBoxng.FormattingEnabled = true;
-            comboBoxng.Location = new Point(1681, 68);
+            comboBoxng.Location = new Point(1681, 71);
             comboBoxng.Name = "comboBoxng";
             comboBoxng.Size = new Size(50, 39);
             comboBoxng.TabIndex = 15;
@@ -2275,7 +2275,7 @@
             dateTimePicker1.CustomFormat = "yyyy-MM-dd-HH";
             dateTimePicker1.Font = new Font("微软雅黑", 15F, FontStyle.Bold);
             dateTimePicker1.Format = DateTimePickerFormat.Custom;
-            dateTimePicker1.Location = new Point(589, -1);
+            dateTimePicker1.Location = new Point(568, -1);
             dateTimePicker1.Name = "dateTimePicker1";
             dateTimePicker1.Size = new Size(0, 34);
             dateTimePicker1.TabIndex = 22;
@@ -3612,7 +3612,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-12-08";
+            Text = "八字排盘工具v2024-12-09";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             tableLayoutPanel1.ResumeLayout(false);
