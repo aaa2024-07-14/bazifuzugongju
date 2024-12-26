@@ -3612,7 +3612,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-12-25";
+            Text = "八字排盘工具v2024-12-26";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             tableLayoutPanel1.ResumeLayout(false);
